@@ -158,7 +158,7 @@ class abstract_run(object):
       axis = self.chamber.slave_axis()
       angle = -1.0 * self.params['slave_sweep_angle'] / 2.0
     i = []
-    if angle != 0:
+    if True or angle != 0:
       i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(angle) + ' degrees'))
       i.append(amf.instructions.move_angle(axis, angle))
     return i
@@ -169,7 +169,7 @@ class abstract_run(object):
     axis = self.chamber.master_axis()
     angle = self.params['sweep_angle']
     i = []
-    if angle != 0 and times != 0 and RPM != 0:
+    if True or (angle != 0 and times != 0 and RPM != 0):
       if not self.circular_mode:
         i.append(amf.instructions.log('sweeping ' + axis.name + ' back and forth ' + str(times) + ' times at ' + str(RPM) + ' RPM'))
         i.append(amf.instructions.sweep(axis, angle, RPM, times))
@@ -197,7 +197,7 @@ class abstract_run(object):
         direction = -1.0
       angle = direction * angle / 2.0
     i = []
-    if angle != 0:
+    if True or angle != 0:
       i.append(amf.instructions.log('rezeroing ' + axis.name + ' by moving ' + str(angle) + ' degrees'))
       i.append(amf.instructions.move_angle(axis, angle))
     return i
@@ -247,7 +247,7 @@ class abstract_run(object):
     RPM = self.params['slave_RPM']
     
     i = []
-    if angle != 0 and RPM != 0:
+    if True or (angle != 0 and RPM != 0):
       i.append(amf.instructions.log('sweeping slave axis ' + axis.name + ' at ' + str(angle) + ' angle at ' + str(RPM) + ' RPM'))
       i.append(amf.instructions.slave_start_sweep(axis, angle, RPM))
     return i
@@ -258,7 +258,7 @@ class abstract_run(object):
     RPM = self.params['slave_RPM']
 
     i = []
-    if angle != 0 and RPM != 0:
+    if True or (angle != 0 and RPM != 0):
       i.append(amf.instructions.log('stopping slave sweep for ' + axis.name))
       i.append(amf.instructions.slave_stop_sweep(axis, angle, RPM))
     return i
