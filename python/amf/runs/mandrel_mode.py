@@ -33,27 +33,13 @@ class mandrel_mode(abstract_run):
   def thickness_func(self, thickness, target_RPM, depositon_rate):
     sweeps = 0.0
     RPM = 0.0
-    if self.params['sweep_angle'] == 360:
-      # rate is in angstroms per rev
-      scaled_rate = depositon_rate / float(target_RPM)
-      raw_revs = thickness / scaled_rate
-      sweeps = float(int(raw_revs)) # really revs
-      RPM = (sweeps * target_RPM) / float(raw_revs)
-    else:
-      # rate is in angstroms per sec
-      while sweeps == 0.0 or RPM == 0.0:
-        percent_of_arc = self.params['sweep_angle'] / 360.0
-        c = percent_of_arc * (60.0 / target_RPM) * float(depositon_rate)
-        raw_sweeps = thickness / float(c)
-        sweeps = float(int(raw_sweeps))
-        RPM = (sweeps * target_RPM) / float(raw_sweeps)
-        if raw_sweeps <= 0.5:
-          sweeps = 1.0
-          RPM = target_RPM / raw_sweeps # check this
-        if sweeps == 0.0 or RPM == 0.0:
-          target_RPM += .5
-        # print thickness, target_RPM, depositon_rate, '\t\t', sweeps, RPM
-        # raw_input()
+
+    # rate is in angstroms per rev or sweep if angle is less than 360
+    scaled_rate = depositon_rate / float(target_RPM)
+    raw_revs = thickness / scaled_rate
+    sweeps = float(int(raw_revs)) # sweeps really represents revs
+    RPM = (sweeps * target_RPM) / float(raw_revs)
+
     if RPM >= 5.0:
       msg = "WARNING: RPM exceeded 5.0 RPM. More info:\n"
       msg += "thickness\t" + str(thickness)
