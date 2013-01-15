@@ -145,7 +145,6 @@ var amf = {
         };
       };
 
-      var anchor = anchor;
       var container_w = anchor.parent().width()
       var container_h = 500
       var camera, scene, renderer;
@@ -239,6 +238,25 @@ var amf = {
       // simulator main
       init();
       animate();
+  },
+  
+  updateRates: function() {
+    var mode = $('[name=run_mode]').val()
+    var angle = $('[name=sweep_angle]').val()
+    
+    var rate = $('[name=dep_rate]')
+    
+    if (mode == 'platen_mode') {
+      rate.text('Angstroms / second')
+    }
+    else {
+      if (parseInt(angle) == 360) {
+        rate.text('Angstroms / rev')
+      }
+      else {
+        rate.text('Angstroms / sweep')
+      }
+    }
   }
 }
 
@@ -277,4 +295,12 @@ $(document).ready(function() {
   amf.toggleDisplay($("#mandrel_use"), $("#platen_mode_params"), $("#mandrel_mode_params, #mandrel_sw"), "inline");
   amf.toggleCathodes($("#single_cathode"), $("#initial_cathode"), $("#c1"), $("#c2"));
   amf.simulator($('#simulator'))
+  $('[name=run_mode]').change(amf.updateRates)
+  $('[name=sweep_angle]').change(amf.updateRates)
+  amf.updateRates();
+  $('[name=run_mode]').change(function() {
+    if ($(this).val() == 'mandrel_mode') {
+      $('[name=mandrel_use]').val('Yes').change();
+    }
+  })
 });
