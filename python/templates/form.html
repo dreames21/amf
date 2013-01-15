@@ -1,0 +1,252 @@
+$def with (title=None, message=None, errors=None, p=None, ext=None)
+
+$if title:
+  <h1>$title</h1>
+$else:
+  <h1>New Run</h1>
+
+<hr>
+
+$if message:
+  <p>$:message</p>
+
+$if errors:
+  $for error in errors:
+    <div class="alert alert-error">
+      $error
+    </div>
+
+$if message or errors:
+  <hr>
+
+<form enctype="multipart/form-data" action="/editcreate" method="POST">
+  <div class="pull-right">
+  <input type="button" onclick="goBack()" class="btn primary" value="Back" style="display:inline;">&nbsp;&nbsp;&nbsp;<input type="submit" class="btn primary">
+  </div>
+  
+  <h2>Basic Parameters</h2>
+  <div class="well">
+    
+  <h3 style="display:inline;font-weight:normal;">Run Name</h3>:&nbsp;
+  <input name="run_name" type="text" class="input-xlarge"
+    $if p and 'name' in p.keys():
+      value="$p['name']" \
+    $else:
+      placeholder="Enter text..."
+  ><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Chamber</h3>:&nbsp;
+    <select name="chamber">
+      $if p and 'chamber' in p.keys():
+        $if p['chamber'] in ['r_and_d1', 'R&D1']:
+          <option selected value="r_and_d1">R&amp;D1</option>
+          <option value="r_and_d2">R&amp;D2</option>
+        $else:
+          <option value="r_and_d1">R&amp;D1</option>
+          <option selected value="r_and_d2">R&amp;D2</option>
+      $else:
+        <option value="r_and_d1">R&amp;D1</option>
+        <option value="r_and_d2">R&amp;D2</option>
+    </select><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Run mode</h3>:&nbsp;
+    <select name="run_mode">
+      $if p and 'run_mode' in p.keys():
+        $p['run_mode']
+        $if p['run_mode'] in ['platen_mode', 'Platen Mode']:
+          <option selected value="platen_mode">Platen Mode</option>
+          <option value="mandrel_mode">Mandrel Mode</option>
+        $else:
+          <option value="platen_mode">Platen Mode</option>
+          <option selected value="mandrel_mode">Mandrel Mode</option>
+      $else:
+        <option value="platen_mode">Platen Mode</option>
+        <option value="mandrel_mode">Mandrel Mode</option>
+    </select><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Number of layers (N)</h3>:&nbsp;
+  <input name="N" type="text" class="input"
+    $if p and 'N' in p.keys():
+      value="$p['N']" \
+    $else:
+      placeholder="Enter an integer..."
+  ><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Using the mandrel</h3>:&nbsp;
+  <select name="mandrel_use" id="mandrel_use">
+    $if p and 'slave_RPM' in p.keys():
+      <option selected value="Yes">Yes</option>
+      <option value="No">No</option>
+    $else:
+      <option value="Yes">Yes</option>
+      <option selected value="No">No</option>
+  </select><br/>
+
+  <div class="well">
+    <div id="mandrel_mode_params">
+      <h3 style="display:inline;font-weight:normal;">Platen sweep angle:</h3>
+      <input name="slave_sweep_angle" type="text" class="input-xlarge"
+        $if p and 'slave_sweep_angle' in p.keys():
+          value="$p['slave_sweep_angle']" \
+        $else:
+          placeholder="Enter a number..."
+      ><br/>
+
+      <h3 style="display:inline;font-weight:normal;">Platen sweep RPM:</h3>
+      <input name="slave_RPM" type="text" class="input-xlarge"
+        $if p and 'slave_RPM' in p.keys():
+          value="$p['slave_RPM']" \
+        $else:
+          placeholder="Enter a number..."
+      ><br/>
+    </div>
+    <h3 style="display:inline;font-weight:normal;" id="mandrel_sw">Mandrel sweep angle:</h3>
+    <h3 style="display:inline;font-weight:normal;" id="platen_mode_params">Platen sweep angle:</h3>
+    <input name="sweep_angle" type="text" class="input-xlarge"
+      $if p and 'sweep_angle' in p.keys():
+        value="$p['sweep_angle']" \
+      $else:
+        placeholder="Enter a number..."
+    ><br/>
+  </div>
+
+  <h2>Cathodes</h2>
+  <div class="well">
+
+  <h3 style="display:inline;font-weight:normal;">Generate thickness files</h3>:&nbsp;
+  <select name="generate_files" id="generate_files">
+    $if p and 'generate_files' in p.keys() and p['generate_files'] == True:
+      <option selected value="Yes">Yes</option>
+      <option value="No">No</option>
+    $else:
+      <option value="Yes">Yes</option>
+      <option selected value="No">No</option>
+  </select><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Single cathode</h3>:&nbsp;
+  <select name="single_cathode" id="single_cathode">
+    $if p and 'cathodes' in p.keys() and len(p['cathodes']) == 1:
+      <option selected value="Yes">Yes</option>
+      <option value="No">No</option>
+    $else:
+      <option value="Yes">Yes</option>
+      <option selected value="No">No</option>
+  </select><br/>
+
+  <h3 style="display:inline;font-weight:normal;">Initial cathode</h3>:&nbsp;
+  <select name="initial_cathode" id="initial_cathode">
+    $if p and 'cathodes' in p.keys() and p['cathodes'][0] == 'cathode 1':
+      <option selected value="1">1</option>
+      <option value="2">2</option>
+    $else:
+      <option value="1">1</option>
+      <option selected value="2">2</option>
+  </select><br/>
+
+  <div id="c1">
+    <h3>Cathode 1</h3>
+    <div class="well">
+      <h3 style="display:inline;font-weight:normal;">Name</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c1_name"
+        $if p and 'cathode 1' in p.keys():
+          value="$p['cathode 1']['name']" \
+        $else:
+          placeholder="Enter name..."
+      ><br/>
+
+      <h3 style="display:inline;font-weight:normal;">RPM</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c1_RPM"
+        $if p and 'cathode 1' in p.keys():
+          value="$p['cathode 1']['RPM']" \
+        $else:
+          placeholder="Enter number..."
+      ><br/>
+
+      <h3 style="display:inline;font-weight:normal;">Rate</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c1_rate"
+        $if p and 'cathode 1' in p.keys():
+          value="$p['cathode 1']['rate']" \
+        $else:
+          placeholder="Enter number..."
+      ><br/>
+
+      <div id="c1_thickness">
+        <h3 style="display:inline;font-weight:normal;">Thickness</h3>:&nbsp;
+        <input type="text" class="input-xlarge" name="c1_thickness"
+          $if p and 'cathode 1' in p.keys():
+            $if 'thickness' in p['cathode 1'].keys():
+              value="$p['cathode 1']['thickness']" \
+          $else:
+            placeholder="Enter number..."
+        ><br/>
+      </div>
+
+      <div id="c1_file">
+        <h3 style="display:inline;font-weight:normal;">File</h3>:&nbsp;
+          $if p and 'cathode 1' in p.keys():
+            $if 'file' in p['cathode 1'].keys():
+              Current file is $ext['c1_basename']
+              <input type="hidden" name="c1_oldfile" value="$p['cathode 1']['file']">
+        <input type="file" class="input-xlarge" name="c1_file"><br/>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <div id="c2">
+    <h3>Cathode 2</h3>
+    <div class="well">
+      <h3 style="display:inline;font-weight:normal;">Name</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c2_name"
+        $if p and 'cathode 2' in p.keys():
+          value="$p['cathode 2']['name']" \
+        $else:
+          placeholder="Enter name..."
+      ><br/>
+
+      <h3 style="display:inline;font-weight:normal;">RPM</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c2_RPM"
+        $if p and 'cathode 2' in p.keys():
+          value="$p['cathode 2']['RPM']" \
+        $else:
+          placeholder="Enter number..."
+      ><br/>
+
+      <h3 style="display:inline;font-weight:normal;">Rate</h3>:&nbsp;
+      <input type="text" class="input-xlarge" name="c2_rate"
+        $if p and 'cathode 2' in p.keys():
+          value="$p['cathode 2']['rate']" \
+        $else:
+          placeholder="Enter number..."
+      ><br/>
+
+      <div id="c2_thickness">
+        <h3 style="display:inline;font-weight:normal;">Thickness</h3>:&nbsp;
+        <input type="text" class="input-xlarge" name="c2_thickness"
+          $if p and 'cathode 2' in p.keys():
+            $if 'thickness' in p['cathode 2'].keys():
+              value="$p['cathode 2']['thickness']" \
+          $else:
+            placeholder="Enter number..."
+        ><br/>
+      </div>
+
+      <div id="c2_file">
+        <h3 style="display:inline;font-weight:normal;">File</h3>:&nbsp;
+          $if p and 'cathode 2' in p.keys():
+            $if 'file' in p['cathode 2'].keys():
+              Current file is $ext['c2_basename']
+              <input type="hidden" name="c2_oldfile" value="$p['cathode 2']['file']">
+        <input type="file" class="input-xlarge" name="c2_file"><br/>
+      </div>
+    </div>
+  </div>
+  <br>
+  </div>
+</div>
+
+<br>
+
+<p><input type="button" onclick="goBack()" class="btn primary" value="Back" style="display:inline;">&nbsp;&nbsp;&nbsp;<input type="submit" class="btn primary"></p>
+
+</form>

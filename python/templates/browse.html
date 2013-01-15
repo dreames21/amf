@@ -1,0 +1,44 @@
+$def with (runs)
+
+<h1>Current Runs in System</h1>
+<hr>
+<br>
+
+<table class="table" width="100%">
+  <thead>
+    <tr>
+      <th><h2>Run Name</h2></th>
+      <th><h2>Actions</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+
+$for run in runs:
+  <tr class="entry">
+    <td><a href="/browse?p=$run[0]">$run[0]</a></td>
+    <td>
+      <div class="btn-group">
+        <a href="/browse?p=$run[0]" role="button" class="btn btn-mini btn-warning">View / Edit</a>
+        <a href="/browse?p=$run[0]&log=yes" role="button" class="btn btn-mini btn-info">Logfile</a>
+        <a href="/browse?p=$run[0]&duplicate=yes" role="button" class="btn btn-mini">Duplicate</a>
+        <a href="#deleteModal$run[1]" role="button" data-toggle="modal" class="btn btn-mini btn-danger">Delete</a>
+      </div>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+$for run in runs:
+  <div class="modal" id="deleteModal$run[1]" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+      <h3 id="deleteModalLabel">Confirm Delete</h3>
+    </div>
+    <div class="modal-body">
+      <p>Are you sure you want to delete $run[0]? This can't be undone.</p>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+      <a href="/browse?p=$run[0]&delete=yes" role="button" class="btn btn-primary">Delete</a>
+    </div>
+  </div>

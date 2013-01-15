@@ -1,0 +1,85 @@
+html, body {
+  background-image: url("../img/stripe.png");
+  padding-bottom: 200px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-bottom: 1px solid #333;
+  font-size: 180%;
+}
+
+#nav-wraper {
+  padding: 10px;
+}
+
+.nav {
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+#sidebar {
+  float: right;
+  padding: 40px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#sidebar > div {
+  border: 1px solid #333;
+}
+
+#page-body {
+  background-color: #fff;
+  padding: 40px;
+  padding-top: 10px;
+  width: 900px;
+
+  -webkit-border-radius: 0 0 16px 16px;
+     -moz-border-radius: 0 0 16px 16px;
+          border-radius: 0 0 16px 16px;
+
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+#footer {
+  background-color: #eee;
+  text-align: center;
+  margin: 0px;
+  padding: 15px;
+  padding-bottom: 50px;
+  border-top: 1px solid #333;
+}
+
+table {
+  vertical-align: center;
+}
+
+input {
+  height: 30px;
+}
+
+#sentiment_table td {
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.feedburnerFeedBlock > ul {
+  list-style-type: none;
+  padding: 40px;
+}
+
+.feedburnerFeedBlock .blogger-post-footer {
+  padding-bottom: 140px;
+}
+
+.feedburnerFeedBlock .headline {
+  line-height: 30px;
+  font-size: 30px;
+}

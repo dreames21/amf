@@ -1,0 +1,89 @@
+$def with (page)
+
+<html>
+  <head>
+    <!--[if lt IE 9]>
+      <script src="static/js/html5.js"></script>
+    <![endif]-->
+    <link rel="icon" href="static/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="static/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/bootstrap-responsive.min.css">
+    <link href="static/js/google-code-prettify/prettify.css" rel="stylesheet">
+
+    <link href="static/css/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="static/js/jquery.js"></script>
+    <script type="text/javascript" src="static/js/google-code-prettify/prettify.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-transition.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-alert.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-modal.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-scrollspy.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-tab.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-tooltip.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-popover.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-button.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-collapse.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-carousel.js"></script>
+    <script type="text/javascript" src="static/js/bootstrap-typeahead.js"></script>
+    <script type="text/javascript" src="static/js/application.js"></script>
+    <script type="text/javascript" src="static/js/amf.js"></script>
+
+    <script type="text/javascript" src="static/js/webgl/Three.js"></script>
+    <script type="text/javascript" src="static/js/webgl/Detector.js"></script>
+    <script type="text/javascript" src="static/js/webgl/ViewportControls.js"></script>
+    
+    <script type="text/javascript" src="static/js/webgl/ShaderExtras.js"></script>
+
+    <script type="text/javascript" src="static/js/webgl/postprocessing/EffectComposer.js"></script>
+    <script type="text/javascript" src="static/js/webgl/postprocessing/RenderPass.js"></script>
+    <script type="text/javascript" src="static/js/webgl/postprocessing/ShaderPass.js"></script>
+    <script type="text/javascript" src="static/js/webgl/postprocessing/MaskPass.js"></script>
+    <script type="text/javascript" src="static/js/webgl/postprocessing/BloomPass.js"></script>
+    <script type="text/javascript" src="static/js/webgl/postprocessing/FilmPass.js"></script>
+    
+    <script type="text/javascript" src="static/js/webgl/fonts/gentilis_bold.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/gentilis_regular.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/optimer_bold.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/optimer_regular.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/helvetiker_bold.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/helvetiker_regular.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/droid_sans_regular.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/droid_sans_bold.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/droid_serif_regular.typeface.js"></script>
+    <script type="text/javascript" src="static/js/webgl/fonts/droid_serif_bold.typeface.js"></script>
+
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-fluid" id="nav-wraper">
+          <a href="/" style="float: left;"><img src="static/img/stupid-small.png"></a>
+          <div id="brand-wrapper" style="
+            padding-top: 20px;
+            align: left;
+            float: left;
+            display:inline;">
+          <a href="/"><h1 style="color: #eee; font-size: 200%;">Automated Multilayer Fabrication</h1></a>
+            <h2 style="color: #eee;">Harvard Smithsonian Center for Astrophysics</h2></div>
+            <ul class="nav pull-right">
+              <li><a href="new">New</a></li>
+              <li>&nbsp;&nbsp;</li>
+              <li><a href="browse">Run Browser</a></li>
+              <li>&nbsp;&nbsp;</li>
+              <li><a href="start_lv">Start LabVIEW</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="page-body">
+      <div class="content">
+        <br>
+        <br>
+        <br>
+        $:page
+      </div>
+    </div>
+  </body>
+</html>

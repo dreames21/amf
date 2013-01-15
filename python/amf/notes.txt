@@ -1,0 +1,17 @@
+todo for right now:
+
+questions for mandrel params
+360 degree special case for mandrel
+
+todo for the future:
+test params against run mode
+better gui
+edit file
+rename dashboard with version
+file pointer to last generated python file
+labview needs to create a new log
+pause
+
+
+python and labview auto load
+make params include chamber and run mode
