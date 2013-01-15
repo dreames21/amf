@@ -26,10 +26,6 @@ def move_angle(axis, angle, RPM=None):
   accel_decel = axis.accel_decel
   return instruction('move_angle', [axis.index, steps, velocity, accel_decel])
 
-def move_velocity(RPM):
-  velocity = axis.RPM_to_steps_per_sec(RPM)
-  return instruction('move_velocity', [axis.index, steps, velocity])
-
 def shutter_control(shutter, open=True):
   if open:
     state = 'open'
