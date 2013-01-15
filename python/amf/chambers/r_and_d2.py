@@ -21,10 +21,13 @@ class r_and_d2(abstract_chamber):
     rotary_stage.accel_decel = 50000
     self.mandrel_axis = rotary_stage.index
 
+    # total travel = 8 inches * 25.4 mm / inch = 203.2 mm
+    # 53304 steps / 203.2 mm = 262.322834646 steps / mm
+
     linear_stage = axis(3, 'linear stage')
-    linear_stage.conversion_factor = 251.98504
+    linear_stage.conversion_factor = 262.322834646 # steps per mm
     linear_stage.idle_RPM = 10.0 * linear_stage.conversion_factor
-    linear_stage.steps_in_rev = linear_stage.conversion_factor * 177.8
+    linear_stage.steps_in_rev = 53304
     linear_stage.accel_decel = 50000
     self.linear_stage_axis = linear_stage.index
 
