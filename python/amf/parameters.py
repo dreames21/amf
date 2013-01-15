@@ -47,26 +47,6 @@ def build_params():
     
   return params
 
-def choose_file(params, cathode):
-  while 1:
-    path = amf.config.data_dir + '/' + params['name']
-    files = os.listdir(path)
-
-    msg = 'Please choose the file for ' + cathode + '.\n Note that in order for files to appear in this list, they need to be in the "data" directory in the same folder as these parameters. \n'
-    
-    chosen = amf.gui.gui_choice(msg, files)
-    chosen_file = path + '/' + chosen
-    
-    #this_cathode['file'] = amf.utils.q()
-    try:
-      f = open(chosen_file, 'r')
-      f.read().split('\n')
-      f.close()
-      break
-    except:
-      print 'This isn\'t a valid file'
-  return chosen_file
-
 def save_params(params):
   folder = os.path.join(amf.config.data_dir, params['name'])
   if not os.path.exists(folder):
