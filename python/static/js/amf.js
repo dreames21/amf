@@ -254,7 +254,7 @@ var amf = {
         rate.text('Angstroms / rev')
       }
       else {
-        rate.text('Angstroms / sweep')
+        rate.text('Angstroms / pass')
       }
     }
   }

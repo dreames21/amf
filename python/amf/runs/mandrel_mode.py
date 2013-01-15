@@ -35,13 +35,19 @@ class mandrel_mode(abstract_run):
     RPM = 0.0
 
     # rate is in angstroms per rev or sweep if angle is less than 360
-    scaled_rate = depositon_rate / float(target_RPM)
-    raw_revs = thickness / scaled_rate
-    sweeps = float(int(raw_revs)) # sweeps really represents revs
-    RPM = (sweeps * target_RPM) / float(raw_revs)
+    while sweeps == 0.0 or RPM == 0.0:
+      scaled_rate = depositon_rate / float(target_RPM)
+      raw_sweeps = thickness / scaled_rate
+      sweeps = round(raw_sweeps) # sweeps really represents revs
+      RPM = (sweeps * target_RPM) / float(raw_sweeps)
+      if raw_sweeps <= 0.5:
+        sweeps = 1.0
+        RPM = target_RPM / raw_sweeps # check this
+      if sweeps == 0.0 or RPM == 0.0:
+        target_RPM += .5
 
-    if RPM >= 5.0:
-      msg = "WARNING: RPM exceeded 5.0 RPM. More info:\n"
+    if RPM >= 3.5:
+      msg = "WARNING: RPM exceeded 3.5 RPM. More info:\n"
       msg += "thickness\t" + str(thickness)
       msg += "\ntarget_RPM\t" + str(target_RPM)
       msg += "\ndepositon_rate\t" + str(depositon_rate)

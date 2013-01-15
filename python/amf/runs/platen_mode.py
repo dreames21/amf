@@ -24,7 +24,7 @@ class platen_mode(abstract_run):
       percent_of_arc = self.params['sweep_angle'] / 360.0
       c = percent_of_arc * (60.0 / target_RPM) * float(depositon_rate)
       raw_sweeps = thickness / float(c)
-      sweeps = float(int(raw_sweeps))
+      sweeps = round(raw_sweeps)
       RPM = (sweeps * target_RPM) / float(raw_sweeps)
       if raw_sweeps <= 0.5:
         sweeps = 1.0
