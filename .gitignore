@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# block data
+data
+
+# block build directories for windows software
+python/build
+python/dist
