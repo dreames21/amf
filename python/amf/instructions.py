@@ -70,7 +70,7 @@ def slave_stop_sweep(axis, angle, RPM):
   return slave_sweep(axis, angle, RPM, False)
 
 def log(message, timestamp=False):
-  print message
+  #print message
   fn = amf.config.dry_run_filename
   text = amf.utils.read_file(fn)
   text += message
