@@ -56,12 +56,19 @@ $if message or errors:
         $if p['run_mode'] in ['platen_mode', 'Platen Mode']:
           <option selected value="platen_mode">Platen Mode</option>
           <option value="mandrel_mode">Mandrel Mode</option>
-        $else:
+          <option value="linear_mode">Linear Stage Mode</option>
+        $elif p['run_mode'] in ['mandrel_mode', 'Mandrel Mode']:
           <option value="platen_mode">Platen Mode</option>
           <option selected value="mandrel_mode">Mandrel Mode</option>
+          <option value="linear_mode">Linear Stage Mode</option>
+        $elif p['run_mode'] in ['linear_mode', 'Linear Stage Mode']:
+          <option value="platen_mode">Platen Mode</option>
+          <option value="mandrel_mode">Mandrel Mode</option>
+          <option selected value="linear_mode">Linear Stage Mode</option>
       $else:
         <option value="platen_mode">Platen Mode</option>
         <option value="mandrel_mode">Mandrel Mode</option>
+        <option value="linear_mode">Linear Stage Mode</option>
     </select><br/>
 
   <h3 style="display:inline;font-weight:normal;">Number of layers (N)</h3>:&nbsp;
@@ -108,6 +115,17 @@ $if message or errors:
       $else:
         placeholder="Enter a number..."
     ><br/>
+    <div id="linear_stage_params">
+      <h3 style="display:inline;font-weight:normal;" id="linear_stage_pass_length">Linear Stage Pass Length:</h3>
+      <input name="linear_stage_pass_length" type="text" class="input-xlarge"
+        $if p and 'linear_stage_pass_length' in p.keys():
+          value="$p['linear_stage_pass_length']" \
+        $else:
+          placeholder="Enter a number..."
+      >
+      <span class="btn disabled">mm</span>
+      <br/>
+    </div>
   </div>
 
   <h2>Cathodes</h2>

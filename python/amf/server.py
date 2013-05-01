@@ -125,8 +125,9 @@ class editcreate:
         msg = '"' + i['sweep_angle'] + '" is not a valid float value for mandrel sweep angle'
         map_input('sweep_angle', errmsg=msg, _type=float)
       else:
-        msg = '"' + i['sweep_angle'] + '" is not a valid float value for platen sweep angle'
-        map_input('sweep_angle', errmsg=msg, _type=float)
+        if p['run_mode'] != 'linear_mode':
+          msg = '"' + i['sweep_angle'] + '" is not a valid float value for platen sweep angle'
+          map_input('sweep_angle', errmsg=msg, _type=float)
 
       p['generate_files'] = i['generate_files'] == 'Yes'
       p['single_cathode'] = i['single_cathode'] == 'Yes'
@@ -152,6 +153,8 @@ class editcreate:
         prefixes = ['c' + str(p['initial_cathode']) + '_', other_prefix]
 
       p['cathodes'] = cathodes
+      if p['run_mode'] == 'linear_mode':
+        map_input('linear_stage_pass_length', _type=float)
 
       for prefix, cathode in zip(prefixes, cathodes):
         this_cathode = {}

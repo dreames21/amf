@@ -18,8 +18,15 @@ class axis(object):
   def angle_to_steps(self, angle):
     return int(angle * self.steps_in_rev / 360)
 
+  #~ needs to be in mm
+  def distance_to_steps(self, distance):
+    return int(distance * self.steps_in_mm)
+
   def RPM_to_steps_per_sec(self, RPM):
     return RPM * self.conversion_factor
+  
+  def velocity_to_steps_per_sec(self, velocity):
+    return velocity * self.conversion_factor
   
   def add_header_item(self, d):
     key_prefix = 'axis ' + str(self.index) + ' '

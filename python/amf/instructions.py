@@ -26,6 +26,16 @@ def move_angle(axis, angle, RPM=None):
   accel_decel = axis.accel_decel
   return instruction('move_angle', [axis.index, steps, velocity, accel_decel])
 
+#~ still uses the move angle instruction, but not actually moving by an angle
+#~ should rename this instruction to just move_axis
+def move_linear_stage(axis, distance, velocity=None):
+  steps = axis.distance_to_steps(distance)
+  if velocity is None:
+    velocity = axis.idle_velocity
+  velocity = axis.velocity_to_steps_per_sec(velocity)
+  accel_decel = axis.accel_decel
+  return instruction('move_angle', [axis.index, steps, velocity, accel_decel])
+
 def shutter_control(shutter, open=True):
   if open:
     state = 'open'
@@ -53,6 +63,12 @@ def sweep(axis, angle, RPM, times):
   accel_decel = axis.accel_decel
   velocity = axis.RPM_to_steps_per_sec(RPM)
   return instruction('sweep', [axis.index, times, steps, velocity, accel_decel])
+
+def linear_sweep(axis, distance, velcoity, times):
+  steps = axis.distance_to_steps(distance)
+  accel_decel = axis.accel_decel
+  steps_velocity = axis.velocity_to_steps_per_sec(velcoity)
+  return instruction('sweep', [axis.index, times, steps, steps_velocity, accel_decel])
 
 def check_pause():
   return instruction('check_pause')

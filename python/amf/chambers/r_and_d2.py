@@ -26,10 +26,14 @@ class r_and_d2(abstract_chamber):
 
     linear_stage = axis(3, 'linear stage')
     linear_stage.conversion_factor = 262.322834646 # steps per mm
-    linear_stage.idle_RPM = 10.0 * linear_stage.conversion_factor
-    linear_stage.steps_in_rev = 53304
+    linear_stage.idle_velocity = 10.0 * linear_stage.conversion_factor
+    linear_stage.steps_in_mm = linear_stage.steps_in_rev = 53304
     linear_stage.accel_decel = 50000
     self.linear_stage_axis = linear_stage.index
+    self.linear_stage_calibration_velocity = 10.0 # mm/sec
+    
+    #~ set linear stage as the master axis
+    self.master_axis = self.linear_stage
 
     self.axes = {
       '1': platen,
@@ -46,3 +50,6 @@ class r_and_d2(abstract_chamber):
       '1': cathode(1),
       '2': cathode(2),
     }
+
+  def linear_stage(self):
+    return self.axes[str(self.linear_stage_axis)]

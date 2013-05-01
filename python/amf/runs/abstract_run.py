@@ -62,7 +62,13 @@ class abstract_run(object):
       for thickness, RPM in thickness_RPM:
         j += 1
         print cathode, j
-        self.run_data[cathode].append(self.thickness_func(thickness, RPM, this_cathode['rate']))
+        if params['run_mode'] == 'linear_mode':
+          
+          #~ rpm here is actually a linear velocity -- we just reuse the input
+          layer_data = self.thickness_func(thickness, RPM, this_cathode['rate'], params['linear_stage_pass_length'])
+        else:
+          layer_data = self.thickness_func(thickness, RPM, this_cathode['rate'])
+        self.run_data[cathode].append(layer_data)
     self.post_init()
 
   def generate(self):
@@ -201,7 +207,7 @@ class abstract_run(object):
       i.append(amf.instructions.log('rezeroing ' + axis.name + ' by moving ' + str(angle) + ' degrees'))
       i.append(amf.instructions.move_angle(axis, angle))
     return i
-
+  
   def move_180(self, axis='master'):
     if self.params['single_cathode']:
       return []
@@ -256,7 +262,6 @@ class abstract_run(object):
     axis = self.chamber.slave_axis()
     angle = self.params['slave_sweep_angle']
     RPM = self.params['slave_RPM']
-
     i = []
     if True or (angle != 0 and RPM != 0):
       i.append(amf.instructions.log('stopping slave sweep for ' + axis.name))
@@ -275,3 +280,38 @@ class abstract_run(object):
 
   def slave_offset_back(self):
     return self.offset_back('slave')
+
+  def stage_offset_back(self):
+    axis = self.chamber.linear_stage()
+    distance = -1.0 * self.params['linear_stage_pass_length'] / 2.0
+    i = []
+    i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(distance) + ' mm'))
+    i.append(amf.instructions.move_linear_stage(axis, distance))
+    return i
+
+  def stage_sweep(self):
+    #~ this is actually velocity, not RPM but need to take it from RPM
+    velocity = self.current_sweep_RPM
+    times = self.current_sweep_iterations
+    axis = self.chamber.linear_stage()
+    distance = self.params['linear_stage_pass_length']
+    i = []
+    if True or (angle != 0 and times != 0 and velocity != 0):
+      i.append(amf.instructions.log('sweeping ' + axis.name + ' ' + str(times) + ' times at ' + str(velocity) + ' mm/sec'))
+      i.append(amf.instructions.linear_sweep(axis, distance, velocity, times))
+    return i
+
+  def stage_rezero(self):
+    axis = self.chamber.linear_stage()
+    distance = self.params['linear_stage_pass_length']
+    times = int(self.current_sweep_iterations)
+    if times % 2 == 0:
+      direction = 1.0
+    else:
+      direction = -1.0
+    distance = direction * distance / 2.0
+    i = []
+    if True or angle != 0:
+      i.append(amf.instructions.log('rezeroing ' + axis.name + ' by moving ' + str(distance) + ' degrees'))
+      i.append(amf.instructions.move_linear_stage(axis, distance))
+    return i

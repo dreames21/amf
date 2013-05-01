@@ -249,6 +249,9 @@ var amf = {
     if (mode == 'platen_mode') {
       rate.text('Angstroms / second')
     }
+    else if (mode == 'linear_mode') {
+      rate.text('Angstroms / second @ calibration RPM')
+    }
     else {
       if (parseInt(angle) == 360) {
         rate.text('Angstroms / rev')
@@ -292,15 +295,55 @@ var colors = {
 
 $(document).ready(function() {
   amf.toggleDisplay($("#generate_files"), $("#c1_file, #c2_file"), $("#c1_thickness, #c2_thickness"));
-  amf.toggleDisplay($("#mandrel_use"), $("#platen_mode_params"), $("#mandrel_mode_params, #mandrel_sw"), "inline");
   amf.toggleCathodes($("#single_cathode"), $("#initial_cathode"), $("#c1"), $("#c2"));
-  amf.simulator($('#simulator'))
+
+  var mandrel_use = $("#mandrel_use");
+
+  var _update_mandrel_use = function() {
+    var section1 = $("#platen_mode_params");
+    var section2 = $("#mandrel_mode_params, #mandrel_sw");
+    var linear_mode_active = $('[name=run_mode]').val() == 'linear_mode';
+    
+    if (mandrel_use.val() == "Yes") {
+      section1.css('display', "none");
+      if (!linear_mode_active) {
+        section2.css('display', "inline");
+      }
+    }
+    else {
+      if (linear_mode_active) {
+        section1.css('display', "none");
+      }
+      else {
+        section1.css('display', "inline");
+      }
+      section2.css('display', "none");
+    }
+  };
+  mandrel_use.click(_update_mandrel_use);
+  mandrel_use.change(_update_mandrel_use);
+  mandrel_use.click();
+
+  amf.simulator($('#simulator'));
+
   $('[name=run_mode]').change(amf.updateRates)
   $('[name=sweep_angle]').change(amf.updateRates)
   amf.updateRates();
   $('[name=run_mode]').change(function() {
-    if ($(this).val() == 'mandrel_mode') {
+    var mode = $(this).val();
+    if (mode == 'mandrel_mode') {
       $('[name=mandrel_use]').val('Yes').change();
     }
-  })
+    else if (mode == 'linear_mode') {
+      $('[name=mandrel_use]').val('No').change();
+
+      $('#linear_stage_params').show();
+      $("#platen_mode_params, #mandrel_mode_params, #mandrel_sw, [name=sweep_angle]").hide();
+    }
+    else {
+      $('#linear_stage_params').hide();
+      $('[name=mandrel_use]').change();
+    }
+  });
+  $('[name=run_mode]').change();
 });

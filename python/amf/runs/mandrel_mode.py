@@ -31,6 +31,8 @@ class mandrel_mode(abstract_run):
       self.circular_mode = False
 
   def thickness_func(self, thickness, target_RPM, depositon_rate):
+    
+    #~ start out assuming sweeps and RPM is zero
     sweeps = 0.0
     RPM = 0.0
 
