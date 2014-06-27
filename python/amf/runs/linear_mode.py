@@ -49,20 +49,3 @@ class linear_mode(abstract_run):
     velocity = float(passes) / float(raw_passes) * target_velocity
     
     return passes, velocity
-    
-    def offset_back(self, axis='master'):
-      if axis == 'master':
-        axis = self.chamber.master_axis()
-
-        if self.circular_mode:
-          angle = -self.dummy_offset
-        else:
-          angle = -self.params['sweep_angle'] / 2.0
-      elif axis == 'slave':
-        axis = self.chamber.slave_axis()
-        angle = -self.params['slave_sweep_angle'] / 2.0
-      i = []
-      if True or angle != 0:
-        i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(angle) + ' degrees'))
-        i.append(amf.instructions.move_angle(axis, angle))
-      return i
