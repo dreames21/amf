@@ -26,8 +26,8 @@ def move_angle(axis, angle, RPM=None):
   accel_decel = axis.accel_decel
   return instruction('move_angle', [axis.index, steps, velocity, accel_decel])
 
-#~ still uses the move angle instruction, but not actually moving by an angle
-#~ should rename this instruction to just move_axis
+# still uses the move angle instruction, but not actually moving by an angle
+# should rename this instruction to just move_axis
 def move_linear_stage(axis, distance, velocity=None):
   steps = axis.distance_to_steps(distance)
   if velocity is None:

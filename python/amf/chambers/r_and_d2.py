@@ -32,7 +32,7 @@ class r_and_d2(abstract_chamber):
     self.linear_stage_axis = linear_stage.index
     self.linear_stage_calibration_velocity = 10.0 # mm/sec
     
-    #~ set linear stage as the master axis
+    # set linear stage as the master axis
     self.master_axis = self.linear_stage
 
     self.axes = {

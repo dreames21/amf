@@ -18,7 +18,7 @@ class axis(object):
   def angle_to_steps(self, angle):
     return int(angle * self.steps_in_rev / 360)
 
-  #~ needs to be in mm
+  # needs to be in mm
   def distance_to_steps(self, distance):
     return int(distance * self.steps_in_mm)
 

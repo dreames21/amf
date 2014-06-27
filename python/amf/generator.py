@@ -10,7 +10,6 @@ import amf.config
 #import amf.webserver.server
 
 import os
-import json
 import traceback
 
 # needed for py2exe
@@ -53,7 +52,7 @@ def generate(p, run, chamber):
   try:
     params = amf.parameters.load_params(p['name'])
 
-    amf.config.dry_run_filename = amf.config.data_dir + '/' + p['name'] + '/dry_run.txt'
+    amf.config.dry_run_filename = os.path.join(amf.config.data_dir, p['name'], 'dry_run.txt')
     amf.utils.write_file(amf.config.dry_run_filename, '')
 
     run.chamber = chamber
@@ -67,7 +66,7 @@ def generate(p, run, chamber):
     msg = 'Instructions have been generated for LabVIEW in ' + path + '.\n'
     msg += 'Open this file up with LabVIEW.\nHere is the Logfile.'
 
-    last_path = amf.config.data_dir + '/' + amf.config.last_generated_filename
+    last_path = os.path.join(amf.config.data_dir, amf.config.last_generated_filename)
     amf.utils.write_file(last_path, params['name'])
     return True
   except:

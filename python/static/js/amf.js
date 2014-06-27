@@ -1,14 +1,14 @@
 var amf = {
   toggleDisplay: function(selector, section1, section2, _style) {
-    _style = _style || "block";
+    _style = _style || 'block';
     var update = function() {
-      if (selector.val() == "Yes") {
-        section1.css('display', "none");
+      if (selector.val() == 'Yes') {
+        section1.css('display', 'none');
         section2.css('display', _style);
       }
       else {
         section1.css('display', _style);
-        section2.css('display', "none");
+        section2.css('display', 'none');
       }
     };
     selector.click(update);
@@ -18,19 +18,19 @@ var amf = {
 
   toggleCathodes: function(single_cathode, initial_cathode, c1, c2) {
     var updateDisplay = function() {
-      if (initial_cathode.val() == "1") {
+      if (initial_cathode.val() == '1') {
         c1.show();
-        if (single_cathode.val() == "Yes") {
+        if (single_cathode.val() == 'Yes') {
           c2.hide();
         }
         else {
           c2.show();
         }
       }
-      else if (initial_cathode.val() == "2") {
+      else if (initial_cathode.val() == '2') {
         c2.show();
 
-        if (single_cathode.val() == "Yes") {
+        if (single_cathode.val() == 'Yes') {
           c1.hide();
         }
         else {
@@ -46,7 +46,7 @@ var amf = {
     single_cathode.click();
     initial_cathode.click();
   },
-  
+
   simulator: function(anchor, data) {
       if (anchor.length == 0) {
         return;
@@ -55,17 +55,17 @@ var amf = {
         Detector.addGetWebGLMessage();
         return;
       }
-      
+
       var block = function(color, x, y) {
-        return new body(new THREE.CubeGeometry(1, 1, 1), color, x, y)
-      }
-      
+        return new body(new THREE.CubeGeometry(1, 1, 1), color, x, y);
+      };
+
       var body = function(geometry, color, x, y) {
         var _this = this;
         _this.color = color;
         _this.x = x;
         _this.y = y;
-        
+
         var material = new THREE.MeshPhongMaterial({
           opacity: 0.95,
           ambient: 0x000000,
@@ -74,27 +74,27 @@ var amf = {
           shininess: 3,
           shading: THREE.Flatshading
         });
-        
+
         geometry.computeBoundingBox();
         geometry.computeVertexNormals();
-        
+
         _this._mesh = new THREE.Mesh(geometry, material);
-        
+
         _this._mesh.position.x = x;
         _this._mesh.position.y = y;
-        
+
         _this._mesh.scale.x = 0.8;
         _this._mesh.scale.y = 0.8;
-        
+
         _this._mesh._parent = _this;
-        
+
         scene.add(_this._mesh);
-        
+
         // deletes this block from the board
         _this.delete = function() {
           scene.remove(_this._mesh);
         };
-        
+
         _this.move = function(x, y) {
           x = x || _this.x;
           y = y || _this.x;
@@ -111,15 +111,15 @@ var amf = {
         // moves the block to a specified location
         _this.animate = function(dest_x, dest_y) {
           print('moving from ' + _this.x + ', ' + _this.y + ' to ' + dest_x + ', ' + dest_y);
-          
+
           var steps = 10;
           var delay = 20;
-          
+
           var start_x = _this.x;
           var start_y = _this.y;
           var t = 0;
           var dir_x, dir_y;
-          
+
           if (start_x > dest_x)
             dir_x = -1;
           else
@@ -128,7 +128,7 @@ var amf = {
             dir_y = -1;
           else
             dir_y = 1;
-          
+
           var interval = setInterval(function() {
             _this.x += dir_x * (dest_x - start_x) / steps;
             // j is inverted
@@ -145,8 +145,8 @@ var amf = {
         };
       };
 
-      var container_w = anchor.parent().width()
-      var container_h = 500
+      var container_w = anchor.parent().width();
+      var container_h = 500;
       var camera, scene, renderer;
 
       var init = function() {
@@ -205,12 +205,12 @@ var amf = {
 
         window.addEventListener('resize', onWindowResize, false);
 
-      }
+      };
 
       var onWindowResize = function() {
 
-        container_w = anchor.parent().width()
-        container_h = 500
+        container_w = anchor.parent().width();
+        container_h = 500;
 
         camera.left = container_w / - 2;
         camera.right = container_w / 2;
@@ -221,47 +221,47 @@ var amf = {
 
         renderer.setSize(container_w, container_h);
 
-      }
+      };
 
       var animate = function() {
         requestAnimationFrame(animate);
         render();
-      }
+      };
 
       var render = function() {
         //camera.position.x = Math.cos(timer) * 200;
         //camera.position.z = Math.sin(timer) * 200;
         camera.lookAt(scene.position);
         renderer.render(scene, camera);
-      }
-      
+      };
+
       // simulator main
       init();
       animate();
   },
-  
+
   updateRates: function() {
-    var mode = $('[name=run_mode]').val()
-    var angle = $('[name=sweep_angle]').val()
-    
-    var rate = $('[name=dep_rate]')
-    
+    var mode = $('[name=run_mode]').val();
+    var angle = $('[name=sweep_angle]').val();
+
+    var rate = $('[name=dep_rate]');
+
     if (mode == 'platen_mode') {
-      rate.text('Angstroms / second')
+      rate.text('Angstroms / second');
     }
     else if (mode == 'linear_mode') {
-      rate.text('Angstroms / second @ calibration RPM')
+      rate.text('Angstroms / second @ calibration RPM');
     }
     else {
       if (parseInt(angle) == 360) {
-        rate.text('Angstroms / rev')
+        rate.text('Angstroms / rev');
       }
       else {
-        rate.text('Angstroms / pass')
+        rate.text('Angstroms / pass');
       }
     }
   }
-}
+};
 
 // utils
 
@@ -280,7 +280,7 @@ function print(msg) {
   setTimeout(function() {
     console.log(msg);
   }, 0);
-};
+}
 
 var colors = {
   red: 0xff0000,
@@ -294,30 +294,30 @@ var colors = {
 // main
 
 $(document).ready(function() {
-  amf.toggleDisplay($("#generate_files"), $("#c1_file, #c2_file"), $("#c1_thickness, #c2_thickness"));
-  amf.toggleCathodes($("#single_cathode"), $("#initial_cathode"), $("#c1"), $("#c2"));
+  amf.toggleDisplay($('#generate_files'), $('#c1_file, #c2_file'), $('#c1_thickness, #c2_thickness'));
+  amf.toggleCathodes($('#single_cathode'), $('#initial_cathode'), $('#c1'), $('#c2'));
 
-  var mandrel_use = $("#mandrel_use");
+  var mandrel_use = $('#mandrel_use');
 
   var _update_mandrel_use = function() {
-    var section1 = $("#platen_mode_params");
-    var section2 = $("#mandrel_mode_params, #mandrel_sw");
+    var section1 = $('#platen_mode_params');
+    var section2 = $('#mandrel_mode_params, #mandrel_sw');
     var linear_mode_active = $('[name=run_mode]').val() == 'linear_mode';
-    
-    if (mandrel_use.val() == "Yes") {
-      section1.css('display', "none");
+
+    if (mandrel_use.val() == 'Yes') {
+      section1.css('display', 'none');
       if (!linear_mode_active) {
-        section2.css('display', "inline");
+        section2.css('display', 'inline');
       }
     }
     else {
       if (linear_mode_active) {
-        section1.css('display', "none");
+        section1.css('display', 'none');
       }
       else {
-        section1.css('display', "inline");
+        section1.css('display', 'inline');
       }
-      section2.css('display', "none");
+      section2.css('display', 'none');
     }
   };
   mandrel_use.click(_update_mandrel_use);
@@ -326,8 +326,8 @@ $(document).ready(function() {
 
   amf.simulator($('#simulator'));
 
-  $('[name=run_mode]').change(amf.updateRates)
-  $('[name=sweep_angle]').change(amf.updateRates)
+  $('[name=run_mode]').change(amf.updateRates);
+  $('[name=sweep_angle]').change(amf.updateRates);
   amf.updateRates();
   $('[name=run_mode]').change(function() {
     var mode = $(this).val();
@@ -338,7 +338,7 @@ $(document).ready(function() {
       $('[name=mandrel_use]').val('No').change();
 
       $('#linear_stage_params').show();
-      $("#platen_mode_params, #mandrel_mode_params, #mandrel_sw, [name=sweep_angle]").hide();
+      $('#platen_mode_params, #mandrel_mode_params, #mandrel_sw, [name=sweep_angle]').hide();
     }
     else {
       $('#linear_stage_params').hide();

@@ -19,14 +19,14 @@ class linear_mode(abstract_run):
 
   def thickness_func(self, thickness, target_velocity, depositon_rate, pass_length):
 
-    #~ thickness algorithm for linear stage:
+    # thickness algorithm for linear stage:
     
-    #~ target_velocity = desired linear stage velocity (mm/sec) 
-    #~ depositon_rate = current rate as measured at the calibration velocity (angstoms/second)
-    #~ thickness = desired thickness of deposition on the substrate (angstroms)
-    #~ pass_length = length of the pass to go from one end of the substrate to the other (mm)
+    # target_velocity = desired linear stage velocity (mm/sec) 
+    # depositon_rate = current rate as measured at the calibration velocity (angstoms/second)
+    # thickness = desired thickness of deposition on the substrate (angstroms)
+    # pass_length = length of the pass to go from one end of the substrate to the other (mm)
     
-    #~ first need to scale the rate up or down depending on desired velocity and calibration velocity
+    # first need to scale the rate up or down depending on desired velocity and calibration velocity
     
     scaled_rate = float(self.chamber.linear_stage_calibration_velocity) / float(target_velocity) * depositon_rate
     
@@ -57,10 +57,10 @@ class linear_mode(abstract_run):
         if self.circular_mode:
           angle = -self.dummy_offset
         else:
-          angle = -1.0 * self.params['sweep_angle'] / 2.0
+          angle = -self.params['sweep_angle'] / 2.0
       elif axis == 'slave':
         axis = self.chamber.slave_axis()
-        angle = -1.0 * self.params['slave_sweep_angle'] / 2.0
+        angle = -self.params['slave_sweep_angle'] / 2.0
       i = []
       if True or angle != 0:
         i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(angle) + ' degrees'))

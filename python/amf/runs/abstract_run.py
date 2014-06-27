@@ -64,7 +64,7 @@ class abstract_run(object):
         print cathode, j
         if params['run_mode'] == 'linear_mode':
           
-          #~ rpm here is actually a linear velocity -- we just reuse the input
+          # rpm here is actually a linear velocity -- we just reuse the input
           layer_data = self.thickness_func(thickness, RPM, this_cathode['rate'], params['linear_stage_pass_length'])
         else:
           layer_data = self.thickness_func(thickness, RPM, this_cathode['rate'])
@@ -133,7 +133,6 @@ class abstract_run(object):
     self.current_sweep_iterations, self.current_sweep_RPM = data
     self.add_instruction(amf.instructions.set('current_sweep_iterations', self.current_sweep_iterations))
 
-
   def post_bilayer(self):
     self.current_cathode_index = str((int(self.current_cathode_index) % self.chamber.num_cathodes()) + 1)
     if self.bilayer_index == 0:
@@ -159,10 +158,10 @@ class abstract_run(object):
       if self.circular_mode:
         angle = -self.dummy_offset
       else:
-        angle = -1.0 * self.params['sweep_angle'] / 2.0
+        angle = -self.params['sweep_angle'] / 2.0
     elif axis == 'slave':
       axis = self.chamber.slave_axis()
-      angle = -1.0 * self.params['slave_sweep_angle'] / 2.0
+      angle = -self.params['slave_sweep_angle'] / 2.0
     i = []
     if True or angle != 0:
       i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(angle) + ' degrees'))
@@ -283,14 +282,14 @@ class abstract_run(object):
 
   def stage_offset_back(self):
     axis = self.chamber.linear_stage()
-    distance = -1.0 * self.params['linear_stage_pass_length'] / 2.0
+    distance = -self.params['linear_stage_pass_length'] / 2.0
     i = []
     i.append(amf.instructions.log('ofsetting ' + axis.name + ' back ' + str(distance) + ' mm'))
     i.append(amf.instructions.move_linear_stage(axis, distance))
     return i
 
   def stage_sweep(self):
-    #~ this is actually velocity, not RPM but need to take it from RPM
+    # this is actually velocity, not RPM but need to take it from RPM
     velocity = self.current_sweep_RPM
     times = self.current_sweep_iterations
     axis = self.chamber.linear_stage()
