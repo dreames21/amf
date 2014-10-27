@@ -245,12 +245,15 @@ var amf = {
     var angle = $('[name=sweep_angle]').val();
 
     var rate = $('[name=dep_rate]');
+    var speed_label = $('.speed-label');
 
     if (mode == 'platen_mode') {
       rate.text('Angstroms / second');
+      speed_label.text('RPM');
     }
     else if (mode == 'linear_mode') {
       rate.text('Angstroms / second @ calibration RPM');
+      speed_label.text('Velocity (mm / s)');
     }
     else {
       if (parseInt(angle) == 360) {
@@ -259,6 +262,7 @@ var amf = {
       else {
         rate.text('Angstroms / pass');
       }
+      speed_label.text('RPM');
     }
   }
 };

@@ -26,8 +26,8 @@ class r_and_d2(abstract_chamber):
 
     linear_stage = axis(3, 'linear stage')
     linear_stage.conversion_factor = 262.322834646 # steps per mm
-    linear_stage.idle_velocity = 10.0 * linear_stage.conversion_factor
-    linear_stage.steps_in_mm = linear_stage.steps_in_rev = 53304
+    linear_stage.idle_velocity = 5.0
+    linear_stage.steps_in_rev = 53304 # actually the number of steps in the linear stage
     linear_stage.accel_decel = 50000
     self.linear_stage_axis = linear_stage.index
     self.linear_stage_calibration_velocity = 10.0 # mm/sec

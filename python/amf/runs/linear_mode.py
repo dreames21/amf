@@ -21,27 +21,13 @@ class linear_mode(abstract_run):
 
     # thickness algorithm for linear stage:
     
+    # thickness = desired thickness of deposition on the substrate (angstroms)
     # target_velocity = desired linear stage velocity (mm/sec) 
     # depositon_rate = current rate as measured at the calibration velocity (angstoms/second)
-    # thickness = desired thickness of deposition on the substrate (angstroms)
     # pass_length = length of the pass to go from one end of the substrate to the other (mm)
-    
-    # first need to scale the rate up or down depending on desired velocity and calibration velocity
-    
-    scaled_rate = float(self.chamber.linear_stage_calibration_velocity) / float(target_velocity) * depositon_rate
-    
-    #                    X mm       1 second
-    # time_per_pass = ---------- * ---------
-    #                      1         Y mm 
-    # where:
-    #   X = path length in mm
-    #   Y = scaled rate
-    #   C = 10 mm/sec stage velocity
-    #
-    time_per_pass = float(pass_length) / float(target_velocity)
-    
-    angstoms_per_pass = float(time_per_pass) * float(scaled_rate)
-    
+
+    angstoms_per_pass = float(depositon_rate) / float(target_velocity) * float(pass_length)
+
     raw_passes = float(thickness) / float(angstoms_per_pass)
     
     passes = round(raw_passes)

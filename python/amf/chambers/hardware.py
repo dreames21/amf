@@ -20,7 +20,7 @@ class axis(object):
 
   # needs to be in mm
   def distance_to_steps(self, distance):
-    return int(distance * self.steps_in_mm)
+    return int(distance * self.conversion_factor)
 
   def RPM_to_steps_per_sec(self, RPM):
     return RPM * self.conversion_factor
