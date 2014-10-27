@@ -1,0 +1,173 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.61
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_6mar2013_Run3_Aposn_SiCap
+
+begin header for RandD1_SiW_6mar2013_Run3_Aposn_SiCap [ Wed, 3/6/2013 05:05:21.5995 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.61
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_6mar2013_Run3_Aposn_SiCap
+
+begin header for RandD1_SiW_6mar2013_Run3_Aposn_SiCap [ Wed, 3/6/2013 05:05:32.0060 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.61
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_6mar2013_Run3_Aposn_SiCap
+
+begin header for RandD1_SiW_6mar2013_Run3_Aposn_SiCap [ Wed, 3/6/2013 05:05:32.4904 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.61
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_6mar2013_Run3_Aposn_SiCap
+
+begin header for RandD1_SiW_6mar2013_Run3_Aposn_SiCap [ Wed, 3/6/2013 05:05:38.8812 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.61
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_6mar2013_Run3_Aposn_SiCap
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Wed, 3/6/2013 05:05:39.3500 PM ]
+sweeping platen back and forth 66.0 times at 1.98814814815 RPM
+starting sweep 0 of 66 [ Wed, 3/6/2013 05:05:39.3656 PM ]
+starting sweep 1 of 66 [ Wed, 3/6/2013 05:05:40.0844 PM ]
+starting sweep 2 of 66 [ Wed, 3/6/2013 05:05:40.7875 PM ]
+starting sweep 3 of 66 [ Wed, 3/6/2013 05:05:41.5063 PM ]
+starting sweep 4 of 66 [ Wed, 3/6/2013 05:05:42.2094 PM ]
+starting sweep 5 of 66 [ Wed, 3/6/2013 05:05:42.9282 PM ]
+starting sweep 6 of 66 [ Wed, 3/6/2013 05:05:43.6469 PM ]
+starting sweep 7 of 66 [ Wed, 3/6/2013 05:05:44.3657 PM ]
+starting sweep 8 of 66 [ Wed, 3/6/2013 05:05:45.0845 PM ]
+starting sweep 9 of 66 [ Wed, 3/6/2013 05:05:45.8033 PM ]
+starting sweep 10 of 66 [ Wed, 3/6/2013 05:05:46.5064 PM ]
+starting sweep 11 of 66 [ Wed, 3/6/2013 05:05:47.2252 PM ]
+starting sweep 12 of 66 [ Wed, 3/6/2013 05:05:47.9439 PM ]
+starting sweep 13 of 66 [ Wed, 3/6/2013 05:05:48.6471 PM ]
+starting sweep 14 of 66 [ Wed, 3/6/2013 05:05:49.3658 PM ]
+starting sweep 15 of 66 [ Wed, 3/6/2013 05:05:50.0846 PM ]
+starting sweep 16 of 66 [ Wed, 3/6/2013 05:05:50.8034 PM ]
+starting sweep 17 of 66 [ Wed, 3/6/2013 05:05:51.5065 PM ]
+starting sweep 18 of 66 [ Wed, 3/6/2013 05:05:52.2253 PM ]
+starting sweep 19 of 66 [ Wed, 3/6/2013 05:05:52.9441 PM ]
+starting sweep 20 of 66 [ Wed, 3/6/2013 05:05:53.6472 PM ]
+starting sweep 21 of 66 [ Wed, 3/6/2013 05:05:54.3660 PM ]
+starting sweep 22 of 66 [ Wed, 3/6/2013 05:05:55.0847 PM ]
+starting sweep 23 of 66 [ Wed, 3/6/2013 05:05:55.8035 PM ]
+starting sweep 24 of 66 [ Wed, 3/6/2013 05:05:56.5067 PM ]
+starting sweep 25 of 66 [ Wed, 3/6/2013 05:05:57.2254 PM ]
+starting sweep 26 of 66 [ Wed, 3/6/2013 05:05:57.9442 PM ]
+starting sweep 27 of 66 [ Wed, 3/6/2013 05:05:58.6473 PM ]
+starting sweep 28 of 66 [ Wed, 3/6/2013 05:05:59.3661 PM ]
+starting sweep 29 of 66 [ Wed, 3/6/2013 05:06:00.0849 PM ]
+starting sweep 30 of 66 [ Wed, 3/6/2013 05:06:00.8036 PM ]
+starting sweep 31 of 66 [ Wed, 3/6/2013 05:06:01.5224 PM ]
+starting sweep 32 of 66 [ Wed, 3/6/2013 05:06:02.2255 PM ]
+starting sweep 33 of 66 [ Wed, 3/6/2013 05:06:02.9443 PM ]
+starting sweep 34 of 66 [ Wed, 3/6/2013 05:06:03.6631 PM ]
+starting sweep 35 of 66 [ Wed, 3/6/2013 05:06:04.3662 PM ]
+starting sweep 36 of 66 [ Wed, 3/6/2013 05:06:05.0850 PM ]
+starting sweep 37 of 66 [ Wed, 3/6/2013 05:06:05.8038 PM ]
+starting sweep 38 of 66 [ Wed, 3/6/2013 05:06:06.5225 PM ]
+starting sweep 39 of 66 [ Wed, 3/6/2013 05:06:07.2257 PM ]
+starting sweep 40 of 66 [ Wed, 3/6/2013 05:06:07.9444 PM ]
+starting sweep 41 of 66 [ Wed, 3/6/2013 05:06:08.6632 PM ]
+starting sweep 42 of 66 [ Wed, 3/6/2013 05:06:09.3664 PM ]
+starting sweep 43 of 66 [ Wed, 3/6/2013 05:06:10.0851 PM ]
+starting sweep 44 of 66 [ Wed, 3/6/2013 05:06:10.8039 PM ]
+starting sweep 45 of 66 [ Wed, 3/6/2013 05:06:11.5227 PM ]
+starting sweep 46 of 66 [ Wed, 3/6/2013 05:06:12.2258 PM ]
+starting sweep 47 of 66 [ Wed, 3/6/2013 05:06:12.9446 PM ]
+starting sweep 48 of 66 [ Wed, 3/6/2013 05:06:13.6477 PM ]
+starting sweep 49 of 66 [ Wed, 3/6/2013 05:06:14.3665 PM ]
+starting sweep 50 of 66 [ Wed, 3/6/2013 05:06:15.0853 PM ]
+starting sweep 51 of 66 [ Wed, 3/6/2013 05:06:15.8040 PM ]
+starting sweep 52 of 66 [ Wed, 3/6/2013 05:06:16.5072 PM ]
+starting sweep 53 of 66 [ Wed, 3/6/2013 05:06:17.2259 PM ]
+starting sweep 54 of 66 [ Wed, 3/6/2013 05:06:17.9447 PM ]
+starting sweep 55 of 66 [ Wed, 3/6/2013 05:06:18.6635 PM ]
+starting sweep 56 of 66 [ Wed, 3/6/2013 05:06:19.3666 PM ]
+starting sweep 57 of 66 [ Wed, 3/6/2013 05:06:20.0854 PM ]
+starting sweep 58 of 66 [ Wed, 3/6/2013 05:06:20.8041 PM ]
+starting sweep 59 of 66 [ Wed, 3/6/2013 05:06:21.5073 PM ]
+starting sweep 60 of 66 [ Wed, 3/6/2013 05:06:22.2261 PM ]
+starting sweep 61 of 66 [ Wed, 3/6/2013 05:06:22.9448 PM ]
+starting sweep 62 of 66 [ Wed, 3/6/2013 05:06:23.6480 PM ]
+starting sweep 63 of 66 [ Wed, 3/6/2013 05:06:24.3667 PM ]
+starting sweep 64 of 66 [ Wed, 3/6/2013 05:06:25.0855 PM ]
+starting sweep 65 of 66 [ Wed, 3/6/2013 05:06:25.8043 PM ]
+closing shutter 1 [ Wed, 3/6/2013 05:06:26.5074 PM ]
+rezeroing platen by moving 4.0 degrees
+begin header for RandD1_SiW_7mar2013_Run1_Aposn_SiCap [ Thu, 3/7/2013 10:46:57.4179 AM ]

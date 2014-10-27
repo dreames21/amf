@@ -1,0 +1,48 @@
+-1,set,current_N,0
+-1,set,current_sweep_iterations,0
+-1,set,mandrel_axis,4
+-1,set,platen_axis,3
+-1,set,axis 3 name,platen
+-1,set,current_bilayer,0
+-1,set,axis 3 accel_decel,500000
+-1,set,N,1
+-1,set,chamber_name,R&D1
+-1,set,axis 4 steps_in_rev,25000
+-1,set,axis 4 accel_decel,500000
+-1,set,cathode 1 name,cathode 1
+-1,set,run_name,Monolayer_6sept2012
+-1,set,axis 3 steps_in_rev,250000
+-1,set,axis 4 conversion_factor,417.448
+-1,set,axis 3 conversion_factor,4171.87
+-1,set,cathode 1 deposition_rate,0.1
+-1,set,axis 4 name,mandrel
+0,log,
+
+1,log,starting layer 1
+2,log,starting bilayer 1
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,3.0
+6,log,ofsetting platen back -4.0 degrees
+7,move_angle,3,-2777,12515.61,500000
+8,log,ofsetting mandrel back -4.0 degrees
+9,move_angle,4,-277,1252.344,500000
+10,log,sweeping slave axis platen at 8.0 angle at 2.0 RPM
+11,slave_sweep,3,start,5555,8343.74,500000
+12,log,opening shutter 1
+13,shutter,1,open
+14,log,rotating mandrel 3.0 times at 1.8 RPM
+15,set,current_sweep,1
+16,move_angle,4,25000,751.4064,500000
+17,set,current_sweep,2
+18,move_angle,4,25000,751.4064,500000
+19,set,current_sweep,3
+20,move_angle,4,25000,751.4064,500000
+21,log,closing shutter 1
+22,shutter,1,close
+23,log,stopping slave sweep for platen
+24,slave_sweep,3,stop,5555,8343.74,500000
+25,log,rezeroing mandrel by moving 4.0 degrees
+26,move_angle,4,277,1252.344,500000
+27,log,rezero slave axis platen
+28,slave_rezero,3,12515.61,500000

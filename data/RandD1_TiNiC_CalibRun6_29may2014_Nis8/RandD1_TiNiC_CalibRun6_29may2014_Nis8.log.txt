@@ -1,0 +1,257 @@
+N = 8
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 4.0
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 5.8
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_CalibRun6_29may2014_Nis8
+
+begin header for RandD1_TiNiC_CalibRun6_29may2014_Nis8 [ Thu, 5/29/2014 06:39:46.5992 AM ]
+N = 8
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 4.0
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 5.8
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_CalibRun6_29may2014_Nis8
+
+begin header for RandD1_TiNiC_CalibRun6_29may2014_Nis8 [ Thu, 5/29/2014 07:10:23.5523 AM ]
+N = 8
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 4.0
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 5.8
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_CalibRun6_29may2014_Nis8
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 07:10:24.7711 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 07:24:13.3023 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 07:24:46.8492 AM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 08:06:06.1773 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 08:06:19.5679 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 08:20:08.1304 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 08:20:21.6461 AM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 09:01:41.0054 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 09:01:54.4273 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 09:15:42.9742 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 09:15:56.5679 AM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 09:57:15.8961 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 09:57:29.3804 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 10:11:17.9273 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 10:11:31.4429 AM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 10:52:51.1148 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 10:53:04.5523 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 11:06:53.0992 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 11:07:06.6304 AM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 11:48:25.9429 AM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 11:48:39.3492 AM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 12:02:27.8961 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 12:02:41.4429 PM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 12:44:00.7711 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 12:44:14.2711 PM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 12:58:02.8481 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 12:58:16.4270 PM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 01:39:35.8915 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 5/29/2014 01:39:49.3921 PM ]
+rotating mandrel 14.0 times at 1.015 RPM
+closing shutter 2 [ Thu, 5/29/2014 01:53:37.9728 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 5/29/2014 01:53:51.5984 PM ]
+rotating mandrel 41.0 times at 0.993939393939 RPM
+closing shutter 1 [ Thu, 5/29/2014 02:35:11.0090 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+begin header for RandD2_TiN_MSFC_NFM4A_17sep2013 [ Tue, 6/3/2014 12:55:04.3351 PM ]

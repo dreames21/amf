@@ -1,0 +1,90 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 8.0 times at 0.997920997921 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 4.0 times at 0.983606557377 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 4.0 times at 0.967741935484 RPM
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 8.0 times at 0.997920997921 RPM
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 2.99376299376 RPM
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 2.99376299376 RPM
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 2.99376299376 RPM
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 2.99376299376 RPM
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 2.99376299376 RPM

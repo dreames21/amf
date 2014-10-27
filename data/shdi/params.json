@@ -1,0 +1,19 @@
+{
+    "N": 22, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "file": "../data\\shdi\\Ti_layer_R97_REV.dat", 
+        "name": "21ds", 
+        "rate": 0.1000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": false, 
+    "initial_cathode": 1, 
+    "name": "shdi", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 13.0000
+}

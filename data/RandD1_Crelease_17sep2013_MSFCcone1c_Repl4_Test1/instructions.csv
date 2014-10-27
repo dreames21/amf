@@ -1,0 +1,232 @@
+-1,log,begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1,true
+-1,set,current_N,0
+-1,set,current_sweep_iterations,0
+-1,set,mandrel_axis,4
+-1,set,platen_axis,3
+-1,set,axis 3 name,platen
+-1,set,current_bilayer,0
+-1,set,axis 3 accel_decel,500000
+-1,set,N,1
+-1,set,chamber_name,R&D1
+-1,set,axis 4 steps_in_rev,25000
+-1,set,axis 4 accel_decel,500000
+-1,set,cathode 1 name,cathode 1
+-1,set,run_name,RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+-1,set,axis 3 steps_in_rev,250000
+-1,set,axis 4 conversion_factor,417.448
+-1,set,axis 3 conversion_factor,4171.87
+-1,set,cathode 1 deposition_rate,1.2
+-1,set,axis 4 name,mandrel
+-1,log,N = 1,false
+-1,log,axis 3 accel_decel = 500000,false
+-1,log,axis 3 conversion_factor = 4171.87,false
+-1,log,axis 3 name = platen,false
+-1,log,axis 3 steps_in_rev = 250000,false
+-1,log,axis 4 accel_decel = 500000,false
+-1,log,axis 4 conversion_factor = 417.448,false
+-1,log,axis 4 name = mandrel,false
+-1,log,axis 4 steps_in_rev = 25000,false
+-1,log,cathode 1 deposition_rate = 1.2,false
+-1,log,cathode 1 name = cathode 1,false
+-1,log,chamber_name = R&D1,false
+-1,log,current_N = 0,false
+-1,log,current_bilayer = 0,false
+-1,log,current_sweep_iterations = 0,false
+-1,log,mandrel_axis = 4,false
+-1,log,platen_axis = 3,false
+-1,log,run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1,false
+0,log,,false
+1,log,starting layer 1,false
+2,log,starting bilayer 1,false
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,94.0
+6,log,ofsetting platen back -5.0 degrees,false
+7,move_angle,3,-3472,12515.61,500000
+8,log,ofsetting mandrel back -4.0 degrees,false
+9,move_angle,4,-277,1252.344,500000
+10,log,sweeping slave axis platen at 10.0 angle at 2.0 RPM,false
+11,slave_sweep,3,start,6944,8343.74,500000
+12,log,opening shutter 1,true
+13,shutter,1,open
+14,log,rotating mandrel 94.0 times at 2.50666666667 RPM,false
+15,set,current_sweep,1
+16,move_angle,4,25000,1046.40298667,500000
+17,set,current_sweep,2
+18,move_angle,4,25000,1046.40298667,500000
+19,set,current_sweep,3
+20,move_angle,4,25000,1046.40298667,500000
+21,set,current_sweep,4
+22,move_angle,4,25000,1046.40298667,500000
+23,set,current_sweep,5
+24,move_angle,4,25000,1046.40298667,500000
+25,set,current_sweep,6
+26,move_angle,4,25000,1046.40298667,500000
+27,set,current_sweep,7
+28,move_angle,4,25000,1046.40298667,500000
+29,set,current_sweep,8
+30,move_angle,4,25000,1046.40298667,500000
+31,set,current_sweep,9
+32,move_angle,4,25000,1046.40298667,500000
+33,set,current_sweep,10
+34,move_angle,4,25000,1046.40298667,500000
+35,set,current_sweep,11
+36,move_angle,4,25000,1046.40298667,500000
+37,set,current_sweep,12
+38,move_angle,4,25000,1046.40298667,500000
+39,set,current_sweep,13
+40,move_angle,4,25000,1046.40298667,500000
+41,set,current_sweep,14
+42,move_angle,4,25000,1046.40298667,500000
+43,set,current_sweep,15
+44,move_angle,4,25000,1046.40298667,500000
+45,set,current_sweep,16
+46,move_angle,4,25000,1046.40298667,500000
+47,set,current_sweep,17
+48,move_angle,4,25000,1046.40298667,500000
+49,set,current_sweep,18
+50,move_angle,4,25000,1046.40298667,500000
+51,set,current_sweep,19
+52,move_angle,4,25000,1046.40298667,500000
+53,set,current_sweep,20
+54,move_angle,4,25000,1046.40298667,500000
+55,set,current_sweep,21
+56,move_angle,4,25000,1046.40298667,500000
+57,set,current_sweep,22
+58,move_angle,4,25000,1046.40298667,500000
+59,set,current_sweep,23
+60,move_angle,4,25000,1046.40298667,500000
+61,set,current_sweep,24
+62,move_angle,4,25000,1046.40298667,500000
+63,set,current_sweep,25
+64,move_angle,4,25000,1046.40298667,500000
+65,set,current_sweep,26
+66,move_angle,4,25000,1046.40298667,500000
+67,set,current_sweep,27
+68,move_angle,4,25000,1046.40298667,500000
+69,set,current_sweep,28
+70,move_angle,4,25000,1046.40298667,500000
+71,set,current_sweep,29
+72,move_angle,4,25000,1046.40298667,500000
+73,set,current_sweep,30
+74,move_angle,4,25000,1046.40298667,500000
+75,set,current_sweep,31
+76,move_angle,4,25000,1046.40298667,500000
+77,set,current_sweep,32
+78,move_angle,4,25000,1046.40298667,500000
+79,set,current_sweep,33
+80,move_angle,4,25000,1046.40298667,500000
+81,set,current_sweep,34
+82,move_angle,4,25000,1046.40298667,500000
+83,set,current_sweep,35
+84,move_angle,4,25000,1046.40298667,500000
+85,set,current_sweep,36
+86,move_angle,4,25000,1046.40298667,500000
+87,set,current_sweep,37
+88,move_angle,4,25000,1046.40298667,500000
+89,set,current_sweep,38
+90,move_angle,4,25000,1046.40298667,500000
+91,set,current_sweep,39
+92,move_angle,4,25000,1046.40298667,500000
+93,set,current_sweep,40
+94,move_angle,4,25000,1046.40298667,500000
+95,set,current_sweep,41
+96,move_angle,4,25000,1046.40298667,500000
+97,set,current_sweep,42
+98,move_angle,4,25000,1046.40298667,500000
+99,set,current_sweep,43
+100,move_angle,4,25000,1046.40298667,500000
+101,set,current_sweep,44
+102,move_angle,4,25000,1046.40298667,500000
+103,set,current_sweep,45
+104,move_angle,4,25000,1046.40298667,500000
+105,set,current_sweep,46
+106,move_angle,4,25000,1046.40298667,500000
+107,set,current_sweep,47
+108,move_angle,4,25000,1046.40298667,500000
+109,set,current_sweep,48
+110,move_angle,4,25000,1046.40298667,500000
+111,set,current_sweep,49
+112,move_angle,4,25000,1046.40298667,500000
+113,set,current_sweep,50
+114,move_angle,4,25000,1046.40298667,500000
+115,set,current_sweep,51
+116,move_angle,4,25000,1046.40298667,500000
+117,set,current_sweep,52
+118,move_angle,4,25000,1046.40298667,500000
+119,set,current_sweep,53
+120,move_angle,4,25000,1046.40298667,500000
+121,set,current_sweep,54
+122,move_angle,4,25000,1046.40298667,500000
+123,set,current_sweep,55
+124,move_angle,4,25000,1046.40298667,500000
+125,set,current_sweep,56
+126,move_angle,4,25000,1046.40298667,500000
+127,set,current_sweep,57
+128,move_angle,4,25000,1046.40298667,500000
+129,set,current_sweep,58
+130,move_angle,4,25000,1046.40298667,500000
+131,set,current_sweep,59
+132,move_angle,4,25000,1046.40298667,500000
+133,set,current_sweep,60
+134,move_angle,4,25000,1046.40298667,500000
+135,set,current_sweep,61
+136,move_angle,4,25000,1046.40298667,500000
+137,set,current_sweep,62
+138,move_angle,4,25000,1046.40298667,500000
+139,set,current_sweep,63
+140,move_angle,4,25000,1046.40298667,500000
+141,set,current_sweep,64
+142,move_angle,4,25000,1046.40298667,500000
+143,set,current_sweep,65
+144,move_angle,4,25000,1046.40298667,500000
+145,set,current_sweep,66
+146,move_angle,4,25000,1046.40298667,500000
+147,set,current_sweep,67
+148,move_angle,4,25000,1046.40298667,500000
+149,set,current_sweep,68
+150,move_angle,4,25000,1046.40298667,500000
+151,set,current_sweep,69
+152,move_angle,4,25000,1046.40298667,500000
+153,set,current_sweep,70
+154,move_angle,4,25000,1046.40298667,500000
+155,set,current_sweep,71
+156,move_angle,4,25000,1046.40298667,500000
+157,set,current_sweep,72
+158,move_angle,4,25000,1046.40298667,500000
+159,set,current_sweep,73
+160,move_angle,4,25000,1046.40298667,500000
+161,set,current_sweep,74
+162,move_angle,4,25000,1046.40298667,500000
+163,set,current_sweep,75
+164,move_angle,4,25000,1046.40298667,500000
+165,set,current_sweep,76
+166,move_angle,4,25000,1046.40298667,500000
+167,set,current_sweep,77
+168,move_angle,4,25000,1046.40298667,500000
+169,set,current_sweep,78
+170,move_angle,4,25000,1046.40298667,500000
+171,set,current_sweep,79
+172,move_angle,4,25000,1046.40298667,500000
+173,set,current_sweep,80
+174,move_angle,4,25000,1046.40298667,500000
+175,set,current_sweep,81
+176,move_angle,4,25000,1046.40298667,500000
+177,set,current_sweep,82
+178,move_angle,4,25000,1046.40298667,500000
+179,set,current_sweep,83
+180,move_angle,4,25000,1046.40298667,500000
+181,set,current_sweep,84
+182,move_angle,4,25000,1046.40298667,500000
+183,set,current_sweep,85
+184,move_angle,4,25000,1046.40298667,500000
+185,set,current_sweep,86
+186,move_angle,4,25000,1046.40298667,500000
+187,set,current_sweep,87
+188,move_angle,4,25000,1046.40298667,500000
+189,set,current_sweep,88
+190,move_angle,4,25000,1046.40298667,500000
+191,set,current_sweep,89
+192,move_angle,4,25000,1046.40298667,500000
+193,set,current_sweep,90
+194,move_angle,4

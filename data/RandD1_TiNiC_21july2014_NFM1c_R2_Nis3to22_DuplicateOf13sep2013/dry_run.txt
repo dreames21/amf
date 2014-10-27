@@ -1,0 +1,501 @@
+begin header for RandD1_TiNiC_21july2014_NFM1c_R2_Nis3to22_DuplicateOf13sep2013
+N = 20
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 6.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 6.0
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_21july2014_NFM1c_R2_Nis3to22_DuplicateOf13sep2013
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 19.0 times at 1.02702702703 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 32.0 times at 0.989371980676 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 18.0 times at 1.00934579439 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 28.0 times at 0.984615384615 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 17.0 times at 0.990291262136 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 26.0 times at 1.00848484848 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 17.0 times at 1.02 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 24.0 times at 1.00392156863 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 16.0 times at 0.989690721649 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 22.0 times at 0.984615384615 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 16.0 times at 1.02127659574 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 21.0 times at 0.995555555556 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 15.0 times at 0.978260869565 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 20.0 times at 0.992248062016 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 15.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 19.0 times at 0.98064516129 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 9
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 15.0 times at 1.02272727273 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 19.0 times at 1.01333333333 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 10
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 15.0 times at 1.03448275862 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 18.0 times at 0.993103448276 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 11
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 14.0 times at 0.988235294118 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 18.0 times at 1.02857142857 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 12
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 14.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 17.0 times at 0.998165137615 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 13
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 14.0 times at 1.01204819277 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 17.0 times at 1.02641509434 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 14
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 14.0 times at 1.0243902439 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 16.0 times at 0.984615384615 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 15
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 0.975 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 16.0 times at 1.00392156863 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 16
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 0.987341772152 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 16.0 times at 1.024 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 17
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 15.0 times at 0.979591836735 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 18
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 15.0 times at 1.0 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 19
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 1.01298701299 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 15.0 times at 1.02127659574 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 20
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 2
+rotating mandrel 13.0 times at 1.02631578947 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 15.0 times at 1.03225806452 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees

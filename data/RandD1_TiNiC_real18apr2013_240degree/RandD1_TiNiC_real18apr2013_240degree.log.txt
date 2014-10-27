@@ -1,0 +1,747 @@
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 02:44:43.5701 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 02:44:55.0232 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 02:44:55.5701 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 02:47:02.0232 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 4/18/2013 02:47:05.0544 PM ]
+sweeping mandrel back and forth 45.0 times at 1.00746268657 RPM
+starting sweep 0 of 45 [ Thu, 4/18/2013 02:47:05.0701 PM ]
+starting sweep 1 of 45 [ Thu, 4/18/2013 02:47:19.9919 PM ]
+starting sweep 2 of 45 [ Thu, 4/18/2013 02:47:34.9138 PM ]
+starting sweep 3 of 45 [ Thu, 4/18/2013 02:47:49.8513 PM ]
+starting sweep 4 of 45 [ Thu, 4/18/2013 02:48:04.7732 PM ]
+starting sweep 5 of 45 [ Thu, 4/18/2013 02:48:19.6951 PM ]
+starting sweep 6 of 45 [ Thu, 4/18/2013 02:48:34.6169 PM ]
+starting sweep 7 of 45 [ Thu, 4/18/2013 02:48:49.5388 PM ]
+starting sweep 8 of 45 [ Thu, 4/18/2013 02:49:04.4763 PM ]
+starting sweep 9 of 45 [ Thu, 4/18/2013 02:49:19.3982 PM ]
+starting sweep 10 of 45 [ Thu, 4/18/2013 02:49:34.3357 PM ]
+starting sweep 11 of 45 [ Thu, 4/18/2013 02:49:49.2576 PM ]
+starting sweep 12 of 45 [ Thu, 4/18/2013 02:50:04.1951 PM ]
+starting sweep 13 of 45 [ Thu, 4/18/2013 02:50:19.1169 PM ]
+starting sweep 14 of 45 [ Thu, 4/18/2013 02:50:34.0544 PM ]
+starting sweep 15 of 45 [ Thu, 4/18/2013 02:50:48.9763 PM ]
+starting sweep 16 of 45 [ Thu, 4/18/2013 02:51:03.9138 PM ]
+starting sweep 17 of 45 [ Thu, 4/18/2013 02:51:18.8357 PM ]
+starting sweep 18 of 45 [ Thu, 4/18/2013 02:51:33.7576 PM ]
+starting sweep 19 of 45 [ Thu, 4/18/2013 02:51:48.6951 PM ]
+starting sweep 20 of 45 [ Thu, 4/18/2013 02:52:03.6169 PM ]
+starting sweep 21 of 45 [ Thu, 4/18/2013 02:52:18.5388 PM ]
+starting sweep 22 of 45 [ Thu, 4/18/2013 02:52:33.4607 PM ]
+starting sweep 23 of 45 [ Thu, 4/18/2013 02:52:48.3982 PM ]
+starting sweep 24 of 45 [ Thu, 4/18/2013 02:53:03.3201 PM ]
+starting sweep 25 of 45 [ Thu, 4/18/2013 02:53:18.2419 PM ]
+starting sweep 26 of 45 [ Thu, 4/18/2013 02:53:33.1638 PM ]
+starting sweep 27 of 45 [ Thu, 4/18/2013 02:53:48.1013 PM ]
+starting sweep 28 of 45 [ Thu, 4/18/2013 02:54:03.0232 PM ]
+starting sweep 29 of 45 [ Thu, 4/18/2013 02:54:17.9451 PM ]
+starting sweep 30 of 45 [ Thu, 4/18/2013 02:54:32.8669 PM ]
+starting sweep 31 of 45 [ Thu, 4/18/2013 02:54:47.8044 PM ]
+starting sweep 32 of 45 [ Thu, 4/18/2013 02:55:02.7263 PM ]
+starting sweep 33 of 45 [ Thu, 4/18/2013 02:55:17.6482 PM ]
+starting sweep 34 of 45 [ Thu, 4/18/2013 02:55:32.5857 PM ]
+starting sweep 35 of 45 [ Thu, 4/18/2013 02:55:47.5076 PM ]
+starting sweep 36 of 45 [ Thu, 4/18/2013 02:56:02.4294 PM ]
+starting sweep 37 of 45 [ Thu, 4/18/2013 02:56:17.3669 PM ]
+starting sweep 38 of 45 [ Thu, 4/18/2013 02:56:32.2888 PM ]
+starting sweep 39 of 45 [ Thu, 4/18/2013 02:56:47.2107 PM ]
+starting sweep 40 of 45 [ Thu, 4/18/2013 02:57:02.1326 PM ]
+starting sweep 41 of 45 [ Thu, 4/18/2013 02:57:17.0544 PM ]
+starting sweep 42 of 45 [ Thu, 4/18/2013 02:57:31.9763 PM ]
+starting sweep 43 of 45 [ Thu, 4/18/2013 02:57:46.9138 PM ]
+starting sweep 44 of 45 [ Thu, 4/18/2013 02:58:01.8357 PM ]
+closing shutter 2 [ Thu, 4/18/2013 02:58:16.7576 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving -45.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 02:58:34.5544 PM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 02:58:34.5701 PM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 02:58:49.6013 PM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 02:59:04.6326 PM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 02:59:19.6638 PM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 02:59:34.6951 PM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 02:59:49.7263 PM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 03:00:04.7576 PM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 03:00:19.7888 PM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 03:00:34.8201 PM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 03:00:49.8513 PM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 03:01:04.8982 PM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 03:01:19.9138 PM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 03:01:34.9451 PM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 03:01:49.9919 PM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 03:02:05.0232 PM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 03:02:20.0544 PM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 03:02:35.0857 PM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 03:02:50.1169 PM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 03:03:05.1482 PM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 03:03:20.1794 PM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 03:03:35.2263 PM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 03:03:50.2576 PM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 03:04:05.2888 PM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 03:04:20.3201 PM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 03:04:35.3513 PM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 03:04:50.3826 PM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 03:05:05.4294 PM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 03:05:20.4607 PM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 03:05:35.4919 PM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 03:05:50.5232 PM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 03:06:05.5544 PM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 03:06:20.5857 PM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 03:06:35.6326 PM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 03:06:50.6638 PM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 03:07:05.6951 PM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 03:07:20.7263 PM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 03:07:35.7576 PM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 03:07:50.7888 PM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 03:08:05.8357 PM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 03:08:20.8513 PM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 03:08:35.8826 PM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 03:08:50.9294 PM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 03:09:05.9607 PM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 03:09:20.9919 PM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 03:09:36.0232 PM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 03:09:51.0544 PM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 03:10:06.1013 PM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 03:10:21.1326 PM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 03:10:36.1638 PM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 03:10:51.1951 PM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 03:11:06.2263 PM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 03:11:21.2576 PM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 03:11:36.2888 PM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 03:11:51.3357 PM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 03:12:06.3669 PM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 03:12:21.3982 PM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 03:12:36.4294 PM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 03:12:51.4763 PM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 03:13:06.5076 PM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 03:13:21.5388 PM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 03:13:36.5701 PM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 03:13:51.6013 PM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 03:14:06.6326 PM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 03:14:21.6638 PM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 03:14:36.6951 PM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 03:14:51.7263 PM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 03:15:06.7576 PM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 03:15:21.7732 PM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 03:15:36.8044 PM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 03:15:51.8357 PM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 03:16:06.8669 PM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 03:16:21.8982 PM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 03:16:36.9294 PM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 03:16:51.9607 PM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 03:17:07.0076 PM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 03:17:22.0388 PM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 03:17:37.0544 PM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 03:17:52.1013 PM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 03:18:07.1326 PM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 03:18:22.1638 PM ]
+closing shutter 1 [ Thu, 4/18/2013 03:18:37.1951 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 45.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 4/18/2013 03:18:54.9919 PM ]
+sweeping mandrel back and forth 45.0 times at 1.00746268657 RPM
+starting sweep 0 of 45 [ Thu, 4/18/2013 03:18:55.0076 PM ]
+starting sweep 1 of 45 [ Thu, 4/18/2013 03:19:09.9294 PM ]
+starting sweep 2 of 45 [ Thu, 4/18/2013 03:19:24.8513 PM ]
+starting sweep 3 of 45 [ Thu, 4/18/2013 03:19:39.7732 PM ]
+starting sweep 4 of 45 [ Thu, 4/18/2013 03:19:54.7107 PM ]
+starting sweep 5 of 45 [ Thu, 4/18/2013 03:20:09.6326 PM ]
+starting sweep 6 of 45 [ Thu, 4/18/2013 03:20:24.5701 PM ]
+starting sweep 7 of 45 [ Thu, 4/18/2013 03:20:39.4919 PM ]
+starting sweep 8 of 45 [ Thu, 4/18/2013 03:20:54.4138 PM ]
+starting sweep 9 of 45 [ Thu, 4/18/2013 03:21:09.3357 PM ]
+starting sweep 10 of 45 [ Thu, 4/18/2013 03:21:24.2732 PM ]
+starting sweep 11 of 45 [ Thu, 4/18/2013 03:21:39.1951 PM ]
+starting sweep 12 of 45 [ Thu, 4/18/2013 03:21:54.1169 PM ]
+starting sweep 13 of 45 [ Thu, 4/18/2013 03:22:09.0388 PM ]
+starting sweep 14 of 45 [ Thu, 4/18/2013 03:22:23.9607 PM ]
+starting sweep 15 of 45 [ Thu, 4/18/2013 03:22:38.8982 PM ]
+starting sweep 16 of 45 [ Thu, 4/18/2013 03:22:53.8201 PM ]
+starting sweep 17 of 45 [ Thu, 4/18/2013 03:23:08.7419 PM ]
+starting sweep 18 of 45 [ Thu, 4/18/2013 03:23:23.6638 PM ]
+starting sweep 19 of 45 [ Thu, 4/18/2013 03:23:38.6013 PM ]
+starting sweep 20 of 45 [ Thu, 4/18/2013 03:23:53.5232 PM ]
+starting sweep 21 of 45 [ Thu, 4/18/2013 03:24:08.4607 PM ]
+starting sweep 22 of 45 [ Thu, 4/18/2013 03:24:23.3826 PM ]
+starting sweep 23 of 45 [ Thu, 4/18/2013 03:24:38.3044 PM ]
+starting sweep 24 of 45 [ Thu, 4/18/2013 03:24:53.2263 PM ]
+starting sweep 25 of 45 [ Thu, 4/18/2013 03:25:08.1638 PM ]
+starting sweep 26 of 45 [ Thu, 4/18/2013 03:25:23.0857 PM ]
+starting sweep 27 of 45 [ Thu, 4/18/2013 03:25:38.0076 PM ]
+starting sweep 28 of 45 [ Thu, 4/18/2013 03:25:52.9294 PM ]
+starting sweep 29 of 45 [ Thu, 4/18/2013 03:26:07.8513 PM ]
+starting sweep 30 of 45 [ Thu, 4/18/2013 03:26:22.7888 PM ]
+starting sweep 31 of 45 [ Thu, 4/18/2013 03:26:37.7107 PM ]
+starting sweep 32 of 45 [ Thu, 4/18/2013 03:26:52.6326 PM ]
+starting sweep 33 of 45 [ Thu, 4/18/2013 03:27:07.5544 PM ]
+starting sweep 34 of 45 [ Thu, 4/18/2013 03:27:22.4919 PM ]
+starting sweep 35 of 45 [ Thu, 4/18/2013 03:27:37.4294 PM ]
+starting sweep 36 of 45 [ Thu, 4/18/2013 03:27:52.3513 PM ]
+starting sweep 37 of 45 [ Thu, 4/18/2013 03:28:07.2888 PM ]
+starting sweep 38 of 45 [ Thu, 4/18/2013 03:28:22.2107 PM ]
+starting sweep 39 of 45 [ Thu, 4/18/2013 03:28:37.1326 PM ]
+starting sweep 40 of 45 [ Thu, 4/18/2013 03:28:52.0544 PM ]
+starting sweep 41 of 45 [ Thu, 4/18/2013 03:29:06.9919 PM ]
+starting sweep 42 of 45 [ Thu, 4/18/2013 03:29:21.9138 PM ]
+starting sweep 43 of 45 [ Thu, 4/18/2013 03:29:36.8357 PM ]
+starting sweep 44 of 45 [ Thu, 4/18/2013 03:29:51.7732 PM ]
+closing shutter 2 [ Thu, 4/18/2013 03:30:06.6951 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving -45.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 03:30:24.4294 PM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 03:30:24.4451 PM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 03:30:39.4763 PM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 03:30:54.5076 PM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 03:31:09.5388 PM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 03:31:24.5701 PM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 03:31:39.6013 PM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 03:31:54.6326 PM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 03:32:09.6638 PM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 03:32:24.6951 PM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 03:32:39.7419 PM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 03:32:54.7732 PM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 03:33:09.8044 PM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 03:33:24.8357 PM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 03:33:39.8669 PM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 03:33:54.8982 PM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 03:34:09.9294 PM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 03:34:24.9607 PM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 03:34:40.0076 PM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 03:34:55.0388 PM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 03:35:10.0701 PM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 03:35:25.1013 PM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 03:35:40.1326 PM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 03:35:55.1638 PM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 03:36:10.1951 PM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 03:36:25.2263 PM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 03:36:40.2576 PM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 03:36:55.2888 PM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 03:37:10.3357 PM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 03:37:25.3826 PM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 03:37:40.4138 PM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 03:37:55.4451 PM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 03:38:10.4763 PM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 03:38:25.5076 PM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 03:38:40.5388 PM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 03:38:55.5701 PM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 03:39:10.6013 PM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 03:39:25.6326 PM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 03:39:40.6638 PM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 03:39:55.6951 PM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 03:40:10.7419 PM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 03:40:25.7732 PM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 03:40:40.8044 PM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 03:40:55.8357 PM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 03:41:10.8669 PM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 03:41:25.8982 PM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 03:41:40.9294 PM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 03:41:55.9607 PM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 03:42:10.9919 PM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 03:42:26.0232 PM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 03:42:41.0544 PM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 03:42:56.0701 PM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 03:43:11.1169 PM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 03:43:26.1482 PM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 03:43:41.1794 PM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 03:43:56.2107 PM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 03:44:11.2419 PM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 03:44:26.2576 PM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 03:44:41.2888 PM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 03:44:56.3201 PM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 03:45:11.3513 PM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 03:45:26.3826 PM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 03:45:41.4138 PM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 03:45:56.4451 PM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 03:46:11.4763 PM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 03:46:26.5076 PM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 03:46:41.5388 PM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 03:46:56.5701 PM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 03:47:11.6013 PM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 03:47:26.6326 PM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 03:47:41.6638 PM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 03:47:56.7107 PM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 03:48:11.7419 PM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 03:48:26.7732 PM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 03:48:41.8044 PM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 03:48:56.8357 PM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 03:49:11.8669 PM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 03:49:26.8982 PM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 03:49:41.9294 PM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 03:49:56.9607 PM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 03:50:11.9919 PM ]
+closing shutter 1 [ Thu, 4/18/2013 03:50:27.0232 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 45.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 4/18/2013 03:50:44.7888 PM ]
+sweeping mandrel back and forth 45.0 times at 1.00746268657 RPM
+starting sweep 0 of 45 [ Thu, 4/18/2013 03:50:44.8201 PM ]
+starting sweep 1 of 45 [ Thu, 4/18/2013 03:50:59.7419 PM ]
+starting sweep 2 of 45 [ Thu, 4/18/2013 03:51:14.6482 PM ]
+starting sweep 3 of 45 [ Thu, 4/18/2013 03:51:29.5857 PM ]
+starting sweep 4 of 45 [ Thu, 4/18/2013 03:51:44.5076 PM ]
+starting sweep 5 of 45 [ Thu, 4/18/2013 03:51:59.4451 PM ]
+starting sweep 6 of 45 [ Thu, 4/18/2013 03:52:14.3669 PM ]
+starting sweep 7 of 45 [ Thu, 4/18/2013 03:52:29.2888 PM ]
+starting sweep 8 of 45 [ Thu, 4/18/2013 03:52:44.2107 PM ]
+starting sweep 9 of 45 [ Thu, 4/18/2013 03:52:59.1482 PM ]
+starting sweep 10 of 45 [ Thu, 4/18/2013 03:53:14.0701 PM ]
+starting sweep 11 of 45 [ Thu, 4/18/2013 03:53:28.9919 PM ]
+starting sweep 12 of 45 [ Thu, 4/18/2013 03:53:43.9138 PM ]
+starting sweep 13 of 45 [ Thu, 4/18/2013 03:53:58.8357 PM ]
+starting sweep 14 of 45 [ Thu, 4/18/2013 03:54:13.7732 PM ]
+starting sweep 15 of 45 [ Thu, 4/18/2013 03:54:28.6951 PM ]
+starting sweep 16 of 45 [ Thu, 4/18/2013 03:54:43.6169 PM ]
+starting sweep 17 of 45 [ Thu, 4/18/2013 03:54:58.5388 PM ]
+starting sweep 18 of 45 [ Thu, 4/18/2013 03:55:13.4763 PM ]
+starting sweep 19 of 45 [ Thu, 4/18/2013 03:55:28.3982 PM ]
+starting sweep 20 of 45 [ Thu, 4/18/2013 03:55:43.3201 PM ]
+starting sweep 21 of 45 [ Thu, 4/18/2013 03:55:58.2419 PM ]
+starting sweep 22 of 45 [ Thu, 4/18/2013 03:56:13.1638 PM ]
+starting sweep 23 of 45 [ Thu, 4/18/2013 03:56:28.0857 PM ]
+starting sweep 24 of 45 [ Thu, 4/18/2013 03:56:43.0232 PM ]
+starting sweep 25 of 45 [ Thu, 4/18/2013 03:56:57.9451 PM ]
+starting sweep 26 of 45 [ Thu, 4/18/2013 03:57:12.8669 PM ]
+starting sweep 27 of 45 [ Thu, 4/18/2013 03:57:27.8044 PM ]
+starting sweep 28 of 45 [ Thu, 4/18/2013 03:57:42.7263 PM ]
+starting sweep 29 of 45 [ Thu, 4/18/2013 03:57:57.6482 PM ]
+starting sweep 30 of 45 [ Thu, 4/18/2013 03:58:12.5701 PM ]
+starting sweep 31 of 45 [ Thu, 4/18/2013 03:58:27.5076 PM ]
+starting sweep 32 of 45 [ Thu, 4/18/2013 03:58:42.4294 PM ]
+starting sweep 33 of 45 [ Thu, 4/18/2013 03:58:57.3669 PM ]
+starting sweep 34 of 45 [ Thu, 4/18/2013 03:59:12.2888 PM ]
+starting sweep 35 of 45 [ Thu, 4/18/2013 03:59:27.2107 PM ]
+starting sweep 36 of 45 [ Thu, 4/18/2013 03:59:42.1482 PM ]
+starting sweep 37 of 45 [ Thu, 4/18/2013 03:59:57.0701 PM ]
+starting sweep 38 of 45 [ Thu, 4/18/2013 04:00:11.9919 PM ]
+starting sweep 39 of 45 [ Thu, 4/18/2013 04:00:26.9138 PM ]
+starting sweep 40 of 45 [ Thu, 4/18/2013 04:00:41.8513 PM ]
+starting sweep 41 of 45 [ Thu, 4/18/2013 04:00:56.7732 PM ]
+starting sweep 42 of 45 [ Thu, 4/18/2013 04:01:11.6951 PM ]
+starting sweep 43 of 45 [ Thu, 4/18/2013 04:01:26.6169 PM ]
+starting sweep 44 of 45 [ Thu, 4/18/2013 04:01:41.5388 PM ]
+closing shutter 2 [ Thu, 4/18/2013 04:01:56.4607 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving -45.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 04:02:14.2107 PM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 04:02:14.2263 PM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 04:02:29.2419 PM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 04:02:44.2732 PM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 04:02:59.3201 PM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 04:03:14.3513 PM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 04:03:29.3826 PM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 04:03:44.4138 PM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 04:03:59.4451 PM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 04:04:14.4763 PM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 04:04:29.5232 PM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 04:04:44.5544 PM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 04:04:59.5857 PM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 04:05:14.6169 PM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 04:05:29.6482 PM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 04:05:44.6794 PM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 04:05:59.7107 PM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 04:06:14.7263 PM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 04:06:29.7576 PM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 04:06:44.7888 PM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 04:06:59.8357 PM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 04:07:14.8669 PM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 04:07:29.8826 PM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 04:07:44.9138 PM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 04:07:59.9607 PM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 04:08:14.9919 PM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 04:08:30.0076 PM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 04:08:45.0544 PM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 04:09:00.0857 PM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 04:09:15.1169 PM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 04:09:30.1482 PM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 04:09:45.1794 PM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 04:10:00.2107 PM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 04:10:15.2419 PM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 04:10:30.2732 PM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 04:10:45.3201 PM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 04:11:00.3357 PM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 04:11:15.3669 PM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 04:11:30.3982 PM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 04:11:45.4294 PM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 04:12:00.4607 PM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 04:12:15.4919 PM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 04:12:30.5232 PM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 04:12:45.5544 PM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 04:13:00.5857 PM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 04:13:15.6169 PM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 04:13:30.6482 PM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 04:13:45.6794 PM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 04:14:00.7107 PM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 04:14:15.7419 PM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 04:14:30.7732 PM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 04:14:45.8044 PM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 04:15:00.8513 PM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 04:15:15.8826 PM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 04:15:30.9138 PM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 04:15:45.9607 PM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 04:16:00.9919 PM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 04:16:16.0232 PM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 04:16:31.0544 PM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 04:16:46.0857 PM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 04:17:01.1169 PM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 04:17:16.1482 PM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 04:17:31.1794 PM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 04:17:46.2107 PM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 04:18:01.2419 PM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 04:18:16.2732 PM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 04:18:31.3044 PM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 04:18:46.3357 PM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 04:19:01.3669 PM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 04:19:16.4138 PM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 04:19:31.4451 PM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 04:19:46.4763 PM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 04:20:01.5232 PM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 04:20:16.5544 PM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 04:20:31.5857 PM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 04:20:46.6013 PM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 04:21:01.6326 PM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 04:21:16.6638 PM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 04:21:31.7107 PM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 04:21:46.7419 PM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 04:22:01.7732 PM ]
+closing shutter 1 [ Thu, 4/18/2013 04:22:16.8044 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 45.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 2 [ Thu, 4/18/2013 04:22:34.6638 PM ]
+sweeping mandrel back and forth 45.0 times at 1.00746268657 RPM
+starting sweep 0 of 45 [ Thu, 4/18/2013 04:22:34.6951 PM ]
+starting sweep 1 of 45 [ Thu, 4/18/2013 04:22:49.6013 PM ]
+starting sweep 2 of 45 [ Thu, 4/18/2013 04:23:04.5388 PM ]
+starting sweep 3 of 45 [ Thu, 4/18/2013 04:23:19.4607 PM ]
+starting sweep 4 of 45 [ Thu, 4/18/2013 04:23:34.3826 PM ]
+starting sweep 5 of 45 [ Thu, 4/18/2013 04:23:49.3201 PM ]
+starting sweep 6 of 45 [ Thu, 4/18/2013 04:24:04.2419 PM ]
+starting sweep 7 of 45 [ Thu, 4/18/2013 04:24:19.1638 PM ]
+starting sweep 8 of 45 [ Thu, 4/18/2013 04:24:34.1013 PM ]
+starting sweep 9 of 45 [ Thu, 4/18/2013 04:24:49.0232 PM ]
+starting sweep 10 of 45 [ Thu, 4/18/2013 04:25:03.9451 PM ]
+starting sweep 11 of 45 [ Thu, 4/18/2013 04:25:18.8669 PM ]
+starting sweep 12 of 45 [ Thu, 4/18/2013 04:25:33.8044 PM ]
+starting sweep 13 of 45 [ Thu, 4/18/2013 04:25:48.7263 PM ]
+starting sweep 14 of 45 [ Thu, 4/18/2013 04:26:03.6482 PM ]
+starting sweep 15 of 45 [ Thu, 4/18/2013 04:26:18.5857 PM ]
+starting sweep 16 of 45 [ Thu, 4/18/2013 04:26:33.5076 PM ]
+starting sweep 17 of 45 [ Thu, 4/18/2013 04:26:48.4451 PM ]
+starting sweep 18 of 45 [ Thu, 4/18/2013 04:27:03.3669 PM ]
+starting sweep 19 of 45 [ Thu, 4/18/2013 04:27:18.2888 PM ]
+starting sweep 20 of 45 [ Thu, 4/18/2013 04:27:33.2107 PM ]
+starting sweep 21 of 45 [ Thu, 4/18/2013 04:27:48.1482 PM ]
+starting sweep 22 of 45 [ Thu, 4/18/2013 04:28:03.0701 PM ]
+starting sweep 23 of 45 [ Thu, 4/18/2013 04:28:18.0076 PM ]
+starting sweep 24 of 45 [ Thu, 4/18/2013 04:28:32.9294 PM ]
+starting sweep 25 of 45 [ Thu, 4/18/2013 04:28:47.8513 PM ]
+starting sweep 26 of 45 [ Thu, 4/18/2013 04:29:02.7888 PM ]
+starting sweep 27 of 45 [ Thu, 4/18/2013 04:29:17.7107 PM ]
+starting sweep 28 of 45 [ Thu, 4/18/2013 04:29:32.6326 PM ]
+starting sweep 29 of 45 [ Thu, 4/18/2013 04:29:47.5544 PM ]
+starting sweep 30 of 45 [ Thu, 4/18/2013 04:30:02.4919 PM ]
+starting sweep 31 of 45 [ Thu, 4/18/2013 04:30:17.4138 PM ]
+starting sweep 32 of 45 [ Thu, 4/18/2013 04:30:32.3357 PM ]
+starting sweep 33 of 45 [ Thu, 4/18/2013 04:30:47.2732 PM ]
+starting sweep 34 of 45 [ Thu, 4/18/2013 04:31:02.1951 PM ]
+starting sweep 35 of 45 [ Thu, 4/18/2013 04:31:17.1169 PM ]
+starting sweep 36 of 45 [ Thu, 4/18/2013 04:31:32.0388 PM ]
+starting sweep 37 of 45 [ Thu, 4/18/2013 04:31:46.9607 PM ]
+starting sweep 38 of 45 [ Thu, 4/18/2013 04:32:01.8982 PM ]
+starting sweep 39 of 45 [ Thu, 4/18/2013 04:32:16.8201 PM ]
+starting sweep 40 of 45 [ Thu, 4/18/2013 04:32:31.7419 PM ]
+starting sweep 41 of 45 [ Thu, 4/18/2013 04:32:46.6638 PM ]
+starting sweep 42 of 45 [ Thu, 4/18/2013 04:33:01.6013 PM ]
+starting sweep 43 of 45 [ Thu, 4/18/2013 04:33:16.5232 PM ]
+starting sweep 44 of 45 [ Thu, 4/18/2013 04:33:31.4451 PM ]
+closing shutter 2 [ Thu, 4/18/2013 04:33:46.3826 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving -45.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 04:34:04.3044 PM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 04:34:04.3201 PM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 04:34:19.3513 PM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 04:34:34.3826 PM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 04:34:49.4138 PM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 04:35:04.4451 PM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 04:35:19.4763 PM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 04:35:34.5076 PM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 04:35:49.5388 PM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 04:36:04.5701 PM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 04:36:19.6013 PM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 04:36:34.6326 PM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 04:36:49.6638 PM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 04:37:04.6951 PM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 04:37:19.7263 PM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 04:37:34.7576 PM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 04:37:49.7888 PM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 04:38:04.8357 PM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 04:38:19.8669 PM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 04:38:34.8982 PM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 04:38:49.9294 PM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 04:39:04.9607 PM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 04:39:19.9919 PM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 04:39:35.0232 PM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 04:39:50.0544 PM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 04:40:05.0857 PM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 04:40:20.1326 PM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 04:40:35.1482 PM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 04:40:50.1794 PM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 04:41:05.2107 PM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 04:41:20.2419 PM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 04:41:35.2888 PM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 04:41:50.3201 PM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 04:42:05.3513 PM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 04:42:20.3826 PM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 04:42:35.4138 PM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 04:42:50.4451 PM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 04:43:05.4763 PM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 04:43:20.5076 PM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 04:43:35.5388 PM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 04:43:50.5701 PM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 04:44:05.6013 PM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 04:44:20.6326 PM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 04:44:35.6638 PM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 04:44:50.6951 PM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 04:45:05.7263 PM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 04:45:20.7576 PM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 04:45:35.7888 PM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 04:45:50.8201 PM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 04:46:05.8513 PM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 04:46:20.8826 PM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 04:46:35.9138 PM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 04:46:50.9451 PM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 04:47:05.9919 PM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 04:47:21.0076 PM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 04:47:36.0388 PM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 04:47:51.0857 PM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 04:48:06.1169 PM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 04:48:21.1482 PM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 04:48:36.1794 PM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 04:48:51.2107 PM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 04:49:06.2419 PM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 04:49:21.2732 PM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 04:49:36.3044 PM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 04:49:51.3357 PM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 04:50:06.3669 PM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 04:50:21.3982 PM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 04:50:36.4294 PM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 04:50:51.4607 PM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 04:51:06.4919 PM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 04:51:21.5232 PM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 04:51:36.5544 PM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 04:51:51.6013 PM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 04:52:06.6326 PM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 04:52:21.6638 PM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 04:52:36.6951 PM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 04:52:51.7263 PM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 04:53:06.7576 PM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 04:53:21.7888 PM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 04:53:36.8201 PM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 04:53:51.8513 PM ]
+closing shutter 1 [ Thu, 4/18/2013 04:54:06.8826 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 45.0 degrees
+rezero slave axis platen
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 05:04:17.5544 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+
+begin header for RandD1_TiNiC_real18apr2013_240degree [ Thu, 4/18/2013 05:04:18.0857 PM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_real18apr2013_240degree
+

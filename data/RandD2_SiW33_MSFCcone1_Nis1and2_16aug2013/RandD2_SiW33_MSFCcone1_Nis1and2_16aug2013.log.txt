@@ -1,0 +1,236 @@
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013 [ Fri, 8/16/2013 12:42:42.1183 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013 [ Fri, 8/16/2013 12:59:33.9152 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013 [ Fri, 8/16/2013 12:59:34.5871 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013 [ Fri, 8/16/2013 01:10:09.1339 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Fri, 8/16/2013 01:10:09.9308 PM ]
+rotating rotary stage 23.0 times at 1.01470588235 RPM
+closing shutter 2 [ Fri, 8/16/2013 01:32:51.6652 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Fri, 8/16/2013 01:33:04.4777 PM ]
+rotating rotary stage 5.0 times at 1.0 RPM
+closing shutter 1 [ Fri, 8/16/2013 01:38:04.9308 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Fri, 8/16/2013 01:38:17.8214 PM ]
+rotating rotary stage 23.0 times at 1.01470588235 RPM
+closing shutter 2 [ Fri, 8/16/2013 02:00:59.5402 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Fri, 8/16/2013 02:01:12.3371 PM ]
+rotating rotary stage 5.0 times at 1.0 RPM
+closing shutter 1 [ Fri, 8/16/2013 02:06:12.7902 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+begin header for RandD2_SiW33_MSFCcone1_Nis18_16aug2013 [ Fri, 8/16/2013 02:09:46.3683 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013 [ Mon, 9/23/2013 06:50:09.6658 PM ]
+N = 2
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 2.4
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 2.25
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_SiW33_MSFCcone1_Nis1and2_16aug2013
+
+begin header for RandD2_SiW34_MSFCcone1_Nis3to20_23aug2013 [ Tue, 9/24/2013 06:50:17.6346 AM ]

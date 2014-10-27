@@ -1,0 +1,374 @@
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 1883.0 times at 1.99913790714 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 690.0 times at 1.99836065574 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 971.0 times at 1.99942473118 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 656.0 times at 1.99816091954 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 810.0 times at 1.99826086957 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 628.0 times at 1.99903903904 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 712.0 times at 1.99777289377 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 605.0 times at 1.99781931464 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 646.0 times at 1.99933737374 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 583.0 times at 1.99993527508 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 599.0 times at 1.99927668845 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 566.0 times at 1.99986666667 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 560.0 times at 1.99981351981 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 549.0 times at 1.99979381443 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 528.0 times at 1.99727407407 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 532.0 times at 1.99971631206 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 9
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 505.0 times at 1.99912144703 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 520.0 times at 1.99710144928 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 10
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 485.0 times at 1.9973655914 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 509.0 times at 1.9982962963 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 11
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 469.0 times at 1.99585555556 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 498.0 times at 1.99954545455 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 12
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 454.0 times at 1.99864367816 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 492.0 times at 1.99816091954 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 13
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 438.0 times at 1.99707142857 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 481.0 times at 1.99945098039 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 14
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 426.0 times at 1.99581651376 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 475.0 times at 1.99801587302 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 15
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 415.0 times at 1.9993081761 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 469.0 times at 1.99654618474 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 16
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 407.0 times at 1.99847435897 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 464.0 times at 1.9993495935 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 17
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 399.0 times at 1.99760784314 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 452.0 times at 1.99633333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 18
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 391.0 times at 1.99670666667 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 447.0 times at 1.99924050633 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 19
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 383.0 times at 1.99576870748 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 441.0 times at 1.99769230769 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 20
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 375.0 times at 1.99479166667 RPM
+closing shutter 1
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 441.0 times at 1.99769230769 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 21
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 368.0 times at 1.99920567376 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 435.0 times at 1.9961038961 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+
+starting layer 22
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 364.0 times at 1.99873835125 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 430.0 times at 1.99912280702 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees

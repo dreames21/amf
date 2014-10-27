@@ -1,0 +1,231 @@
+-1,log,begin header for RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1,true
+-1,set,current_bilayer,0
+-1,set,current_N,0
+-1,set,current_sweep_iterations,0
+-1,set,mandrel_axis,4
+-1,set,platen_axis,3
+-1,set,axis 3 name,platen
+-1,set,run_name,RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1
+-1,set,axis 3 accel_decel,500000
+-1,set,cathode 2 deposition_rate,0.265
+-1,set,N,5
+-1,set,chamber_name,R&D1
+-1,set,axis 4 steps_in_rev,25000
+-1,set,axis 4 accel_decel,500000
+-1,set,cathode 1 name,cathode 1
+-1,set,cathode 2 name,cathode 2
+-1,set,axis 3 steps_in_rev,250000
+-1,set,axis 4 conversion_factor,417.448
+-1,set,axis 3 conversion_factor,4171.87
+-1,set,cathode 1 deposition_rate,0.383
+-1,set,axis 4 name,mandrel
+-1,log,N = 5,false
+-1,log,axis 3 accel_decel = 500000,false
+-1,log,axis 3 conversion_factor = 4171.87,false
+-1,log,axis 3 name = platen,false
+-1,log,axis 3 steps_in_rev = 250000,false
+-1,log,axis 4 accel_decel = 500000,false
+-1,log,axis 4 conversion_factor = 417.448,false
+-1,log,axis 4 name = mandrel,false
+-1,log,axis 4 steps_in_rev = 25000,false
+-1,log,cathode 1 deposition_rate = 0.383,false
+-1,log,cathode 1 name = cathode 1,false
+-1,log,cathode 2 deposition_rate = 0.265,false
+-1,log,cathode 2 name = cathode 2,false
+-1,log,chamber_name = R&D1,false
+-1,log,current_N = 0,false
+-1,log,current_bilayer = 0,false
+-1,log,current_sweep_iterations = 0,false
+-1,log,mandrel_axis = 4,false
+-1,log,platen_axis = 3,false
+-1,log,run_name = RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1,false
+0,log,,false
+1,log,starting layer 1,false
+2,log,starting bilayer 1,false
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,583.0
+6,log,ofsetting platen back -4.0 degrees,false
+7,move_angle,3,-2777,12515.61,500000
+8,log,opening shutter 2,true
+9,shutter,2,open
+10,log,sweeping platen back and forth 583.0 times at 1.99993527508 RPM,false
+11,sweep,3,583.0,5555,8343.46997605,500000
+12,log,closing shutter 2,true
+13,shutter,2,close
+14,log,rezeroing platen by moving -4.0 degrees,false
+15,move_angle,3,-2777,12515.61,500000
+16,check_pause
+17,log,moving platen 180.0 degrees,false
+18,move_angle,3,125000,12515.61,500000
+19,check_pause
+20,log,starting bilayer 2,false
+21,set,current_N,1
+22,set,current_bilayer,2
+23,set,current_sweep_iterations,646.0
+24,log,ofsetting platen back -4.0 degrees,false
+25,move_angle,3,-2777,12515.61,500000
+26,log,opening shutter 1,true
+27,shutter,1,open
+28,log,sweeping platen back and forth 646.0 times at 1.99933737374 RPM,false
+29,sweep,3,646.0,5555,8340.97560937,500000
+30,log,closing shutter 1,true
+31,shutter,1,close
+32,log,rezeroing platen by moving 4.0 degrees,false
+33,move_angle,3,2777,12515.61,500000
+34,check_pause
+35,log,moving platen -180.0 degrees,false
+36,move_angle,3,-125000,12515.61,500000
+37,check_pause
+38,log,,false
+39,log,starting layer 2,false
+40,log,starting bilayer 1,false
+41,set,current_N,2
+42,set,current_bilayer,1
+43,set,current_sweep_iterations,606.0
+44,log,ofsetting platen back -4.0 degrees,false
+45,move_angle,3,-2777,12515.61,500000
+46,log,opening shutter 2,true
+47,shutter,2,open
+48,log,sweeping platen back and forth 606.0 times at 2.00112149533 RPM,false
+49,sweep,3,606.0,5555,8348.41873271,500000
+50,log,closing shutter 2,true
+51,shutter,2,close
+52,log,rezeroing platen by moving 4.0 degrees,false
+53,move_angle,3,2777,12515.61,500000
+54,check_pause
+55,log,moving platen 180.0 degrees,false
+56,move_angle,3,125000,12515.61,500000
+57,check_pause
+58,log,starting bilayer 2,false
+59,set,current_N,2
+60,set,current_bilayer,2
+61,set,current_sweep_iterations,713.0
+62,log,ofsetting platen back -4.0 degrees,false
+63,move_angle,3,-2777,12515.61,500000
+64,log,opening shutter 1,true
+65,shutter,1,open
+66,log,sweeping platen back and forth 713.0 times at 2.00057875458 RPM,false
+67,sweep,3,713.0,5555,8346.15448886,500000
+68,log,closing shutter 1,true
+69,shutter,1,close
+70,log,rezeroing platen by moving -4.0 degrees,false
+71,move_angle,3,-2777,12515.61,500000
+72,check_pause
+73,log,moving platen -180.0 degrees,false
+74,move_angle,3,-125000,12515.61,500000
+75,check_pause
+76,log,,false
+77,log,starting layer 3,false
+78,log,starting bilayer 1,false
+79,set,current_N,3
+80,set,current_bilayer,1
+81,set,current_sweep_iterations,628.0
+82,log,ofsetting platen back -4.0 degrees,false
+83,move_angle,3,-2777,12515.61,500000
+84,log,opening shutter 2,true
+85,shutter,2,open
+86,log,sweeping platen back and forth 628.0 times at 1.99903903904 RPM,false
+87,sweep,3,628.0,5555,8339.7309958,500000
+88,log,closing shutter 2,true
+89,shutter,2,close
+90,log,rezeroing platen by moving 4.0 degrees,false
+91,move_angle,3,2777,12515.61,500000
+92,check_pause
+93,log,moving platen 180.0 degrees,false
+94,move_angle,3,125000,12515.61,500000
+95,check_pause
+96,log,starting bilayer 2,false
+97,set,current_N,3
+98,set,current_bilayer,2
+99,set,current_sweep_iterations,811.0
+100,log,ofsetting platen back -4.0 degrees,false
+101,move_angle,3,-2777,12515.61,500000
+102,log,opening shutter 1,true
+103,shutter,1,open
+104,log,sweeping platen back and forth 811.0 times at 2.00072785829 RPM,false
+105,sweep,3,811.0,5555,8346.77653018,500000
+106,log,closing shutter 1,true
+107,shutter,1,close
+108,log,rezeroing platen by moving -4.0 degrees,false
+109,move_angle,3,-2777,12515.61,500000
+110,check_pause
+111,log,moving platen -180.0 degrees,false
+112,move_angle,3,-125000,12515.61,500000
+113,check_pause
+114,log,,false
+115,log,starting layer 4,false
+116,log,starting bilayer 1,false
+117,set,current_N,4
+118,set,current_bilayer,1
+119,set,current_sweep_iterations,657.0
+120,log,ofsetting platen back -4.0 degrees,false
+121,move_angle,3,-2777,12515.61,500000
+122,log,opening shutter 2,true
+123,shutter,2,open
+124,log,sweeping platen back and forth 657.0 times at 2.00120689655 RPM,false
+125,sweep,3,657.0,5555,8348.77501552,500000
+126,log,closing shutter 2,true
+127,shutter,2,close
+128,log,rezeroing platen by moving -4.0 degrees,false
+129,move_angle,3,-2777,12515.61,500000
+130,check_pause
+131,log,moving platen 180.0 degrees,false
+132,move_angle,3,125000,12515.61,500000
+133,check_pause
+134,log,starting bilayer 2,false
+135,set,current_N,4
+136,set,current_bilayer,2
+137,set,current_sweep_iterations,971.0
+138,log,ofsetting platen back -4.0 degrees,false
+139,move_angle,3,-2777,12515.61,500000
+140,log,opening shutter 1,true
+141,shutter,1,open
+142,log,sweeping platen back and forth 971.0 times at 1.99942473118 RPM,false
+143,sweep,3,971.0,5555,8341.34005328,500000
+144,log,closing shutter 1,true
+145,shutter,1,close
+146,log,rezeroing platen by moving -4.0 degrees,false
+147,move_angle,3,-2777,12515.61,500000
+148,check_pause
+149,log,moving platen -180.0 degrees,false
+150,move_angle,3,-125000,12515.61,500000
+151,check_pause
+152,log,,false
+153,log,starting layer 5,false
+154,log,starting bilayer 1,false
+155,set,current_N,5
+156,set,current_bilayer,1
+157,set,current_sweep_iterations,691.0
+158,log,ofsetting platen back -4.0 degrees,false
+159,move_angle,3,-2777,12515.61,500000
+160,log,opening shutter 2,true
+161,shutter,2,open
+162,log,sweeping platen back and forth 691.0 times at 2.0012568306 RPM,false
+163,sweep,3,691.0,5555,8348.98333388,500000
+164,log,closing shutter 2,true
+165,shutter,2,close
+166,log,rezeroing platen by moving -4.0 degrees,false
+167,move_angle,3,-2777,12515.61,500000
+168,check_pause
+169,log,moving platen 180.0 degrees,false
+170,move_angle,3,125000,12515.61,500000
+171,check_pause
+172,log,starting bilayer 2,false
+173,set,current_N,5
+174,set,current_bilayer,2
+175,set,current_sweep_iterations,1884.0
+176,log,ofsetting platen back -4.0 degrees,false
+177,move_angle,3,-2777,12515.61,500000
+178,log,opening shutter 1,true
+179,shutter,1,open
+180,log,sweeping platen back and forth 1884.0 times at 2.0001995842 RPM,false
+181,sweep,3,1884.0,5555,8344.57263933,500000
+182,log,closing shutter 1,true
+183,shutter,1,close
+184,log,rezeroing platen by moving 4.0 degrees,false
+185,move_angle,3,2777,12515.61,500000
+186,check_pause
+187,log,moving platen -180.0 degrees,false
+188,move_angle,3,-125000,12515.61,500000
+189,check_pause

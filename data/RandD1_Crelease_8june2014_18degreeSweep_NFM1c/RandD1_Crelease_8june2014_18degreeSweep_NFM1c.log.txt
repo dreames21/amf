@@ -1,0 +1,151 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 03:47:35.2346 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 03:49:11.7346 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 03:49:12.1721 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 03:49:38.2346 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 03:49:38.7189 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+begin header for RandD1_Crelease_8june2014_18degreeSweep_NFM1c [ Sun, 6/8/2014 04:07:22.5783 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.1
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_8june2014_18degreeSweep_NFM1c
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -9.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 18.0 angle at 2.0 RPM
+opening shutter 1 [ Sun, 6/8/2014 04:07:23.7346 PM ]
+rotating mandrel 102.0 times at 2.49333333333 RPM
+closing shutter 1 [ Sun, 6/8/2014 04:48:21.6721 PM ]
+stopping slave sweep for platen
+rezeroing mandrel by moving 4.0 degrees
+rezero slave axis platen
+begin header for RandD1_TiNiC_9june2014_NFM1c_R1_HalfCurrent_1st3Layers [ Mon, 6/9/2014 12:10:47.7971 PM ]

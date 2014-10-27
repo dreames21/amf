@@ -1,0 +1,125 @@
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt12_6june2013
+
+begin header for RandD2_PReidPt12_6june2013 [ Thu, 6/6/2013 02:42:58.6334 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt12_6june2013
+
+begin header for RandD2_PReidPt12_6june2013 [ Thu, 6/6/2013 02:54:46.9932 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt12_6june2013
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Thu, 6/6/2013 02:54:50.0559 PM ]
+sweeping rotary stage back and forth 40.0 times at 1.0 RPM
+starting sweep 0 of 40 [ Thu, 6/6/2013 02:54:50.0871 PM ]
+starting sweep 1 of 40 [ Thu, 6/6/2013 02:55:05.1815 PM ]
+starting sweep 2 of 40 [ Thu, 6/6/2013 02:55:20.2291 PM ]
+starting sweep 3 of 40 [ Thu, 6/6/2013 02:55:35.3079 PM ]
+starting sweep 4 of 40 [ Thu, 6/6/2013 02:55:50.3711 PM ]
+starting sweep 5 of 40 [ Thu, 6/6/2013 02:56:05.4342 PM ]
+starting sweep 6 of 40 [ Thu, 6/6/2013 02:56:20.4818 PM ]
+starting sweep 7 of 40 [ Thu, 6/6/2013 02:56:35.5450 PM ]
+starting sweep 8 of 40 [ Thu, 6/6/2013 02:56:50.6081 PM ]
+starting sweep 9 of 40 [ Thu, 6/6/2013 02:57:05.6713 PM ]
+starting sweep 10 of 40 [ Thu, 6/6/2013 02:57:20.7345 PM ]
+starting sweep 11 of 40 [ Thu, 6/6/2013 02:57:35.7820 PM ]
+starting sweep 12 of 40 [ Thu, 6/6/2013 02:57:50.8452 PM ]
+starting sweep 13 of 40 [ Thu, 6/6/2013 02:58:05.8928 PM ]
+starting sweep 14 of 40 [ Thu, 6/6/2013 02:58:20.9559 PM ]
+starting sweep 15 of 40 [ Thu, 6/6/2013 02:58:36.0035 PM ]
+starting sweep 16 of 40 [ Thu, 6/6/2013 02:58:51.0667 PM ]
+starting sweep 17 of 40 [ Thu, 6/6/2013 02:59:06.1298 PM ]
+starting sweep 18 of 40 [ Thu, 6/6/2013 02:59:21.2086 PM ]
+starting sweep 19 of 40 [ Thu, 6/6/2013 02:59:36.2718 PM ]
+starting sweep 20 of 40 [ Thu, 6/6/2013 02:59:51.3350 PM ]
+starting sweep 21 of 40 [ Thu, 6/6/2013 03:00:06.4138 PM ]
+starting sweep 22 of 40 [ Thu, 6/6/2013 03:00:21.4613 PM ]
+starting sweep 23 of 40 [ Thu, 6/6/2013 03:00:36.5401 PM ]
+starting sweep 24 of 40 [ Thu, 6/6/2013 03:00:51.5877 PM ]
+starting sweep 25 of 40 [ Thu, 6/6/2013 03:01:06.6509 PM ]
+starting sweep 26 of 40 [ Thu, 6/6/2013 03:01:21.6984 PM ]
+starting sweep 27 of 40 [ Thu, 6/6/2013 03:01:36.7616 PM ]
+starting sweep 28 of 40 [ Thu, 6/6/2013 03:01:51.8247 PM ]
+starting sweep 29 of 40 [ Thu, 6/6/2013 03:02:06.8879 PM ]
+starting sweep 30 of 40 [ Thu, 6/6/2013 03:02:21.9355 PM ]
+starting sweep 31 of 40 [ Thu, 6/6/2013 03:02:36.9986 PM ]
+starting sweep 32 of 40 [ Thu, 6/6/2013 03:02:52.0618 PM ]
+starting sweep 33 of 40 [ Thu, 6/6/2013 03:03:07.1094 PM ]
+starting sweep 34 of 40 [ Thu, 6/6/2013 03:03:22.1882 PM ]
+starting sweep 35 of 40 [ Thu, 6/6/2013 03:03:37.2357 PM ]
+starting sweep 36 of 40 [ Thu, 6/6/2013 03:03:52.3145 PM ]
+starting sweep 37 of 40 [ Thu, 6/6/2013 03:04:07.3777 PM ]
+starting sweep 38 of 40 [ Thu, 6/6/2013 03:04:22.4252 PM ]
+starting sweep 39 of 40 [ Thu, 6/6/2013 03:04:37.5040 PM ]
+closing shutter 1 [ Thu, 6/6/2013 03:04:52.5516 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 45.0 degrees
+rezero slave axis platen

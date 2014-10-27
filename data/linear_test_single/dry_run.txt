@@ -1,0 +1,32 @@
+begin header for linear_test_single
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 2 deposition_rate = 2.0
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = linear_test_single
+
+starting layer 1
+starting bilayer 1
+ofsetting linear stage back -50.0 mm
+opening shutter 2
+sweeping linear stage 1.0 times at 10.0 mm/sec
+closing shutter 2
+rezeroing linear stage by moving -50.0 degrees

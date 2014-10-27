@@ -1,0 +1,101 @@
+begin header for RandD1_PtC_12mar2013_Run2_Bposn
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.326
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_PtC_12mar2013_Run2_Bposn
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 414.0 times at 1.99946666667 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 414.0 times at 1.99946666667 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 414.0 times at 1.99946666667 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 414.0 times at 1.99946666667 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 414.0 times at 1.99946666667 RPM
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees

@@ -1,0 +1,352 @@
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 2.5
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 3.0
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:39:37.3982 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 2.5
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 3.0
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:47:02.4919 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:47:02.9138 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:47:21.9919 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -60.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 09:47:25.8513 AM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 09:47:25.8669 AM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 09:47:45.8826 AM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 09:48:05.9138 AM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 09:48:25.9451 AM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 09:48:45.9763 AM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 09:49:06.0076 AM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 09:49:26.0232 AM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 09:49:46.0701 AM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 09:50:06.1013 AM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 09:50:26.1169 AM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 09:50:46.1638 AM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 09:50:51.8044 AM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 09:50:51.8044 AM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 09:50:51.8201 AM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 09:50:51.8201 AM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 09:50:51.8357 AM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 09:50:51.8357 AM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 09:50:51.8513 AM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 09:50:51.8513 AM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 09:50:51.8513 AM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 09:50:51.8669 AM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 09:50:51.8669 AM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 09:50:51.8669 AM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 09:50:51.8826 AM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 09:50:51.8826 AM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 09:50:51.8982 AM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 09:50:51.8982 AM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 09:50:51.8982 AM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 09:50:51.9138 AM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 09:50:51.9138 AM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 09:50:51.9294 AM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 09:50:51.9294 AM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 09:50:51.9294 AM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 09:50:51.9451 AM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 09:50:51.9451 AM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 09:50:51.9607 AM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 09:50:51.9607 AM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 09:50:51.9763 AM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 09:50:51.9763 AM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 09:50:51.9763 AM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 09:50:51.9919 AM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 09:50:51.9919 AM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 09:50:52.0076 AM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 09:50:52.0076 AM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 09:50:52.0232 AM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 09:50:52.0232 AM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 09:50:52.0388 AM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 09:50:52.0388 AM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 09:50:52.0388 AM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 09:50:52.0544 AM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 09:50:52.0544 AM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 09:50:52.0701 AM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 09:50:52.0701 AM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 09:50:52.0857 AM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 09:50:52.0857 AM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 09:50:52.0857 AM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 09:50:52.1013 AM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 09:50:52.1013 AM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 09:50:52.1169 AM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 09:50:52.1169 AM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 09:50:52.1326 AM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 09:50:52.1482 AM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 09:50:52.1482 AM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 09:50:52.1638 AM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 09:50:52.1794 AM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 09:50:52.1794 AM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 09:50:52.1951 AM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 09:50:52.2107 AM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 09:50:52.2263 AM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 09:50:52.2263 AM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 09:50:52.2419 AM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 09:50:52.2576 AM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 09:50:52.2576 AM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 09:50:52.2732 AM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 09:50:52.2732 AM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 09:50:52.2888 AM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 09:50:52.3044 AM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 09:50:52.3044 AM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 09:50:52.3201 AM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 09:50:52.3357 AM ]
+closing shutter 1 [ Thu, 4/18/2013 09:50:52.3357 AM ]
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:51:12.8826 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 09:51:13.4294 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+begin header for RandD1_TiNiC_20apr2013_120degree [ Thu, 4/18/2013 10:23:11.7107 AM ]
+N = 5
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.25
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.5
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiNiC_20apr2013_120degree
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -60.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1 [ Thu, 4/18/2013 10:23:15.6794 AM ]
+sweeping mandrel back and forth 80.0 times at 1.0 RPM
+starting sweep 0 of 80 [ Thu, 4/18/2013 10:23:15.6951 AM ]
+starting sweep 1 of 80 [ Thu, 4/18/2013 10:23:35.7263 AM ]
+starting sweep 2 of 80 [ Thu, 4/18/2013 10:23:55.7419 AM ]
+starting sweep 3 of 80 [ Thu, 4/18/2013 10:24:14.8826 AM ]
+starting sweep 4 of 80 [ Thu, 4/18/2013 10:24:14.8826 AM ]
+starting sweep 5 of 80 [ Thu, 4/18/2013 10:24:14.8982 AM ]
+starting sweep 6 of 80 [ Thu, 4/18/2013 10:24:14.8982 AM ]
+starting sweep 7 of 80 [ Thu, 4/18/2013 10:24:14.9138 AM ]
+starting sweep 8 of 80 [ Thu, 4/18/2013 10:24:14.9138 AM ]
+starting sweep 9 of 80 [ Thu, 4/18/2013 10:24:14.9294 AM ]
+starting sweep 10 of 80 [ Thu, 4/18/2013 10:24:14.9294 AM ]
+starting sweep 11 of 80 [ Thu, 4/18/2013 10:24:14.9451 AM ]
+starting sweep 12 of 80 [ Thu, 4/18/2013 10:24:14.9451 AM ]
+starting sweep 13 of 80 [ Thu, 4/18/2013 10:24:14.9607 AM ]
+starting sweep 14 of 80 [ Thu, 4/18/2013 10:24:14.9607 AM ]
+starting sweep 15 of 80 [ Thu, 4/18/2013 10:24:14.9763 AM ]
+starting sweep 16 of 80 [ Thu, 4/18/2013 10:24:14.9763 AM ]
+starting sweep 17 of 80 [ Thu, 4/18/2013 10:24:14.9919 AM ]
+starting sweep 18 of 80 [ Thu, 4/18/2013 10:24:14.9919 AM ]
+starting sweep 19 of 80 [ Thu, 4/18/2013 10:24:15.0076 AM ]
+starting sweep 20 of 80 [ Thu, 4/18/2013 10:24:15.0076 AM ]
+starting sweep 21 of 80 [ Thu, 4/18/2013 10:24:15.0232 AM ]
+starting sweep 22 of 80 [ Thu, 4/18/2013 10:24:15.0232 AM ]
+starting sweep 23 of 80 [ Thu, 4/18/2013 10:24:15.0388 AM ]
+starting sweep 24 of 80 [ Thu, 4/18/2013 10:24:15.0388 AM ]
+starting sweep 25 of 80 [ Thu, 4/18/2013 10:24:15.0544 AM ]
+starting sweep 26 of 80 [ Thu, 4/18/2013 10:24:15.0544 AM ]
+starting sweep 27 of 80 [ Thu, 4/18/2013 10:24:15.0701 AM ]
+starting sweep 28 of 80 [ Thu, 4/18/2013 10:24:15.0701 AM ]
+starting sweep 29 of 80 [ Thu, 4/18/2013 10:24:15.0857 AM ]
+starting sweep 30 of 80 [ Thu, 4/18/2013 10:24:15.0857 AM ]
+starting sweep 31 of 80 [ Thu, 4/18/2013 10:24:15.0857 AM ]
+starting sweep 32 of 80 [ Thu, 4/18/2013 10:24:15.1013 AM ]
+starting sweep 33 of 80 [ Thu, 4/18/2013 10:24:15.1013 AM ]
+starting sweep 34 of 80 [ Thu, 4/18/2013 10:24:15.1169 AM ]
+starting sweep 35 of 80 [ Thu, 4/18/2013 10:24:15.1169 AM ]
+starting sweep 36 of 80 [ Thu, 4/18/2013 10:24:15.1326 AM ]
+starting sweep 37 of 80 [ Thu, 4/18/2013 10:24:15.1482 AM ]
+starting sweep 38 of 80 [ Thu, 4/18/2013 10:24:15.1482 AM ]
+starting sweep 39 of 80 [ Thu, 4/18/2013 10:24:15.1638 AM ]
+starting sweep 40 of 80 [ Thu, 4/18/2013 10:24:15.1638 AM ]
+starting sweep 41 of 80 [ Thu, 4/18/2013 10:24:15.1794 AM ]
+starting sweep 42 of 80 [ Thu, 4/18/2013 10:24:15.1794 AM ]
+starting sweep 43 of 80 [ Thu, 4/18/2013 10:24:15.1951 AM ]
+starting sweep 44 of 80 [ Thu, 4/18/2013 10:24:15.1951 AM ]
+starting sweep 45 of 80 [ Thu, 4/18/2013 10:24:15.2107 AM ]
+starting sweep 46 of 80 [ Thu, 4/18/2013 10:24:15.2107 AM ]
+starting sweep 47 of 80 [ Thu, 4/18/2013 10:24:15.2263 AM ]
+starting sweep 48 of 80 [ Thu, 4/18/2013 10:24:15.2263 AM ]
+starting sweep 49 of 80 [ Thu, 4/18/2013 10:24:15.2419 AM ]
+starting sweep 50 of 80 [ Thu, 4/18/2013 10:24:15.2419 AM ]
+starting sweep 51 of 80 [ Thu, 4/18/2013 10:24:15.2419 AM ]
+starting sweep 52 of 80 [ Thu, 4/18/2013 10:24:15.2888 AM ]
+starting sweep 53 of 80 [ Thu, 4/18/2013 10:24:15.2888 AM ]
+starting sweep 54 of 80 [ Thu, 4/18/2013 10:24:15.3044 AM ]
+starting sweep 55 of 80 [ Thu, 4/18/2013 10:24:15.3044 AM ]
+starting sweep 56 of 80 [ Thu, 4/18/2013 10:24:15.3201 AM ]
+starting sweep 57 of 80 [ Thu, 4/18/2013 10:24:15.3201 AM ]
+starting sweep 58 of 80 [ Thu, 4/18/2013 10:24:15.3357 AM ]
+starting sweep 59 of 80 [ Thu, 4/18/2013 10:24:15.3357 AM ]
+starting sweep 60 of 80 [ Thu, 4/18/2013 10:24:15.3513 AM ]
+starting sweep 61 of 80 [ Thu, 4/18/2013 10:24:15.3513 AM ]
+starting sweep 62 of 80 [ Thu, 4/18/2013 10:24:15.3669 AM ]
+starting sweep 63 of 80 [ Thu, 4/18/2013 10:24:15.3669 AM ]
+starting sweep 64 of 80 [ Thu, 4/18/2013 10:24:15.3826 AM ]
+starting sweep 65 of 80 [ Thu, 4/18/2013 10:24:15.3826 AM ]
+starting sweep 66 of 80 [ Thu, 4/18/2013 10:24:15.3982 AM ]
+starting sweep 67 of 80 [ Thu, 4/18/2013 10:24:15.3982 AM ]
+starting sweep 68 of 80 [ Thu, 4/18/2013 10:24:15.4138 AM ]
+starting sweep 69 of 80 [ Thu, 4/18/2013 10:24:15.4138 AM ]
+starting sweep 70 of 80 [ Thu, 4/18/2013 10:24:15.4294 AM ]
+starting sweep 71 of 80 [ Thu, 4/18/2013 10:24:15.4294 AM ]
+starting sweep 72 of 80 [ Thu, 4/18/2013 10:24:15.4451 AM ]
+starting sweep 73 of 80 [ Thu, 4/18/2013 10:24:15.4451 AM ]
+starting sweep 74 of 80 [ Thu, 4/18/2013 10:24:15.4607 AM ]
+starting sweep 75 of 80 [ Thu, 4/18/2013 10:24:15.4763 AM ]
+starting sweep 76 of 80 [ Thu, 4/18/2013 10:24:15.4763 AM ]
+starting sweep 77 of 80 [ Thu, 4/18/2013 10:24:15.4919 AM ]
+starting sweep 78 of 80 [ Thu, 4/18/2013 10:24:15.4919 AM ]
+starting sweep 79 of 80 [ Thu, 4/18/2013 10:24:15.5076 AM ]
+closing shutter 1 [ Thu, 4/18/2013 10:24:15.5076 AM ]
+begin header for RandD1_TiNiC_real18apr2013_120degree [ Thu, 4/18/2013 10:25:34.2263 AM ]

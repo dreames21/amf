@@ -1,0 +1,28 @@
+{
+    "N": 8, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "W", 
+        "rate": 2.4000, 
+        "thickness": 12.0000
+    }, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Si", 
+        "rate": 4.5000, 
+        "thickness": 51.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD2_SiW32_MSFCcone1_Nis8_13aug2013", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 360.0000
+}

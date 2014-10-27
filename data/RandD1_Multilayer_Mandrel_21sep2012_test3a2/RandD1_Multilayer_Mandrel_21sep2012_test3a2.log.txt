@@ -1,0 +1,93 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+sweeping mandrel back and forth 20.0 times at 0.975 RPM
+Starting Sweep 0 of 20 at Fri, 9/21/2012 01:30:36.1093 PM.
+Starting Sweep 1 of 20 at Fri, 9/21/2012 01:30:51.5156 PM.
+Starting Sweep 2 of 20 at Fri, 9/21/2012 01:31:00.4531 PM.
+Starting Sweep 3 of 20 at Fri, 9/21/2012 01:31:00.5468 PM.
+Starting Sweep 4 of 20 at Fri, 9/21/2012 01:31:00.5468 PM.
+Starting Sweep 5 of 20 at Fri, 9/21/2012 01:31:00.5468 PM.
+Starting Sweep 6 of 20 at Fri, 9/21/2012 01:31:00.5625 PM.
+Starting Sweep 7 of 20 at Fri, 9/21/2012 01:31:00.5625 PM.
+Starting Sweep 8 of 20 at Fri, 9/21/2012 01:31:00.5781 PM.
+Starting Sweep 9 of 20 at Fri, 9/21/2012 01:31:00.5781 PM.
+Starting Sweep 10 of 20 at Fri, 9/21/2012 01:31:00.5937 PM.
+Starting Sweep 11 of 20 at Fri, 9/21/2012 01:31:00.5937 PM.
+Starting Sweep 12 of 20 at Fri, 9/21/2012 01:31:00.6093 PM.
+Starting Sweep 13 of 20 at Fri, 9/21/2012 01:31:00.6093 PM.
+Starting Sweep 14 of 20 at Fri, 9/21/2012 01:31:00.6250 PM.
+Starting Sweep 15 of 20 at Fri, 9/21/2012 01:31:00.6406 PM.
+Starting Sweep 16 of 20 at Fri, 9/21/2012 01:31:00.6406 PM.
+Starting Sweep 17 of 20 at Fri, 9/21/2012 01:31:00.6562 PM.
+Starting Sweep 18 of 20 at Fri, 9/21/2012 01:31:00.6562 PM.
+Starting Sweep 19 of 20 at Fri, 9/21/2012 01:31:00.6718 PM.
+closing shutter 1
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+sweeping mandrel back and forth 20.0 times at 0.975 RPM
+Starting Sweep 0 of 20 at Fri, 9/21/2012 01:31:57.5937 PM.
+Starting Sweep 1 of 20 at Fri, 9/21/2012 01:32:12.7343 PM.
+Starting Sweep 2 of 20 at Fri, 9/21/2012 01:32:12.7343 PM.
+Starting Sweep 3 of 20 at Fri, 9/21/2012 01:32:12.7500 PM.
+Starting Sweep 4 of 20 at Fri, 9/21/2012 01:32:12.7500 PM.
+Starting Sweep 5 of 20 at Fri, 9/21/2012 01:32:12.7656 PM.
+Starting Sweep 6 of 20 at Fri, 9/21/2012 01:32:12.7812 PM.
+Starting Sweep 7 of 20 at Fri, 9/21/2012 01:32:12.7812 PM.
+Starting Sweep 8 of 20 at Fri, 9/21/2012 01:32:12.7968 PM.
+Starting Sweep 9 of 20 at Fri, 9/21/2012 01:32:12.8125 PM.
+Starting Sweep 10 of 20 at Fri, 9/21/2012 01:32:12.8125 PM.
+Starting Sweep 11 of 20 at Fri, 9/21/2012 01:32:12.8281 PM.
+Starting Sweep 12 of 20 at Fri, 9/21/2012 01:32:12.8437 PM.
+Starting Sweep 13 of 20 at Fri, 9/21/2012 01:32:12.8437 PM.
+Starting Sweep 14 of 20 at Fri, 9/21/2012 01:32:12.8593 PM.
+Starting Sweep 15 of 20 at Fri, 9/21/2012 01:32:12.8593 PM.
+Starting Sweep 16 of 20 at Fri, 9/21/2012 01:32:12.8750 PM.
+Starting Sweep 17 of 20 at Fri, 9/21/2012 01:32:12.8750 PM.
+Starting Sweep 18 of 20 at Fri, 9/21/2012 01:32:12.8906 PM.
+Starting Sweep 19 of 20 at Fri, 9/21/2012 01:32:12.8906 PM.
+closing shutter 1
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -45.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+sweeping mandrel back and forth 20.0 times at 0.975 RPM
+Starting Sweep 0 of 20 at Fri, 9/21/2012 01:32:35.6562 PM.
+Starting Sweep 1 of 20 at Fri, 9/21/2012 01:32:51.0468 PM.
+Starting Sweep 2 of 20 at Fri, 9/21/2012 01:33:06.4687 PM.
+Starting Sweep 3 of 20 at Fri, 9/21/2012 01:33:21.8750 PM.
+Starting Sweep 4 of 20 at Fri, 9/21/2012 01:33:37.2812 PM.
+Starting Sweep 5 of 20 at Fri, 9/21/2012 01:33:52.6875 PM.
+Starting Sweep 6 of 20 at Fri, 9/21/2012 01:34:08.1093 PM.
+Starting Sweep 7 of 20 at Fri, 9/21/2012 01:34:23.5156 PM.
+Starting Sweep 8 of 20 at Fri, 9/21/2012 01:34:38.9218 PM.
+Starting Sweep 9 of 20 at Fri, 9/21/2012 01:34:54.3281 PM.
+Starting Sweep 10 of 20 at Fri, 9/21/2012 01:35:09.7343 PM.
+Starting Sweep 11 of 20 at Fri, 9/21/2012 01:35:21.3281 PM.
+Starting Sweep 12 of 20 at Fri, 9/21/2012 01:35:21.3437 PM.
+Starting Sweep 13 of 20 at Fri, 9/21/2012 01:35:21.3437 PM.
+Starting Sweep 14 of 20 at Fri, 9/21/2012 01:35:21.3593 PM.
+Starting Sweep 15 of 20 at Fri, 9/21/2012 01:35:21.3750 PM.
+Starting Sweep 16 of 20 at Fri, 9/21/2012 01:35:21.3750 PM.
+Starting Sweep 17 of 20 at Fri, 9/21/2012 01:35:21.3750 PM.
+Starting Sweep 18 of 20 at Fri, 9/21/2012 01:35:21.3906 PM.
+Starting Sweep 19 of 20 at Fri, 9/21/2012 01:35:21.4062 PM.
+closing shutter 1

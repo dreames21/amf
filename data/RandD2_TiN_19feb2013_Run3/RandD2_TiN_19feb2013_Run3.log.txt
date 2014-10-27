@@ -1,0 +1,799 @@
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.37
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 02:45:55.2081 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.37
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 02:50:58.4737 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 02:50:58.9581 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:28:44.6143 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:28:45.0987 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:37:29.3956 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Tue, 2/19/2013 03:37:32.2549 PM ]
+sweeping rotary stage back and forth 240.0 times at 1.0 RPM
+starting sweep 0 of 240 [ Tue, 2/19/2013 03:37:32.2706 PM ]
+starting sweep 1 of 240 [ Tue, 2/19/2013 03:37:39.6456 PM ]
+starting sweep 2 of 240 [ Tue, 2/19/2013 03:37:39.6456 PM ]
+starting sweep 3 of 240 [ Tue, 2/19/2013 03:37:39.6612 PM ]
+starting sweep 4 of 240 [ Tue, 2/19/2013 03:37:39.6612 PM ]
+starting sweep 5 of 240 [ Tue, 2/19/2013 03:37:39.6768 PM ]
+starting sweep 6 of 240 [ Tue, 2/19/2013 03:37:39.6768 PM ]
+starting sweep 7 of 240 [ Tue, 2/19/2013 03:37:39.6924 PM ]
+starting sweep 8 of 240 [ Tue, 2/19/2013 03:37:39.6924 PM ]
+starting sweep 9 of 240 [ Tue, 2/19/2013 03:37:39.6924 PM ]
+starting sweep 10 of 240 [ Tue, 2/19/2013 03:37:39.7081 PM ]
+starting sweep 11 of 240 [ Tue, 2/19/2013 03:37:39.7081 PM ]
+starting sweep 12 of 240 [ Tue, 2/19/2013 03:37:39.7237 PM ]
+starting sweep 13 of 240 [ Tue, 2/19/2013 03:37:39.7237 PM ]
+starting sweep 14 of 240 [ Tue, 2/19/2013 03:37:39.7237 PM ]
+starting sweep 15 of 240 [ Tue, 2/19/2013 03:37:39.7393 PM ]
+starting sweep 16 of 240 [ Tue, 2/19/2013 03:37:39.7393 PM ]
+starting sweep 17 of 240 [ Tue, 2/19/2013 03:37:39.7549 PM ]
+starting sweep 18 of 240 [ Tue, 2/19/2013 03:37:39.7549 PM ]
+starting sweep 19 of 240 [ Tue, 2/19/2013 03:37:39.7706 PM ]
+starting sweep 20 of 240 [ Tue, 2/19/2013 03:37:39.7706 PM ]
+starting sweep 21 of 240 [ Tue, 2/19/2013 03:37:39.7706 PM ]
+starting sweep 22 of 240 [ Tue, 2/19/2013 03:37:39.7862 PM ]
+starting sweep 23 of 240 [ Tue, 2/19/2013 03:37:39.7862 PM ]
+starting sweep 24 of 240 [ Tue, 2/19/2013 03:37:39.8018 PM ]
+starting sweep 25 of 240 [ Tue, 2/19/2013 03:37:39.8018 PM ]
+starting sweep 26 of 240 [ Tue, 2/19/2013 03:37:39.8174 PM ]
+starting sweep 27 of 240 [ Tue, 2/19/2013 03:37:39.8174 PM ]
+starting sweep 28 of 240 [ Tue, 2/19/2013 03:37:39.8331 PM ]
+starting sweep 29 of 240 [ Tue, 2/19/2013 03:37:39.8331 PM ]
+starting sweep 30 of 240 [ Tue, 2/19/2013 03:37:39.8487 PM ]
+starting sweep 31 of 240 [ Tue, 2/19/2013 03:37:39.8643 PM ]
+starting sweep 32 of 240 [ Tue, 2/19/2013 03:37:39.8643 PM ]
+starting sweep 33 of 240 [ Tue, 2/19/2013 03:37:39.8799 PM ]
+starting sweep 34 of 240 [ Tue, 2/19/2013 03:37:39.8956 PM ]
+starting sweep 35 of 240 [ Tue, 2/19/2013 03:37:39.8956 PM ]
+starting sweep 36 of 240 [ Tue, 2/19/2013 03:37:39.9112 PM ]
+starting sweep 37 of 240 [ Tue, 2/19/2013 03:37:39.9268 PM ]
+starting sweep 38 of 240 [ Tue, 2/19/2013 03:37:39.9268 PM ]
+starting sweep 39 of 240 [ Tue, 2/19/2013 03:37:39.9424 PM ]
+starting sweep 40 of 240 [ Tue, 2/19/2013 03:37:39.9581 PM ]
+starting sweep 41 of 240 [ Tue, 2/19/2013 03:37:39.9581 PM ]
+starting sweep 42 of 240 [ Tue, 2/19/2013 03:37:39.9737 PM ]
+starting sweep 43 of 240 [ Tue, 2/19/2013 03:37:39.9737 PM ]
+starting sweep 44 of 240 [ Tue, 2/19/2013 03:37:39.9893 PM ]
+starting sweep 45 of 240 [ Tue, 2/19/2013 03:37:40.0049 PM ]
+starting sweep 46 of 240 [ Tue, 2/19/2013 03:37:40.0049 PM ]
+starting sweep 47 of 240 [ Tue, 2/19/2013 03:37:40.0206 PM ]
+starting sweep 48 of 240 [ Tue, 2/19/2013 03:37:40.0362 PM ]
+starting sweep 49 of 240 [ Tue, 2/19/2013 03:37:40.0674 PM ]
+starting sweep 50 of 240 [ Tue, 2/19/2013 03:37:40.0831 PM ]
+starting sweep 51 of 240 [ Tue, 2/19/2013 03:37:40.0987 PM ]
+starting sweep 52 of 240 [ Tue, 2/19/2013 03:37:40.0987 PM ]
+starting sweep 53 of 240 [ Tue, 2/19/2013 03:37:40.1143 PM ]
+starting sweep 54 of 240 [ Tue, 2/19/2013 03:37:40.1299 PM ]
+starting sweep 55 of 240 [ Tue, 2/19/2013 03:37:40.1299 PM ]
+starting sweep 56 of 240 [ Tue, 2/19/2013 03:37:40.1456 PM ]
+starting sweep 57 of 240 [ Tue, 2/19/2013 03:37:40.1612 PM ]
+starting sweep 58 of 240 [ Tue, 2/19/2013 03:37:40.1612 PM ]
+starting sweep 59 of 240 [ Tue, 2/19/2013 03:37:40.1768 PM ]
+starting sweep 60 of 240 [ Tue, 2/19/2013 03:37:40.1924 PM ]
+starting sweep 61 of 240 [ Tue, 2/19/2013 03:37:40.1924 PM ]
+starting sweep 62 of 240 [ Tue, 2/19/2013 03:37:40.2081 PM ]
+starting sweep 63 of 240 [ Tue, 2/19/2013 03:37:40.2237 PM ]
+starting sweep 64 of 240 [ Tue, 2/19/2013 03:37:40.2237 PM ]
+starting sweep 65 of 240 [ Tue, 2/19/2013 03:37:40.2393 PM ]
+starting sweep 66 of 240 [ Tue, 2/19/2013 03:37:40.2549 PM ]
+starting sweep 67 of 240 [ Tue, 2/19/2013 03:37:40.2706 PM ]
+starting sweep 68 of 240 [ Tue, 2/19/2013 03:37:40.2706 PM ]
+starting sweep 69 of 240 [ Tue, 2/19/2013 03:37:40.2862 PM ]
+starting sweep 70 of 240 [ Tue, 2/19/2013 03:37:40.3018 PM ]
+starting sweep 71 of 240 [ Tue, 2/19/2013 03:37:40.3018 PM ]
+starting sweep 72 of 240 [ Tue, 2/19/2013 03:37:40.3174 PM ]
+starting sweep 73 of 240 [ Tue, 2/19/2013 03:37:40.3331 PM ]
+starting sweep 74 of 240 [ Tue, 2/19/2013 03:37:40.3331 PM ]
+starting sweep 75 of 240 [ Tue, 2/19/2013 03:37:40.3487 PM ]
+starting sweep 76 of 240 [ Tue, 2/19/2013 03:37:40.3643 PM ]
+starting sweep 77 of 240 [ Tue, 2/19/2013 03:37:40.3643 PM ]
+starting sweep 78 of 240 [ Tue, 2/19/2013 03:37:40.3799 PM ]
+starting sweep 79 of 240 [ Tue, 2/19/2013 03:37:40.3956 PM ]
+starting sweep 80 of 240 [ Tue, 2/19/2013 03:37:40.3956 PM ]
+starting sweep 81 of 240 [ Tue, 2/19/2013 03:37:40.4112 PM ]
+starting sweep 82 of 240 [ Tue, 2/19/2013 03:37:40.4112 PM ]
+starting sweep 83 of 240 [ Tue, 2/19/2013 03:37:40.4268 PM ]
+starting sweep 84 of 240 [ Tue, 2/19/2013 03:37:40.4268 PM ]
+starting sweep 85 of 240 [ Tue, 2/19/2013 03:37:40.4268 PM ]
+starting sweep 86 of 240 [ Tue, 2/19/2013 03:37:40.4424 PM ]
+starting sweep 87 of 240 [ Tue, 2/19/2013 03:37:40.4581 PM ]
+starting sweep 88 of 240 [ Tue, 2/19/2013 03:37:40.4581 PM ]
+starting sweep 89 of 240 [ Tue, 2/19/2013 03:37:40.4737 PM ]
+starting sweep 90 of 240 [ Tue, 2/19/2013 03:37:40.4737 PM ]
+starting sweep 91 of 240 [ Tue, 2/19/2013 03:37:40.4893 PM ]
+starting sweep 92 of 240 [ Tue, 2/19/2013 03:37:40.4893 PM ]
+starting sweep 93 of 240 [ Tue, 2/19/2013 03:37:40.5049 PM ]
+starting sweep 94 of 240 [ Tue, 2/19/2013 03:37:40.5049 PM ]
+starting sweep 95 of 240 [ Tue, 2/19/2013 03:37:40.5206 PM ]
+starting sweep 96 of 240 [ Tue, 2/19/2013 03:37:40.5206 PM ]
+starting sweep 97 of 240 [ Tue, 2/19/2013 03:37:40.5206 PM ]
+starting sweep 98 of 240 [ Tue, 2/19/2013 03:37:40.5362 PM ]
+starting sweep 99 of 240 [ Tue, 2/19/2013 03:37:40.5362 PM ]
+starting sweep 100 of 240 [ Tue, 2/19/2013 03:37:40.5518 PM ]
+starting sweep 101 of 240 [ Tue, 2/19/2013 03:37:40.5518 PM ]
+starting sweep 102 of 240 [ Tue, 2/19/2013 03:37:40.5674 PM ]
+starting sweep 103 of 240 [ Tue, 2/19/2013 03:37:40.5674 PM ]
+starting sweep 104 of 240 [ Tue, 2/19/2013 03:37:40.5831 PM ]
+starting sweep 105 of 240 [ Tue, 2/19/2013 03:37:40.5831 PM ]
+starting sweep 106 of 240 [ Tue, 2/19/2013 03:37:40.5987 PM ]
+starting sweep 107 of 240 [ Tue, 2/19/2013 03:37:40.5987 PM ]
+starting sweep 108 of 240 [ Tue, 2/19/2013 03:37:40.6143 PM ]
+starting sweep 109 of 240 [ Tue, 2/19/2013 03:37:40.6143 PM ]
+starting sweep 110 of 240 [ Tue, 2/19/2013 03:37:40.6299 PM ]
+starting sweep 111 of 240 [ Tue, 2/19/2013 03:37:40.6299 PM ]
+starting sweep 112 of 240 [ Tue, 2/19/2013 03:37:40.6456 PM ]
+starting sweep 113 of 240 [ Tue, 2/19/2013 03:37:40.6612 PM ]
+starting sweep 114 of 240 [ Tue, 2/19/2013 03:37:40.6612 PM ]
+starting sweep 115 of 240 [ Tue, 2/19/2013 03:37:40.6768 PM ]
+starting sweep 116 of 240 [ Tue, 2/19/2013 03:37:40.6768 PM ]
+starting sweep 117 of 240 [ Tue, 2/19/2013 03:37:40.6768 PM ]
+starting sweep 118 of 240 [ Tue, 2/19/2013 03:37:40.6924 PM ]
+starting sweep 119 of 240 [ Tue, 2/19/2013 03:37:40.6924 PM ]
+starting sweep 120 of 240 [ Tue, 2/19/2013 03:37:40.7081 PM ]
+starting sweep 121 of 240 [ Tue, 2/19/2013 03:37:40.7081 PM ]
+starting sweep 122 of 240 [ Tue, 2/19/2013 03:37:40.7237 PM ]
+starting sweep 123 of 240 [ Tue, 2/19/2013 03:37:40.7237 PM ]
+starting sweep 124 of 240 [ Tue, 2/19/2013 03:37:40.7393 PM ]
+starting sweep 125 of 240 [ Tue, 2/19/2013 03:37:40.7393 PM ]
+starting sweep 126 of 240 [ Tue, 2/19/2013 03:37:40.7549 PM ]
+starting sweep 127 of 240 [ Tue, 2/19/2013 03:37:40.7549 PM ]
+starting sweep 128 of 240 [ Tue, 2/19/2013 03:37:40.7706 PM ]
+starting sweep 129 of 240 [ Tue, 2/19/2013 03:37:40.7706 PM ]
+starting sweep 130 of 240 [ Tue, 2/19/2013 03:37:40.7862 PM ]
+starting sweep 131 of 240 [ Tue, 2/19/2013 03:37:40.7862 PM ]
+starting sweep 132 of 240 [ Tue, 2/19/2013 03:37:40.8018 PM ]
+starting sweep 133 of 240 [ Tue, 2/19/2013 03:37:40.8018 PM ]
+starting sweep 134 of 240 [ Tue, 2/19/2013 03:37:40.8174 PM ]
+starting sweep 135 of 240 [ Tue, 2/19/2013 03:37:40.8174 PM ]
+starting sweep 136 of 240 [ Tue, 2/19/2013 03:37:40.8331 PM ]
+starting sweep 137 of 240 [ Tue, 2/19/2013 03:37:40.8331 PM ]
+starting sweep 138 of 240 [ Tue, 2/19/2013 03:37:40.8487 PM ]
+starting sweep 139 of 240 [ Tue, 2/19/2013 03:37:40.8643 PM ]
+starting sweep 140 of 240 [ Tue, 2/19/2013 03:37:40.8643 PM ]
+starting sweep 141 of 240 [ Tue, 2/19/2013 03:37:40.8799 PM ]
+starting sweep 142 of 240 [ Tue, 2/19/2013 03:37:40.8799 PM ]
+starting sweep 143 of 240 [ Tue, 2/19/2013 03:37:40.8956 PM ]
+starting sweep 144 of 240 [ Tue, 2/19/2013 03:37:40.8956 PM ]
+starting sweep 145 of 240 [ Tue, 2/19/2013 03:37:40.9112 PM ]
+starting sweep 146 of 240 [ Tue, 2/19/2013 03:37:40.9112 PM ]
+starting sweep 147 of 240 [ Tue, 2/19/2013 03:37:40.9268 PM ]
+starting sweep 148 of 240 [ Tue, 2/19/2013 03:37:40.9268 PM ]
+starting sweep 149 of 240 [ Tue, 2/19/2013 03:37:40.9424 PM ]
+starting sweep 150 of 240 [ Tue, 2/19/2013 03:37:40.9424 PM ]
+starting sweep 151 of 240 [ Tue, 2/19/2013 03:37:40.9581 PM ]
+starting sweep 152 of 240 [ Tue, 2/19/2013 03:37:40.9581 PM ]
+starting sweep 153 of 240 [ Tue, 2/19/2013 03:37:40.9737 PM ]
+starting sweep 154 of 240 [ Tue, 2/19/2013 03:37:40.9737 PM ]
+starting sweep 155 of 240 [ Tue, 2/19/2013 03:37:40.9893 PM ]
+starting sweep 156 of 240 [ Tue, 2/19/2013 03:37:40.9893 PM ]
+starting sweep 157 of 240 [ Tue, 2/19/2013 03:37:41.0049 PM ]
+starting sweep 158 of 240 [ Tue, 2/19/2013 03:37:41.0049 PM ]
+starting sweep 159 of 240 [ Tue, 2/19/2013 03:37:41.0206 PM ]
+starting sweep 160 of 240 [ Tue, 2/19/2013 03:37:41.0206 PM ]
+starting sweep 161 of 240 [ Tue, 2/19/2013 03:37:41.0362 PM ]
+starting sweep 162 of 240 [ Tue, 2/19/2013 03:37:41.0362 PM ]
+starting sweep 163 of 240 [ Tue, 2/19/2013 03:37:41.0518 PM ]
+starting sweep 164 of 240 [ Tue, 2/19/2013 03:37:41.0674 PM ]
+starting sweep 165 of 240 [ Tue, 2/19/2013 03:37:41.0674 PM ]
+starting sweep 166 of 240 [ Tue, 2/19/2013 03:37:41.0831 PM ]
+starting sweep 167 of 240 [ Tue, 2/19/2013 03:37:41.0831 PM ]
+starting sweep 168 of 240 [ Tue, 2/19/2013 03:37:41.0987 PM ]
+starting sweep 169 of 240 [ Tue, 2/19/2013 03:37:41.0987 PM ]
+starting sweep 170 of 240 [ Tue, 2/19/2013 03:37:41.1143 PM ]
+starting sweep 171 of 240 [ Tue, 2/19/2013 03:37:41.1143 PM ]
+starting sweep 172 of 240 [ Tue, 2/19/2013 03:37:41.1299 PM ]
+starting sweep 173 of 240 [ Tue, 2/19/2013 03:37:41.1299 PM ]
+starting sweep 174 of 240 [ Tue, 2/19/2013 03:37:41.1456 PM ]
+starting sweep 175 of 240 [ Tue, 2/19/2013 03:37:41.1456 PM ]
+starting sweep 176 of 240 [ Tue, 2/19/2013 03:37:41.1612 PM ]
+starting sweep 177 of 240 [ Tue, 2/19/2013 03:37:41.1612 PM ]
+starting sweep 178 of 240 [ Tue, 2/19/2013 03:37:41.1768 PM ]
+starting sweep 179 of 240 [ Tue, 2/19/2013 03:37:41.1768 PM ]
+starting sweep 180 of 240 [ Tue, 2/19/2013 03:37:41.1924 PM ]
+starting sweep 181 of 240 [ Tue, 2/19/2013 03:37:41.1924 PM ]
+starting sweep 182 of 240 [ Tue, 2/19/2013 03:37:41.2081 PM ]
+starting sweep 183 of 240 [ Tue, 2/19/2013 03:37:41.2081 PM ]
+starting sweep 184 of 240 [ Tue, 2/19/2013 03:37:41.2237 PM ]
+starting sweep 185 of 240 [ Tue, 2/19/2013 03:37:41.2237 PM ]
+starting sweep 186 of 240 [ Tue, 2/19/2013 03:37:41.2393 PM ]
+starting sweep 187 of 240 [ Tue, 2/19/2013 03:37:41.2549 PM ]
+starting sweep 188 of 240 [ Tue, 2/19/2013 03:37:41.2706 PM ]
+starting sweep 189 of 240 [ Tue, 2/19/2013 03:37:41.2706 PM ]
+starting sweep 190 of 240 [ Tue, 2/19/2013 03:37:41.2862 PM ]
+starting sweep 191 of 240 [ Tue, 2/19/2013 03:37:41.2862 PM ]
+starting sweep 192 of 240 [ Tue, 2/19/2013 03:37:41.3018 PM ]
+starting sweep 193 of 240 [ Tue, 2/19/2013 03:37:41.3018 PM ]
+starting sweep 194 of 240 [ Tue, 2/19/2013 03:37:41.3174 PM ]
+starting sweep 195 of 240 [ Tue, 2/19/2013 03:37:41.3174 PM ]
+starting sweep 196 of 240 [ Tue, 2/19/2013 03:37:41.3331 PM ]
+starting sweep 197 of 240 [ Tue, 2/19/2013 03:37:41.3331 PM ]
+starting sweep 198 of 240 [ Tue, 2/19/2013 03:37:41.3487 PM ]
+starting sweep 199 of 240 [ Tue, 2/19/2013 03:37:41.3487 PM ]
+starting sweep 200 of 240 [ Tue, 2/19/2013 03:37:41.3643 PM ]
+starting sweep 201 of 240 [ Tue, 2/19/2013 03:37:41.3643 PM ]
+starting sweep 202 of 240 [ Tue, 2/19/2013 03:37:41.3799 PM ]
+starting sweep 203 of 240 [ Tue, 2/19/2013 03:37:41.3799 PM ]
+starting sweep 204 of 240 [ Tue, 2/19/2013 03:37:41.3956 PM ]
+starting sweep 205 of 240 [ Tue, 2/19/2013 03:37:41.3956 PM ]
+starting sweep 206 of 240 [ Tue, 2/19/2013 03:37:41.4112 PM ]
+starting sweep 207 of 240 [ Tue, 2/19/2013 03:37:41.4112 PM ]
+starting sweep 208 of 240 [ Tue, 2/19/2013 03:37:41.4268 PM ]
+starting sweep 209 of 240 [ Tue, 2/19/2013 03:37:41.4268 PM ]
+starting sweep 210 of 240 [ Tue, 2/19/2013 03:37:41.4424 PM ]
+starting sweep 211 of 240 [ Tue, 2/19/2013 03:37:41.4581 PM ]
+starting sweep 212 of 240 [ Tue, 2/19/2013 03:37:41.4581 PM ]
+starting sweep 213 of 240 [ Tue, 2/19/2013 03:37:41.4737 PM ]
+starting sweep 214 of 240 [ Tue, 2/19/2013 03:37:41.4893 PM ]
+starting sweep 215 of 240 [ Tue, 2/19/2013 03:37:41.4893 PM ]
+starting sweep 216 of 240 [ Tue, 2/19/2013 03:37:41.5049 PM ]
+starting sweep 217 of 240 [ Tue, 2/19/2013 03:37:41.5049 PM ]
+starting sweep 218 of 240 [ Tue, 2/19/2013 03:37:41.5206 PM ]
+starting sweep 219 of 240 [ Tue, 2/19/2013 03:37:41.5206 PM ]
+starting sweep 220 of 240 [ Tue, 2/19/2013 03:37:41.5362 PM ]
+starting sweep 221 of 240 [ Tue, 2/19/2013 03:37:41.5362 PM ]
+starting sweep 222 of 240 [ Tue, 2/19/2013 03:37:41.5518 PM ]
+starting sweep 223 of 240 [ Tue, 2/19/2013 03:37:41.5518 PM ]
+starting sweep 224 of 240 [ Tue, 2/19/2013 03:37:41.5674 PM ]
+starting sweep 225 of 240 [ Tue, 2/19/2013 03:37:41.5674 PM ]
+starting sweep 226 of 240 [ Tue, 2/19/2013 03:37:41.5831 PM ]
+starting sweep 227 of 240 [ Tue, 2/19/2013 03:37:41.5831 PM ]
+starting sweep 228 of 240 [ Tue, 2/19/2013 03:37:41.5987 PM ]
+starting sweep 229 of 240 [ Tue, 2/19/2013 03:37:41.5987 PM ]
+starting sweep 230 of 240 [ Tue, 2/19/2013 03:37:41.6143 PM ]
+starting sweep 231 of 240 [ Tue, 2/19/2013 03:37:41.6143 PM ]
+starting sweep 232 of 240 [ Tue, 2/19/2013 03:37:41.6299 PM ]
+starting sweep 233 of 240 [ Tue, 2/19/2013 03:37:41.6299 PM ]
+starting sweep 234 of 240 [ Tue, 2/19/2013 03:37:41.6456 PM ]
+starting sweep 235 of 240 [ Tue, 2/19/2013 03:37:41.6612 PM ]
+starting sweep 236 of 240 [ Tue, 2/19/2013 03:37:41.6768 PM ]
+starting sweep 237 of 240 [ Tue, 2/19/2013 03:37:41.6924 PM ]
+starting sweep 238 of 240 [ Tue, 2/19/2013 03:37:41.6924 PM ]
+starting sweep 239 of 240 [ Tue, 2/19/2013 03:37:41.7081 PM ]
+closing shutter 1 [ Tue, 2/19/2013 03:37:41.7081 PM ]
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:39:42.7081 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:39:43.1924 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:40:05.7549 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:40:06.3799 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+begin header for RandD2_TiN_19feb2013_Run3 [ Tue, 2/19/2013 03:40:21.3018 PM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_19feb2013_Run3
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Tue, 2/19/2013 03:40:24.2549 PM ]
+sweeping rotary stage back and forth 240.0 times at 1.0 RPM
+starting sweep 0 of 240 [ Tue, 2/19/2013 03:40:24.2706 PM ]
+starting sweep 1 of 240 [ Tue, 2/19/2013 03:40:39.3174 PM ]
+starting sweep 2 of 240 [ Tue, 2/19/2013 03:40:54.3799 PM ]
+starting sweep 3 of 240 [ Tue, 2/19/2013 03:41:09.4268 PM ]
+starting sweep 4 of 240 [ Tue, 2/19/2013 03:41:24.4737 PM ]
+starting sweep 5 of 240 [ Tue, 2/19/2013 03:41:39.5362 PM ]
+starting sweep 6 of 240 [ Tue, 2/19/2013 03:41:54.5831 PM ]
+starting sweep 7 of 240 [ Tue, 2/19/2013 03:42:09.6299 PM ]
+starting sweep 8 of 240 [ Tue, 2/19/2013 03:42:24.6924 PM ]
+starting sweep 9 of 240 [ Tue, 2/19/2013 03:42:39.7393 PM ]
+starting sweep 10 of 240 [ Tue, 2/19/2013 03:42:54.7862 PM ]
+starting sweep 11 of 240 [ Tue, 2/19/2013 03:43:09.8331 PM ]
+starting sweep 12 of 240 [ Tue, 2/19/2013 03:43:24.8956 PM ]
+starting sweep 13 of 240 [ Tue, 2/19/2013 03:43:39.9581 PM ]
+starting sweep 14 of 240 [ Tue, 2/19/2013 03:43:55.0049 PM ]
+starting sweep 15 of 240 [ Tue, 2/19/2013 03:44:10.0674 PM ]
+starting sweep 16 of 240 [ Tue, 2/19/2013 03:44:25.1143 PM ]
+starting sweep 17 of 240 [ Tue, 2/19/2013 03:44:40.1768 PM ]
+starting sweep 18 of 240 [ Tue, 2/19/2013 03:44:55.2237 PM ]
+starting sweep 19 of 240 [ Tue, 2/19/2013 03:45:10.2862 PM ]
+starting sweep 20 of 240 [ Tue, 2/19/2013 03:45:25.3331 PM ]
+starting sweep 21 of 240 [ Tue, 2/19/2013 03:45:40.3956 PM ]
+starting sweep 22 of 240 [ Tue, 2/19/2013 03:45:55.4424 PM ]
+starting sweep 23 of 240 [ Tue, 2/19/2013 03:46:10.5049 PM ]
+starting sweep 24 of 240 [ Tue, 2/19/2013 03:46:25.5518 PM ]
+starting sweep 25 of 240 [ Tue, 2/19/2013 03:46:40.6143 PM ]
+starting sweep 26 of 240 [ Tue, 2/19/2013 03:46:55.6612 PM ]
+starting sweep 27 of 240 [ Tue, 2/19/2013 03:47:10.7237 PM ]
+starting sweep 28 of 240 [ Tue, 2/19/2013 03:47:25.7706 PM ]
+starting sweep 29 of 240 [ Tue, 2/19/2013 03:47:40.8331 PM ]
+starting sweep 30 of 240 [ Tue, 2/19/2013 03:47:55.8956 PM ]
+starting sweep 31 of 240 [ Tue, 2/19/2013 03:48:10.9424 PM ]
+starting sweep 32 of 240 [ Tue, 2/19/2013 03:48:26.0049 PM ]
+starting sweep 33 of 240 [ Tue, 2/19/2013 03:48:41.0362 PM ]
+starting sweep 34 of 240 [ Tue, 2/19/2013 03:48:56.0987 PM ]
+starting sweep 35 of 240 [ Tue, 2/19/2013 03:49:11.1456 PM ]
+starting sweep 36 of 240 [ Tue, 2/19/2013 03:49:26.2081 PM ]
+starting sweep 37 of 240 [ Tue, 2/19/2013 03:49:41.2549 PM ]
+starting sweep 38 of 240 [ Tue, 2/19/2013 03:49:56.3174 PM ]
+starting sweep 39 of 240 [ Tue, 2/19/2013 03:50:11.3643 PM ]
+starting sweep 40 of 240 [ Tue, 2/19/2013 03:50:26.4112 PM ]
+starting sweep 41 of 240 [ Tue, 2/19/2013 03:50:41.4737 PM ]
+starting sweep 42 of 240 [ Tue, 2/19/2013 03:50:56.5206 PM ]
+starting sweep 43 of 240 [ Tue, 2/19/2013 03:51:11.5674 PM ]
+starting sweep 44 of 240 [ Tue, 2/19/2013 03:51:26.6299 PM ]
+starting sweep 45 of 240 [ Tue, 2/19/2013 03:51:41.6768 PM ]
+starting sweep 46 of 240 [ Tue, 2/19/2013 03:51:56.7237 PM ]
+starting sweep 47 of 240 [ Tue, 2/19/2013 03:52:11.7862 PM ]
+starting sweep 48 of 240 [ Tue, 2/19/2013 03:52:26.8331 PM ]
+starting sweep 49 of 240 [ Tue, 2/19/2013 03:52:41.8956 PM ]
+starting sweep 50 of 240 [ Tue, 2/19/2013 03:52:56.9424 PM ]
+starting sweep 51 of 240 [ Tue, 2/19/2013 03:53:11.9893 PM ]
+starting sweep 52 of 240 [ Tue, 2/19/2013 03:53:27.0518 PM ]
+starting sweep 53 of 240 [ Tue, 2/19/2013 03:53:42.0987 PM ]
+starting sweep 54 of 240 [ Tue, 2/19/2013 03:53:57.1456 PM ]
+starting sweep 55 of 240 [ Tue, 2/19/2013 03:54:12.2081 PM ]
+starting sweep 56 of 240 [ Tue, 2/19/2013 03:54:27.2549 PM ]
+starting sweep 57 of 240 [ Tue, 2/19/2013 03:54:42.3018 PM ]
+starting sweep 58 of 240 [ Tue, 2/19/2013 03:54:57.3487 PM ]
+starting sweep 59 of 240 [ Tue, 2/19/2013 03:55:12.4112 PM ]
+starting sweep 60 of 240 [ Tue, 2/19/2013 03:55:27.4737 PM ]
+starting sweep 61 of 240 [ Tue, 2/19/2013 03:55:42.5206 PM ]
+starting sweep 62 of 240 [ Tue, 2/19/2013 03:55:57.5674 PM ]
+starting sweep 63 of 240 [ Tue, 2/19/2013 03:56:12.6299 PM ]
+starting sweep 64 of 240 [ Tue, 2/19/2013 03:56:27.6768 PM ]
+starting sweep 65 of 240 [ Tue, 2/19/2013 03:56:42.7393 PM ]
+starting sweep 66 of 240 [ Tue, 2/19/2013 03:56:57.7862 PM ]
+starting sweep 67 of 240 [ Tue, 2/19/2013 03:57:12.8487 PM ]
+starting sweep 68 of 240 [ Tue, 2/19/2013 03:57:27.8956 PM ]
+starting sweep 69 of 240 [ Tue, 2/19/2013 03:57:42.9581 PM ]
+starting sweep 70 of 240 [ Tue, 2/19/2013 03:57:58.0049 PM ]
+starting sweep 71 of 240 [ Tue, 2/19/2013 03:58:13.0518 PM ]
+starting sweep 72 of 240 [ Tue, 2/19/2013 03:58:28.1143 PM ]
+starting sweep 73 of 240 [ Tue, 2/19/2013 03:58:43.1612 PM ]
+starting sweep 74 of 240 [ Tue, 2/19/2013 03:58:58.2237 PM ]
+starting sweep 75 of 240 [ Tue, 2/19/2013 03:59:13.2862 PM ]
+starting sweep 76 of 240 [ Tue, 2/19/2013 03:59:28.3331 PM ]
+starting sweep 77 of 240 [ Tue, 2/19/2013 03:59:43.3799 PM ]
+starting sweep 78 of 240 [ Tue, 2/19/2013 03:59:58.4424 PM ]
+starting sweep 79 of 240 [ Tue, 2/19/2013 04:00:13.4893 PM ]
+starting sweep 80 of 240 [ Tue, 2/19/2013 04:00:28.5518 PM ]
+starting sweep 81 of 240 [ Tue, 2/19/2013 04:00:43.5987 PM ]
+starting sweep 82 of 240 [ Tue, 2/19/2013 04:00:58.6612 PM ]
+starting sweep 83 of 240 [ Tue, 2/19/2013 04:01:13.7237 PM ]
+starting sweep 84 of 240 [ Tue, 2/19/2013 04:01:28.7706 PM ]
+starting sweep 85 of 240 [ Tue, 2/19/2013 04:01:43.8331 PM ]
+starting sweep 86 of 240 [ Tue, 2/19/2013 04:01:58.8799 PM ]
+starting sweep 87 of 240 [ Tue, 2/19/2013 04:02:13.9424 PM ]
+starting sweep 88 of 240 [ Tue, 2/19/2013 04:02:28.9893 PM ]
+starting sweep 89 of 240 [ Tue, 2/19/2013 04:02:44.0518 PM ]
+starting sweep 90 of 240 [ Tue, 2/19/2013 04:02:59.0987 PM ]
+starting sweep 91 of 240 [ Tue, 2/19/2013 04:03:14.1456 PM ]
+starting sweep 92 of 240 [ Tue, 2/19/2013 04:03:29.2081 PM ]
+starting sweep 93 of 240 [ Tue, 2/19/2013 04:03:44.2706 PM ]
+starting sweep 94 of 240 [ Tue, 2/19/2013 04:03:59.3174 PM ]
+starting sweep 95 of 240 [ Tue, 2/19/2013 04:04:14.3643 PM ]
+starting sweep 96 of 240 [ Tue, 2/19/2013 04:04:29.4268 PM ]
+starting sweep 97 of 240 [ Tue, 2/19/2013 04:04:44.4737 PM ]
+starting sweep 98 of 240 [ Tue, 2/19/2013 04:04:59.5362 PM ]
+starting sweep 99 of 240 [ Tue, 2/19/2013 04:05:14.5987 PM ]
+starting sweep 100 of 240 [ Tue, 2/19/2013 04:05:29.6456 PM ]
+starting sweep 101 of 240 [ Tue, 2/19/2013 04:05:44.6924 PM ]
+starting sweep 102 of 240 [ Tue, 2/19/2013 04:05:59.7549 PM ]
+starting sweep 103 of 240 [ Tue, 2/19/2013 04:06:14.8174 PM ]
+starting sweep 104 of 240 [ Tue, 2/19/2013 04:06:29.8643 PM ]
+starting sweep 105 of 240 [ Tue, 2/19/2013 04:06:44.9268 PM ]
+starting sweep 106 of 240 [ Tue, 2/19/2013 04:06:59.9737 PM ]
+starting sweep 107 of 240 [ Tue, 2/19/2013 04:07:15.0206 PM ]
+starting sweep 108 of 240 [ Tue, 2/19/2013 04:07:30.0831 PM ]
+starting sweep 109 of 240 [ Tue, 2/19/2013 04:07:45.1299 PM ]
+starting sweep 110 of 240 [ Tue, 2/19/2013 04:08:00.1924 PM ]
+starting sweep 111 of 240 [ Tue, 2/19/2013 04:08:15.2393 PM ]
+starting sweep 112 of 240 [ Tue, 2/19/2013 04:08:30.2862 PM ]
+starting sweep 113 of 240 [ Tue, 2/19/2013 04:08:45.3331 PM ]
+starting sweep 114 of 240 [ Tue, 2/19/2013 04:09:00.3956 PM ]
+starting sweep 115 of 240 [ Tue, 2/19/2013 04:09:15.4424 PM ]
+starting sweep 116 of 240 [ Tue, 2/19/2013 04:09:30.5049 PM ]
+starting sweep 117 of 240 [ Tue, 2/19/2013 04:09:45.5518 PM ]
+starting sweep 118 of 240 [ Tue, 2/19/2013 04:10:00.6143 PM ]
+starting sweep 119 of 240 [ Tue, 2/19/2013 04:10:15.6612 PM ]
+starting sweep 120 of 240 [ Tue, 2/19/2013 04:10:30.7081 PM ]
+starting sweep 121 of 240 [ Tue, 2/19/2013 04:10:45.7706 PM ]
+starting sweep 122 of 240 [ Tue, 2/19/2013 04:11:00.8331 PM ]
+starting sweep 123 of 240 [ Tue, 2/19/2013 04:11:15.8799 PM ]
+starting sweep 124 of 240 [ Tue, 2/19/2013 04:11:30.9268 PM ]
+starting sweep 125 of 240 [ Tue, 2/19/2013 04:11:45.9737 PM ]
+starting sweep 126 of 240 [ Tue, 2/19/2013 04:12:01.0206 PM ]
+starting sweep 127 of 240 [ Tue, 2/19/2013 04:12:16.0831 PM ]
+starting sweep 128 of 240 [ Tue, 2/19/2013 04:12:31.1456 PM ]
+starting sweep 129 of 240 [ Tue, 2/19/2013 04:12:46.1924 PM ]
+starting sweep 130 of 240 [ Tue, 2/19/2013 04:13:01.2549 PM ]
+starting sweep 131 of 240 [ Tue, 2/19/2013 04:13:16.2862 PM ]
+starting sweep 132 of 240 [ Tue, 2/19/2013 04:13:31.3487 PM ]
+starting sweep 133 of 240 [ Tue, 2/19/2013 04:13:46.3956 PM ]
+starting sweep 134 of 240 [ Tue, 2/19/2013 04:14:01.4581 PM ]
+starting sweep 135 of 240 [ Tue, 2/19/2013 04:14:16.5049 PM ]
+starting sweep 136 of 240 [ Tue, 2/19/2013 04:14:31.5674 PM ]
+starting sweep 137 of 240 [ Tue, 2/19/2013 04:14:46.6299 PM ]
+starting sweep 138 of 240 [ Tue, 2/19/2013 04:15:01.6768 PM ]
+starting sweep 139 of 240 [ Tue, 2/19/2013 04:15:16.7237 PM ]
+starting sweep 140 of 240 [ Tue, 2/19/2013 04:15:31.7862 PM ]
+starting sweep 141 of 240 [ Tue, 2/19/2013 04:15:46.8487 PM ]
+starting sweep 142 of 240 [ Tue, 2/19/2013 04:16:01.8956 PM ]
+starting sweep 143 of 240 [ Tue, 2/19/2013 04:16:16.9424 PM ]
+starting sweep 144 of 240 [ Tue, 2/19/2013 04:16:32.0049 PM ]
+starting sweep 145 of 240 [ Tue, 2/19/2013 04:16:47.0518 PM ]
+starting sweep 146 of 240 [ Tue, 2/19/2013 04:17:02.1143 PM ]
+starting sweep 147 of 240 [ Tue, 2/19/2013 04:17:17.1768 PM ]
+starting sweep 148 of 240 [ Tue, 2/19/2013 04:17:32.2237 PM ]
+starting sweep 149 of 240 [ Tue, 2/19/2013 04:17:47.2862 PM ]
+starting sweep 150 of 240 [ Tue, 2/19/2013 04:18:02.3331 PM ]
+starting sweep 151 of 240 [ Tue, 2/19/2013 04:18:17.3799 PM ]
+starting sweep 152 of 240 [ Tue, 2/19/2013 04:18:32.4424 PM ]
+starting sweep 153 of 240 [ Tue, 2/19/2013 04:18:47.5049 PM ]
+starting sweep 154 of 240 [ Tue, 2/19/2013 04:19:02.5518 PM ]
+starting sweep 155 of 240 [ Tue, 2/19/2013 04:19:17.6143 PM ]
+starting sweep 156 of 240 [ Tue, 2/19/2013 04:19:32.6612 PM ]
+starting sweep 157 of 240 [ Tue, 2/19/2013 04:19:47.7237 PM ]
+starting sweep 158 of 240 [ Tue, 2/19/2013 04:20:02.7862 PM ]
+starting sweep 159 of 240 [ Tue, 2/19/2013 04:20:17.8331 PM ]
+starting sweep 160 of 240 [ Tue, 2/19/2013 04:20:32.8799 PM ]
+starting sweep 161 of 240 [ Tue, 2/19/2013 04:20:47.9424 PM ]
+starting sweep 162 of 240 [ Tue, 2/19/2013 04:21:02.9893 PM ]
+starting sweep 163 of 240 [ Tue, 2/19/2013 04:21:18.0362 PM ]
+starting sweep 164 of 240 [ Tue, 2/19/2013 04:21:33.0831 PM ]
+starting sweep 165 of 240 [ Tue, 2/19/2013 04:21:48.1456 PM ]
+starting sweep 166 of 240 [ Tue, 2/19/2013 04:22:03.1924 PM ]
+starting sweep 167 of 240 [ Tue, 2/19/2013 04:22:18.2393 PM ]
+starting sweep 168 of 240 [ Tue, 2/19/2013 04:22:33.2862 PM ]
+starting sweep 169 of 240 [ Tue, 2/19/2013 04:22:48.3487 PM ]
+starting sweep 170 of 240 [ Tue, 2/19/2013 04:23:03.4112 PM ]
+starting sweep 171 of 240 [ Tue, 2/19/2013 04:23:18.4581 PM ]
+starting sweep 172 of 240 [ Tue, 2/19/2013 04:23:33.5049 PM ]
+starting sweep 173 of 240 [ Tue, 2/19/2013 04:23:48.5674 PM ]
+starting sweep 174 of 240 [ Tue, 2/19/2013 04:24:03.6143 PM ]
+starting sweep 175 of 240 [ Tue, 2/19/2013 04:24:18.6612 PM ]
+starting sweep 176 of 240 [ Tue, 2/19/2013 04:24:33.7237 PM ]
+starting sweep 177 of 240 [ Tue, 2/19/2013 04:24:48.7706 PM ]
+starting sweep 178 of 240 [ Tue, 2/19/2013 04:25:03.8174 PM ]
+starting sweep 179 of 240 [ Tue, 2/19/2013 04:25:18.8643 PM ]
+starting sweep 180 of 240 [ Tue, 2/19/2013 04:25:33.9268 PM ]
+starting sweep 181 of 240 [ Tue, 2/19/2013 04:25:48.9893 PM ]
+starting sweep 182 of 240 [ Tue, 2/19/2013 04:26:04.0518 PM ]
+starting sweep 183 of 240 [ Tue, 2/19/2013 04:26:19.0987 PM ]
+starting sweep 184 of 240 [ Tue, 2/19/2013 04:26:34.1456 PM ]
+starting sweep 185 of 240 [ Tue, 2/19/2013 04:26:49.2081 PM ]
+starting sweep 186 of 240 [ Tue, 2/19/2013 04:27:04.2549 PM ]
+starting sweep 187 of 240 [ Tue, 2/19/2013 04:27:19.3174 PM ]
+starting sweep 188 of 240 [ Tue, 2/19/2013 04:27:34.3643 PM ]
+starting sweep 189 of 240 [ Tue, 2/19/2013 04:27:49.4268 PM ]
+starting sweep 190 of 240 [ Tue, 2/19/2013 04:28:04.4737 PM ]
+starting sweep 191 of 240 [ Tue, 2/19/2013 04:28:19.5362 PM ]
+starting sweep 192 of 240 [ Tue, 2/19/2013 04:28:34.5831 PM ]
+starting sweep 193 of 240 [ Tue, 2/19/2013 04:28:49.6456 PM ]
+starting sweep 194 of 240 [ Tue, 2/19/2013 04:29:04.6924 PM ]
+starting sweep 195 of 240 [ Tue, 2/19/2013 04:29:19.7393 PM ]
+starting sweep 196 of 240 [ Tue, 2/19/2013 04:29:34.8018 PM ]
+starting sweep 197 of 240 [ Tue, 2/19/2013 04:29:49.8487 PM ]
+starting sweep 198 of 240 [ Tue, 2/19/2013 04:30:04.8956 PM ]
+starting sweep 199 of 240 [ Tue, 2/19/2013 04:30:19.9581 PM ]
+starting sweep 200 of 240 [ Tue, 2/19/2013 04:30:35.0049 PM ]
+starting sweep 201 of 240 [ Tue, 2/19/2013 04:30:50.0674 PM ]
+starting sweep 202 of 240 [ Tue, 2/19/2013 04:31:05.1143 PM ]
+starting sweep 203 of 240 [ Tue, 2/19/2013 04:31:20.1612 PM ]
+starting sweep 204 of 240 [ Tue, 2/19/2013 04:31:35.2081 PM ]
+starting sweep 205 of 240 [ Tue, 2/19/2013 04:31:50.2706 PM ]
+starting sweep 206 of 240 [ Tue, 2/19/2013 04:32:05.3174 PM ]
+starting sweep 207 of 240 [ Tue, 2/19/2013 04:32:20.3643 PM ]
+starting sweep 208 of 240 [ Tue, 2/19/2013 04:32:35.4268 PM ]
+starting sweep 209 of 240 [ Tue, 2/19/2013 04:32:50.4737 PM ]
+starting sweep 210 of 240 [ Tue, 2/19/2013 04:33:05.5206 PM ]
+starting sweep 211 of 240 [ Tue, 2/19/2013 04:33:20.5831 PM ]
+starting sweep 212 of 240 [ Tue, 2/19/2013 04:33:35.6299 PM ]
+starting sweep 213 of 240 [ Tue, 2/19/2013 04:33:50.6924 PM ]
+starting sweep 214 of 240 [ Tue, 2/19/2013 04:34:05.7549 PM ]
+starting sweep 215 of 240 [ Tue, 2/19/2013 04:34:20.8018 PM ]
+starting sweep 216 of 240 [ Tue, 2/19/2013 04:34:35.8643 PM ]
+starting sweep 217 of 240 [ Tue, 2/19/2013 04:34:50.9112 PM ]
+starting sweep 218 of 240 [ Tue, 2/19/2013 04:35:05.9737 PM ]
+starting sweep 219 of 240 [ Tue, 2/19/2013 04:35:21.0206 PM ]
+starting sweep 220 of 240 [ Tue, 2/19/2013 04:35:36.0831 PM ]
+starting sweep 221 of 240 [ Tue, 2/19/2013 04:35:51.1299 PM ]
+starting sweep 222 of 240 [ Tue, 2/19/2013 04:36:06.1924 PM ]
+starting sweep 223 of 240 [ Tue, 2/19/2013 04:36:21.2393 PM ]
+starting sweep 224 of 240 [ Tue, 2/19/2013 04:36:36.3018 PM ]
+starting sweep 225 of 240 [ Tue, 2/19/2013 04:36:51.3643 PM ]
+starting sweep 226 of 240 [ Tue, 2/19/2013 04:37:06.4112 PM ]
+starting sweep 227 of 240 [ Tue, 2/19/2013 04:37:21.4581 PM ]
+starting sweep 228 of 240 [ Tue, 2/19/2013 04:37:36.5049 PM ]
+starting sweep 229 of 240 [ Tue, 2/19/2013 04:37:51.5674 PM ]
+starting sweep 230 of 240 [ Tue, 2/19/2013 04:38:06.6143 PM ]
+starting sweep 231 of 240 [ Tue, 2/19/2013 04:38:21.6612 PM ]
+starting sweep 232 of 240 [ Tue, 2/19/2013 04:38:36.7081 PM ]
+starting sweep 233 of 240 [ Tue, 2/19/2013 04:38:51.7706 PM ]
+starting sweep 234 of 240 [ Tue, 2/19/2013 04:39:06.8174 PM ]
+starting sweep 235 of 240 [ Tue, 2/19/2013 04:39:21.8643 PM ]
+starting sweep 236 of 240 [ Tue, 2/19/2013 04:39:36.9268 PM ]
+starting sweep 237 of 240 [ Tue, 2/19/2013 04:39:51.9737 PM ]
+starting sweep 238 of 240 [ Tue, 2/19/2013 04:40:07.0362 PM ]
+starting sweep 239 of 240 [ Tue, 2/19/2013 04:40:22.0831 PM ]
+closing shutter 1 [ Tue, 2/19/2013 04:40:37.1456 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 45.0 degrees
+rezero slave axis platen
+begin header for RandD2_TiN_20feb2013_Run1 [ Wed, 2/20/2013 07:21:03.5567 AM ]

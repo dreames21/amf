@@ -1,0 +1,90 @@
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1_SiCap
+
+begin header for RandD1_SiW_4mar2013_Run1_SiCap [ Mon, 3/4/2013 08:17:22.3220 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1_SiCap
+
+begin header for RandD1_SiW_4mar2013_Run1_SiCap [ Mon, 3/4/2013 08:17:26.1345 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1_SiCap
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:17:26.5876 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:17:26.6032 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:17:27.2907 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:17:27.9938 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:17:28.6970 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:17:29.4001 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:17:30.1032 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:17:30.8063 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:17:31.5095 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:17:32.1970 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:17:32.9001 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:17:33.6032 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:17:34.3063 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:17:35.0095 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:17:35.7126 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:17:36.4157 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:17:37.1032 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:17:37.8063 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:17:38.5095 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:17:39.1970 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:17:39.9001 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:17:40.6032 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:17:41.3063 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:17:42.0095 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:17:42.7126 AM ]
+rezeroing platen by moving -4.0 degrees
+begin header for RandD1_SiW_4mar2013_Run2_Bposn [ Mon, 3/4/2013 08:27:18.6032 AM ]

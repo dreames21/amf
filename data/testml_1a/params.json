@@ -1,0 +1,28 @@
+{
+    "N": 3, 
+    "cathode 1": {
+        "RPM": 3.0000, 
+        "file": "../data\\testml_1a\\NiC_layer_R97_REV.dat", 
+        "name": "NiC", 
+        "rate": 1.2500
+    }, 
+    "cathode 2": {
+        "RPM": 2.2000, 
+        "file": "../data\\testml_1a\\Ti_layer_R97_REV.dat", 
+        "name": "Ti", 
+        "rate": 1.5000
+    }, 
+    "cathodes": [
+        "cathode 1", 
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": false, 
+    "initial_cathode": 1, 
+    "name": "testml_1a", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 8.0000, 
+    "sweep_angle": 360.0000
+}

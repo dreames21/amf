@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "name": "Si", 
+        "rate": 0.1000, 
+        "thickness": 10.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "Monolayer_platen_6sept2012_duplicate", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 8.0000
+}

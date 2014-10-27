@@ -1,0 +1,150 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.455 degrees
+opening shutter 1
+sweeping platen back and forth 39.0 times at 0.119373583333 RPM
+Starting Sweep 0 of 39 at Wed, 10/24/2012 07:17:42.6562 AM.
+Starting Sweep 1 of 39 at Wed, 10/24/2012 07:17:57.8906 AM.
+Starting Sweep 2 of 39 at Wed, 10/24/2012 07:18:13.1250 AM.
+Starting Sweep 3 of 39 at Wed, 10/24/2012 07:18:28.3437 AM.
+Starting Sweep 4 of 39 at Wed, 10/24/2012 07:18:43.5781 AM.
+Starting Sweep 5 of 39 at Wed, 10/24/2012 07:18:58.8125 AM.
+Starting Sweep 6 of 39 at Wed, 10/24/2012 07:19:14.0468 AM.
+Starting Sweep 7 of 39 at Wed, 10/24/2012 07:19:29.2968 AM.
+Starting Sweep 8 of 39 at Wed, 10/24/2012 07:19:44.5156 AM.
+Starting Sweep 9 of 39 at Wed, 10/24/2012 07:19:59.7656 AM.
+Starting Sweep 10 of 39 at Wed, 10/24/2012 07:20:15.0000 AM.
+Starting Sweep 11 of 39 at Wed, 10/24/2012 07:20:30.2343 AM.
+Starting Sweep 12 of 39 at Wed, 10/24/2012 07:20:45.4687 AM.
+Starting Sweep 13 of 39 at Wed, 10/24/2012 07:21:00.7031 AM.
+Starting Sweep 14 of 39 at Wed, 10/24/2012 07:21:15.9531 AM.
+Starting Sweep 15 of 39 at Wed, 10/24/2012 07:21:31.2031 AM.
+Starting Sweep 16 of 39 at Wed, 10/24/2012 07:21:46.4375 AM.
+Starting Sweep 17 of 39 at Wed, 10/24/2012 07:22:01.6875 AM.
+Starting Sweep 18 of 39 at Wed, 10/24/2012 07:22:16.9218 AM.
+Starting Sweep 19 of 39 at Wed, 10/24/2012 07:22:32.1718 AM.
+Starting Sweep 20 of 39 at Wed, 10/24/2012 07:22:47.4062 AM.
+Starting Sweep 21 of 39 at Wed, 10/24/2012 07:23:02.6406 AM.
+Starting Sweep 22 of 39 at Wed, 10/24/2012 07:23:17.8906 AM.
+Starting Sweep 23 of 39 at Wed, 10/24/2012 07:23:33.1250 AM.
+Starting Sweep 24 of 39 at Wed, 10/24/2012 07:23:48.3437 AM.
+Starting Sweep 25 of 39 at Wed, 10/24/2012 07:24:03.5937 AM.
+Starting Sweep 26 of 39 at Wed, 10/24/2012 07:24:18.8281 AM.
+Starting Sweep 27 of 39 at Wed, 10/24/2012 07:24:34.0781 AM.
+Starting Sweep 28 of 39 at Wed, 10/24/2012 07:24:49.3125 AM.
+Starting Sweep 29 of 39 at Wed, 10/24/2012 07:25:04.5468 AM.
+Starting Sweep 30 of 39 at Wed, 10/24/2012 07:25:19.7968 AM.
+Starting Sweep 31 of 39 at Wed, 10/24/2012 07:25:35.0312 AM.
+Starting Sweep 32 of 39 at Wed, 10/24/2012 07:25:50.2812 AM.
+Starting Sweep 33 of 39 at Wed, 10/24/2012 07:26:05.5156 AM.
+Starting Sweep 34 of 39 at Wed, 10/24/2012 07:26:20.7656 AM.
+Starting Sweep 35 of 39 at Wed, 10/24/2012 07:26:36.0000 AM.
+Starting Sweep 36 of 39 at Wed, 10/24/2012 07:26:51.2500 AM.
+Starting Sweep 37 of 39 at Wed, 10/24/2012 07:27:06.5000 AM.
+Starting Sweep 38 of 39 at Wed, 10/24/2012 07:27:21.7343 AM.
+closing shutter 1
+rezeroing platen by moving -5.455 degrees
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.455 degrees
+opening shutter 1
+sweeping platen back and forth 39.0 times at 0.119373583333 RPM
+Starting Sweep 0 of 39 at Wed, 10/24/2012 07:57:09.1562 AM.
+Starting Sweep 1 of 39 at Wed, 10/24/2012 07:57:24.3906 AM.
+Starting Sweep 2 of 39 at Wed, 10/24/2012 07:57:39.6093 AM.
+Starting Sweep 3 of 39 at Wed, 10/24/2012 07:57:54.8437 AM.
+Starting Sweep 4 of 39 at Wed, 10/24/2012 07:58:10.0781 AM.
+Starting Sweep 5 of 39 at Wed, 10/24/2012 07:58:25.3281 AM.
+Starting Sweep 6 of 39 at Wed, 10/24/2012 07:58:40.5468 AM.
+Starting Sweep 7 of 39 at Wed, 10/24/2012 07:58:55.7968 AM.
+Starting Sweep 8 of 39 at Wed, 10/24/2012 07:59:11.0468 AM.
+Starting Sweep 9 of 39 at Wed, 10/24/2012 07:59:26.5312 AM.
+Starting Sweep 10 of 39 at Wed, 10/24/2012 07:59:41.7656 AM.
+Starting Sweep 11 of 39 at Wed, 10/24/2012 07:59:57.0156 AM.
+Starting Sweep 12 of 39 at Wed, 10/24/2012 08:00:12.2500 AM.
+Starting Sweep 13 of 39 at Wed, 10/24/2012 08:00:27.4843 AM.
+Starting Sweep 14 of 39 at Wed, 10/24/2012 08:00:42.7187 AM.
+Starting Sweep 15 of 39 at Wed, 10/24/2012 08:00:57.9531 AM.
+Starting Sweep 16 of 39 at Wed, 10/24/2012 08:01:13.1875 AM.
+Starting Sweep 17 of 39 at Wed, 10/24/2012 08:01:28.4062 AM.
+Starting Sweep 18 of 39 at Wed, 10/24/2012 08:01:43.6406 AM.
+Starting Sweep 19 of 39 at Wed, 10/24/2012 08:01:58.8906 AM.
+Starting Sweep 20 of 39 at Wed, 10/24/2012 08:02:14.1250 AM.
+Starting Sweep 21 of 39 at Wed, 10/24/2012 08:02:29.3750 AM.
+Starting Sweep 22 of 39 at Wed, 10/24/2012 08:02:44.6093 AM.
+Starting Sweep 23 of 39 at Wed, 10/24/2012 08:02:59.8437 AM.
+Starting Sweep 24 of 39 at Wed, 10/24/2012 08:03:15.0937 AM.
+Starting Sweep 25 of 39 at Wed, 10/24/2012 08:03:30.3281 AM.
+Starting Sweep 26 of 39 at Wed, 10/24/2012 08:03:45.5781 AM.
+Starting Sweep 27 of 39 at Wed, 10/24/2012 08:04:00.8281 AM.
+Starting Sweep 28 of 39 at Wed, 10/24/2012 08:04:16.0625 AM.
+Starting Sweep 29 of 39 at Wed, 10/24/2012 08:04:31.2968 AM.
+Starting Sweep 30 of 39 at Wed, 10/24/2012 08:04:46.5312 AM.
+Starting Sweep 31 of 39 at Wed, 10/24/2012 08:05:01.7656 AM.
+Starting Sweep 32 of 39 at Wed, 10/24/2012 08:05:17.0312 AM.
+Starting Sweep 33 of 39 at Wed, 10/24/2012 08:05:32.2656 AM.
+Starting Sweep 34 of 39 at Wed, 10/24/2012 08:05:47.5156 AM.
+Starting Sweep 35 of 39 at Wed, 10/24/2012 08:06:02.7500 AM.
+Starting Sweep 36 of 39 at Wed, 10/24/2012 08:06:18.0000 AM.
+Starting Sweep 37 of 39 at Wed, 10/24/2012 08:06:33.2343 AM.
+Starting Sweep 38 of 39 at Wed, 10/24/2012 08:06:48.4687 AM.
+closing shutter 1
+rezeroing platen by moving -5.455 degrees
+
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Thu, 5/30/2013 11:24:52.2754 AM ]
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.455 degrees
+opening shutter 1
+sweeping platen back and forth 39.0 times at 0.119373583333 RPM
+starting sweep 0 of 39 [ Mon, 6/3/2013 01:50:34.8264 PM ]
+starting sweep 1 of 39 [ Mon, 6/3/2013 01:50:50.0608 PM ]
+starting sweep 2 of 39 [ Mon, 6/3/2013 01:51:05.3108 PM ]
+starting sweep 3 of 39 [ Mon, 6/3/2013 01:51:09.1858 PM ]
+starting sweep 4 of 39 [ Mon, 6/3/2013 01:51:09.1858 PM ]
+starting sweep 5 of 39 [ Mon, 6/3/2013 01:51:09.2014 PM ]
+starting sweep 6 of 39 [ Mon, 6/3/2013 01:51:09.2327 PM ]
+starting sweep 7 of 39 [ Mon, 6/3/2013 01:51:09.2483 PM ]
+starting sweep 8 of 39 [ Mon, 6/3/2013 01:51:09.2483 PM ]
+starting sweep 9 of 39 [ Mon, 6/3/2013 01:51:09.2639 PM ]
+starting sweep 10 of 39 [ Mon, 6/3/2013 01:51:09.2796 PM ]
+starting sweep 11 of 39 [ Mon, 6/3/2013 01:51:09.2796 PM ]
+starting sweep 12 of 39 [ Mon, 6/3/2013 01:51:09.2952 PM ]
+starting sweep 13 of 39 [ Mon, 6/3/2013 01:51:09.2952 PM ]
+starting sweep 14 of 39 [ Mon, 6/3/2013 01:51:09.3108 PM ]
+starting sweep 15 of 39 [ Mon, 6/3/2013 01:51:09.3108 PM ]
+starting sweep 16 of 39 [ Mon, 6/3/2013 01:51:09.3264 PM ]
+starting sweep 17 of 39 [ Mon, 6/3/2013 01:51:09.3421 PM ]
+starting sweep 18 of 39 [ Mon, 6/3/2013 01:51:09.3577 PM ]
+starting sweep 19 of 39 [ Mon, 6/3/2013 01:51:09.3577 PM ]
+starting sweep 20 of 39 [ Mon, 6/3/2013 01:51:09.4046 PM ]
+starting sweep 21 of 39 [ Mon, 6/3/2013 01:51:09.4046 PM ]
+starting sweep 22 of 39 [ Mon, 6/3/2013 01:51:09.4202 PM ]
+starting sweep 23 of 39 [ Mon, 6/3/2013 01:51:09.4358 PM ]
+starting sweep 24 of 39 [ Mon, 6/3/2013 01:51:09.4514 PM ]
+starting sweep 25 of 39 [ Mon, 6/3/2013 01:51:09.4671 PM ]
+starting sweep 26 of 39 [ Mon, 6/3/2013 01:51:09.4827 PM ]
+starting sweep 27 of 39 [ Mon, 6/3/2013 01:51:09.4827 PM ]
+starting sweep 28 of 39 [ Mon, 6/3/2013 01:51:09.4983 PM ]
+starting sweep 29 of 39 [ Mon, 6/3/2013 01:51:09.5296 PM ]
+starting sweep 30 of 39 [ Mon, 6/3/2013 01:51:09.5296 PM ]
+starting sweep 31 of 39 [ Mon, 6/3/2013 01:51:09.5452 PM ]
+starting sweep 32 of 39 [ Mon, 6/3/2013 01:51:09.5764 PM ]
+starting sweep 33 of 39 [ Mon, 6/3/2013 01:51:09.5764 PM ]
+starting sweep 34 of 39 [ Mon, 6/3/2013 01:51:09.5921 PM ]
+starting sweep 35 of 39 [ Mon, 6/3/2013 01:51:09.6077 PM ]
+starting sweep 36 of 39 [ Mon, 6/3/2013 01:51:09.7327 PM ]
+starting sweep 37 of 39 [ Mon, 6/3/2013 01:51:09.7483 PM ]
+starting sweep 38 of 39 [ Mon, 6/3/2013 01:51:09.7796 PM ]
+closing shutter 1
+begin header for RandD1_PtCap_24may2013_C1B_R2 [ Mon, 6/3/2013 01:51:52.7639 PM ]

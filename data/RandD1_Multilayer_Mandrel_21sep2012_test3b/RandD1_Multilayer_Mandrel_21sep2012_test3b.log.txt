@@ -1,0 +1,10 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+rotating mandrel 5.0 times at 0.975 RPM

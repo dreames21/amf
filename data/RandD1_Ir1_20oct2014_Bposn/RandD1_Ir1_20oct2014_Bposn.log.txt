@@ -1,0 +1,292 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.0
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Ir1_20oct2014_Bposn
+
+begin header for RandD1_Ir1_20oct2014_Bposn [ Mon, 10/20/2014 12:36:13.2586 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.0
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Ir1_20oct2014_Bposn
+
+begin header for RandD1_Ir1_20oct2014_Bposn [ Mon, 10/20/2014 12:36:30.7452 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.0
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Ir1_20oct2014_Bposn
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 10/20/2014 12:36:31.4328 PM ]
+sweeping platen back and forth 225.0 times at 2.0 RPM
+starting sweep 0 of 225 [ Mon, 10/20/2014 12:36:31.4796 PM ]
+starting sweep 1 of 225 [ Mon, 10/20/2014 12:36:32.1985 PM ]
+starting sweep 2 of 225 [ Mon, 10/20/2014 12:36:32.9173 PM ]
+starting sweep 3 of 225 [ Mon, 10/20/2014 12:36:33.6205 PM ]
+starting sweep 4 of 225 [ Mon, 10/20/2014 12:36:34.3394 PM ]
+starting sweep 5 of 225 [ Mon, 10/20/2014 12:36:35.0426 PM ]
+starting sweep 6 of 225 [ Mon, 10/20/2014 12:36:35.7614 PM ]
+starting sweep 7 of 225 [ Mon, 10/20/2014 12:36:36.4647 PM ]
+starting sweep 8 of 225 [ Mon, 10/20/2014 12:36:37.1835 PM ]
+starting sweep 9 of 225 [ Mon, 10/20/2014 12:36:37.9023 PM ]
+starting sweep 10 of 225 [ Mon, 10/20/2014 12:36:38.6212 PM ]
+starting sweep 11 of 225 [ Mon, 10/20/2014 12:36:39.3244 PM ]
+starting sweep 12 of 225 [ Mon, 10/20/2014 12:36:40.0432 PM ]
+starting sweep 13 of 225 [ Mon, 10/20/2014 12:36:40.7465 PM ]
+starting sweep 14 of 225 [ Mon, 10/20/2014 12:36:41.4653 PM ]
+starting sweep 15 of 225 [ Mon, 10/20/2014 12:36:42.1841 PM ]
+starting sweep 16 of 225 [ Mon, 10/20/2014 12:36:42.9030 PM ]
+starting sweep 17 of 225 [ Mon, 10/20/2014 12:36:43.6218 PM ]
+starting sweep 18 of 225 [ Mon, 10/20/2014 12:36:44.3407 PM ]
+starting sweep 19 of 225 [ Mon, 10/20/2014 12:36:45.0595 PM ]
+starting sweep 20 of 225 [ Mon, 10/20/2014 12:36:45.7783 PM ]
+starting sweep 21 of 225 [ Mon, 10/20/2014 12:36:46.4972 PM ]
+starting sweep 22 of 225 [ Mon, 10/20/2014 12:36:47.2004 PM ]
+starting sweep 23 of 225 [ Mon, 10/20/2014 12:36:47.9192 PM ]
+starting sweep 24 of 225 [ Mon, 10/20/2014 12:36:48.6225 PM ]
+starting sweep 25 of 225 [ Mon, 10/20/2014 12:36:49.3413 PM ]
+starting sweep 26 of 225 [ Mon, 10/20/2014 12:36:50.0601 PM ]
+starting sweep 27 of 225 [ Mon, 10/20/2014 12:36:50.7634 PM ]
+starting sweep 28 of 225 [ Mon, 10/20/2014 12:36:51.4822 PM ]
+starting sweep 29 of 225 [ Mon, 10/20/2014 12:36:52.2010 PM ]
+starting sweep 30 of 225 [ Mon, 10/20/2014 12:36:52.9199 PM ]
+starting sweep 31 of 225 [ Mon, 10/20/2014 12:36:53.6544 PM ]
+starting sweep 32 of 225 [ Mon, 10/20/2014 12:36:54.3576 PM ]
+starting sweep 33 of 225 [ Mon, 10/20/2014 12:36:55.0764 PM ]
+starting sweep 34 of 225 [ Mon, 10/20/2014 12:36:55.7953 PM ]
+starting sweep 35 of 225 [ Mon, 10/20/2014 12:36:56.5141 PM ]
+starting sweep 36 of 225 [ Mon, 10/20/2014 12:36:57.2329 PM ]
+starting sweep 37 of 225 [ Mon, 10/20/2014 12:36:57.9518 PM ]
+starting sweep 38 of 225 [ Mon, 10/20/2014 12:36:58.6706 PM ]
+starting sweep 39 of 225 [ Mon, 10/20/2014 12:36:59.3895 PM ]
+starting sweep 40 of 225 [ Mon, 10/20/2014 12:37:00.0927 PM ]
+starting sweep 41 of 225 [ Mon, 10/20/2014 12:37:00.8115 PM ]
+starting sweep 42 of 225 [ Mon, 10/20/2014 12:37:01.5304 PM ]
+starting sweep 43 of 225 [ Mon, 10/20/2014 12:37:02.2492 PM ]
+starting sweep 44 of 225 [ Mon, 10/20/2014 12:37:02.9524 PM ]
+starting sweep 45 of 225 [ Mon, 10/20/2014 12:37:03.6713 PM ]
+starting sweep 46 of 225 [ Mon, 10/20/2014 12:37:04.3901 PM ]
+starting sweep 47 of 225 [ Mon, 10/20/2014 12:37:05.1089 PM ]
+starting sweep 48 of 225 [ Mon, 10/20/2014 12:37:05.8122 PM ]
+starting sweep 49 of 225 [ Mon, 10/20/2014 12:37:06.5310 PM ]
+starting sweep 50 of 225 [ Mon, 10/20/2014 12:37:07.2342 PM ]
+starting sweep 51 of 225 [ Mon, 10/20/2014 12:37:07.9531 PM ]
+starting sweep 52 of 225 [ Mon, 10/20/2014 12:37:08.6719 PM ]
+starting sweep 53 of 225 [ Mon, 10/20/2014 12:37:09.3907 PM ]
+starting sweep 54 of 225 [ Mon, 10/20/2014 12:37:10.0940 PM ]
+starting sweep 55 of 225 [ Mon, 10/20/2014 12:37:10.8128 PM ]
+starting sweep 56 of 225 [ Mon, 10/20/2014 12:37:11.5316 PM ]
+starting sweep 57 of 225 [ Mon, 10/20/2014 12:37:12.2661 PM ]
+starting sweep 58 of 225 [ Mon, 10/20/2014 12:37:12.9850 PM ]
+starting sweep 59 of 225 [ Mon, 10/20/2014 12:37:13.6882 PM ]
+starting sweep 60 of 225 [ Mon, 10/20/2014 12:37:14.4070 PM ]
+starting sweep 61 of 225 [ Mon, 10/20/2014 12:37:15.1258 PM ]
+starting sweep 62 of 225 [ Mon, 10/20/2014 12:37:15.8447 PM ]
+starting sweep 63 of 225 [ Mon, 10/20/2014 12:37:16.5635 PM ]
+starting sweep 64 of 225 [ Mon, 10/20/2014 12:37:17.2824 PM ]
+starting sweep 65 of 225 [ Mon, 10/20/2014 12:37:17.9856 PM ]
+starting sweep 66 of 225 [ Mon, 10/20/2014 12:37:18.6888 PM ]
+starting sweep 67 of 225 [ Mon, 10/20/2014 12:37:19.4076 PM ]
+starting sweep 68 of 225 [ Mon, 10/20/2014 12:37:20.1265 PM ]
+starting sweep 69 of 225 [ Mon, 10/20/2014 12:37:20.8453 PM ]
+starting sweep 70 of 225 [ Mon, 10/20/2014 12:37:21.5485 PM ]
+starting sweep 71 of 225 [ Mon, 10/20/2014 12:37:22.2674 PM ]
+starting sweep 72 of 225 [ Mon, 10/20/2014 12:37:22.9862 PM ]
+starting sweep 73 of 225 [ Mon, 10/20/2014 12:37:23.7051 PM ]
+starting sweep 74 of 225 [ Mon, 10/20/2014 12:37:24.4083 PM ]
+starting sweep 75 of 225 [ Mon, 10/20/2014 12:37:25.1271 PM ]
+starting sweep 76 of 225 [ Mon, 10/20/2014 12:37:25.8460 PM ]
+starting sweep 77 of 225 [ Mon, 10/20/2014 12:37:26.5492 PM ]
+starting sweep 78 of 225 [ Mon, 10/20/2014 12:37:27.2837 PM ]
+starting sweep 79 of 225 [ Mon, 10/20/2014 12:37:28.0025 PM ]
+starting sweep 80 of 225 [ Mon, 10/20/2014 12:37:28.7213 PM ]
+starting sweep 81 of 225 [ Mon, 10/20/2014 12:37:29.4246 PM ]
+starting sweep 82 of 225 [ Mon, 10/20/2014 12:37:30.1434 PM ]
+starting sweep 83 of 225 [ Mon, 10/20/2014 12:37:30.8622 PM ]
+starting sweep 84 of 225 [ Mon, 10/20/2014 12:37:31.5811 PM ]
+starting sweep 85 of 225 [ Mon, 10/20/2014 12:37:32.2999 PM ]
+starting sweep 86 of 225 [ Mon, 10/20/2014 12:37:33.0031 PM ]
+starting sweep 87 of 225 [ Mon, 10/20/2014 12:37:33.7220 PM ]
+starting sweep 88 of 225 [ Mon, 10/20/2014 12:37:34.4408 PM ]
+starting sweep 89 of 225 [ Mon, 10/20/2014 12:37:35.1440 PM ]
+starting sweep 90 of 225 [ Mon, 10/20/2014 12:37:35.8629 PM ]
+starting sweep 91 of 225 [ Mon, 10/20/2014 12:37:36.5817 PM ]
+starting sweep 92 of 225 [ Mon, 10/20/2014 12:37:37.2849 PM ]
+starting sweep 93 of 225 [ Mon, 10/20/2014 12:37:38.0038 PM ]
+starting sweep 94 of 225 [ Mon, 10/20/2014 12:37:38.7070 PM ]
+starting sweep 95 of 225 [ Mon, 10/20/2014 12:37:39.4258 PM ]
+starting sweep 96 of 225 [ Mon, 10/20/2014 12:37:40.1447 PM ]
+starting sweep 97 of 225 [ Mon, 10/20/2014 12:37:40.8479 PM ]
+starting sweep 98 of 225 [ Mon, 10/20/2014 12:37:41.5667 PM ]
+starting sweep 99 of 225 [ Mon, 10/20/2014 12:37:42.2856 PM ]
+starting sweep 100 of 225 [ Mon, 10/20/2014 12:37:42.9888 PM ]
+starting sweep 101 of 225 [ Mon, 10/20/2014 12:37:43.7076 PM ]
+starting sweep 102 of 225 [ Mon, 10/20/2014 12:37:44.4265 PM ]
+starting sweep 103 of 225 [ Mon, 10/20/2014 12:37:45.1453 PM ]
+starting sweep 104 of 225 [ Mon, 10/20/2014 12:37:45.8485 PM ]
+starting sweep 105 of 225 [ Mon, 10/20/2014 12:37:46.5830 PM ]
+starting sweep 106 of 225 [ Mon, 10/20/2014 12:37:47.3018 PM ]
+starting sweep 107 of 225 [ Mon, 10/20/2014 12:37:48.0207 PM ]
+starting sweep 108 of 225 [ Mon, 10/20/2014 12:37:48.7552 PM ]
+starting sweep 109 of 225 [ Mon, 10/20/2014 12:37:49.4740 PM ]
+starting sweep 110 of 225 [ Mon, 10/20/2014 12:37:50.1928 PM ]
+starting sweep 111 of 225 [ Mon, 10/20/2014 12:37:50.9117 PM ]
+starting sweep 112 of 225 [ Mon, 10/20/2014 12:37:51.6305 PM ]
+starting sweep 113 of 225 [ Mon, 10/20/2014 12:37:52.3337 PM ]
+starting sweep 114 of 225 [ Mon, 10/20/2014 12:37:53.0526 PM ]
+starting sweep 115 of 225 [ Mon, 10/20/2014 12:37:53.7714 PM ]
+starting sweep 116 of 225 [ Mon, 10/20/2014 12:37:54.4903 PM ]
+starting sweep 117 of 225 [ Mon, 10/20/2014 12:37:55.2091 PM ]
+starting sweep 118 of 225 [ Mon, 10/20/2014 12:37:55.9123 PM ]
+starting sweep 119 of 225 [ Mon, 10/20/2014 12:37:56.6312 PM ]
+starting sweep 120 of 225 [ Mon, 10/20/2014 12:37:57.3500 PM ]
+starting sweep 121 of 225 [ Mon, 10/20/2014 12:37:58.0688 PM ]
+starting sweep 122 of 225 [ Mon, 10/20/2014 12:37:58.7877 PM ]
+starting sweep 123 of 225 [ Mon, 10/20/2014 12:37:59.4909 PM ]
+starting sweep 124 of 225 [ Mon, 10/20/2014 12:38:00.2097 PM ]
+starting sweep 125 of 225 [ Mon, 10/20/2014 12:38:00.9286 PM ]
+starting sweep 126 of 225 [ Mon, 10/20/2014 12:38:01.6318 PM ]
+starting sweep 127 of 225 [ Mon, 10/20/2014 12:38:02.3506 PM ]
+starting sweep 128 of 225 [ Mon, 10/20/2014 12:38:03.0695 PM ]
+starting sweep 129 of 225 [ Mon, 10/20/2014 12:38:03.7727 PM ]
+starting sweep 130 of 225 [ Mon, 10/20/2014 12:38:04.4915 PM ]
+starting sweep 131 of 225 [ Mon, 10/20/2014 12:38:05.2104 PM ]
+starting sweep 132 of 225 [ Mon, 10/20/2014 12:38:05.9136 PM ]
+starting sweep 133 of 225 [ Mon, 10/20/2014 12:38:06.6324 PM ]
+starting sweep 134 of 225 [ Mon, 10/20/2014 12:38:07.3513 PM ]
+starting sweep 135 of 225 [ Mon, 10/20/2014 12:38:08.0545 PM ]
+starting sweep 136 of 225 [ Mon, 10/20/2014 12:38:08.7733 PM ]
+starting sweep 137 of 225 [ Mon, 10/20/2014 12:38:09.4922 PM ]
+starting sweep 138 of 225 [ Mon, 10/20/2014 12:38:10.2267 PM ]
+starting sweep 139 of 225 [ Mon, 10/20/2014 12:38:10.9455 PM ]
+starting sweep 140 of 225 [ Mon, 10/20/2014 12:38:11.6643 PM ]
+starting sweep 141 of 225 [ Mon, 10/20/2014 12:38:12.3676 PM ]
+starting sweep 142 of 225 [ Mon, 10/20/2014 12:38:13.0864 PM ]
+starting sweep 143 of 225 [ Mon, 10/20/2014 12:38:13.7896 PM ]
+starting sweep 144 of 225 [ Mon, 10/20/2014 12:38:14.5084 PM ]
+starting sweep 145 of 225 [ Mon, 10/20/2014 12:38:15.2273 PM ]
+starting sweep 146 of 225 [ Mon, 10/20/2014 12:38:15.9461 PM ]
+starting sweep 147 of 225 [ Mon, 10/20/2014 12:38:16.6493 PM ]
+starting sweep 148 of 225 [ Mon, 10/20/2014 12:38:17.3682 PM ]
+starting sweep 149 of 225 [ Mon, 10/20/2014 12:38:18.0870 PM ]
+starting sweep 150 of 225 [ Mon, 10/20/2014 12:38:18.7902 PM ]
+starting sweep 151 of 225 [ Mon, 10/20/2014 12:38:19.5091 PM ]
+starting sweep 152 of 225 [ Mon, 10/20/2014 12:38:20.2279 PM ]
+starting sweep 153 of 225 [ Mon, 10/20/2014 12:38:20.9468 PM ]
+starting sweep 154 of 225 [ Mon, 10/20/2014 12:38:21.6500 PM ]
+starting sweep 155 of 225 [ Mon, 10/20/2014 12:38:22.3688 PM ]
+starting sweep 156 of 225 [ Mon, 10/20/2014 12:38:23.0720 PM ]
+starting sweep 157 of 225 [ Mon, 10/20/2014 12:38:23.7909 PM ]
+starting sweep 158 of 225 [ Mon, 10/20/2014 12:38:24.5097 PM ]
+starting sweep 159 of 225 [ Mon, 10/20/2014 12:38:25.2286 PM ]
+starting sweep 160 of 225 [ Mon, 10/20/2014 12:38:25.9474 PM ]
+starting sweep 161 of 225 [ Mon, 10/20/2014 12:38:26.6663 PM ]
+starting sweep 162 of 225 [ Mon, 10/20/2014 12:38:27.3851 PM ]
+starting sweep 163 of 225 [ Mon, 10/20/2014 12:38:28.1039 PM ]
+starting sweep 164 of 225 [ Mon, 10/20/2014 12:38:28.8228 PM ]
+starting sweep 165 of 225 [ Mon, 10/20/2014 12:38:29.5260 PM ]
+starting sweep 166 of 225 [ Mon, 10/20/2014 12:38:30.2448 PM ]
+starting sweep 167 of 225 [ Mon, 10/20/2014 12:38:30.9637 PM ]
+starting sweep 168 of 225 [ Mon, 10/20/2014 12:38:31.6825 PM ]
+starting sweep 169 of 225 [ Mon, 10/20/2014 12:38:32.4014 PM ]
+starting sweep 170 of 225 [ Mon, 10/20/2014 12:38:33.1202 PM ]
+starting sweep 171 of 225 [ Mon, 10/20/2014 12:38:33.8390 PM ]
+starting sweep 172 of 225 [ Mon, 10/20/2014 12:38:34.5423 PM ]
+starting sweep 173 of 225 [ Mon, 10/20/2014 12:38:35.2611 PM ]
+starting sweep 174 of 225 [ Mon, 10/20/2014 12:38:35.9799 PM ]
+starting sweep 175 of 225 [ Mon, 10/20/2014 12:38:36.6988 PM ]
+starting sweep 176 of 225 [ Mon, 10/20/2014 12:38:37.4020 PM ]
+starting sweep 177 of 225 [ Mon, 10/20/2014 12:38:38.1208 PM ]
+starting sweep 178 of 225 [ Mon, 10/20/2014 12:38:38.8397 PM ]
+starting sweep 179 of 225 [ Mon, 10/20/2014 12:38:39.5585 PM ]
+starting sweep 180 of 225 [ Mon, 10/20/2014 12:38:40.3086 PM ]
+starting sweep 181 of 225 [ Mon, 10/20/2014 12:38:41.0118 PM ]
+starting sweep 182 of 225 [ Mon, 10/20/2014 12:38:41.7307 PM ]
+starting sweep 183 of 225 [ Mon, 10/20/2014 12:38:42.4495 PM ]
+starting sweep 184 of 225 [ Mon, 10/20/2014 12:38:43.1684 PM ]
+starting sweep 185 of 225 [ Mon, 10/20/2014 12:38:43.8716 PM ]
+starting sweep 186 of 225 [ Mon, 10/20/2014 12:38:44.5904 PM ]
+starting sweep 187 of 225 [ Mon, 10/20/2014 12:38:45.3093 PM ]
+starting sweep 188 of 225 [ Mon, 10/20/2014 12:38:46.0281 PM ]
+starting sweep 189 of 225 [ Mon, 10/20/2014 12:38:46.7470 PM ]
+starting sweep 190 of 225 [ Mon, 10/20/2014 12:38:47.4658 PM ]
+starting sweep 191 of 225 [ Mon, 10/20/2014 12:38:48.1846 PM ]
+starting sweep 192 of 225 [ Mon, 10/20/2014 12:38:48.8878 PM ]
+starting sweep 193 of 225 [ Mon, 10/20/2014 12:38:49.6067 PM ]
+starting sweep 194 of 225 [ Mon, 10/20/2014 12:38:50.3255 PM ]
+starting sweep 195 of 225 [ Mon, 10/20/2014 12:38:51.0444 PM ]
+starting sweep 196 of 225 [ Mon, 10/20/2014 12:38:51.7632 PM ]
+starting sweep 197 of 225 [ Mon, 10/20/2014 12:38:52.4664 PM ]
+starting sweep 198 of 225 [ Mon, 10/20/2014 12:38:53.1853 PM ]
+starting sweep 199 of 225 [ Mon, 10/20/2014 12:38:53.9041 PM ]
+starting sweep 200 of 225 [ Mon, 10/20/2014 12:38:54.6073 PM ]
+starting sweep 201 of 225 [ Mon, 10/20/2014 12:38:55.3262 PM ]
+starting sweep 202 of 225 [ Mon, 10/20/2014 12:38:56.0450 PM ]
+starting sweep 203 of 225 [ Mon, 10/20/2014 12:38:56.7639 PM ]
+starting sweep 204 of 225 [ Mon, 10/20/2014 12:38:57.4827 PM ]
+starting sweep 205 of 225 [ Mon, 10/20/2014 12:38:58.1859 PM ]
+starting sweep 206 of 225 [ Mon, 10/20/2014 12:38:58.9048 PM ]
+starting sweep 207 of 225 [ Mon, 10/20/2014 12:38:59.6236 PM ]
+starting sweep 208 of 225 [ Mon, 10/20/2014 12:39:00.3424 PM ]
+starting sweep 209 of 225 [ Mon, 10/20/2014 12:39:01.0613 PM ]
+starting sweep 210 of 225 [ Mon, 10/20/2014 12:39:01.7801 PM ]
+starting sweep 211 of 225 [ Mon, 10/20/2014 12:39:02.4990 PM ]
+starting sweep 212 of 225 [ Mon, 10/20/2014 12:39:03.2022 PM ]
+starting sweep 213 of 225 [ Mon, 10/20/2014 12:39:03.9210 PM ]
+starting sweep 214 of 225 [ Mon, 10/20/2014 12:39:04.6399 PM ]
+starting sweep 215 of 225 [ Mon, 10/20/2014 12:39:05.3587 PM ]
+starting sweep 216 of 225 [ Mon, 10/20/2014 12:39:06.0776 PM ]
+starting sweep 217 of 225 [ Mon, 10/20/2014 12:39:06.7964 PM ]
+starting sweep 218 of 225 [ Mon, 10/20/2014 12:39:07.5152 PM ]
+starting sweep 219 of 225 [ Mon, 10/20/2014 12:39:08.2341 PM ]
+starting sweep 220 of 225 [ Mon, 10/20/2014 12:39:08.9529 PM ]
+starting sweep 221 of 225 [ Mon, 10/20/2014 12:39:09.6718 PM ]
+starting sweep 222 of 225 [ Mon, 10/20/2014 12:39:10.3906 PM ]
+starting sweep 223 of 225 [ Mon, 10/20/2014 12:39:11.1094 PM ]
+starting sweep 224 of 225 [ Mon, 10/20/2014 12:39:11.8283 PM ]
+closing shutter 1 [ Mon, 10/20/2014 12:39:12.5471 PM ]
+rezeroing platen by moving -4.0 degrees
+begin header for RandD1_Ir2_24oct2014_Aposn [ Fri, 10/24/2014 12:54:36.2983 PM ]

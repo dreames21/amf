@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Ti", 
+        "rate": 2.0000, 
+        "thickness": 50.0000
+    }, 
+    "cathodes": [
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "linear_stage_pass_length": 6.0000, 
+    "name": "linear_test", 
+    "run_mode": "linear_mode", 
+    "single_cathode": true
+}

@@ -1,0 +1,616 @@
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run1
+
+begin header for RandD2_TiN_21feb2013_Run1 [ Thu, 2/21/2013 07:23:49.5108 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run1
+
+begin header for RandD2_TiN_21feb2013_Run1 [ Thu, 2/21/2013 07:24:11.4639 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run1
+
+begin header for RandD2_TiN_21feb2013_Run1 [ Thu, 2/21/2013 07:24:11.9952 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run1
+
+begin header for RandD2_TiN_21feb2013_Run1 [ Thu, 2/21/2013 07:54:40.9171 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Thu, 2/21/2013 07:54:43.7764 AM ]
+sweeping rotary stage back and forth 480.0 times at 1.0 RPM
+starting sweep 0 of 480 [ Thu, 2/21/2013 07:54:43.7921 AM ]
+starting sweep 1 of 480 [ Thu, 2/21/2013 07:54:58.8546 AM ]
+starting sweep 2 of 480 [ Thu, 2/21/2013 07:55:13.9014 AM ]
+starting sweep 3 of 480 [ Thu, 2/21/2013 07:55:28.9639 AM ]
+starting sweep 4 of 480 [ Thu, 2/21/2013 07:55:44.0264 AM ]
+starting sweep 5 of 480 [ Thu, 2/21/2013 07:55:59.0733 AM ]
+starting sweep 6 of 480 [ Thu, 2/21/2013 07:56:14.1202 AM ]
+starting sweep 7 of 480 [ Thu, 2/21/2013 07:56:29.1827 AM ]
+starting sweep 8 of 480 [ Thu, 2/21/2013 07:56:44.2296 AM ]
+starting sweep 9 of 480 [ Thu, 2/21/2013 07:56:59.2764 AM ]
+starting sweep 10 of 480 [ Thu, 2/21/2013 07:57:14.3389 AM ]
+starting sweep 11 of 480 [ Thu, 2/21/2013 07:57:29.3858 AM ]
+starting sweep 12 of 480 [ Thu, 2/21/2013 07:57:44.4483 AM ]
+starting sweep 13 of 480 [ Thu, 2/21/2013 07:57:59.4952 AM ]
+starting sweep 14 of 480 [ Thu, 2/21/2013 07:58:14.5577 AM ]
+starting sweep 15 of 480 [ Thu, 2/21/2013 07:58:29.6046 AM ]
+starting sweep 16 of 480 [ Thu, 2/21/2013 07:58:44.6671 AM ]
+starting sweep 17 of 480 [ Thu, 2/21/2013 07:58:59.7139 AM ]
+starting sweep 18 of 480 [ Thu, 2/21/2013 07:59:14.7764 AM ]
+starting sweep 19 of 480 [ Thu, 2/21/2013 07:59:29.8233 AM ]
+starting sweep 20 of 480 [ Thu, 2/21/2013 07:59:44.8702 AM ]
+starting sweep 21 of 480 [ Thu, 2/21/2013 07:59:59.9327 AM ]
+starting sweep 22 of 480 [ Thu, 2/21/2013 08:00:14.9796 AM ]
+starting sweep 23 of 480 [ Thu, 2/21/2013 08:00:30.0421 AM ]
+starting sweep 24 of 480 [ Thu, 2/21/2013 08:00:45.0889 AM ]
+starting sweep 25 of 480 [ Thu, 2/21/2013 08:01:00.1514 AM ]
+starting sweep 26 of 480 [ Thu, 2/21/2013 08:01:15.1983 AM ]
+starting sweep 27 of 480 [ Thu, 2/21/2013 08:01:30.2452 AM ]
+starting sweep 28 of 480 [ Thu, 2/21/2013 08:01:45.3077 AM ]
+starting sweep 29 of 480 [ Thu, 2/21/2013 08:02:00.3702 AM ]
+starting sweep 30 of 480 [ Thu, 2/21/2013 08:02:15.4171 AM ]
+starting sweep 31 of 480 [ Thu, 2/21/2013 08:02:30.4639 AM ]
+starting sweep 32 of 480 [ Thu, 2/21/2013 08:02:45.5264 AM ]
+starting sweep 33 of 480 [ Thu, 2/21/2013 08:03:00.5733 AM ]
+starting sweep 34 of 480 [ Thu, 2/21/2013 08:03:15.6358 AM ]
+starting sweep 35 of 480 [ Thu, 2/21/2013 08:03:30.6671 AM ]
+starting sweep 36 of 480 [ Thu, 2/21/2013 08:03:45.7296 AM ]
+starting sweep 37 of 480 [ Thu, 2/21/2013 08:04:00.7921 AM ]
+starting sweep 38 of 480 [ Thu, 2/21/2013 08:04:15.8389 AM ]
+starting sweep 39 of 480 [ Thu, 2/21/2013 08:04:30.8858 AM ]
+starting sweep 40 of 480 [ Thu, 2/21/2013 08:04:45.9483 AM ]
+starting sweep 41 of 480 [ Thu, 2/21/2013 08:05:01.0108 AM ]
+starting sweep 42 of 480 [ Thu, 2/21/2013 08:05:16.0577 AM ]
+starting sweep 43 of 480 [ Thu, 2/21/2013 08:05:31.1202 AM ]
+starting sweep 44 of 480 [ Thu, 2/21/2013 08:05:46.1827 AM ]
+starting sweep 45 of 480 [ Thu, 2/21/2013 08:06:01.2296 AM ]
+starting sweep 46 of 480 [ Thu, 2/21/2013 08:06:16.2921 AM ]
+starting sweep 47 of 480 [ Thu, 2/21/2013 08:06:31.3389 AM ]
+starting sweep 48 of 480 [ Thu, 2/21/2013 08:06:46.4014 AM ]
+starting sweep 49 of 480 [ Thu, 2/21/2013 08:07:01.4483 AM ]
+starting sweep 50 of 480 [ Thu, 2/21/2013 08:07:16.4952 AM ]
+starting sweep 51 of 480 [ Thu, 2/21/2013 08:07:31.5577 AM ]
+starting sweep 52 of 480 [ Thu, 2/21/2013 08:07:46.6046 AM ]
+starting sweep 53 of 480 [ Thu, 2/21/2013 08:08:01.6671 AM ]
+starting sweep 54 of 480 [ Thu, 2/21/2013 08:08:16.7296 AM ]
+starting sweep 55 of 480 [ Thu, 2/21/2013 08:08:31.7764 AM ]
+starting sweep 56 of 480 [ Thu, 2/21/2013 08:08:46.8233 AM ]
+starting sweep 57 of 480 [ Thu, 2/21/2013 08:09:01.8858 AM ]
+starting sweep 58 of 480 [ Thu, 2/21/2013 08:09:16.9171 AM ]
+starting sweep 59 of 480 [ Thu, 2/21/2013 08:09:31.9796 AM ]
+starting sweep 60 of 480 [ Thu, 2/21/2013 08:09:47.0421 AM ]
+starting sweep 61 of 480 [ Thu, 2/21/2013 08:10:02.0889 AM ]
+starting sweep 62 of 480 [ Thu, 2/21/2013 08:10:17.1514 AM ]
+starting sweep 63 of 480 [ Thu, 2/21/2013 08:10:32.2139 AM ]
+starting sweep 64 of 480 [ Thu, 2/21/2013 08:10:47.2764 AM ]
+starting sweep 65 of 480 [ Thu, 2/21/2013 08:11:02.3233 AM ]
+starting sweep 66 of 480 [ Thu, 2/21/2013 08:11:17.3858 AM ]
+starting sweep 67 of 480 [ Thu, 2/21/2013 08:11:32.4327 AM ]
+starting sweep 68 of 480 [ Thu, 2/21/2013 08:11:47.4952 AM ]
+starting sweep 69 of 480 [ Thu, 2/21/2013 08:12:02.5421 AM ]
+starting sweep 70 of 480 [ Thu, 2/21/2013 08:12:17.6046 AM ]
+starting sweep 71 of 480 [ Thu, 2/21/2013 08:12:32.6514 AM ]
+starting sweep 72 of 480 [ Thu, 2/21/2013 08:12:47.7139 AM ]
+starting sweep 73 of 480 [ Thu, 2/21/2013 08:13:02.7608 AM ]
+starting sweep 74 of 480 [ Thu, 2/21/2013 08:13:17.8233 AM ]
+starting sweep 75 of 480 [ Thu, 2/21/2013 08:13:32.8702 AM ]
+starting sweep 76 of 480 [ Thu, 2/21/2013 08:13:47.9327 AM ]
+starting sweep 77 of 480 [ Thu, 2/21/2013 08:14:02.9952 AM ]
+starting sweep 78 of 480 [ Thu, 2/21/2013 08:14:18.0421 AM ]
+starting sweep 79 of 480 [ Thu, 2/21/2013 08:14:33.0889 AM ]
+starting sweep 80 of 480 [ Thu, 2/21/2013 08:14:48.1514 AM ]
+starting sweep 81 of 480 [ Thu, 2/21/2013 08:15:03.1983 AM ]
+starting sweep 82 of 480 [ Thu, 2/21/2013 08:15:18.2452 AM ]
+starting sweep 83 of 480 [ Thu, 2/21/2013 08:15:33.3077 AM ]
+starting sweep 84 of 480 [ Thu, 2/21/2013 08:15:48.3546 AM ]
+starting sweep 85 of 480 [ Thu, 2/21/2013 08:16:03.4171 AM ]
+starting sweep 86 of 480 [ Thu, 2/21/2013 08:16:18.4639 AM ]
+starting sweep 87 of 480 [ Thu, 2/21/2013 08:16:33.5264 AM ]
+starting sweep 88 of 480 [ Thu, 2/21/2013 08:16:48.5733 AM ]
+starting sweep 89 of 480 [ Thu, 2/21/2013 08:17:03.6358 AM ]
+starting sweep 90 of 480 [ Thu, 2/21/2013 08:17:18.6983 AM ]
+starting sweep 91 of 480 [ Thu, 2/21/2013 08:17:33.7452 AM ]
+starting sweep 92 of 480 [ Thu, 2/21/2013 08:17:48.7921 AM ]
+starting sweep 93 of 480 [ Thu, 2/21/2013 08:18:03.8389 AM ]
+starting sweep 94 of 480 [ Thu, 2/21/2013 08:18:18.9014 AM ]
+starting sweep 95 of 480 [ Thu, 2/21/2013 08:18:33.9639 AM ]
+starting sweep 96 of 480 [ Thu, 2/21/2013 08:18:49.0264 AM ]
+starting sweep 97 of 480 [ Thu, 2/21/2013 08:19:04.0733 AM ]
+starting sweep 98 of 480 [ Thu, 2/21/2013 08:19:19.1358 AM ]
+starting sweep 99 of 480 [ Thu, 2/21/2013 08:19:34.1827 AM ]
+starting sweep 100 of 480 [ Thu, 2/21/2013 08:19:49.2296 AM ]
+starting sweep 101 of 480 [ Thu, 2/21/2013 08:20:04.2764 AM ]
+starting sweep 102 of 480 [ Thu, 2/21/2013 08:20:19.3389 AM ]
+starting sweep 103 of 480 [ Thu, 2/21/2013 08:20:34.4014 AM ]
+starting sweep 104 of 480 [ Thu, 2/21/2013 08:20:49.4483 AM ]
+starting sweep 105 of 480 [ Thu, 2/21/2013 08:21:04.5108 AM ]
+starting sweep 106 of 480 [ Thu, 2/21/2013 08:21:19.5733 AM ]
+starting sweep 107 of 480 [ Thu, 2/21/2013 08:21:34.6202 AM ]
+starting sweep 108 of 480 [ Thu, 2/21/2013 08:21:49.6671 AM ]
+starting sweep 109 of 480 [ Thu, 2/21/2013 08:22:04.7296 AM ]
+starting sweep 110 of 480 [ Thu, 2/21/2013 08:22:19.7764 AM ]
+starting sweep 111 of 480 [ Thu, 2/21/2013 08:22:34.8233 AM ]
+starting sweep 112 of 480 [ Thu, 2/21/2013 08:22:49.8858 AM ]
+starting sweep 113 of 480 [ Thu, 2/21/2013 08:23:04.9327 AM ]
+starting sweep 114 of 480 [ Thu, 2/21/2013 08:23:19.9952 AM ]
+starting sweep 115 of 480 [ Thu, 2/21/2013 08:23:35.0577 AM ]
+starting sweep 116 of 480 [ Thu, 2/21/2013 08:23:50.1046 AM ]
+starting sweep 117 of 480 [ Thu, 2/21/2013 08:24:05.1514 AM ]
+starting sweep 118 of 480 [ Thu, 2/21/2013 08:24:20.2139 AM ]
+starting sweep 119 of 480 [ Thu, 2/21/2013 08:24:35.2608 AM ]
+starting sweep 120 of 480 [ Thu, 2/21/2013 08:24:50.3233 AM ]
+starting sweep 121 of 480 [ Thu, 2/21/2013 08:25:05.3702 AM ]
+starting sweep 122 of 480 [ Thu, 2/21/2013 08:25:20.4327 AM ]
+starting sweep 123 of 480 [ Thu, 2/21/2013 08:25:35.4796 AM ]
+starting sweep 124 of 480 [ Thu, 2/21/2013 08:25:50.5421 AM ]
+starting sweep 125 of 480 [ Thu, 2/21/2013 08:26:05.5889 AM ]
+starting sweep 126 of 480 [ Thu, 2/21/2013 08:26:20.6358 AM ]
+starting sweep 127 of 480 [ Thu, 2/21/2013 08:26:35.6983 AM ]
+starting sweep 128 of 480 [ Thu, 2/21/2013 08:26:50.7452 AM ]
+starting sweep 129 of 480 [ Thu, 2/21/2013 08:27:05.8077 AM ]
+starting sweep 130 of 480 [ Thu, 2/21/2013 08:27:20.8546 AM ]
+starting sweep 131 of 480 [ Thu, 2/21/2013 08:27:35.9171 AM ]
+starting sweep 132 of 480 [ Thu, 2/21/2013 08:27:50.9796 AM ]
+starting sweep 133 of 480 [ Thu, 2/21/2013 08:28:06.0264 AM ]
+starting sweep 134 of 480 [ Thu, 2/21/2013 08:28:21.0733 AM ]
+starting sweep 135 of 480 [ Thu, 2/21/2013 08:28:36.1358 AM ]
+starting sweep 136 of 480 [ Thu, 2/21/2013 08:28:51.1827 AM ]
+starting sweep 137 of 480 [ Thu, 2/21/2013 08:29:06.2452 AM ]
+starting sweep 138 of 480 [ Thu, 2/21/2013 08:29:21.2921 AM ]
+starting sweep 139 of 480 [ Thu, 2/21/2013 08:29:36.3389 AM ]
+starting sweep 140 of 480 [ Thu, 2/21/2013 08:29:51.3858 AM ]
+starting sweep 141 of 480 [ Thu, 2/21/2013 08:30:06.4483 AM ]
+starting sweep 142 of 480 [ Thu, 2/21/2013 08:30:21.4952 AM ]
+starting sweep 143 of 480 [ Thu, 2/21/2013 08:30:36.5577 AM ]
+starting sweep 144 of 480 [ Thu, 2/21/2013 08:30:51.6202 AM ]
+starting sweep 145 of 480 [ Thu, 2/21/2013 08:31:06.6671 AM ]
+starting sweep 146 of 480 [ Thu, 2/21/2013 08:31:21.7139 AM ]
+starting sweep 147 of 480 [ Thu, 2/21/2013 08:31:36.7764 AM ]
+starting sweep 148 of 480 [ Thu, 2/21/2013 08:31:51.8233 AM ]
+starting sweep 149 of 480 [ Thu, 2/21/2013 08:32:06.8702 AM ]
+starting sweep 150 of 480 [ Thu, 2/21/2013 08:32:21.9327 AM ]
+starting sweep 151 of 480 [ Thu, 2/21/2013 08:32:36.9952 AM ]
+starting sweep 152 of 480 [ Thu, 2/21/2013 08:32:52.0421 AM ]
+starting sweep 153 of 480 [ Thu, 2/21/2013 08:33:07.1046 AM ]
+starting sweep 154 of 480 [ Thu, 2/21/2013 08:33:22.1514 AM ]
+starting sweep 155 of 480 [ Thu, 2/21/2013 08:33:37.2139 AM ]
+starting sweep 156 of 480 [ Thu, 2/21/2013 08:33:52.2608 AM ]
+starting sweep 157 of 480 [ Thu, 2/21/2013 08:34:07.3233 AM ]
+starting sweep 158 of 480 [ Thu, 2/21/2013 08:34:22.3858 AM ]
+starting sweep 159 of 480 [ Thu, 2/21/2013 08:34:37.4327 AM ]
+starting sweep 160 of 480 [ Thu, 2/21/2013 08:34:52.4796 AM ]
+starting sweep 161 of 480 [ Thu, 2/21/2013 08:35:07.5421 AM ]
+starting sweep 162 of 480 [ Thu, 2/21/2013 08:35:22.6046 AM ]
+starting sweep 163 of 480 [ Thu, 2/21/2013 08:35:37.6514 AM ]
+starting sweep 164 of 480 [ Thu, 2/21/2013 08:35:52.6983 AM ]
+starting sweep 165 of 480 [ Thu, 2/21/2013 08:36:07.7608 AM ]
+starting sweep 166 of 480 [ Thu, 2/21/2013 08:36:22.8233 AM ]
+starting sweep 167 of 480 [ Thu, 2/21/2013 08:36:37.8702 AM ]
+starting sweep 168 of 480 [ Thu, 2/21/2013 08:36:52.9327 AM ]
+starting sweep 169 of 480 [ Thu, 2/21/2013 08:37:07.9796 AM ]
+starting sweep 170 of 480 [ Thu, 2/21/2013 08:37:23.0421 AM ]
+starting sweep 171 of 480 [ Thu, 2/21/2013 08:37:38.1046 AM ]
+starting sweep 172 of 480 [ Thu, 2/21/2013 08:37:53.1514 AM ]
+starting sweep 173 of 480 [ Thu, 2/21/2013 08:38:08.2139 AM ]
+starting sweep 174 of 480 [ Thu, 2/21/2013 08:38:23.2608 AM ]
+starting sweep 175 of 480 [ Thu, 2/21/2013 08:38:38.3077 AM ]
+starting sweep 176 of 480 [ Thu, 2/21/2013 08:38:53.3702 AM ]
+starting sweep 177 of 480 [ Thu, 2/21/2013 08:39:08.4171 AM ]
+starting sweep 178 of 480 [ Thu, 2/21/2013 08:39:23.4796 AM ]
+starting sweep 179 of 480 [ Thu, 2/21/2013 08:39:38.5421 AM ]
+starting sweep 180 of 480 [ Thu, 2/21/2013 08:39:53.5889 AM ]
+starting sweep 181 of 480 [ Thu, 2/21/2013 08:40:08.6514 AM ]
+starting sweep 182 of 480 [ Thu, 2/21/2013 08:40:23.6983 AM ]
+starting sweep 183 of 480 [ Thu, 2/21/2013 08:40:38.7452 AM ]
+starting sweep 184 of 480 [ Thu, 2/21/2013 08:40:53.8077 AM ]
+starting sweep 185 of 480 [ Thu, 2/21/2013 08:41:08.8546 AM ]
+starting sweep 186 of 480 [ Thu, 2/21/2013 08:41:23.9171 AM ]
+starting sweep 187 of 480 [ Thu, 2/21/2013 08:41:38.9639 AM ]
+starting sweep 188 of 480 [ Thu, 2/21/2013 08:41:54.0108 AM ]
+starting sweep 189 of 480 [ Thu, 2/21/2013 08:42:09.0733 AM ]
+starting sweep 190 of 480 [ Thu, 2/21/2013 08:42:24.1358 AM ]
+starting sweep 191 of 480 [ Thu, 2/21/2013 08:42:39.1671 AM ]
+starting sweep 192 of 480 [ Thu, 2/21/2013 08:42:54.2296 AM ]
+starting sweep 193 of 480 [ Thu, 2/21/2013 08:43:09.2921 AM ]
+starting sweep 194 of 480 [ Thu, 2/21/2013 08:43:24.3389 AM ]
+starting sweep 195 of 480 [ Thu, 2/21/2013 08:43:39.4014 AM ]
+starting sweep 196 of 480 [ Thu, 2/21/2013 08:43:54.4639 AM ]
+starting sweep 197 of 480 [ Thu, 2/21/2013 08:44:09.5108 AM ]
+starting sweep 198 of 480 [ Thu, 2/21/2013 08:44:24.5577 AM ]
+starting sweep 199 of 480 [ Thu, 2/21/2013 08:44:39.6202 AM ]
+starting sweep 200 of 480 [ Thu, 2/21/2013 08:44:54.6671 AM ]
+starting sweep 201 of 480 [ Thu, 2/21/2013 08:45:09.7139 AM ]
+starting sweep 202 of 480 [ Thu, 2/21/2013 08:45:24.7764 AM ]
+starting sweep 203 of 480 [ Thu, 2/21/2013 08:45:39.8233 AM ]
+starting sweep 204 of 480 [ Thu, 2/21/2013 08:45:54.8858 AM ]
+starting sweep 205 of 480 [ Thu, 2/21/2013 08:46:09.9483 AM ]
+starting sweep 206 of 480 [ Thu, 2/21/2013 08:46:24.9952 AM ]
+starting sweep 207 of 480 [ Thu, 2/21/2013 08:46:40.0421 AM ]
+starting sweep 208 of 480 [ Thu, 2/21/2013 08:46:55.1046 AM ]
+starting sweep 209 of 480 [ Thu, 2/21/2013 08:47:10.1514 AM ]
+starting sweep 210 of 480 [ Thu, 2/21/2013 08:47:25.2139 AM ]
+starting sweep 211 of 480 [ Thu, 2/21/2013 08:47:40.2764 AM ]
+starting sweep 212 of 480 [ Thu, 2/21/2013 08:47:55.3233 AM ]
+starting sweep 213 of 480 [ Thu, 2/21/2013 08:48:10.3702 AM ]
+starting sweep 214 of 480 [ Thu, 2/21/2013 08:48:25.4327 AM ]
+starting sweep 215 of 480 [ Thu, 2/21/2013 08:48:40.4796 AM ]
+starting sweep 216 of 480 [ Thu, 2/21/2013 08:48:55.5264 AM ]
+starting sweep 217 of 480 [ Thu, 2/21/2013 08:49:10.5889 AM ]
+starting sweep 218 of 480 [ Thu, 2/21/2013 08:49:25.6358 AM ]
+starting sweep 219 of 480 [ Thu, 2/21/2013 08:49:40.6827 AM ]
+starting sweep 220 of 480 [ Thu, 2/21/2013 08:49:55.7452 AM ]
+starting sweep 221 of 480 [ Thu, 2/21/2013 08:50:10.7921 AM ]
+starting sweep 222 of 480 [ Thu, 2/21/2013 08:50:25.8546 AM ]
+starting sweep 223 of 480 [ Thu, 2/21/2013 08:50:40.9014 AM ]
+starting sweep 224 of 480 [ Thu, 2/21/2013 08:50:55.9639 AM ]
+starting sweep 225 of 480 [ Thu, 2/21/2013 08:51:11.0108 AM ]
+starting sweep 226 of 480 [ Thu, 2/21/2013 08:51:26.0733 AM ]
+starting sweep 227 of 480 [ Thu, 2/21/2013 08:51:41.1358 AM ]
+starting sweep 228 of 480 [ Thu, 2/21/2013 08:51:56.1827 AM ]
+starting sweep 229 of 480 [ Thu, 2/21/2013 08:52:11.2452 AM ]
+starting sweep 230 of 480 [ Thu, 2/21/2013 08:52:26.3077 AM ]
+starting sweep 231 of 480 [ Thu, 2/21/2013 08:52:41.3546 AM ]
+starting sweep 232 of 480 [ Thu, 2/21/2013 08:52:56.4014 AM ]
+starting sweep 233 of 480 [ Thu, 2/21/2013 08:53:11.4639 AM ]
+starting sweep 234 of 480 [ Thu, 2/21/2013 08:53:26.5108 AM ]
+starting sweep 235 of 480 [ Thu, 2/21/2013 08:53:41.5733 AM ]
+starting sweep 236 of 480 [ Thu, 2/21/2013 08:53:56.6202 AM ]
+starting sweep 237 of 480 [ Thu, 2/21/2013 08:54:11.6671 AM ]
+starting sweep 238 of 480 [ Thu, 2/21/2013 08:54:26.7296 AM ]
+starting sweep 239 of 480 [ Thu, 2/21/2013 08:54:41.7764 AM ]
+starting sweep 240 of 480 [ Thu, 2/21/2013 08:54:56.8389 AM ]
+starting sweep 241 of 480 [ Thu, 2/21/2013 08:55:11.8858 AM ]
+starting sweep 242 of 480 [ Thu, 2/21/2013 08:55:26.9483 AM ]
+starting sweep 243 of 480 [ Thu, 2/21/2013 08:55:42.0108 AM ]
+starting sweep 244 of 480 [ Thu, 2/21/2013 08:55:57.0733 AM ]
+starting sweep 245 of 480 [ Thu, 2/21/2013 08:56:12.1202 AM ]
+starting sweep 246 of 480 [ Thu, 2/21/2013 08:56:27.1671 AM ]
+starting sweep 247 of 480 [ Thu, 2/21/2013 08:56:42.2139 AM ]
+starting sweep 248 of 480 [ Thu, 2/21/2013 08:56:57.2764 AM ]
+starting sweep 249 of 480 [ Thu, 2/21/2013 08:57:12.3233 AM ]
+starting sweep 250 of 480 [ Thu, 2/21/2013 08:57:27.3858 AM ]
+starting sweep 251 of 480 [ Thu, 2/21/2013 08:57:42.4327 AM ]
+starting sweep 252 of 480 [ Thu, 2/21/2013 08:57:57.4796 AM ]
+starting sweep 253 of 480 [ Thu, 2/21/2013 08:58:12.5264 AM ]
+starting sweep 254 of 480 [ Thu, 2/21/2013 08:58:27.5889 AM ]
+starting sweep 255 of 480 [ Thu, 2/21/2013 08:58:42.6514 AM ]
+starting sweep 256 of 480 [ Thu, 2/21/2013 08:58:57.6983 AM ]
+starting sweep 257 of 480 [ Thu, 2/21/2013 08:59:12.7608 AM ]
+starting sweep 258 of 480 [ Thu, 2/21/2013 08:59:27.8233 AM ]
+starting sweep 259 of 480 [ Thu, 2/21/2013 08:59:42.8702 AM ]
+starting sweep 260 of 480 [ Thu, 2/21/2013 08:59:57.9327 AM ]
+starting sweep 261 of 480 [ Thu, 2/21/2013 09:00:12.9796 AM ]
+starting sweep 262 of 480 [ Thu, 2/21/2013 09:00:28.0421 AM ]
+starting sweep 263 of 480 [ Thu, 2/21/2013 09:00:43.0889 AM ]
+starting sweep 264 of 480 [ Thu, 2/21/2013 09:00:58.1358 AM ]
+starting sweep 265 of 480 [ Thu, 2/21/2013 09:01:13.1983 AM ]
+starting sweep 266 of 480 [ Thu, 2/21/2013 09:01:28.2452 AM ]
+starting sweep 267 of 480 [ Thu, 2/21/2013 09:01:43.3077 AM ]
+starting sweep 268 of 480 [ Thu, 2/21/2013 09:01:58.3702 AM ]
+starting sweep 269 of 480 [ Thu, 2/21/2013 09:02:13.4171 AM ]
+starting sweep 270 of 480 [ Thu, 2/21/2013 09:02:28.4796 AM ]
+starting sweep 271 of 480 [ Thu, 2/21/2013 09:02:43.5421 AM ]
+starting sweep 272 of 480 [ Thu, 2/21/2013 09:02:58.5889 AM ]
+starting sweep 273 of 480 [ Thu, 2/21/2013 09:03:13.6514 AM ]
+starting sweep 274 of 480 [ Thu, 2/21/2013 09:03:28.6983 AM ]
+starting sweep 275 of 480 [ Thu, 2/21/2013 09:03:43.7608 AM ]
+starting sweep 276 of 480 [ Thu, 2/21/2013 09:03:58.8077 AM ]
+starting sweep 277 of 480 [ Thu, 2/21/2013 09:04:13.8546 AM ]
+starting sweep 278 of 480 [ Thu, 2/21/2013 09:04:28.9171 AM ]
+starting sweep 279 of 480 [ Thu, 2/21/2013 09:04:43.9639 AM ]
+starting sweep 280 of 480 [ Thu, 2/21/2013 09:04:59.0108 AM ]
+starting sweep 281 of 480 [ Thu, 2/21/2013 09:05:14.0733 AM ]
+starting sweep 282 of 480 [ Thu, 2/21/2013 09:05:29.1202 AM ]
+starting sweep 283 of 480 [ Thu, 2/21/2013 09:05:44.1827 AM ]
+starting sweep 284 of 480 [ Thu, 2/21/2013 09:05:59.2452 AM ]
+starting sweep 285 of 480 [ Thu, 2/21/2013 09:06:14.3077 AM ]
+starting sweep 286 of 480 [ Thu, 2/21/2013 09:06:29.3546 AM ]
+starting sweep 287 of 480 [ Thu, 2/21/2013 09:06:44.4171 AM ]
+starting sweep 288 of 480 [ Thu, 2/21/2013 09:06:59.4796 AM ]
+starting sweep 289 of 480 [ Thu, 2/21/2013 09:07:14.5264 AM ]
+starting sweep 290 of 480 [ Thu, 2/21/2013 09:07:29.5889 AM ]
+starting sweep 291 of 480 [ Thu, 2/21/2013 09:07:44.6358 AM ]
+starting sweep 292 of 480 [ Thu, 2/21/2013 09:07:59.6827 AM ]
+starting sweep 293 of 480 [ Thu, 2/21/2013 09:08:14.7452 AM ]
+starting sweep 294 of 480 [ Thu, 2/21/2013 09:08:29.7921 AM ]
+starting sweep 295 of 480 [ Thu, 2/21/2013 09:08:44.8546 AM ]
+starting sweep 296 of 480 [ Thu, 2/21/2013 09:08:59.9014 AM ]
+starting sweep 297 of 480 [ Thu, 2/21/2013 09:09:14.9639 AM ]
+starting sweep 298 of 480 [ Thu, 2/21/2013 09:09:30.0108 AM ]
+starting sweep 299 of 480 [ Thu, 2/21/2013 09:09:45.0733 AM ]
+starting sweep 300 of 480 [ Thu, 2/21/2013 09:10:00.1202 AM ]
+starting sweep 301 of 480 [ Thu, 2/21/2013 09:10:15.1671 AM ]
+starting sweep 302 of 480 [ Thu, 2/21/2013 09:10:30.2296 AM ]
+starting sweep 303 of 480 [ Thu, 2/21/2013 09:10:45.2764 AM ]
+starting sweep 304 of 480 [ Thu, 2/21/2013 09:11:00.3389 AM ]
+starting sweep 305 of 480 [ Thu, 2/21/2013 09:11:15.3858 AM ]
+starting sweep 306 of 480 [ Thu, 2/21/2013 09:11:30.4483 AM ]
+starting sweep 307 of 480 [ Thu, 2/21/2013 09:11:45.4952 AM ]
+starting sweep 308 of 480 [ Thu, 2/21/2013 09:12:00.5577 AM ]
+starting sweep 309 of 480 [ Thu, 2/21/2013 09:12:15.6046 AM ]
+starting sweep 310 of 480 [ Thu, 2/21/2013 09:12:30.6514 AM ]
+starting sweep 311 of 480 [ Thu, 2/21/2013 09:12:45.7139 AM ]
+starting sweep 312 of 480 [ Thu, 2/21/2013 09:13:00.7764 AM ]
+starting sweep 313 of 480 [ Thu, 2/21/2013 09:13:15.8233 AM ]
+starting sweep 314 of 480 [ Thu, 2/21/2013 09:13:30.8858 AM ]
+starting sweep 315 of 480 [ Thu, 2/21/2013 09:13:45.9327 AM ]
+starting sweep 316 of 480 [ Thu, 2/21/2013 09:14:00.9796 AM ]
+starting sweep 317 of 480 [ Thu, 2/21/2013 09:14:16.0264 AM ]
+starting sweep 318 of 480 [ Thu, 2/21/2013 09:14:31.0889 AM ]
+starting sweep 319 of 480 [ Thu, 2/21/2013 09:14:46.1358 AM ]
+starting sweep 320 of 480 [ Thu, 2/21/2013 09:15:01.1983 AM ]
+starting sweep 321 of 480 [ Thu, 2/21/2013 09:15:16.2452 AM ]
+starting sweep 322 of 480 [ Thu, 2/21/2013 09:15:31.3077 AM ]
+starting sweep 323 of 480 [ Thu, 2/21/2013 09:15:46.3546 AM ]
+starting sweep 324 of 480 [ Thu, 2/21/2013 09:16:01.4171 AM ]
+starting sweep 325 of 480 [ Thu, 2/21/2013 09:16:16.4639 AM ]
+starting sweep 326 of 480 [ Thu, 2/21/2013 09:16:31.5108 AM ]
+starting sweep 327 of 480 [ Thu, 2/21/2013 09:16:46.5733 AM ]
+starting sweep 328 of 480 [ Thu, 2/21/2013 09:17:01.6202 AM ]
+starting sweep 329 of 480 [ Thu, 2/21/2013 09:17:16.6671 AM ]
+starting sweep 330 of 480 [ Thu, 2/21/2013 09:17:31.7139 AM ]
+starting sweep 331 of 480 [ Thu, 2/21/2013 09:17:46.7608 AM ]
+starting sweep 332 of 480 [ Thu, 2/21/2013 09:18:01.8233 AM ]
+starting sweep 333 of 480 [ Thu, 2/21/2013 09:18:16.8858 AM ]
+starting sweep 334 of 480 [ Thu, 2/21/2013 09:18:31.9327 AM ]
+starting sweep 335 of 480 [ Thu, 2/21/2013 09:18:46.9952 AM ]
+starting sweep 336 of 480 [ Thu, 2/21/2013 09:19:02.0421 AM ]
+starting sweep 337 of 480 [ Thu, 2/21/2013 09:19:17.1046 AM ]
+starting sweep 338 of 480 [ Thu, 2/21/2013 09:19:32.1514 AM ]
+starting sweep 339 of 480 [ Thu, 2/21/2013 09:19:47.2139 AM ]
+starting sweep 340 of 480 [ Thu, 2/21/2013 09:20:02.2608 AM ]
+starting sweep 341 of 480 [ Thu, 2/21/2013 09:20:17.3077 AM ]
+starting sweep 342 of 480 [ Thu, 2/21/2013 09:20:32.3702 AM ]
+starting sweep 343 of 480 [ Thu, 2/21/2013 09:20:47.4171 AM ]
+starting sweep 344 of 480 [ Thu, 2/21/2013 09:21:02.4796 AM ]
+starting sweep 345 of 480 [ Thu, 2/21/2013 09:21:17.5264 AM ]
+starting sweep 346 of 480 [ Thu, 2/21/2013 09:21:32.5889 AM ]
+starting sweep 347 of 480 [ Thu, 2/21/2013 09:21:47.6358 AM ]
+starting sweep 348 of 480 [ Thu, 2/21/2013 09:22:02.6983 AM ]
+starting sweep 349 of 480 [ Thu, 2/21/2013 09:22:17.7608 AM ]
+starting sweep 350 of 480 [ Thu, 2/21/2013 09:22:32.8077 AM ]
+starting sweep 351 of 480 [ Thu, 2/21/2013 09:22:47.8546 AM ]
+starting sweep 352 of 480 [ Thu, 2/21/2013 09:23:02.9171 AM ]
+starting sweep 353 of 480 [ Thu, 2/21/2013 09:23:17.9639 AM ]
+starting sweep 354 of 480 [ Thu, 2/21/2013 09:23:33.0264 AM ]
+starting sweep 355 of 480 [ Thu, 2/21/2013 09:23:48.0733 AM ]
+starting sweep 356 of 480 [ Thu, 2/21/2013 09:24:03.1358 AM ]
+starting sweep 357 of 480 [ Thu, 2/21/2013 09:24:18.1827 AM ]
+starting sweep 358 of 480 [ Thu, 2/21/2013 09:24:33.2452 AM ]
+starting sweep 359 of 480 [ Thu, 2/21/2013 09:24:48.3077 AM ]
+starting sweep 360 of 480 [ Thu, 2/21/2013 09:25:03.3546 AM ]
+starting sweep 361 of 480 [ Thu, 2/21/2013 09:25:18.4171 AM ]
+starting sweep 362 of 480 [ Thu, 2/21/2013 09:25:33.4639 AM ]
+starting sweep 363 of 480 [ Thu, 2/21/2013 09:25:48.5264 AM ]
+starting sweep 364 of 480 [ Thu, 2/21/2013 09:26:03.5733 AM ]
+starting sweep 365 of 480 [ Thu, 2/21/2013 09:26:18.6202 AM ]
+starting sweep 366 of 480 [ Thu, 2/21/2013 09:26:33.6827 AM ]
+starting sweep 367 of 480 [ Thu, 2/21/2013 09:26:48.7296 AM ]
+starting sweep 368 of 480 [ Thu, 2/21/2013 09:27:03.7921 AM ]
+starting sweep 369 of 480 [ Thu, 2/21/2013 09:27:18.8389 AM ]
+starting sweep 370 of 480 [ Thu, 2/21/2013 09:27:33.8858 AM ]
+starting sweep 371 of 480 [ Thu, 2/21/2013 09:27:48.9483 AM ]
+starting sweep 372 of 480 [ Thu, 2/21/2013 09:28:04.0108 AM ]
+starting sweep 373 of 480 [ Thu, 2/21/2013 09:28:19.0733 AM ]
+starting sweep 374 of 480 [ Thu, 2/21/2013 09:28:34.1202 AM ]
+starting sweep 375 of 480 [ Thu, 2/21/2013 09:28:49.1827 AM ]
+starting sweep 376 of 480 [ Thu, 2/21/2013 09:29:04.2296 AM ]
+starting sweep 377 of 480 [ Thu, 2/21/2013 09:29:19.2764 AM ]
+starting sweep 378 of 480 [ Thu, 2/21/2013 09:29:34.3389 AM ]
+starting sweep 379 of 480 [ Thu, 2/21/2013 09:29:49.3858 AM ]
+starting sweep 380 of 480 [ Thu, 2/21/2013 09:30:04.4483 AM ]
+starting sweep 381 of 480 [ Thu, 2/21/2013 09:30:19.4952 AM ]
+starting sweep 382 of 480 [ Thu, 2/21/2013 09:30:34.5577 AM ]
+starting sweep 383 of 480 [ Thu, 2/21/2013 09:30:49.6046 AM ]
+starting sweep 384 of 480 [ Thu, 2/21/2013 09:31:04.6514 AM ]
+starting sweep 385 of 480 [ Thu, 2/21/2013 09:31:19.7139 AM ]
+starting sweep 386 of 480 [ Thu, 2/21/2013 09:31:34.7608 AM ]
+starting sweep 387 of 480 [ Thu, 2/21/2013 09:31:49.8233 AM ]
+starting sweep 388 of 480 [ Thu, 2/21/2013 09:32:04.8702 AM ]
+starting sweep 389 of 480 [ Thu, 2/21/2013 09:32:19.9171 AM ]
+starting sweep 390 of 480 [ Thu, 2/21/2013 09:32:34.9796 AM ]
+starting sweep 391 of 480 [ Thu, 2/21/2013 09:32:50.0264 AM ]
+starting sweep 392 of 480 [ Thu, 2/21/2013 09:33:05.0889 AM ]
+starting sweep 393 of 480 [ Thu, 2/21/2013 09:33:20.1358 AM ]
+starting sweep 394 of 480 [ Thu, 2/21/2013 09:33:35.1827 AM ]
+starting sweep 395 of 480 [ Thu, 2/21/2013 09:33:50.2296 AM ]
+starting sweep 396 of 480 [ Thu, 2/21/2013 09:34:05.2921 AM ]
+starting sweep 397 of 480 [ Thu, 2/21/2013 09:34:20.3389 AM ]
+starting sweep 398 of 480 [ Thu, 2/21/2013 09:34:35.4014 AM ]
+starting sweep 399 of 480 [ Thu, 2/21/2013 09:34:50.4639 AM ]
+starting sweep 400 of 480 [ Thu, 2/21/2013 09:35:05.5108 AM ]
+starting sweep 401 of 480 [ Thu, 2/21/2013 09:35:20.5577 AM ]
+starting sweep 402 of 480 [ Thu, 2/21/2013 09:35:35.6046 AM ]
+starting sweep 403 of 480 [ Thu, 2/21/2013 09:35:50.6671 AM ]
+starting sweep 404 of 480 [ Thu, 2/21/2013 09:36:05.7139 AM ]
+starting sweep 405 of 480 [ Thu, 2/21/2013 09:36:20.7608 AM ]
+starting sweep 406 of 480 [ Thu, 2/21/2013 09:36:35.8233 AM ]
+starting sweep 407 of 480 [ Thu, 2/21/2013 09:36:50.8702 AM ]
+starting sweep 408 of 480 [ Thu, 2/21/2013 09:37:05.9327 AM ]
+starting sweep 409 of 480 [ Thu, 2/21/2013 09:37:20.9952 AM ]
+starting sweep 410 of 480 [ Thu, 2/21/2013 09:37:36.0421 AM ]
+starting sweep 411 of 480 [ Thu, 2/21/2013 09:37:51.1046 AM ]
+starting sweep 412 of 480 [ Thu, 2/21/2013 09:38:06.1514 AM ]
+starting sweep 413 of 480 [ Thu, 2/21/2013 09:38:21.2139 AM ]
+starting sweep 414 of 480 [ Thu, 2/21/2013 09:38:36.2608 AM ]
+starting sweep 415 of 480 [ Thu, 2/21/2013 09:38:51.3233 AM ]
+starting sweep 416 of 480 [ Thu, 2/21/2013 09:39:06.3702 AM ]
+starting sweep 417 of 480 [ Thu, 2/21/2013 09:39:21.4171 AM ]
+starting sweep 418 of 480 [ Thu, 2/21/2013 09:39:36.4796 AM ]
+starting sweep 419 of 480 [ Thu, 2/21/2013 09:39:51.5264 AM ]
+starting sweep 420 of 480 [ Thu, 2/21/2013 09:40:06.5889 AM ]
+starting sweep 421 of 480 [ Thu, 2/21/2013 09:40:21.6358 AM ]
+starting sweep 422 of 480 [ Thu, 2/21/2013 09:40:36.6983 AM ]
+starting sweep 423 of 480 [ Thu, 2/21/2013 09:40:51.7452 AM ]
+starting sweep 424 of 480 [ Thu, 2/21/2013 09:41:06.8077 AM ]
+starting sweep 425 of 480 [ Thu, 2/21/2013 09:41:21.8702 AM ]
+starting sweep 426 of 480 [ Thu, 2/21/2013 09:41:36.9171 AM ]
+starting sweep 427 of 480 [ Thu, 2/21/2013 09:41:51.9796 AM ]
+starting sweep 428 of 480 [ Thu, 2/21/2013 09:42:07.0421 AM ]
+starting sweep 429 of 480 [ Thu, 2/21/2013 09:42:22.0889 AM ]
+starting sweep 430 of 480 [ Thu, 2/21/2013 09:42:37.1358 AM ]
+starting sweep 431 of 480 [ Thu, 2/21/2013 09:42:52.1983 AM ]
+starting sweep 432 of 480 [ Thu, 2/21/2013 09:43:07.2452 AM ]
+starting sweep 433 of 480 [ Thu, 2/21/2013 09:43:22.2921 AM ]
+starting sweep 434 of 480 [ Thu, 2/21/2013 09:43:37.3389 AM ]
+starting sweep 435 of 480 [ Thu, 2/21/2013 09:43:52.4014 AM ]
+starting sweep 436 of 480 [ Thu, 2/21/2013 09:44:07.4483 AM ]
+starting sweep 437 of 480 [ Thu, 2/21/2013 09:44:22.5108 AM ]
+starting sweep 438 of 480 [ Thu, 2/21/2013 09:44:37.5733 AM ]
+starting sweep 439 of 480 [ Thu, 2/21/2013 09:44:52.6202 AM ]
+starting sweep 440 of 480 [ Thu, 2/21/2013 09:45:07.6671 AM ]
+starting sweep 441 of 480 [ Thu, 2/21/2013 09:45:22.7139 AM ]
+starting sweep 442 of 480 [ Thu, 2/21/2013 09:45:37.7764 AM ]
+starting sweep 443 of 480 [ Thu, 2/21/2013 09:45:52.8233 AM ]
+starting sweep 444 of 480 [ Thu, 2/21/2013 09:46:07.8702 AM ]
+starting sweep 445 of 480 [ Thu, 2/21/2013 09:46:22.9327 AM ]
+starting sweep 446 of 480 [ Thu, 2/21/2013 09:46:37.9639 AM ]
+starting sweep 447 of 480 [ Thu, 2/21/2013 09:46:53.0264 AM ]
+starting sweep 448 of 480 [ Thu, 2/21/2013 09:47:08.0733 AM ]
+starting sweep 449 of 480 [ Thu, 2/21/2013 09:47:23.1358 AM ]
+starting sweep 450 of 480 [ Thu, 2/21/2013 09:47:38.1983 AM ]
+starting sweep 451 of 480 [ Thu, 2/21/2013 09:47:53.2608 AM ]
+starting sweep 452 of 480 [ Thu, 2/21/2013 09:48:08.3077 AM ]
+starting sweep 453 of 480 [ Thu, 2/21/2013 09:48:23.3702 AM ]
+starting sweep 454 of 480 [ Thu, 2/21/2013 09:48:38.4171 AM ]
+starting sweep 455 of 480 [ Thu, 2/21/2013 09:48:53.4796 AM ]
+starting sweep 456 of 480 [ Thu, 2/21/2013 09:49:08.5264 AM ]
+starting sweep 457 of 480 [ Thu, 2/21/2013 09:49:23.5889 AM ]
+starting sweep 458 of 480 [ Thu, 2/21/2013 09:49:38.6358 AM ]
+starting sweep 459 of 480 [ Thu, 2/21/2013 09:49:53.6983 AM ]
+starting sweep 460 of 480 [ Thu, 2/21/2013 09:50:08.7452 AM ]
+starting sweep 461 of 480 [ Thu, 2/21/2013 09:50:23.7921 AM ]
+starting sweep 462 of 480 [ Thu, 2/21/2013 09:50:38.8546 AM ]
+starting sweep 463 of 480 [ Thu, 2/21/2013 09:50:53.9014 AM ]
+starting sweep 464 of 480 [ Thu, 2/21/2013 09:51:08.9639 AM ]
+starting sweep 465 of 480 [ Thu, 2/21/2013 09:51:24.0108 AM ]
+starting sweep 466 of 480 [ Thu, 2/21/2013 09:51:39.0577 AM ]
+starting sweep 467 of 480 [ Thu, 2/21/2013 09:51:54.1202 AM ]
+starting sweep 468 of 480 [ Thu, 2/21/2013 09:52:09.1827 AM ]
+starting sweep 469 of 480 [ Thu, 2/21/2013 09:52:24.2296 AM ]
+starting sweep 470 of 480 [ Thu, 2/21/2013 09:52:39.2921 AM ]
+starting sweep 471 of 480 [ Thu, 2/21/2013 09:52:54.3546 AM ]
+starting sweep 472 of 480 [ Thu, 2/21/2013 09:53:09.4014 AM ]
+starting sweep 473 of 480 [ Thu, 2/21/2013 09:53:24.4483 AM ]
+starting sweep 474 of 480 [ Thu, 2/21/2013 09:53:39.5108 AM ]
+starting sweep 475 of 480 [ Thu, 2/21/2013 09:53:54.5577 AM ]
+starting sweep 476 of 480 [ Thu, 2/21/2013 09:54:09.6202 AM ]
+starting sweep 477 of 480 [ Thu, 2/21/2013 09:54:24.6671 AM ]
+starting sweep 478 of 480 [ Thu, 2/21/2013 09:54:39.7296 AM ]
+starting sweep 479 of 480 [ Thu, 2/21/2013 09:54:54.7764 AM ]
+closing shutter 1 [ Thu, 2/21/2013 09:55:09.8389 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 45.0 degrees
+rezero slave axis platen
+begin header for RandD2_TiN_21feb2013_Run2 [ Thu, 2/21/2013 10:05:53.3233 AM ]

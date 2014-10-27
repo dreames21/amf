@@ -1,0 +1,28 @@
+{
+    "N": 20, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "file": "../data\\RandD1_TiNiC_19sep2013_MSFC_NFM4a_Nis3to22\\NiC_layer_R97_REV_Nis3to22_NoCap.dat", 
+        "name": "NiC", 
+        "rate": 6.4000
+    }, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "file": "../data\\RandD1_TiNiC_19sep2013_MSFC_NFM4a_Nis3to22\\Ti_layer_R97_Nis3to22.dat", 
+        "name": "Ti ", 
+        "rate": 6.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": false, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_19sep2013_MSFC_NFM4a_Nis3to22", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 18.0000, 
+    "sweep_angle": 360.0000
+}

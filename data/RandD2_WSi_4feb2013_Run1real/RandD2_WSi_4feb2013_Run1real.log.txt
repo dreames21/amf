@@ -1,0 +1,1194 @@
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.7
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.3
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Run1real
+
+begin header for RandD2_WSi_4feb2013_Run1real [ Mon, 2/4/2013 07:46:49.7508 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.7
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.3
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Run1real
+
+begin header for RandD2_WSi_4feb2013_Run1b [ Mon, 2/4/2013 07:47:08.2821 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.7
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.3
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Run1real
+
+begin header for RandD2_WSi_4feb2013_Run1real [ Mon, 2/4/2013 07:47:47.8133 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.7
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.3
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Run1real
+
+begin header for RandD2_WSi_4feb2013_Run1real [ Mon, 2/4/2013 08:16:08.0789 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.7
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 1.3
+cathode 2 name = cathode 2
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Run1real
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 08:16:13.5321 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 08:16:13.5477 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 08:16:42.5008 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 08:17:11.4539 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 08:17:40.4071 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 08:18:09.3602 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 08:18:38.3289 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 08:19:07.2821 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 08:19:36.2352 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 08:20:05.1883 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 08:20:34.1414 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 08:21:03.0946 AM ]
+closing shutter 1 [ Mon, 2/4/2013 08:21:32.0633 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 08:21:54.4071 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 08:21:54.4227 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 08:22:25.2508 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 08:22:56.0946 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 08:23:26.9227 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 08:23:57.7508 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 08:24:28.5789 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 08:24:59.4227 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 08:25:30.2508 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 08:26:01.0789 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 08:26:31.9071 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 08:27:02.7508 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 08:27:33.5789 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 08:28:04.4071 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 08:28:35.2352 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 08:29:06.0633 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 08:29:36.9071 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 08:30:07.7352 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 08:30:38.5633 AM ]
+closing shutter 2 [ Mon, 2/4/2013 08:31:09.3914 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 08:31:31.7352 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 08:31:31.7508 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 08:32:00.7039 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 08:32:29.6727 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 08:32:58.6258 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 08:33:27.5633 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 08:33:56.5164 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 08:34:25.4852 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 08:34:54.4383 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 08:35:23.3914 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 08:35:52.3602 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 08:36:21.3133 AM ]
+closing shutter 1 [ Mon, 2/4/2013 08:36:50.2664 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 08:37:12.6102 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 08:37:12.6258 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 08:37:43.4539 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 08:38:14.2977 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 08:38:45.1102 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 08:39:15.9539 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 08:39:46.7821 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 08:40:17.6258 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 08:40:48.4539 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 08:41:19.2977 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 08:41:50.1414 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 08:42:20.9696 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 08:42:51.7977 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 08:43:22.6414 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 08:43:53.4696 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 08:44:24.3133 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 08:44:55.1414 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 08:45:25.9696 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 08:45:56.7977 AM ]
+closing shutter 2 [ Mon, 2/4/2013 08:46:27.6414 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 08:46:50.0164 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 08:46:50.0321 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 08:47:18.9852 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 08:47:47.9383 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 08:48:16.9071 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 08:48:45.8446 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 08:49:14.7977 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 08:49:43.7508 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 08:50:12.7039 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 08:50:41.6571 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 08:51:10.6258 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 08:51:39.5789 AM ]
+closing shutter 1 [ Mon, 2/4/2013 08:52:08.5321 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 08:52:30.8602 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 08:52:30.8758 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 08:53:01.7196 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 08:53:32.5477 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 08:54:03.3758 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 08:54:34.2039 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 08:55:05.0321 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 08:55:35.8758 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 08:56:06.7039 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 08:56:37.5477 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 08:57:08.3758 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 08:57:39.2196 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 08:58:10.0477 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 08:58:40.8758 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 08:59:11.7039 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 08:59:42.5477 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 09:00:13.3758 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 09:00:44.2196 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 09:01:15.0477 AM ]
+closing shutter 2 [ Mon, 2/4/2013 09:01:45.8758 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 09:02:08.2821 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 09:02:08.2977 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 09:02:37.2508 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 09:03:06.2039 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 09:03:35.1571 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 09:04:04.1102 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 09:04:33.0633 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 09:05:02.0164 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 09:05:30.9696 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 09:05:59.9227 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 09:06:28.8758 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 09:06:57.8289 AM ]
+closing shutter 1 [ Mon, 2/4/2013 09:07:26.7821 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 09:07:49.1102 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 09:07:49.1258 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 09:08:19.9539 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 09:08:50.7821 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 09:09:21.6102 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 09:09:52.4539 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 09:10:23.2977 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 09:10:54.1258 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 09:11:24.9539 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 09:11:55.7977 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 09:12:26.6258 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 09:12:57.4539 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 09:13:28.2977 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 09:13:59.1258 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 09:14:29.9696 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 09:15:00.7977 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 09:15:31.6414 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 09:16:02.4852 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 09:16:33.3133 AM ]
+closing shutter 2 [ Mon, 2/4/2013 09:17:04.1571 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 09:17:26.4852 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 09:17:26.5008 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 09:17:55.4539 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 09:18:24.4071 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 09:18:53.3602 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 09:19:22.3289 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 09:19:51.2664 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 09:20:20.2352 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 09:20:49.1883 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 09:21:18.1414 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 09:21:47.0946 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 09:22:16.0633 AM ]
+closing shutter 1 [ Mon, 2/4/2013 09:22:45.0321 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 09:23:07.3914 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 09:23:07.4227 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 09:23:38.2508 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 09:24:09.0789 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 09:24:39.9227 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 09:25:10.7508 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 09:25:41.5946 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 09:26:12.4227 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 09:26:43.2508 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 09:27:14.0946 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 09:27:44.9227 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 09:28:15.7664 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 09:28:46.5946 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 09:29:17.4383 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 09:29:48.2821 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 09:30:19.1102 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 09:30:49.9383 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 09:31:20.7821 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 09:31:51.6102 AM ]
+closing shutter 2 [ Mon, 2/4/2013 09:32:22.4383 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 09:32:44.7821 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 09:32:44.7977 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 09:33:13.7508 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 09:33:42.7039 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 09:34:11.6571 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 09:34:40.6102 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 09:35:09.5633 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 09:35:38.5164 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 09:36:07.4696 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 09:36:36.4227 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 09:37:05.3914 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 09:37:34.3289 AM ]
+closing shutter 1 [ Mon, 2/4/2013 09:38:03.2977 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 09:38:25.6258 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 09:38:25.6414 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 09:38:56.4696 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 09:39:27.3133 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 09:39:58.1414 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 09:40:28.9852 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 09:40:59.8133 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 09:41:30.6414 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 09:42:01.4852 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 09:42:32.3289 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 09:43:03.1571 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 09:43:33.9852 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 09:44:04.8289 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 09:44:35.6571 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 09:45:06.5008 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 09:45:37.3289 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 09:46:08.1571 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 09:46:38.9852 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 09:47:09.8289 AM ]
+closing shutter 2 [ Mon, 2/4/2013 09:47:40.6571 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 09:48:03.0008 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 09:48:03.0164 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 09:48:31.9696 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 09:49:00.9227 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 09:49:29.8758 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 09:49:58.8289 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 09:50:27.7821 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 09:50:56.7352 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 09:51:25.7039 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 09:51:54.6571 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 09:52:23.6258 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 09:52:52.5789 AM ]
+closing shutter 1 [ Mon, 2/4/2013 09:53:21.5321 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 09:53:43.8602 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 09:53:43.8758 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 09:54:14.6883 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 09:54:45.5321 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 09:55:16.3758 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 09:55:47.1883 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 09:56:18.0321 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 09:56:48.8758 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 09:57:19.7039 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 09:57:50.5477 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 09:58:21.3758 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 09:58:52.2039 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 09:59:23.0477 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 09:59:53.8758 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 10:00:24.7196 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 10:00:55.5477 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 10:01:26.3758 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 10:01:57.2039 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 10:02:28.0321 AM ]
+closing shutter 2 [ Mon, 2/4/2013 10:02:58.8758 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 10:03:21.2196 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 10:03:21.2352 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 10:03:50.1883 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 10:04:19.1571 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 10:04:48.1102 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 10:05:17.0633 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 10:05:46.0164 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 10:06:14.9696 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 10:06:43.9227 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 10:07:12.8758 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 10:07:41.8289 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 10:08:10.7977 AM ]
+closing shutter 1 [ Mon, 2/4/2013 10:08:39.7508 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 10:09:02.0633 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 10:09:02.0789 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 10:09:32.9071 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 10:10:03.7508 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 10:10:34.5789 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 10:11:05.4227 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 10:11:36.2508 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 10:12:07.0789 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 10:12:37.9071 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 10:13:08.7508 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 10:13:39.5789 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 10:14:10.4227 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 10:14:41.2508 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 10:15:12.0946 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 10:15:42.9227 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 10:16:13.7664 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 10:16:44.5946 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 10:17:15.4227 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 10:17:46.2508 AM ]
+closing shutter 2 [ Mon, 2/4/2013 10:18:17.0946 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 9
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 10:18:39.5164 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 10:18:39.5477 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 10:19:08.4852 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 10:19:37.4539 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 10:20:06.4071 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 10:20:35.3446 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 10:21:04.2977 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 10:21:33.2508 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 10:22:02.2039 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 10:22:31.1571 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 10:23:00.1102 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 10:23:29.0633 AM ]
+closing shutter 1 [ Mon, 2/4/2013 10:23:58.0321 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 10:24:20.3602 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 10:24:20.3758 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 10:24:51.2196 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 10:25:22.0477 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 10:25:52.8758 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 10:26:23.7196 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 10:26:54.5321 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 10:27:25.3758 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 10:27:56.2039 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 10:28:27.0321 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 10:28:57.8602 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 10:29:28.7039 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 10:29:59.5321 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 10:30:30.3758 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 10:31:01.2039 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 10:31:32.0321 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 10:32:02.8602 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 10:32:33.7039 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 10:33:04.5321 AM ]
+closing shutter 2 [ Mon, 2/4/2013 10:33:35.3758 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 10
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 10:33:57.7352 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 10:33:57.7508 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 10:34:26.7039 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 10:34:55.6571 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 10:35:24.6102 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 10:35:53.5633 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 10:36:22.5164 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 10:36:51.4696 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 10:37:20.4227 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 10:37:49.3758 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 10:38:18.3289 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 10:38:47.2821 AM ]
+closing shutter 1 [ Mon, 2/4/2013 10:39:16.2352 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 10:39:38.5789 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 10:39:38.5946 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 10:40:09.4227 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 10:40:40.2664 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 10:41:11.0946 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 10:41:41.9383 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 10:42:12.7664 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 10:42:43.5946 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 10:43:14.4383 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 10:43:45.2664 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 10:44:16.0946 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 10:44:46.9383 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 10:45:17.7664 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 10:45:48.5946 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 10:46:19.4227 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 10:46:50.2508 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 10:47:21.1102 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 10:47:51.9383 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 10:48:22.7664 AM ]
+closing shutter 2 [ Mon, 2/4/2013 10:48:53.5946 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 11
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 10:49:15.9539 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 10:49:15.9696 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 10:49:44.9227 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 10:50:13.8914 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 10:50:42.8446 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 10:51:11.8133 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 10:51:40.7664 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 10:52:09.7196 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 10:52:38.6727 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 10:53:07.6258 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 10:53:36.5946 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 10:54:05.5477 AM ]
+closing shutter 1 [ Mon, 2/4/2013 10:54:34.5008 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 10:54:56.8289 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 10:54:56.8446 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 10:55:27.6727 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 10:55:58.5008 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 10:56:29.3446 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 10:57:00.1727 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 10:57:31.0164 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 10:58:01.8602 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 10:58:32.6883 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 10:59:03.5321 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 10:59:34.3446 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 11:00:05.1883 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 11:00:36.0164 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 11:01:06.8602 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 11:01:37.6883 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 11:02:08.5321 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 11:02:39.3602 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 11:03:10.1883 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 11:03:41.0321 AM ]
+closing shutter 2 [ Mon, 2/4/2013 11:04:11.8602 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 12
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 11:04:34.2039 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 11:04:34.2196 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 11:05:03.1727 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 11:05:32.1414 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 11:06:01.0946 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 11:06:30.0321 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 11:06:58.9852 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 11:07:27.9383 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 11:07:56.9071 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 11:08:25.8602 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 11:08:54.8133 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 11:09:23.7664 AM ]
+closing shutter 1 [ Mon, 2/4/2013 11:09:52.7352 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 11:10:15.0633 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 11:10:15.0789 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 11:10:45.9071 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 11:11:16.7508 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 11:11:47.5789 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 11:12:18.4071 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 11:12:49.2352 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 11:13:20.0789 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 11:13:50.9071 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 11:14:21.7508 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 11:14:52.5946 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 11:15:23.4227 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 11:15:54.2508 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 11:16:25.0946 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 11:16:55.9227 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 11:17:26.7508 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 11:17:57.5946 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 11:18:28.4227 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 11:18:59.2664 AM ]
+closing shutter 2 [ Mon, 2/4/2013 11:19:30.0946 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 13
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 11:19:52.5477 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 11:19:52.5789 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 11:20:21.5164 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 11:20:50.4852 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 11:21:19.4383 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 11:21:48.3914 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 11:22:17.3446 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 11:22:46.3133 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 11:23:15.2664 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 11:23:44.2196 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 11:24:13.1727 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 11:24:42.1258 AM ]
+closing shutter 1 [ Mon, 2/4/2013 11:25:11.0946 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 11:25:33.5008 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 11:25:33.5321 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 11:26:04.3602 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 11:26:35.2039 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 11:27:06.0321 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 11:27:36.8602 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 11:28:07.6883 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 11:28:38.5321 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 11:29:09.3602 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 11:29:40.2039 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 11:30:11.0321 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 11:30:41.8758 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 11:31:12.7039 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 11:31:43.5321 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 11:32:14.3602 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 11:32:45.1883 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 11:33:16.0164 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 11:33:46.8602 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 11:34:17.6883 AM ]
+closing shutter 2 [ Mon, 2/4/2013 11:34:48.5321 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 14
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 11:35:10.8914 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 11:35:10.9071 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 11:35:39.8602 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 11:36:08.8133 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 11:36:37.7664 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 11:37:06.7196 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 11:37:35.6727 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 11:38:04.6258 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 11:38:33.5789 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 11:39:02.5321 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 11:39:31.4852 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 11:40:00.4383 AM ]
+closing shutter 1 [ Mon, 2/4/2013 11:40:29.3914 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 11:40:51.7196 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 11:40:51.7352 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 11:41:22.5633 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 11:41:53.3914 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 11:42:24.2196 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 11:42:55.0633 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 11:43:25.8914 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 11:43:56.7352 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 11:44:27.5633 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 11:44:58.3914 AM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 11:45:29.2352 AM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 11:46:00.0789 AM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 11:46:30.9071 AM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 11:47:01.7352 AM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 11:47:32.5633 AM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 11:48:03.4071 AM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 11:48:34.2352 AM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 11:49:05.0789 AM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 11:49:35.9227 AM ]
+closing shutter 2 [ Mon, 2/4/2013 11:50:06.7508 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 15
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 11:50:29.1102 AM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 11:50:29.1258 AM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 11:50:58.0789 AM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 11:51:27.0321 AM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 11:51:55.9852 AM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 11:52:24.9539 AM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 11:52:53.9071 AM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 11:53:22.8602 AM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 11:53:51.8133 AM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 11:54:20.7664 AM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 11:54:49.7352 AM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 11:55:18.6883 AM ]
+closing shutter 1 [ Mon, 2/4/2013 11:55:47.6414 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 11:56:09.9852 AM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 11:56:10.0008 AM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 11:56:40.8289 AM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 11:57:11.6727 AM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 11:57:42.5008 AM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 11:58:13.3446 AM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 11:58:44.1727 AM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 11:59:15.0008 AM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 11:59:45.8446 AM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 12:00:16.6727 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 12:00:47.5164 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 12:01:18.3446 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 12:01:49.1727 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 12:02:20.0164 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 12:02:50.8602 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 12:03:21.7039 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 12:03:52.5321 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 12:04:23.3602 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 12:04:54.1883 PM ]
+closing shutter 2 [ Mon, 2/4/2013 12:05:25.0321 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 16
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 12:05:47.3758 PM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 12:05:47.4071 PM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 12:06:16.3602 PM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 12:06:45.3133 PM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 12:07:14.2664 PM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 12:07:43.2196 PM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 12:08:12.1727 PM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 12:08:41.1258 PM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 12:09:10.0789 PM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 12:09:39.0477 PM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 12:10:08.0008 PM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 12:10:36.9539 PM ]
+closing shutter 1 [ Mon, 2/4/2013 12:11:05.9071 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 12:19:44.3133 PM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 12:19:44.3446 PM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 12:20:15.1883 PM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 12:20:46.0164 PM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 12:21:16.8446 PM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 12:21:47.6727 PM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 12:22:18.5008 PM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 12:22:49.3446 PM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 12:23:20.1727 PM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 12:23:51.0164 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 12:24:21.8446 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 12:24:52.6727 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 12:25:23.5164 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 12:25:54.3289 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 12:26:25.1727 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 12:26:56.0008 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 12:27:26.8446 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 12:27:57.6727 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 12:28:28.5164 PM ]
+closing shutter 2 [ Mon, 2/4/2013 12:28:59.3446 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 17
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 12:29:21.7039 PM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 12:29:21.7196 PM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 12:29:50.6727 PM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 12:30:19.6414 PM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 12:30:48.5946 PM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 12:31:17.5633 PM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 12:31:46.5164 PM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 12:32:15.4696 PM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 12:32:44.4227 PM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 12:33:13.3758 PM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 12:33:42.3289 PM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 12:34:11.2821 PM ]
+closing shutter 1 [ Mon, 2/4/2013 12:34:40.2352 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 12:35:02.5789 PM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 12:35:02.6102 PM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 12:35:33.4383 PM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 12:36:04.2664 PM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 12:36:35.1102 PM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 12:37:05.9383 PM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 12:37:36.7821 PM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 12:38:07.6102 PM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 12:38:38.4383 PM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 12:39:09.2664 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 12:39:40.1102 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 12:40:10.9383 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 12:40:41.7821 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 12:41:12.6102 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 12:41:43.4539 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 12:42:14.2977 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 12:42:45.1102 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 12:43:15.9539 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 12:43:46.7821 PM ]
+closing shutter 2 [ Mon, 2/4/2013 12:44:17.6258 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 18
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 12:44:39.9852 PM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 12:44:40.0008 PM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 12:45:08.9539 PM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 12:45:37.9227 PM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 12:46:06.8758 PM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 12:46:35.8289 PM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 12:47:04.7821 PM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 12:47:33.7352 PM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 12:48:02.7039 PM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 12:48:31.6571 PM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 12:49:00.6102 PM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 12:49:29.5633 PM ]
+closing shutter 1 [ Mon, 2/4/2013 12:49:58.5321 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 12:50:20.8602 PM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 12:50:20.8914 PM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 12:50:51.7196 PM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 12:51:22.5477 PM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 12:51:53.3914 PM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 12:52:24.2196 PM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 12:52:55.0633 PM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 12:53:25.8914 PM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 12:53:56.7196 PM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 12:54:27.5477 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 12:54:58.3914 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 12:55:29.2196 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 12:56:00.0633 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 12:56:30.8914 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 12:57:01.7352 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 12:57:32.5633 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 12:58:03.3758 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 12:58:34.2196 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 12:59:05.0477 PM ]
+closing shutter 2 [ Mon, 2/4/2013 12:59:35.8914 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 19
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 12:59:58.2352 PM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 12:59:58.2664 PM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 01:00:27.2196 PM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 01:00:56.1727 PM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 01:01:25.1258 PM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 01:01:54.0633 PM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 01:02:23.0164 PM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 01:02:51.9696 PM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 01:03:20.9227 PM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 01:03:49.8758 PM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 01:04:18.8289 PM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 01:04:47.7821 PM ]
+closing shutter 1 [ Mon, 2/4/2013 01:05:16.7508 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 01:05:39.0946 PM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 01:05:39.1258 PM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 01:06:09.9539 PM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 01:06:40.7821 PM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 01:07:11.6102 PM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 01:07:42.4539 PM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 01:08:13.2821 PM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 01:08:44.1102 PM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 01:09:14.9539 PM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 01:09:45.7977 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 01:10:16.6102 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 01:10:47.4539 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 01:11:18.2821 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 01:11:49.1258 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 01:12:19.9539 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 01:12:50.7821 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 01:13:21.6258 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 01:13:52.4539 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 01:14:23.2821 PM ]
+closing shutter 2 [ Mon, 2/4/2013 01:14:54.1258 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 20
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Mon, 2/4/2013 01:15:16.5164 PM ]
+sweeping rotary stage back and forth 11.0 times at 1.03888888889 RPM
+starting sweep 0 of 11 [ Mon, 2/4/2013 01:15:16.5321 PM ]
+starting sweep 1 of 11 [ Mon, 2/4/2013 01:15:45.4852 PM ]
+starting sweep 2 of 11 [ Mon, 2/4/2013 01:16:14.4383 PM ]
+starting sweep 3 of 11 [ Mon, 2/4/2013 01:16:43.4071 PM ]
+starting sweep 4 of 11 [ Mon, 2/4/2013 01:17:12.3602 PM ]
+starting sweep 5 of 11 [ Mon, 2/4/2013 01:17:41.3133 PM ]
+starting sweep 6 of 11 [ Mon, 2/4/2013 01:18:10.2664 PM ]
+starting sweep 7 of 11 [ Mon, 2/4/2013 01:18:39.2196 PM ]
+starting sweep 8 of 11 [ Mon, 2/4/2013 01:19:08.1727 PM ]
+starting sweep 9 of 11 [ Mon, 2/4/2013 01:19:37.1414 PM ]
+starting sweep 10 of 11 [ Mon, 2/4/2013 01:20:06.0946 PM ]
+closing shutter 1 [ Mon, 2/4/2013 01:20:35.0633 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving -90.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2 [ Mon, 2/4/2013 01:20:57.3914 PM ]
+sweeping rotary stage back and forth 18.0 times at 0.975 RPM
+starting sweep 0 of 18 [ Mon, 2/4/2013 01:20:57.4227 PM ]
+starting sweep 1 of 18 [ Mon, 2/4/2013 01:21:28.2508 PM ]
+starting sweep 2 of 18 [ Mon, 2/4/2013 01:21:59.0946 PM ]
+starting sweep 3 of 18 [ Mon, 2/4/2013 01:22:29.9227 PM ]
+starting sweep 4 of 18 [ Mon, 2/4/2013 01:23:00.7508 PM ]
+starting sweep 5 of 18 [ Mon, 2/4/2013 01:23:31.5789 PM ]
+starting sweep 6 of 18 [ Mon, 2/4/2013 01:24:02.4227 PM ]
+starting sweep 7 of 18 [ Mon, 2/4/2013 01:24:33.2664 PM ]
+starting sweep 8 of 18 [ Mon, 2/4/2013 01:25:04.0946 PM ]
+starting sweep 9 of 18 [ Mon, 2/4/2013 01:25:34.9383 PM ]
+starting sweep 10 of 18 [ Mon, 2/4/2013 01:26:05.7664 PM ]
+starting sweep 11 of 18 [ Mon, 2/4/2013 01:26:36.6102 PM ]
+starting sweep 12 of 18 [ Mon, 2/4/2013 01:27:07.4383 PM ]
+starting sweep 13 of 18 [ Mon, 2/4/2013 01:27:38.2821 PM ]
+starting sweep 14 of 18 [ Mon, 2/4/2013 01:28:09.1102 PM ]
+starting sweep 15 of 18 [ Mon, 2/4/2013 01:28:39.9539 PM ]
+starting sweep 16 of 18 [ Mon, 2/4/2013 01:29:10.7977 PM ]
+starting sweep 17 of 18 [ Mon, 2/4/2013 01:29:41.6258 PM ]
+closing shutter 2 [ Mon, 2/4/2013 01:30:12.4696 PM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 90.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+begin header for RandD2_WSi_4feb2013_Test1 [ Mon, 2/4/2013 01:52:17.7196 PM ]

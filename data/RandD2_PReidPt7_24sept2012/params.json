@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 0.1210, 
+        "name": "Pt", 
+        "rate": 1.0100, 
+        "thickness": 600.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD2_PReidPt7_24sept2012", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 10.9100
+}

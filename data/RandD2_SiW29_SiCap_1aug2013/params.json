@@ -1,0 +1,21 @@
+{
+    "N": 1, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Si", 
+        "rate": 4.8000, 
+        "thickness": 18.0000
+    }, 
+    "cathodes": [
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD2_SiW29_SiCap_1aug2013", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 360.0000
+}

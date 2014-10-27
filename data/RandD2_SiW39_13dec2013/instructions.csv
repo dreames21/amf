@@ -1,0 +1,1221 @@
+-1,log,begin header for RandD2_SiW39_13dec2013,true
+-1,set,axis 1 conversion_factor,6897.92
+-1,set,mandrel_axis,2
+-1,set,axis 1 accel_decel,500000
+-1,set,current_bilayer,0
+-1,set,axis 2 conversion_factor,600.521
+-1,set,run_name,RandD2_SiW39_13dec2013
+-1,set,axis 2 steps_in_rev,36000
+-1,set,platen_axis,1
+-1,set,cathode 1 name,cathode 1
+-1,set,axis 3 conversion_factor,262.322834646
+-1,set,current_sweep_iterations,0
+-1,set,axis 3 accel_decel,50000
+-1,set,N,15
+-1,set,chamber_name,R&D2
+-1,set,axis 1 name,platen
+-1,set,linear_stage_axis,3
+-1,set,axis 2 name,rotary stage
+-1,set,axis 1 steps_in_rev,412500
+-1,set,current_N,0
+-1,set,axis 3 name,linear stage
+-1,set,cathode 2 deposition_rate,4.5
+-1,set,axis 2 accel_decel,50000
+-1,set,cathode 2 name,cathode 2
+-1,set,axis 3 steps_in_rev,53304
+-1,set,cathode 1 deposition_rate,2.4
+-1,log,N = 15,false
+-1,log,axis 1 accel_decel = 500000,false
+-1,log,axis 1 conversion_factor = 6897.92,false
+-1,log,axis 1 name = platen,false
+-1,log,axis 1 steps_in_rev = 412500,false
+-1,log,axis 2 accel_decel = 50000,false
+-1,log,axis 2 conversion_factor = 600.521,false
+-1,log,axis 2 name = rotary stage,false
+-1,log,axis 2 steps_in_rev = 36000,false
+-1,log,axis 3 accel_decel = 50000,false
+-1,log,axis 3 conversion_factor = 262.322834646,false
+-1,log,axis 3 name = linear stage,false
+-1,log,axis 3 steps_in_rev = 53304,false
+-1,log,cathode 1 deposition_rate = 2.4,false
+-1,log,cathode 1 name = cathode 1,false
+-1,log,cathode 2 deposition_rate = 4.5,false
+-1,log,cathode 2 name = cathode 2,false
+-1,log,chamber_name = R&D2,false
+-1,log,current_N = 0,false
+-1,log,current_bilayer = 0,false
+-1,log,current_sweep_iterations = 0,false
+-1,log,linear_stage_axis = 3,false
+-1,log,mandrel_axis = 2,false
+-1,log,platen_axis = 1,false
+-1,log,run_name = RandD2_SiW39_13dec2013,false
+0,log,,false
+1,log,starting layer 1,false
+2,log,starting bilayer 1,false
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,8.0
+6,log,ofsetting platen back -0.0 degrees,false
+7,move_angle,1,0,20693.76,500000
+8,log,ofsetting rotary stage back -4.0 degrees,false
+9,move_angle,2,-400,1801.563,50000
+10,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+11,slave_sweep,1,start,0,0.0,500000
+12,log,opening shutter 2,true
+13,shutter,2,open
+14,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+15,set,current_sweep,1
+16,move_angle,2,36000,600.521,50000
+17,set,current_sweep,2
+18,move_angle,2,36000,600.521,50000
+19,set,current_sweep,3
+20,move_angle,2,36000,600.521,50000
+21,set,current_sweep,4
+22,move_angle,2,36000,600.521,50000
+23,set,current_sweep,5
+24,move_angle,2,36000,600.521,50000
+25,set,current_sweep,6
+26,move_angle,2,36000,600.521,50000
+27,set,current_sweep,7
+28,move_angle,2,36000,600.521,50000
+29,set,current_sweep,8
+30,move_angle,2,36000,600.521,50000
+31,log,closing shutter 2,true
+32,shutter,2,close
+33,log,stopping slave sweep for platen,false
+34,slave_sweep,1,stop,0,0.0,500000
+35,log,rezeroing rotary stage by moving 4.0 degrees,false
+36,move_angle,2,400,1801.563,50000
+37,log,rezero slave axis platen,false
+38,slave_rezero,1,20693.76,500000
+39,check_pause
+40,log,moving platen 180.0 degrees,false
+41,move_angle,1,206250,20693.76,500000
+42,check_pause
+43,log,starting bilayer 2,false
+44,set,current_N,1
+45,set,current_bilayer,2
+46,set,current_sweep_iterations,5.0
+47,log,ofsetting platen back -0.0 degrees,false
+48,move_angle,1,0,20693.76,500000
+49,log,ofsetting rotary stage back -4.0 degrees,false
+50,move_angle,2,-400,1801.563,50000
+51,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+52,slave_sweep,1,start,0,0.0,500000
+53,log,opening shutter 1,true
+54,shutter,1,open
+55,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+56,set,current_sweep,1
+57,move_angle,2,36000,600.521,50000
+58,set,current_sweep,2
+59,move_angle,2,36000,600.521,50000
+60,set,current_sweep,3
+61,move_angle,2,36000,600.521,50000
+62,set,current_sweep,4
+63,move_angle,2,36000,600.521,50000
+64,set,current_sweep,5
+65,move_angle,2,36000,600.521,50000
+66,log,closing shutter 1,true
+67,shutter,1,close
+68,log,stopping slave sweep for platen,false
+69,slave_sweep,1,stop,0,0.0,500000
+70,log,rezeroing rotary stage by moving 4.0 degrees,false
+71,move_angle,2,400,1801.563,50000
+72,log,rezero slave axis platen,false
+73,slave_rezero,1,20693.76,500000
+74,check_pause
+75,log,moving platen -180.0 degrees,false
+76,move_angle,1,-206250,20693.76,500000
+77,check_pause
+78,log,,false
+79,log,starting layer 2,false
+80,log,starting bilayer 1,false
+81,set,current_N,2
+82,set,current_bilayer,1
+83,set,current_sweep_iterations,8.0
+84,log,ofsetting platen back -0.0 degrees,false
+85,move_angle,1,0,20693.76,500000
+86,log,ofsetting rotary stage back -4.0 degrees,false
+87,move_angle,2,-400,1801.563,50000
+88,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+89,slave_sweep,1,start,0,0.0,500000
+90,log,opening shutter 2,true
+91,shutter,2,open
+92,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+93,set,current_sweep,1
+94,move_angle,2,36000,600.521,50000
+95,set,current_sweep,2
+96,move_angle,2,36000,600.521,50000
+97,set,current_sweep,3
+98,move_angle,2,36000,600.521,50000
+99,set,current_sweep,4
+100,move_angle,2,36000,600.521,50000
+101,set,current_sweep,5
+102,move_angle,2,36000,600.521,50000
+103,set,current_sweep,6
+104,move_angle,2,36000,600.521,50000
+105,set,current_sweep,7
+106,move_angle,2,36000,600.521,50000
+107,set,current_sweep,8
+108,move_angle,2,36000,600.521,50000
+109,log,closing shutter 2,true
+110,shutter,2,close
+111,log,stopping slave sweep for platen,false
+112,slave_sweep,1,stop,0,0.0,500000
+113,log,rezeroing rotary stage by moving 4.0 degrees,false
+114,move_angle,2,400,1801.563,50000
+115,log,rezero slave axis platen,false
+116,slave_rezero,1,20693.76,500000
+117,check_pause
+118,log,moving platen 180.0 degrees,false
+119,move_angle,1,206250,20693.76,500000
+120,check_pause
+121,log,starting bilayer 2,false
+122,set,current_N,2
+123,set,current_bilayer,2
+124,set,current_sweep_iterations,5.0
+125,log,ofsetting platen back -0.0 degrees,false
+126,move_angle,1,0,20693.76,500000
+127,log,ofsetting rotary stage back -4.0 degrees,false
+128,move_angle,2,-400,1801.563,50000
+129,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+130,slave_sweep,1,start,0,0.0,500000
+131,log,opening shutter 1,true
+132,shutter,1,open
+133,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+134,set,current_sweep,1
+135,move_angle,2,36000,600.521,50000
+136,set,current_sweep,2
+137,move_angle,2,36000,600.521,50000
+138,set,current_sweep,3
+139,move_angle,2,36000,600.521,50000
+140,set,current_sweep,4
+141,move_angle,2,36000,600.521,50000
+142,set,current_sweep,5
+143,move_angle,2,36000,600.521,50000
+144,log,closing shutter 1,true
+145,shutter,1,close
+146,log,stopping slave sweep for platen,false
+147,slave_sweep,1,stop,0,0.0,500000
+148,log,rezeroing rotary stage by moving 4.0 degrees,false
+149,move_angle,2,400,1801.563,50000
+150,log,rezero slave axis platen,false
+151,slave_rezero,1,20693.76,500000
+152,check_pause
+153,log,moving platen -180.0 degrees,false
+154,move_angle,1,-206250,20693.76,500000
+155,check_pause
+156,log,,false
+157,log,starting layer 3,false
+158,log,starting bilayer 1,false
+159,set,current_N,3
+160,set,current_bilayer,1
+161,set,current_sweep_iterations,8.0
+162,log,ofsetting platen back -0.0 degrees,false
+163,move_angle,1,0,20693.76,500000
+164,log,ofsetting rotary stage back -4.0 degrees,false
+165,move_angle,2,-400,1801.563,50000
+166,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+167,slave_sweep,1,start,0,0.0,500000
+168,log,opening shutter 2,true
+169,shutter,2,open
+170,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+171,set,current_sweep,1
+172,move_angle,2,36000,600.521,50000
+173,set,current_sweep,2
+174,move_angle,2,36000,600.521,50000
+175,set,current_sweep,3
+176,move_angle,2,36000,600.521,50000
+177,set,current_sweep,4
+178,move_angle,2,36000,600.521,50000
+179,set,current_sweep,5
+180,move_angle,2,36000,600.521,50000
+181,set,current_sweep,6
+182,move_angle,2,36000,600.521,50000
+183,set,current_sweep,7
+184,move_angle,2,36000,600.521,50000
+185,set,current_sweep,8
+186,move_angle,2,36000,600.521,50000
+187,log,closing shutter 2,true
+188,shutter,2,close
+189,log,stopping slave sweep for platen,false
+190,slave_sweep,1,stop,0,0.0,500000
+191,log,rezeroing rotary stage by moving 4.0 degrees,false
+192,move_angle,2,400,1801.563,50000
+193,log,rezero slave axis platen,false
+194,slave_rezero,1,20693.76,500000
+195,check_pause
+196,log,moving platen 180.0 degrees,false
+197,move_angle,1,206250,20693.76,500000
+198,check_pause
+199,log,starting bilayer 2,false
+200,set,current_N,3
+201,set,current_bilayer,2
+202,set,current_sweep_iterations,5.0
+203,log,ofsetting platen back -0.0 degrees,false
+204,move_angle,1,0,20693.76,500000
+205,log,ofsetting rotary stage back -4.0 degrees,false
+206,move_angle,2,-400,1801.563,50000
+207,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+208,slave_sweep,1,start,0,0.0,500000
+209,log,opening shutter 1,true
+210,shutter,1,open
+211,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+212,set,current_sweep,1
+213,move_angle,2,36000,600.521,50000
+214,set,current_sweep,2
+215,move_angle,2,36000,600.521,50000
+216,set,current_sweep,3
+217,move_angle,2,36000,600.521,50000
+218,set,current_sweep,4
+219,move_angle,2,36000,600.521,50000
+220,set,current_sweep,5
+221,move_angle,2,36000,600.521,50000
+222,log,closing shutter 1,true
+223,shutter,1,close
+224,log,stopping slave sweep for platen,false
+225,slave_sweep,1,stop,0,0.0,500000
+226,log,rezeroing rotary stage by moving 4.0 degrees,false
+227,move_angle,2,400,1801.563,50000
+228,log,rezero slave axis platen,false
+229,slave_rezero,1,20693.76,500000
+230,check_pause
+231,log,moving platen -180.0 degrees,false
+232,move_angle,1,-206250,20693.76,500000
+233,check_pause
+234,log,,false
+235,log,starting layer 4,false
+236,log,starting bilayer 1,false
+237,set,current_N,4
+238,set,current_bilayer,1
+239,set,current_sweep_iterations,8.0
+240,log,ofsetting platen back -0.0 degrees,false
+241,move_angle,1,0,20693.76,500000
+242,log,ofsetting rotary stage back -4.0 degrees,false
+243,move_angle,2,-400,1801.563,50000
+244,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+245,slave_sweep,1,start,0,0.0,500000
+246,log,opening shutter 2,true
+247,shutter,2,open
+248,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+249,set,current_sweep,1
+250,move_angle,2,36000,600.521,50000
+251,set,current_sweep,2
+252,move_angle,2,36000,600.521,50000
+253,set,current_sweep,3
+254,move_angle,2,36000,600.521,50000
+255,set,current_sweep,4
+256,move_angle,2,36000,600.521,50000
+257,set,current_sweep,5
+258,move_angle,2,36000,600.521,50000
+259,set,current_sweep,6
+260,move_angle,2,36000,600.521,50000
+261,set,current_sweep,7
+262,move_angle,2,36000,600.521,50000
+263,set,current_sweep,8
+264,move_angle,2,36000,600.521,50000
+265,log,closing shutter 2,true
+266,shutter,2,close
+267,log,stopping slave sweep for platen,false
+268,slave_sweep,1,stop,0,0.0,500000
+269,log,rezeroing rotary stage by moving 4.0 degrees,false
+270,move_angle,2,400,1801.563,50000
+271,log,rezero slave axis platen,false
+272,slave_rezero,1,20693.76,500000
+273,check_pause
+274,log,moving platen 180.0 degrees,false
+275,move_angle,1,206250,20693.76,500000
+276,check_pause
+277,log,starting bilayer 2,false
+278,set,current_N,4
+279,set,current_bilayer,2
+280,set,current_sweep_iterations,5.0
+281,log,ofsetting platen back -0.0 degrees,false
+282,move_angle,1,0,20693.76,500000
+283,log,ofsetting rotary stage back -4.0 degrees,false
+284,move_angle,2,-400,1801.563,50000
+285,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+286,slave_sweep,1,start,0,0.0,500000
+287,log,opening shutter 1,true
+288,shutter,1,open
+289,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+290,set,current_sweep,1
+291,move_angle,2,36000,600.521,50000
+292,set,current_sweep,2
+293,move_angle,2,36000,600.521,50000
+294,set,current_sweep,3
+295,move_angle,2,36000,600.521,50000
+296,set,current_sweep,4
+297,move_angle,2,36000,600.521,50000
+298,set,current_sweep,5
+299,move_angle,2,36000,600.521,50000
+300,log,closing shutter 1,true
+301,shutter,1,close
+302,log,stopping slave sweep for platen,false
+303,slave_sweep,1,stop,0,0.0,500000
+304,log,rezeroing rotary stage by moving 4.0 degrees,false
+305,move_angle,2,400,1801.563,50000
+306,log,rezero slave axis platen,false
+307,slave_rezero,1,20693.76,500000
+308,check_pause
+309,log,moving platen -180.0 degrees,false
+310,move_angle,1,-206250,20693.76,500000
+311,check_pause
+312,log,,false
+313,log,starting layer 5,false
+314,log,starting bilayer 1,false
+315,set,current_N,5
+316,set,current_bilayer,1
+317,set,current_sweep_iterations,8.0
+318,log,ofsetting platen back -0.0 degrees,false
+319,move_angle,1,0,20693.76,500000
+320,log,ofsetting rotary stage back -4.0 degrees,false
+321,move_angle,2,-400,1801.563,50000
+322,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+323,slave_sweep,1,start,0,0.0,500000
+324,log,opening shutter 2,true
+325,shutter,2,open
+326,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+327,set,current_sweep,1
+328,move_angle,2,36000,600.521,50000
+329,set,current_sweep,2
+330,move_angle,2,36000,600.521,50000
+331,set,current_sweep,3
+332,move_angle,2,36000,600.521,50000
+333,set,current_sweep,4
+334,move_angle,2,36000,600.521,50000
+335,set,current_sweep,5
+336,move_angle,2,36000,600.521,50000
+337,set,current_sweep,6
+338,move_angle,2,36000,600.521,50000
+339,set,current_sweep,7
+340,move_angle,2,36000,600.521,50000
+341,set,current_sweep,8
+342,move_angle,2,36000,600.521,50000
+343,log,closing shutter 2,true
+344,shutter,2,close
+345,log,stopping slave sweep for platen,false
+346,slave_sweep,1,stop,0,0.0,500000
+347,log,rezeroing rotary stage by moving 4.0 degrees,false
+348,move_angle,2,400,1801.563,50000
+349,log,rezero slave axis platen,false
+350,slave_rezero,1,20693.76,500000
+351,check_pause
+352,log,moving platen 180.0 degrees,false
+353,move_angle,1,206250,20693.76,500000
+354,check_pause
+355,log,starting bilayer 2,false
+356,set,current_N,5
+357,set,current_bilayer,2
+358,set,current_sweep_iterations,5.0
+359,log,ofsetting platen back -0.0 degrees,false
+360,move_angle,1,0,20693.76,500000
+361,log,ofsetting rotary stage back -4.0 degrees,false
+362,move_angle,2,-400,1801.563,50000
+363,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+364,slave_sweep,1,start,0,0.0,500000
+365,log,opening shutter 1,true
+366,shutter,1,open
+367,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+368,set,current_sweep,1
+369,move_angle,2,36000,600.521,50000
+370,set,current_sweep,2
+371,move_angle,2,36000,600.521,50000
+372,set,current_sweep,3
+373,move_angle,2,36000,600.521,50000
+374,set,current_sweep,4
+375,move_angle,2,36000,600.521,50000
+376,set,current_sweep,5
+377,move_angle,2,36000,600.521,50000
+378,log,closing shutter 1,true
+379,shutter,1,close
+380,log,stopping slave sweep for platen,false
+381,slave_sweep,1,stop,0,0.0,500000
+382,log,rezeroing rotary stage by moving 4.0 degrees,false
+383,move_angle,2,400,1801.563,50000
+384,log,rezero slave axis platen,false
+385,slave_rezero,1,20693.76,500000
+386,check_pause
+387,log,moving platen -180.0 degrees,false
+388,move_angle,1,-206250,20693.76,500000
+389,check_pause
+390,log,,false
+391,log,starting layer 6,false
+392,log,starting bilayer 1,false
+393,set,current_N,6
+394,set,current_bilayer,1
+395,set,current_sweep_iterations,8.0
+396,log,ofsetting platen back -0.0 degrees,false
+397,move_angle,1,0,20693.76,500000
+398,log,ofsetting rotary stage back -4.0 degrees,false
+399,move_angle,2,-400,1801.563,50000
+400,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+401,slave_sweep,1,start,0,0.0,500000
+402,log,opening shutter 2,true
+403,shutter,2,open
+404,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+405,set,current_sweep,1
+406,move_angle,2,36000,600.521,50000
+407,set,current_sweep,2
+408,move_angle,2,36000,600.521,50000
+409,set,current_sweep,3
+410,move_angle,2,36000,600.521,50000
+411,set,current_sweep,4
+412,move_angle,2,36000,600.521,50000
+413,set,current_sweep,5
+414,move_angle,2,36000,600.521,50000
+415,set,current_sweep,6
+416,move_angle,2,36000,600.521,50000
+417,set,current_sweep,7
+418,move_angle,2,36000,600.521,50000
+419,set,current_sweep,8
+420,move_angle,2,36000,600.521,50000
+421,log,closing shutter 2,true
+422,shutter,2,close
+423,log,stopping slave sweep for platen,false
+424,slave_sweep,1,stop,0,0.0,500000
+425,log,rezeroing rotary stage by moving 4.0 degrees,false
+426,move_angle,2,400,1801.563,50000
+427,log,rezero slave axis platen,false
+428,slave_rezero,1,20693.76,500000
+429,check_pause
+430,log,moving platen 180.0 degrees,false
+431,move_angle,1,206250,20693.76,500000
+432,check_pause
+433,log,starting bilayer 2,false
+434,set,current_N,6
+435,set,current_bilayer,2
+436,set,current_sweep_iterations,5.0
+437,log,ofsetting platen back -0.0 degrees,false
+438,move_angle,1,0,20693.76,500000
+439,log,ofsetting rotary stage back -4.0 degrees,false
+440,move_angle,2,-400,1801.563,50000
+441,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+442,slave_sweep,1,start,0,0.0,500000
+443,log,opening shutter 1,true
+444,shutter,1,open
+445,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+446,set,current_sweep,1
+447,move_angle,2,36000,600.521,50000
+448,set,current_sweep,2
+449,move_angle,2,36000,600.521,50000
+450,set,current_sweep,3
+451,move_angle,2,36000,600.521,50000
+452,set,current_sweep,4
+453,move_angle,2,36000,600.521,50000
+454,set,current_sweep,5
+455,move_angle,2,36000,600.521,50000
+456,log,closing shutter 1,true
+457,shutter,1,close
+458,log,stopping slave sweep for platen,false
+459,slave_sweep,1,stop,0,0.0,500000
+460,log,rezeroing rotary stage by moving 4.0 degrees,false
+461,move_angle,2,400,1801.563,50000
+462,log,rezero slave axis platen,false
+463,slave_rezero,1,20693.76,500000
+464,check_pause
+465,log,moving platen -180.0 degrees,false
+466,move_angle,1,-206250,20693.76,500000
+467,check_pause
+468,log,,false
+469,log,starting layer 7,false
+470,log,starting bilayer 1,false
+471,set,current_N,7
+472,set,current_bilayer,1
+473,set,current_sweep_iterations,8.0
+474,log,ofsetting platen back -0.0 degrees,false
+475,move_angle,1,0,20693.76,500000
+476,log,ofsetting rotary stage back -4.0 degrees,false
+477,move_angle,2,-400,1801.563,50000
+478,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+479,slave_sweep,1,start,0,0.0,500000
+480,log,opening shutter 2,true
+481,shutter,2,open
+482,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+483,set,current_sweep,1
+484,move_angle,2,36000,600.521,50000
+485,set,current_sweep,2
+486,move_angle,2,36000,600.521,50000
+487,set,current_sweep,3
+488,move_angle,2,36000,600.521,50000
+489,set,current_sweep,4
+490,move_angle,2,36000,600.521,50000
+491,set,current_sweep,5
+492,move_angle,2,36000,600.521,50000
+493,set,current_sweep,6
+494,move_angle,2,36000,600.521,50000
+495,set,current_sweep,7
+496,move_angle,2,36000,600.521,50000
+497,set,current_sweep,8
+498,move_angle,2,36000,600.521,50000
+499,log,closing shutter 2,true
+500,shutter,2,close
+501,log,stopping slave sweep for platen,false
+502,slave_sweep,1,stop,0,0.0,500000
+503,log,rezeroing rotary stage by moving 4.0 degrees,false
+504,move_angle,2,400,1801.563,50000
+505,log,rezero slave axis platen,false
+506,slave_rezero,1,20693.76,500000
+507,check_pause
+508,log,moving platen 180.0 degrees,false
+509,move_angle,1,206250,20693.76,500000
+510,check_pause
+511,log,starting bilayer 2,false
+512,set,current_N,7
+513,set,current_bilayer,2
+514,set,current_sweep_iterations,5.0
+515,log,ofsetting platen back -0.0 degrees,false
+516,move_angle,1,0,20693.76,500000
+517,log,ofsetting rotary stage back -4.0 degrees,false
+518,move_angle,2,-400,1801.563,50000
+519,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+520,slave_sweep,1,start,0,0.0,500000
+521,log,opening shutter 1,true
+522,shutter,1,open
+523,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+524,set,current_sweep,1
+525,move_angle,2,36000,600.521,50000
+526,set,current_sweep,2
+527,move_angle,2,36000,600.521,50000
+528,set,current_sweep,3
+529,move_angle,2,36000,600.521,50000
+530,set,current_sweep,4
+531,move_angle,2,36000,600.521,50000
+532,set,current_sweep,5
+533,move_angle,2,36000,600.521,50000
+534,log,closing shutter 1,true
+535,shutter,1,close
+536,log,stopping slave sweep for platen,false
+537,slave_sweep,1,stop,0,0.0,500000
+538,log,rezeroing rotary stage by moving 4.0 degrees,false
+539,move_angle,2,400,1801.563,50000
+540,log,rezero slave axis platen,false
+541,slave_rezero,1,20693.76,500000
+542,check_pause
+543,log,moving platen -180.0 degrees,false
+544,move_angle,1,-206250,20693.76,500000
+545,check_pause
+546,log,,false
+547,log,starting layer 8,false
+548,log,starting bilayer 1,false
+549,set,current_N,8
+550,set,current_bilayer,1
+551,set,current_sweep_iterations,8.0
+552,log,ofsetting platen back -0.0 degrees,false
+553,move_angle,1,0,20693.76,500000
+554,log,ofsetting rotary stage back -4.0 degrees,false
+555,move_angle,2,-400,1801.563,50000
+556,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+557,slave_sweep,1,start,0,0.0,500000
+558,log,opening shutter 2,true
+559,shutter,2,open
+560,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+561,set,current_sweep,1
+562,move_angle,2,36000,600.521,50000
+563,set,current_sweep,2
+564,move_angle,2,36000,600.521,50000
+565,set,current_sweep,3
+566,move_angle,2,36000,600.521,50000
+567,set,current_sweep,4
+568,move_angle,2,36000,600.521,50000
+569,set,current_sweep,5
+570,move_angle,2,36000,600.521,50000
+571,set,current_sweep,6
+572,move_angle,2,36000,600.521,50000
+573,set,current_sweep,7
+574,move_angle,2,36000,600.521,50000
+575,set,current_sweep,8
+576,move_angle,2,36000,600.521,50000
+577,log,closing shutter 2,true
+578,shutter,2,close
+579,log,stopping slave sweep for platen,false
+580,slave_sweep,1,stop,0,0.0,500000
+581,log,rezeroing rotary stage by moving 4.0 degrees,false
+582,move_angle,2,400,1801.563,50000
+583,log,rezero slave axis platen,false
+584,slave_rezero,1,20693.76,500000
+585,check_pause
+586,log,moving platen 180.0 degrees,false
+587,move_angle,1,206250,20693.76,500000
+588,check_pause
+589,log,starting bilayer 2,false
+590,set,current_N,8
+591,set,current_bilayer,2
+592,set,current_sweep_iterations,5.0
+593,log,ofsetting platen back -0.0 degrees,false
+594,move_angle,1,0,20693.76,500000
+595,log,ofsetting rotary stage back -4.0 degrees,false
+596,move_angle,2,-400,1801.563,50000
+597,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+598,slave_sweep,1,start,0,0.0,500000
+599,log,opening shutter 1,true
+600,shutter,1,open
+601,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+602,set,current_sweep,1
+603,move_angle,2,36000,600.521,50000
+604,set,current_sweep,2
+605,move_angle,2,36000,600.521,50000
+606,set,current_sweep,3
+607,move_angle,2,36000,600.521,50000
+608,set,current_sweep,4
+609,move_angle,2,36000,600.521,50000
+610,set,current_sweep,5
+611,move_angle,2,36000,600.521,50000
+612,log,closing shutter 1,true
+613,shutter,1,close
+614,log,stopping slave sweep for platen,false
+615,slave_sweep,1,stop,0,0.0,500000
+616,log,rezeroing rotary stage by moving 4.0 degrees,false
+617,move_angle,2,400,1801.563,50000
+618,log,rezero slave axis platen,false
+619,slave_rezero,1,20693.76,500000
+620,check_pause
+621,log,moving platen -180.0 degrees,false
+622,move_angle,1,-206250,20693.76,500000
+623,check_pause
+624,log,,false
+625,log,starting layer 9,false
+626,log,starting bilayer 1,false
+627,set,current_N,9
+628,set,current_bilayer,1
+629,set,current_sweep_iterations,8.0
+630,log,ofsetting platen back -0.0 degrees,false
+631,move_angle,1,0,20693.76,500000
+632,log,ofsetting rotary stage back -4.0 degrees,false
+633,move_angle,2,-400,1801.563,50000
+634,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+635,slave_sweep,1,start,0,0.0,500000
+636,log,opening shutter 2,true
+637,shutter,2,open
+638,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+639,set,current_sweep,1
+640,move_angle,2,36000,600.521,50000
+641,set,current_sweep,2
+642,move_angle,2,36000,600.521,50000
+643,set,current_sweep,3
+644,move_angle,2,36000,600.521,50000
+645,set,current_sweep,4
+646,move_angle,2,36000,600.521,50000
+647,set,current_sweep,5
+648,move_angle,2,36000,600.521,50000
+649,set,current_sweep,6
+650,move_angle,2,36000,600.521,50000
+651,set,current_sweep,7
+652,move_angle,2,36000,600.521,50000
+653,set,current_sweep,8
+654,move_angle,2,36000,600.521,50000
+655,log,closing shutter 2,true
+656,shutter,2,close
+657,log,stopping slave sweep for platen,false
+658,slave_sweep,1,stop,0,0.0,500000
+659,log,rezeroing rotary stage by moving 4.0 degrees,false
+660,move_angle,2,400,1801.563,50000
+661,log,rezero slave axis platen,false
+662,slave_rezero,1,20693.76,500000
+663,check_pause
+664,log,moving platen 180.0 degrees,false
+665,move_angle,1,206250,20693.76,500000
+666,check_pause
+667,log,starting bilayer 2,false
+668,set,current_N,9
+669,set,current_bilayer,2
+670,set,current_sweep_iterations,5.0
+671,log,ofsetting platen back -0.0 degrees,false
+672,move_angle,1,0,20693.76,500000
+673,log,ofsetting rotary stage back -4.0 degrees,false
+674,move_angle,2,-400,1801.563,50000
+675,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+676,slave_sweep,1,start,0,0.0,500000
+677,log,opening shutter 1,true
+678,shutter,1,open
+679,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+680,set,current_sweep,1
+681,move_angle,2,36000,600.521,50000
+682,set,current_sweep,2
+683,move_angle,2,36000,600.521,50000
+684,set,current_sweep,3
+685,move_angle,2,36000,600.521,50000
+686,set,current_sweep,4
+687,move_angle,2,36000,600.521,50000
+688,set,current_sweep,5
+689,move_angle,2,36000,600.521,50000
+690,log,closing shutter 1,true
+691,shutter,1,close
+692,log,stopping slave sweep for platen,false
+693,slave_sweep,1,stop,0,0.0,500000
+694,log,rezeroing rotary stage by moving 4.0 degrees,false
+695,move_angle,2,400,1801.563,50000
+696,log,rezero slave axis platen,false
+697,slave_rezero,1,20693.76,500000
+698,check_pause
+699,log,moving platen -180.0 degrees,false
+700,move_angle,1,-206250,20693.76,500000
+701,check_pause
+702,log,,false
+703,log,starting layer 10,false
+704,log,starting bilayer 1,false
+705,set,current_N,10
+706,set,current_bilayer,1
+707,set,current_sweep_iterations,8.0
+708,log,ofsetting platen back -0.0 degrees,false
+709,move_angle,1,0,20693.76,500000
+710,log,ofsetting rotary stage back -4.0 degrees,false
+711,move_angle,2,-400,1801.563,50000
+712,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+713,slave_sweep,1,start,0,0.0,500000
+714,log,opening shutter 2,true
+715,shutter,2,open
+716,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+717,set,current_sweep,1
+718,move_angle,2,36000,600.521,50000
+719,set,current_sweep,2
+720,move_angle,2,36000,600.521,50000
+721,set,current_sweep,3
+722,move_angle,2,36000,600.521,50000
+723,set,current_sweep,4
+724,move_angle,2,36000,600.521,50000
+725,set,current_sweep,5
+726,move_angle,2,36000,600.521,50000
+727,set,current_sweep,6
+728,move_angle,2,36000,600.521,50000
+729,set,current_sweep,7
+730,move_angle,2,36000,600.521,50000
+731,set,current_sweep,8
+732,move_angle,2,36000,600.521,50000
+733,log,closing shutter 2,true
+734,shutter,2,close
+735,log,stopping slave sweep for platen,false
+736,slave_sweep,1,stop,0,0.0,500000
+737,log,rezeroing rotary stage by moving 4.0 degrees,false
+738,move_angle,2,400,1801.563,50000
+739,log,rezero slave axis platen,false
+740,slave_rezero,1,20693.76,500000
+741,check_pause
+742,log,moving platen 180.0 degrees,false
+743,move_angle,1,206250,20693.76,500000
+744,check_pause
+745,log,starting bilayer 2,false
+746,set,current_N,10
+747,set,current_bilayer,2
+748,set,current_sweep_iterations,5.0
+749,log,ofsetting platen back -0.0 degrees,false
+750,move_angle,1,0,20693.76,500000
+751,log,ofsetting rotary stage back -4.0 degrees,false
+752,move_angle,2,-400,1801.563,50000
+753,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+754,slave_sweep,1,start,0,0.0,500000
+755,log,opening shutter 1,true
+756,shutter,1,open
+757,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+758,set,current_sweep,1
+759,move_angle,2,36000,600.521,50000
+760,set,current_sweep,2
+761,move_angle,2,36000,600.521,50000
+762,set,current_sweep,3
+763,move_angle,2,36000,600.521,50000
+764,set,current_sweep,4
+765,move_angle,2,36000,600.521,50000
+766,set,current_sweep,5
+767,move_angle,2,36000,600.521,50000
+768,log,closing shutter 1,true
+769,shutter,1,close
+770,log,stopping slave sweep for platen,false
+771,slave_sweep,1,stop,0,0.0,500000
+772,log,rezeroing rotary stage by moving 4.0 degrees,false
+773,move_angle,2,400,1801.563,50000
+774,log,rezero slave axis platen,false
+775,slave_rezero,1,20693.76,500000
+776,check_pause
+777,log,moving platen -180.0 degrees,false
+778,move_angle,1,-206250,20693.76,500000
+779,check_pause
+780,log,,false
+781,log,starting layer 11,false
+782,log,starting bilayer 1,false
+783,set,current_N,11
+784,set,current_bilayer,1
+785,set,current_sweep_iterations,8.0
+786,log,ofsetting platen back -0.0 degrees,false
+787,move_angle,1,0,20693.76,500000
+788,log,ofsetting rotary stage back -4.0 degrees,false
+789,move_angle,2,-400,1801.563,50000
+790,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+791,slave_sweep,1,start,0,0.0,500000
+792,log,opening shutter 2,true
+793,shutter,2,open
+794,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+795,set,current_sweep,1
+796,move_angle,2,36000,600.521,50000
+797,set,current_sweep,2
+798,move_angle,2,36000,600.521,50000
+799,set,current_sweep,3
+800,move_angle,2,36000,600.521,50000
+801,set,current_sweep,4
+802,move_angle,2,36000,600.521,50000
+803,set,current_sweep,5
+804,move_angle,2,36000,600.521,50000
+805,set,current_sweep,6
+806,move_angle,2,36000,600.521,50000
+807,set,current_sweep,7
+808,move_angle,2,36000,600.521,50000
+809,set,current_sweep,8
+810,move_angle,2,36000,600.521,50000
+811,log,closing shutter 2,true
+812,shutter,2,close
+813,log,stopping slave sweep for platen,false
+814,slave_sweep,1,stop,0,0.0,500000
+815,log,rezeroing rotary stage by moving 4.0 degrees,false
+816,move_angle,2,400,1801.563,50000
+817,log,rezero slave axis platen,false
+818,slave_rezero,1,20693.76,500000
+819,check_pause
+820,log,moving platen 180.0 degrees,false
+821,move_angle,1,206250,20693.76,500000
+822,check_pause
+823,log,starting bilayer 2,false
+824,set,current_N,11
+825,set,current_bilayer,2
+826,set,current_sweep_iterations,5.0
+827,log,ofsetting platen back -0.0 degrees,false
+828,move_angle,1,0,20693.76,500000
+829,log,ofsetting rotary stage back -4.0 degrees,false
+830,move_angle,2,-400,1801.563,50000
+831,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+832,slave_sweep,1,start,0,0.0,500000
+833,log,opening shutter 1,true
+834,shutter,1,open
+835,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+836,set,current_sweep,1
+837,move_angle,2,36000,600.521,50000
+838,set,current_sweep,2
+839,move_angle,2,36000,600.521,50000
+840,set,current_sweep,3
+841,move_angle,2,36000,600.521,50000
+842,set,current_sweep,4
+843,move_angle,2,36000,600.521,50000
+844,set,current_sweep,5
+845,move_angle,2,36000,600.521,50000
+846,log,closing shutter 1,true
+847,shutter,1,close
+848,log,stopping slave sweep for platen,false
+849,slave_sweep,1,stop,0,0.0,500000
+850,log,rezeroing rotary stage by moving 4.0 degrees,false
+851,move_angle,2,400,1801.563,50000
+852,log,rezero slave axis platen,false
+853,slave_rezero,1,20693.76,500000
+854,check_pause
+855,log,moving platen -180.0 degrees,false
+856,move_angle,1,-206250,20693.76,500000
+857,check_pause
+858,log,,false
+859,log,starting layer 12,false
+860,log,starting bilayer 1,false
+861,set,current_N,12
+862,set,current_bilayer,1
+863,set,current_sweep_iterations,8.0
+864,log,ofsetting platen back -0.0 degrees,false
+865,move_angle,1,0,20693.76,500000
+866,log,ofsetting rotary stage back -4.0 degrees,false
+867,move_angle,2,-400,1801.563,50000
+868,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+869,slave_sweep,1,start,0,0.0,500000
+870,log,opening shutter 2,true
+871,shutter,2,open
+872,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+873,set,current_sweep,1
+874,move_angle,2,36000,600.521,50000
+875,set,current_sweep,2
+876,move_angle,2,36000,600.521,50000
+877,set,current_sweep,3
+878,move_angle,2,36000,600.521,50000
+879,set,current_sweep,4
+880,move_angle,2,36000,600.521,50000
+881,set,current_sweep,5
+882,move_angle,2,36000,600.521,50000
+883,set,current_sweep,6
+884,move_angle,2,36000,600.521,50000
+885,set,current_sweep,7
+886,move_angle,2,36000,600.521,50000
+887,set,current_sweep,8
+888,move_angle,2,36000,600.521,50000
+889,log,closing shutter 2,true
+890,shutter,2,close
+891,log,stopping slave sweep for platen,false
+892,slave_sweep,1,stop,0,0.0,500000
+893,log,rezeroing rotary stage by moving 4.0 degrees,false
+894,move_angle,2,400,1801.563,50000
+895,log,rezero slave axis platen,false
+896,slave_rezero,1,20693.76,500000
+897,check_pause
+898,log,moving platen 180.0 degrees,false
+899,move_angle,1,206250,20693.76,500000
+900,check_pause
+901,log,starting bilayer 2,false
+902,set,current_N,12
+903,set,current_bilayer,2
+904,set,current_sweep_iterations,5.0
+905,log,ofsetting platen back -0.0 degrees,false
+906,move_angle,1,0,20693.76,500000
+907,log,ofsetting rotary stage back -4.0 degrees,false
+908,move_angle,2,-400,1801.563,50000
+909,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+910,slave_sweep,1,start,0,0.0,500000
+911,log,opening shutter 1,true
+912,shutter,1,open
+913,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+914,set,current_sweep,1
+915,move_angle,2,36000,600.521,50000
+916,set,current_sweep,2
+917,move_angle,2,36000,600.521,50000
+918,set,current_sweep,3
+919,move_angle,2,36000,600.521,50000
+920,set,current_sweep,4
+921,move_angle,2,36000,600.521,50000
+922,set,current_sweep,5
+923,move_angle,2,36000,600.521,50000
+924,log,closing shutter 1,true
+925,shutter,1,close
+926,log,stopping slave sweep for platen,false
+927,slave_sweep,1,stop,0,0.0,500000
+928,log,rezeroing rotary stage by moving 4.0 degrees,false
+929,move_angle,2,400,1801.563,50000
+930,log,rezero slave axis platen,false
+931,slave_rezero,1,20693.76,500000
+932,check_pause
+933,log,moving platen -180.0 degrees,false
+934,move_angle,1,-206250,20693.76,500000
+935,check_pause
+936,log,,false
+937,log,starting layer 13,false
+938,log,starting bilayer 1,false
+939,set,current_N,13
+940,set,current_bilayer,1
+941,set,current_sweep_iterations,8.0
+942,log,ofsetting platen back -0.0 degrees,false
+943,move_angle,1,0,20693.76,500000
+944,log,ofsetting rotary stage back -4.0 degrees,false
+945,move_angle,2,-400,1801.563,50000
+946,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+947,slave_sweep,1,start,0,0.0,500000
+948,log,opening shutter 2,true
+949,shutter,2,open
+950,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+951,set,current_sweep,1
+952,move_angle,2,36000,600.521,50000
+953,set,current_sweep,2
+954,move_angle,2,36000,600.521,50000
+955,set,current_sweep,3
+956,move_angle,2,36000,600.521,50000
+957,set,current_sweep,4
+958,move_angle,2,36000,600.521,50000
+959,set,current_sweep,5
+960,move_angle,2,36000,600.521,50000
+961,set,current_sweep,6
+962,move_angle,2,36000,600.521,50000
+963,set,current_sweep,7
+964,move_angle,2,36000,600.521,50000
+965,set,current_sweep,8
+966,move_angle,2,36000,600.521,50000
+967,log,closing shutter 2,true
+968,shutter,2,close
+969,log,stopping slave sweep for platen,false
+970,slave_sweep,1,stop,0,0.0,500000
+971,log,rezeroing rotary stage by moving 4.0 degrees,false
+972,move_angle,2,400,1801.563,50000
+973,log,rezero slave axis platen,false
+974,slave_rezero,1,20693.76,500000
+975,check_pause
+976,log,moving platen 180.0 degrees,false
+977,move_angle,1,206250,20693.76,500000
+978,check_pause
+979,log,starting bilayer 2,false
+980,set,current_N,13
+981,set,current_bilayer,2
+982,set,current_sweep_iterations,5.0
+983,log,ofsetting platen back -0.0 degrees,false
+984,move_angle,1,0,20693.76,500000
+985,log,ofsetting rotary stage back -4.0 degrees,false
+986,move_angle,2,-400,1801.563,50000
+987,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+988,slave_sweep,1,start,0,0.0,500000
+989,log,opening shutter 1,true
+990,shutter,1,open
+991,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+992,set,current_sweep,1
+993,move_angle,2,36000,600.521,50000
+994,set,current_sweep,2
+995,move_angle,2,36000,600.521,50000
+996,set,current_sweep,3
+997,move_angle,2,36000,600.521,50000
+998,set,current_sweep,4
+999,move_angle,2,36000,600.521,50000
+1000,set,current_sweep,5
+1001,move_angle,2,36000,600.521,50000
+1002,log,closing shutter 1,true
+1003,shutter,1,close
+1004,log,stopping slave sweep for platen,false
+1005,slave_sweep,1,stop,0,0.0,500000
+1006,log,rezeroing rotary stage by moving 4.0 degrees,false
+1007,move_angle,2,400,1801.563,50000
+1008,log,rezero slave axis platen,false
+1009,slave_rezero,1,20693.76,500000
+1010,check_pause
+1011,log,moving platen -180.0 degrees,false
+1012,move_angle,1,-206250,20693.76,500000
+1013,check_pause
+1014,log,,false
+1015,log,starting layer 14,false
+1016,log,starting bilayer 1,false
+1017,set,current_N,14
+1018,set,current_bilayer,1
+1019,set,current_sweep_iterations,8.0
+1020,log,ofsetting platen back -0.0 degrees,false
+1021,move_angle,1,0,20693.76,500000
+1022,log,ofsetting rotary stage back -4.0 degrees,false
+1023,move_angle,2,-400,1801.563,50000
+1024,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+1025,slave_sweep,1,start,0,0.0,500000
+1026,log,opening shutter 2,true
+1027,shutter,2,open
+1028,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+1029,set,current_sweep,1
+1030,move_angle,2,36000,600.521,50000
+1031,set,current_sweep,2
+1032,move_angle,2,36000,600.521,50000
+1033,set,current_sweep,3
+1034,move_angle,2,36000,600.521,50000
+1035,set,current_sweep,4
+1036,move_angle,2,36000,600.521,50000
+1037,set,current_sweep,5
+1038,move_angle,2,36000,600.521,50000
+1039,set,current_sweep,6
+1040,move_angle,2,36000,600.521,50000
+1041,set,current_sweep,7
+1042,move_angle,2,36000,600.521,50000
+1043,set,current_sweep,8
+1044,move_angle,2,36000,600.521,50000
+1045,log,closing shutter 2,true
+1046,shutter,2,close
+1047,log,stopping slave sweep for platen,false
+1048,slave_sweep,1,stop,0,0.0,500000
+1049,log,rezeroing rotary stage by moving 4.0 degrees,false
+1050,move_angle,2,400,1801.563,50000
+1051,log,rezero slave axis platen,false
+1052,slave_rezero,1,20693.76,500000
+1053,check_pause
+1054,log,moving platen 180.0 degrees,false
+1055,move_angle,1,206250,20693.76,500000
+1056,check_pause
+1057,log,starting bilayer 2,false
+1058,set,current_N,14
+1059,set,current_bilayer,2
+1060,set,current_sweep_iterations,5.0
+1061,log,ofsetting platen back -0.0 degrees,false
+1062,move_angle,1,0,20693.76,500000
+1063,log,ofsetting rotary stage back -4.0 degrees,false
+1064,move_angle,2,-400,1801.563,50000
+1065,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+1066,slave_sweep,1,start,0,0.0,500000
+1067,log,opening shutter 1,true
+1068,shutter,1,open
+1069,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+1070,set,current_sweep,1
+1071,move_angle,2,36000,600.521,50000
+1072,set,current_sweep,2
+1073,move_angle,2,36000,600.521,50000
+1074,set,current_sweep,3
+1075,move_angle,2,36000,600.521,50000
+1076,set,current_sweep,4
+1077,move_angle,2,36000,600.521,50000
+1078,set,current_sweep,5
+1079,move_angle,2,36000,600.521,50000
+1080,log,closing shutter 1,true
+1081,shutter,1,close
+1082,log,stopping slave sweep for platen,false
+1083,slave_sweep,1,stop,0,0.0,500000
+1084,log,rezeroing rotary stage by moving 4.0 degrees,false
+1085,move_angle,2,400,1801.563,50000
+1086,log,rezero slave axis platen,false
+1087,slave_rezero,1,20693.76,500000
+1088,check_pause
+1089,log,moving platen -180.0 degrees,false
+1090,move_angle,1,-206250,20693.76,500000
+1091,check_pause
+1092,log,,false
+1093,log,starting layer 15,false
+1094,log,starting bilayer 1,false
+1095,set,current_N,15
+1096,set,current_bilayer,1
+1097,set,current_sweep_iterations,8.0
+1098,log,ofsetting platen back -0.0 degrees,false
+1099,move_angle,1,0,20693.76,500000
+1100,log,ofsetting rotary stage back -4.0 degrees,false
+1101,move_angle,2,-400,1801.563,50000
+1102,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+1103,slave_sweep,1,start,0,0.0,500000
+1104,log,opening shutter 2,true
+1105,shutter,2,open
+1106,log,rotating rotary stage 8.0 times at 1.0 RPM,false
+1107,set,current_sweep,1
+1108,move_angle,2,36000,600.521,50000
+1109,set,current_sweep,2
+1110,move_angle,2,36000,600.521,50000
+1111,set,current_sweep,3
+1112,move_angle,2,36000,600.521,50000
+1113,set,current_sweep,4
+1114,move_angle,2,36000,600.521,50000
+1115,set,current_sweep,5
+1116,move_angle,2,36000,600.521,50000
+1117,set,current_sweep,6
+1118,move_angle,2,36000,600.521,50000
+1119,set,current_sweep,7
+1120,move_angle,2,36000,600.521,50000
+1121,set,current_sweep,8
+1122,move_angle,2,36000,600.521,50000
+1123,log,closing shutter 2,true
+1124,shutter,2,close
+1125,log,stopping slave sweep for platen,false
+1126,slave_sweep,1,stop,0,0.0,500000
+1127,log,rezeroing rotary stage by moving 4.0 degrees,false
+1128,move_angle,2,400,1801.563,50000
+1129,log,rezero slave axis platen,false
+1130,slave_rezero,1,20693.76,500000
+1131,check_pause
+1132,log,moving platen 180.0 degrees,false
+1133,move_angle,1,206250,20693.76,500000
+1134,check_pause
+1135,log,starting bilayer 2,false
+1136,set,current_N,15
+1137,set,current_bilayer,2
+1138,set,current_sweep_iterations,5.0
+1139,log,ofsetting platen back -0.0 degrees,false
+1140,move_angle,1,0,20693.76,500000
+1141,log,ofsetting rotary stage back -4.0 degrees,false
+1142,move_angle,2,-400,1801.563,50000
+1143,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+1144,slave_sweep,1,start,0,0.0,500000
+1145,log,opening shutter 1,true
+1146,shutter,1,open
+1147,log,rotating rotary stage 5.0 times at 1.0 RPM,false
+1148,set,current_sweep,1
+1149,move_angle,2,36000,600.521,50000
+1150,set,current_sweep,2
+1151,move_angle,2,36000,600.521,50000
+1152,set,current_sweep,3
+1153,move_angle,2,36000,600.521,50000
+1154,set,current_sweep,4
+1155,move_angle,2,36000,600.521,50000
+1156,set,current_sweep,5
+1157,move_angle,2,36000,600.521,50000
+1158,log,closing shutter 1,true
+1159,shutter,1,close
+1160,log,stopping slave sweep for platen,false
+1161,slave_sweep,1,stop,0,0.0,500000
+1162,log,rezeroing rotary stage by moving 4.0 degrees,false
+1163,move_angle,2,400,1801.563,50000
+1164,log,rezero slave axis platen,false
+1165,slave_rezero,1,20693.76,500000
+1166,check_pause
+1167,log,moving platen -180.0 degrees,false
+1168,move_angle,1,-206250,20693.76,500000
+1169,check_pause

@@ -1,0 +1,24 @@
+{
+    "N": 22, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "file": "../data/graded_d_5_sept/NiC_layer_R97_REV.dat", 
+        "name": "NiC", 
+        "rate": 0.383
+    }, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "file": "../data/graded_d_5_sept/Ti_layer_R97_REV.dat", 
+        "name": "Ti", 
+        "rate": 0.265
+    }, 
+    "cathodes": [
+        "cathode 1", 
+        "cathode 2"
+    ], 
+    "generate_files": false, 
+    "initial_cathode": 2, 
+    "name": "graded_d_5_sept", 
+    "sweep_angle": 8.0000, 
+    "single_cathode": false
+}

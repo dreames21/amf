@@ -1,0 +1,2269 @@
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.54
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1
+
+begin header for RandD1_SiW_4mar2013_Run1 [ Mon, 3/4/2013 06:45:12.6657 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.54
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1
+
+begin header for RandD1_SiW_4mar2013_Run1 [ Mon, 3/4/2013 06:45:34.5720 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.54
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1
+
+begin header for RandD1_SiW_4mar2013_Run1 [ Mon, 3/4/2013 06:45:35.0563 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.54
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1
+
+begin header for RandD1_SiW_4mar2013_Run1 [ Mon, 3/4/2013 07:42:41.3220 AM ]
+N = 30
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.19
+cathode 1 name = cathode 1
+cathode 2 deposition_rate = 0.54
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_4mar2013_Run1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:42:41.8376 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:42:41.8532 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:42:42.5407 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:42:43.2595 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:42:43.9626 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:42:44.6657 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:42:45.3688 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:42:46.0720 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:42:46.7751 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:42:47.4626 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:42:48.1657 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:42:48.8688 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:42:49.5720 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:42:50.2751 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:42:50.9782 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:42:51.6813 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:42:52.3688 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:42:53.0720 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:42:53.7751 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:42:54.4782 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:42:55.1813 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:42:55.8688 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:42:56.5720 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:42:57.2751 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:42:57.9782 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:43:10.6188 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:43:10.6345 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:43:11.3532 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:43:12.0720 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:43:12.7907 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:43:13.4938 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:43:14.2126 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:43:14.9157 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:43:15.6345 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:43:16.3532 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:43:17.0720 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:43:17.7907 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:43:18.4938 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:43:19.2126 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:43:19.9313 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:43:20.6501 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:43:21.3688 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:43:22.0876 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:43:22.7907 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:43:23.5095 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:43:24.2282 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:43:24.9313 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:43:25.6501 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:43:26.3688 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:43:27.0876 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:43:27.8063 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:43:28.5251 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:43:29.2438 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:43:29.9626 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:43:30.6657 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:43:31.3845 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:43:32.1032 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:43:32.8063 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:43:33.5251 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:43:34.2438 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:43:46.9313 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:43:46.9470 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:43:47.6501 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:43:48.3532 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:43:49.0563 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:43:49.7595 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:43:50.4626 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:43:51.1657 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:43:51.8688 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:43:52.5720 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:43:53.2751 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:43:53.9782 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:43:54.6813 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:43:55.3845 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:43:56.0876 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:43:56.7907 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:43:57.4938 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:43:58.1970 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:43:58.9001 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:43:59.6032 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:44:00.3063 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:44:01.0095 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:44:01.7126 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:44:02.4001 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:44:03.1188 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:44:15.8532 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:44:15.8688 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:44:16.5876 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:44:17.3063 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:44:18.0251 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:44:18.7282 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:44:19.4470 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:44:20.1657 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:44:20.8845 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:44:21.6032 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:44:22.3220 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:44:23.0407 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:44:23.7438 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:44:24.4626 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:44:25.1813 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:44:25.9001 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:44:26.6188 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:44:27.3376 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:44:28.0407 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:44:28.7595 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:44:29.4782 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:44:30.1970 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:44:30.9157 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:44:31.6345 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:44:32.3532 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:44:33.0720 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:44:33.7751 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:44:34.4938 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:44:35.2126 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:44:35.9157 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:44:36.6345 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:44:37.3532 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:44:38.0720 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:44:38.7751 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:44:39.4938 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:44:52.1501 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:44:52.1813 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:44:52.8845 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:44:53.5876 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:44:54.2907 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:44:54.9782 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:44:55.6813 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:44:56.3688 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:44:57.0720 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:44:57.7751 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:44:58.4782 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:44:59.1813 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:44:59.8845 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:45:00.5876 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:45:01.2907 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:45:01.9938 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:45:02.6970 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:45:03.4001 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:45:04.1032 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:45:04.8063 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:45:05.5095 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:45:06.2126 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:45:06.9001 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:45:07.6032 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:45:08.3063 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:45:20.9470 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:45:20.9782 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:45:21.6813 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:45:22.4001 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:45:23.1188 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:45:23.8376 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:45:24.5563 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:45:25.2751 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:45:25.9938 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:45:26.6970 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:45:27.4157 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:45:28.1345 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:45:28.8532 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:45:29.5720 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:45:30.2907 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:45:30.9938 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:45:31.7126 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:45:32.4313 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:45:33.1501 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:45:33.8688 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:45:34.5876 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:45:35.2907 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:45:36.0095 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:45:36.7126 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:45:37.4313 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:45:38.1501 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:45:38.8688 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:45:39.5876 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:45:40.2907 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:45:41.0095 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:45:41.7282 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:45:42.4470 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:45:43.1657 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:45:43.8845 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:45:44.5876 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:45:57.2595 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:45:57.2751 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:45:57.9782 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:45:58.6813 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:45:59.3845 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:46:00.0720 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:46:00.7751 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:46:01.4782 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:46:02.1813 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:46:02.8845 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:46:03.5876 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:46:04.2751 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:46:04.9938 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:46:05.6970 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:46:06.4001 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:46:07.0876 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:46:07.7907 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:46:08.4938 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:46:09.1970 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:46:09.9001 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:46:10.6032 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:46:11.3063 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:46:12.0095 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:46:12.7126 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:46:13.4001 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:46:26.0563 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:46:26.0720 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:46:26.7907 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:46:27.5095 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:46:28.2282 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:46:28.9470 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:46:29.6657 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:46:30.3845 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:46:31.1032 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:46:31.8220 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:46:32.5251 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:46:33.2438 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:46:33.9626 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:46:34.6813 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:46:35.4001 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:46:36.1188 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:46:36.8376 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:46:37.5407 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:46:38.2595 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:46:38.9938 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:46:39.7126 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:46:40.4157 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:46:41.1345 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:46:41.8532 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:46:42.5720 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:46:43.2907 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:46:44.0095 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:46:44.7282 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:46:45.4470 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:46:46.1657 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:46:46.8845 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:46:47.6032 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:46:48.3063 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:46:49.0251 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:46:49.7438 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:47:02.4313 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:47:02.4470 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:47:03.1501 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:47:03.8532 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:47:04.5563 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:47:05.2595 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:47:05.9626 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:47:06.6657 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:47:07.3688 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:47:08.0720 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:47:08.7595 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:47:09.4626 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:47:10.1657 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:47:10.8688 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:47:11.5720 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:47:12.2751 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:47:12.9782 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:47:13.6657 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:47:14.3688 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:47:15.0720 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:47:15.7907 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:47:16.4938 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:47:17.1970 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:47:17.9001 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:47:18.6032 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:47:31.2438 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:47:31.2595 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:47:31.9782 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:47:32.6970 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:47:33.4157 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:47:34.1345 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:47:34.8532 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:47:35.5563 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:47:36.2751 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:47:36.9938 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:47:37.7126 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:47:38.4313 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:47:39.1501 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:47:39.8688 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:47:40.5876 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:47:41.3063 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:47:42.0095 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:47:42.7282 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:47:43.4313 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:47:44.1657 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:47:44.8845 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:47:45.6032 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:47:46.3220 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:47:47.0251 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:47:47.7438 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:47:48.4626 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:47:49.1813 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:47:49.9001 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:47:50.6188 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:47:51.3376 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:47:52.0563 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:47:52.7751 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:47:53.4938 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:47:54.1970 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:47:54.9157 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:48:07.5876 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:48:07.6032 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:48:08.3063 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:48:09.0095 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:48:09.6970 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:48:10.4001 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:48:11.1032 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:48:11.8063 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:48:12.5095 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:48:13.2126 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:48:13.9157 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:48:14.6188 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:48:15.3220 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:48:16.0251 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:48:16.7126 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:48:17.4157 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:48:18.1188 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:48:18.8376 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:48:19.5407 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:48:20.2438 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:48:20.9313 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:48:21.6345 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:48:22.3376 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:48:23.0407 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:48:23.7438 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:48:36.4626 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:48:36.4938 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:48:37.1970 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:48:37.9157 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:48:38.6345 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:48:39.3532 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:48:40.0563 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:48:40.7751 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:48:41.4938 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:48:42.2126 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:48:42.9313 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:48:43.6501 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:48:44.3688 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:48:45.0720 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:48:45.7907 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:48:46.5095 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:48:47.2282 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:48:47.9313 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:48:48.6501 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:48:49.3688 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:48:50.0876 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:48:50.7907 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:48:51.5095 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:48:52.2282 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:48:52.9470 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:48:53.6657 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:48:54.3688 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:48:55.0876 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:48:55.8063 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:48:56.5095 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:48:57.2282 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:48:57.9470 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:48:58.6657 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:48:59.3845 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:49:00.1032 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:49:12.8376 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:49:12.8688 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:49:13.5720 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:49:14.2751 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:49:14.9782 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:49:15.6813 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:49:16.3845 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:49:17.0876 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:49:17.7907 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:49:18.4782 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:49:19.1813 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:49:19.8845 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:49:20.5876 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:49:21.2907 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:49:21.9938 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:49:22.6970 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:49:23.4001 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:49:24.1032 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:49:24.8063 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:49:25.5095 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:49:26.2126 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:49:26.9157 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:49:27.6032 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:49:28.3063 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:49:29.0095 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:49:41.6657 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:49:41.6813 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:49:42.4001 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:49:43.1188 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:49:43.8376 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:49:44.5563 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:49:45.2751 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:49:45.9938 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:49:46.7126 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:49:47.4313 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:49:48.1501 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:49:48.8688 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:49:49.5876 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:49:50.2907 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:49:51.0095 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:49:51.7282 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:49:52.4470 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:49:53.1657 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:49:53.8845 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:49:54.6032 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:49:55.3220 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:49:56.0407 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:49:56.7595 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:49:57.4782 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:49:58.1970 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:49:58.9157 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:49:59.6188 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:50:00.3376 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:50:01.0563 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:50:01.7751 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:50:02.4938 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:50:03.2126 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:50:03.9313 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:50:04.6501 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:50:05.3688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:50:18.0407 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:50:18.0563 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:50:18.7595 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:50:19.4626 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:50:20.1657 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:50:20.8532 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:50:21.5563 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:50:22.2595 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:50:22.9626 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:50:23.6657 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:50:24.3688 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:50:25.0563 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:50:25.7595 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:50:26.4626 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:50:27.1657 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:50:27.8688 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:50:28.5720 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:50:29.2751 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:50:29.9626 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:50:30.6657 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:50:31.3688 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:50:32.0720 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:50:32.7595 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:50:33.4626 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:50:34.1657 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:50:46.8220 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:50:46.8532 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:50:47.5720 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:50:48.2907 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:50:48.9938 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:50:49.7126 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:50:50.4313 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:50:51.1501 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:50:51.8688 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:50:52.5876 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:50:53.3063 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:50:54.0251 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:50:54.7438 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:50:55.4470 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:50:56.1657 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:50:56.8845 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:50:57.6032 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:50:58.3220 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:50:59.0407 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:50:59.7595 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:51:00.4782 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:51:01.1970 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:51:01.9157 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:51:02.6188 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:51:03.3376 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:51:04.0563 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:51:04.7907 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:51:05.4938 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:51:06.2126 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:51:06.9313 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:51:07.6501 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:51:08.3688 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:51:09.0876 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:51:09.7907 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:51:10.5251 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 9
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:51:23.1970 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:51:23.2126 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:51:23.9157 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:51:24.6188 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:51:25.3220 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:51:26.0251 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:51:26.7282 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:51:27.4313 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:51:28.1345 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:51:28.8376 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:51:29.5407 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:51:30.2438 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:51:30.9470 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:51:31.6501 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:51:32.3376 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:51:33.0407 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:51:33.7438 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:51:34.4470 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:51:35.1501 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:51:35.8532 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:51:36.5563 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:51:37.2595 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:51:37.9626 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:51:38.6657 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:51:39.3688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:51:52.0251 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:51:52.0407 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:51:52.7595 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:51:53.4782 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:51:54.1813 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:51:54.9001 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:51:55.6188 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:51:56.3376 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:51:57.0563 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:51:57.7751 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:51:58.4938 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:51:59.2126 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:51:59.9157 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:52:00.6345 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:52:01.3532 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:52:02.0563 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:52:02.7751 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:52:03.4938 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:52:04.1970 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:52:04.9157 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:52:05.6345 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:52:06.3532 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:52:07.0720 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:52:07.7907 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:52:08.4938 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:52:09.2126 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:52:09.9313 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:52:10.6501 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:52:11.3532 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:52:12.0720 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:52:12.7907 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:52:13.5095 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:52:14.2282 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:52:14.9470 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:52:15.6657 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 10
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:52:28.3376 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:52:28.3532 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:52:29.0720 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:52:29.7595 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:52:30.4626 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:52:31.1657 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:52:31.8688 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:52:32.5720 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:52:33.2751 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:52:33.9782 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:52:34.6813 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:52:35.3845 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:52:36.0876 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:52:36.7907 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:52:37.4938 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:52:38.1970 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:52:38.8845 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:52:39.5876 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:52:40.2907 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:52:40.9938 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:52:41.6970 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:52:42.4001 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:52:43.1032 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:52:43.8063 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:52:44.5095 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:52:57.1657 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:52:57.1970 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:52:57.9001 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:52:58.6188 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:52:59.3376 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:53:00.0563 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:53:00.7595 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:53:01.4782 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:53:02.1970 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:53:02.9157 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:53:03.6345 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:53:04.3532 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:53:05.0563 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:53:05.7751 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:53:06.4938 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:53:07.2126 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:53:07.9157 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:53:08.6345 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:53:09.3532 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:53:10.0563 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:53:10.7751 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:53:11.4938 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:53:12.2126 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:53:12.9313 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:53:13.6501 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:53:14.3688 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:53:15.0876 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:53:15.7907 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:53:16.5095 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:53:17.2282 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:53:17.9470 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:53:18.6501 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:53:19.3688 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:53:20.0876 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:53:20.8063 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 11
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:53:33.4938 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:53:33.5095 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:53:34.2126 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:53:34.9157 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:53:35.6188 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:53:36.3220 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:53:37.0251 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:53:37.7282 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:53:38.4313 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:53:39.1345 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:53:39.8376 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:53:40.5251 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:53:41.2282 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:53:41.9313 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:53:42.6345 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:53:43.3376 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:53:44.0563 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:53:44.7595 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:53:45.4470 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:53:46.1501 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:53:46.8532 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:53:47.5563 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:53:48.2595 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:53:48.9626 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:53:49.6657 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:54:02.3220 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:54:02.3376 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:54:03.0563 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:54:03.7751 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:54:04.4938 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:54:05.2126 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:54:05.9313 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:54:06.6501 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:54:07.3532 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:54:08.0720 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:54:08.7907 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:54:09.5095 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:54:10.2282 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:54:10.9470 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:54:11.6501 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:54:12.3688 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:54:13.0876 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:54:13.8063 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:54:14.5251 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:54:15.2438 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:54:15.9626 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:54:16.6813 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:54:17.4001 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:54:18.1188 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:54:18.8376 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:54:19.5563 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:54:20.2751 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:54:20.9782 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:54:21.6970 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:54:22.4157 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:54:23.1345 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:54:23.8532 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:54:24.5720 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:54:25.2907 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:54:26.0095 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 12
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:54:38.6970 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:54:38.7126 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:54:39.4157 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:54:40.1188 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:54:40.8220 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:54:41.5251 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:54:42.2282 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:54:42.9313 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:54:43.6188 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:54:44.3220 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:54:45.0251 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:54:45.7282 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:54:46.4313 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:54:47.1345 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:54:47.8376 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:54:48.5407 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:54:49.2438 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:54:49.9470 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:54:50.6501 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:54:51.3376 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:54:52.0407 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:54:52.7438 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:54:53.4470 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:54:54.1501 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:54:54.8688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:55:07.5095 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:55:07.5407 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:55:08.2595 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:55:08.9626 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:55:09.6813 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:55:10.4001 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:55:11.1188 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:55:11.8376 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:55:12.5563 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:55:13.2751 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:55:13.9782 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:55:14.6970 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:55:15.4157 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:55:16.1345 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:55:16.8532 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:55:17.5720 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:55:18.2751 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:55:18.9938 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:55:19.7126 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:55:20.4313 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:55:21.1501 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:55:21.8532 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:55:22.5720 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:55:23.2907 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:55:24.0095 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:55:24.7126 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:55:25.4313 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:55:26.1501 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:55:26.8688 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:55:27.5720 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:55:28.2907 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:55:29.0095 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:55:29.7282 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:55:30.4470 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:55:31.1657 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 13
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:55:43.8532 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:55:43.8688 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:55:44.5876 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:55:45.2751 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:55:45.9938 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:55:46.6813 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:55:47.3845 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:55:48.0876 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:55:48.7907 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:55:49.4938 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:55:50.1970 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:55:50.8845 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:55:51.5876 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:55:52.2907 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:55:52.9938 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:55:53.6813 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:55:54.3845 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:55:55.0876 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:55:55.7907 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:55:56.4938 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:55:57.1970 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:55:57.9001 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:55:58.6032 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:55:59.3063 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:56:00.0095 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:56:12.6657 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:56:12.6970 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:56:13.4157 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:56:14.1345 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:56:14.8532 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:56:15.5720 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:56:16.2907 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:56:16.9938 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:56:17.7282 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:56:18.4470 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:56:19.1501 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:56:19.8688 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:56:20.5876 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:56:21.3063 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:56:22.0251 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:56:22.7438 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:56:23.4626 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:56:24.1813 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:56:24.9001 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:56:25.6032 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:56:26.3220 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:56:27.0407 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:56:27.7595 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:56:28.4782 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:56:29.1970 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:56:29.9157 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:56:30.6345 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:56:31.3532 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:56:32.0720 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:56:32.7907 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:56:33.5095 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:56:34.2282 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:56:34.9470 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:56:35.6501 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:56:36.3688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 14
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:56:49.0563 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:56:49.0876 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:56:49.7751 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:56:50.4782 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:56:51.1813 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:56:51.8845 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:56:52.5876 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:56:53.2907 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:56:53.9782 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:56:54.6813 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:56:55.3845 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:56:56.0876 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:56:56.7907 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:56:57.4938 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:56:58.1970 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:56:58.8845 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:56:59.5876 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:57:00.2907 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:57:00.9938 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:57:01.6970 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:57:02.3845 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:57:03.1032 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:57:03.7907 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:57:04.4938 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:57:05.1970 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:57:17.8532 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:57:17.8845 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:57:18.6032 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:57:19.3220 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:57:20.0407 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:57:20.7438 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:57:21.4626 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:57:22.1813 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:57:22.9001 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:57:23.6188 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:57:24.3376 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:57:25.0563 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:57:25.7751 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:57:26.4938 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:57:27.2126 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:57:27.9313 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:57:28.6501 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:57:29.3688 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:57:30.0720 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:57:30.7907 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:57:31.5095 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:57:32.2282 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:57:32.9470 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:57:33.6657 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:57:34.3845 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:57:35.1032 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:57:35.8220 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:57:36.5407 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:57:37.2438 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:57:37.9626 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:57:38.6813 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:57:39.4001 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:57:40.1188 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:57:40.8376 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:57:41.5563 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 15
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:57:54.2438 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:57:54.2907 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:57:54.9782 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:57:55.6813 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:57:56.3845 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:57:57.0876 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:57:57.7907 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:57:58.4938 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:57:59.1970 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:57:59.9001 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:58:00.6032 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:58:01.3063 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:58:01.9938 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:58:02.7126 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:58:03.4157 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:58:04.1188 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:58:04.8220 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:58:05.5251 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:58:06.2126 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:58:06.9157 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:58:07.6188 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:58:08.3220 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:58:09.0407 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:58:09.7438 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:58:10.4470 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:58:23.1032 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:58:23.1345 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:58:23.8532 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:58:24.5563 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:58:25.2751 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:58:25.9938 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:58:26.7126 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:58:27.4313 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:58:28.1345 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:58:28.8532 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:58:29.5720 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:58:30.2751 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:58:30.9938 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:58:31.7126 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:58:32.4313 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:58:33.1501 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:58:33.8688 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:58:34.5720 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:58:35.2907 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:58:36.0095 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:58:36.7282 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:58:37.4470 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:58:38.1501 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:58:38.8845 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:58:39.5876 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:58:40.3063 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:58:41.0251 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:58:41.7438 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:58:42.4626 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:58:43.1813 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:58:43.9001 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:58:44.6188 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:58:45.3376 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:58:46.0563 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:58:46.7595 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 16
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 07:58:59.5563 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 07:58:59.6032 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 07:59:00.3063 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 07:59:01.0095 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 07:59:01.7126 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 07:59:02.4157 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 07:59:03.1032 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 07:59:03.8220 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 07:59:04.5251 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 07:59:05.2126 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 07:59:05.9157 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 07:59:06.6188 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 07:59:07.3220 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 07:59:08.0251 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 07:59:08.7282 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 07:59:09.4313 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 07:59:10.1345 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 07:59:10.8376 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 07:59:11.5251 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 07:59:12.2438 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 07:59:12.9470 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 07:59:13.6501 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 07:59:14.3532 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 07:59:15.0563 AM ]
+closing shutter 1 [ Mon, 3/4/2013 07:59:15.7595 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 07:59:28.4470 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 07:59:28.4626 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 07:59:29.1813 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 07:59:29.9001 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 07:59:30.6188 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 07:59:31.3376 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 07:59:32.0407 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 07:59:32.7595 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 07:59:33.4782 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 07:59:34.1970 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 07:59:34.9157 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 07:59:35.6345 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 07:59:36.3532 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 07:59:37.0563 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 07:59:37.7751 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 07:59:38.4938 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 07:59:39.2126 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 07:59:39.9313 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 07:59:40.6345 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 07:59:41.3532 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 07:59:42.0563 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 07:59:42.7751 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 07:59:43.4938 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 07:59:44.2126 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 07:59:44.9313 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 07:59:45.6345 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 07:59:46.3532 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 07:59:47.0720 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 07:59:47.7751 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 07:59:48.4938 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 07:59:49.2126 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 07:59:49.9313 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 07:59:50.6501 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 07:59:51.3532 AM ]
+closing shutter 2 [ Mon, 3/4/2013 07:59:52.0876 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 17
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:00:04.7751 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:00:04.7907 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:00:05.4938 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:00:06.1970 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:00:06.9001 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:00:07.6032 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:00:08.3063 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:00:09.0095 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:00:09.7126 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:00:10.4157 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:00:11.1188 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:00:11.8220 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:00:12.5251 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:00:13.2282 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:00:13.9313 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:00:14.6345 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:00:15.3376 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:00:16.0407 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:00:16.7282 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:00:17.4313 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:00:18.1345 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:00:18.8376 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:00:19.5407 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:00:20.2282 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:00:20.9313 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:00:33.6032 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:00:33.6188 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:00:34.3376 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:00:35.0407 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:00:35.7595 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:00:36.4782 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:00:37.1970 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:00:37.9157 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:00:38.6345 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:00:39.3532 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:00:40.0720 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:00:40.7907 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:00:41.5095 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:00:42.2126 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:00:42.9313 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:00:43.6501 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:00:44.3688 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:00:45.0876 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:00:45.8063 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:00:46.5251 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:00:47.2438 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:00:47.9470 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:00:48.6657 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:00:49.3845 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:00:50.1032 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:00:50.8220 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:00:51.5407 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:00:52.2438 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:00:52.9626 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:00:53.6813 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:00:54.4001 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:00:55.1188 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:00:55.8376 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:00:56.5563 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:00:57.2751 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 18
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:01:09.9626 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:01:09.9782 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:01:10.6813 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:01:11.3845 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:01:12.0876 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:01:12.7907 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:01:13.4938 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:01:14.1970 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:01:14.9001 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:01:15.6032 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:01:16.3063 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:01:17.0095 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:01:17.6970 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:01:18.4001 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:01:19.1032 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:01:19.8063 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:01:20.5095 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:01:21.2126 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:01:21.9157 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:01:22.6188 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:01:23.3220 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:01:24.0251 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:01:24.7282 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:01:25.4313 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:01:26.1345 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:01:38.8063 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:01:38.8220 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:01:39.5407 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:01:40.2595 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:01:40.9782 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:01:41.6970 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:01:42.4157 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:01:43.1188 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:01:43.8376 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:01:44.5563 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:01:45.2751 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:01:45.9782 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:01:46.6970 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:01:47.4157 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:01:48.1345 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:01:48.8532 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:01:49.5720 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:01:50.2907 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:01:50.9938 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:01:51.7126 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:01:52.4313 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:01:53.1501 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:01:53.8688 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:01:54.5876 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:01:55.2907 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:01:56.0095 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:01:56.7282 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:01:57.4470 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:01:58.1501 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:01:58.8688 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:01:59.5876 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:02:00.2907 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:02:01.0095 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:02:01.7282 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:02:02.4470 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 19
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:02:15.1345 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:02:15.2126 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:02:15.9157 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:02:16.6188 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:02:17.3220 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:02:18.0251 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:02:18.7282 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:02:19.4313 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:02:20.1345 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:02:20.8376 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:02:21.5407 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:02:22.2282 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:02:22.9470 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:02:23.6501 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:02:24.3376 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:02:25.0407 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:02:25.7438 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:02:26.4470 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:02:27.1657 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:02:27.8688 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:02:28.5720 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:02:29.2751 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:02:29.9626 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:02:30.6657 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:02:31.3845 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:02:44.0407 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:02:44.0720 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:02:44.7751 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:02:45.4938 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:02:46.2126 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:02:46.9313 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:02:47.6345 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:02:48.3532 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:02:49.0720 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:02:49.7907 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:02:50.5095 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:02:51.2282 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:02:51.9470 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:02:52.6657 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:02:53.3845 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:02:54.1032 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:02:54.8063 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:02:55.5251 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:02:56.2438 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:02:56.9626 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:02:57.6813 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:02:58.4001 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:02:59.1345 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:02:59.8532 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:03:00.5720 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:03:01.2907 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:03:02.0095 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:03:02.7282 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:03:03.4470 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:03:04.1501 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:03:04.8845 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:03:05.6032 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:03:06.3220 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:03:07.0251 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:03:07.7595 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 20
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:03:20.4470 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:03:20.4938 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:03:21.1813 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:03:21.8845 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:03:22.5876 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:03:23.2907 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:03:23.9938 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:03:24.6970 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:03:25.4001 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:03:26.1032 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:03:26.8063 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:03:27.5095 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:03:28.2126 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:03:28.9157 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:03:29.6188 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:03:30.3220 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:03:31.0251 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:03:31.7126 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:03:32.4313 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:03:33.1188 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:03:33.8376 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:03:34.5251 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:03:35.2282 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:03:35.9313 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:03:36.6345 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:03:49.3063 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:03:49.3376 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:03:50.0563 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:03:50.7751 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:03:51.4938 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:03:52.2126 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:03:52.9313 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:03:53.6501 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:03:54.3688 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:03:55.0876 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:03:55.8063 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:03:56.5095 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:03:57.2438 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:03:57.9470 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:03:58.6657 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:03:59.3845 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:04:00.1032 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:04:00.8220 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:04:01.5407 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:04:02.2595 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:04:02.9782 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:04:03.6970 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:04:04.4157 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:04:05.1345 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:04:05.8532 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:04:06.5563 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:04:07.2751 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:04:07.9938 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:04:08.7126 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:04:09.4313 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:04:10.1501 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:04:10.8688 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:04:11.5876 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:04:12.3063 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:04:13.0251 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 21
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:04:25.7126 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:04:25.7438 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:04:26.4313 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:04:27.1345 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:04:27.8376 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:04:28.5407 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:04:29.2438 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:04:29.9470 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:04:30.6345 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:04:31.3376 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:04:32.0563 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:04:32.7438 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:04:33.4470 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:04:34.1501 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:04:34.8532 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:04:35.5563 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:04:36.2595 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:04:36.9626 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:04:37.6657 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:04:38.3688 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:04:39.0720 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:04:39.7751 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:04:40.4626 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:04:41.1657 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:04:41.8688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:04:54.5407 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:04:54.5563 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:04:55.2751 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:04:55.9782 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:04:56.6970 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:04:57.4157 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:04:58.1188 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:04:58.8376 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:04:59.5563 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:05:00.2751 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:05:00.9938 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:05:01.7126 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:05:02.4313 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:05:03.1501 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:05:03.8688 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:05:04.5720 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:05:05.2907 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:05:06.0095 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:05:06.7282 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:05:07.4470 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:05:08.1657 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:05:08.8845 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:05:09.5876 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:05:10.3063 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:05:11.0251 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:05:11.7438 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:05:12.4626 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:05:13.1813 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:05:13.9001 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:05:14.6032 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:05:15.3220 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:05:16.0407 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:05:16.7595 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:05:17.4782 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:05:18.1970 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 22
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:05:30.8845 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:05:30.9157 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:05:31.6188 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:05:32.3220 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:05:33.0251 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:05:33.7282 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:05:34.4313 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:05:35.1345 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:05:35.8376 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:05:36.5407 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:05:37.2438 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:05:37.9470 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:05:38.6501 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:05:39.3376 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:05:40.0407 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:05:40.7438 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:05:41.4470 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:05:42.1657 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:05:42.8688 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:05:43.5720 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:05:44.2751 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:05:44.9782 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:05:45.6813 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:05:46.3845 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:05:47.0876 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:05:59.7438 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:05:59.7907 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:06:00.4938 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:06:01.2126 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:06:01.9313 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:06:02.6501 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:06:03.3688 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:06:04.0876 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:06:04.8063 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:06:05.5251 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:06:06.2438 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:06:06.9470 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:06:07.6657 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:06:08.3845 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:06:09.1032 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:06:09.8220 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:06:10.5407 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:06:11.2595 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:06:11.9782 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:06:12.6970 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:06:13.4157 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:06:14.1188 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:06:14.8376 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:06:15.5563 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:06:16.2751 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:06:16.9938 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:06:17.7126 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:06:18.4313 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:06:19.1345 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:06:19.8532 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:06:20.5720 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:06:21.2907 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:06:22.0095 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:06:22.7282 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:06:23.4470 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 23
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:06:36.1345 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:06:36.2438 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:06:36.9470 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:06:37.6345 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:06:38.3376 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:06:39.0407 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:06:39.7438 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:06:40.4470 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:06:41.1501 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:06:41.8532 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:06:42.5563 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:06:43.2595 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:06:43.9470 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:06:44.6501 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:06:45.3532 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:06:46.0563 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:06:46.7595 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:06:47.4626 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:06:48.1501 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:06:48.8532 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:06:49.5563 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:06:50.2595 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:06:50.9626 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:06:51.6657 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:06:52.3688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:07:05.0407 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:07:05.0563 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:07:05.7907 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:07:06.5095 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:07:07.2126 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:07:07.9313 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:07:08.6501 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:07:09.3688 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:07:10.0876 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:07:10.7907 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:07:11.5251 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:07:12.2282 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:07:12.9470 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:07:13.6657 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:07:14.3845 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:07:15.1032 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:07:15.8220 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:07:16.5407 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:07:17.2595 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:07:17.9782 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:07:18.6970 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:07:19.4157 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:07:20.1345 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:07:20.8532 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:07:21.5720 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:07:22.2907 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:07:23.0095 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:07:23.7126 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:07:24.4313 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:07:25.1501 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:07:25.8688 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:07:26.5876 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:07:27.3063 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:07:28.0251 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:07:28.7438 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 24
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:07:41.4313 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:07:41.4626 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:07:42.1657 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:07:42.8688 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:07:43.5720 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:07:44.2751 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:07:44.9782 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:07:45.6813 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:07:46.3688 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:07:47.0720 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:07:47.7751 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:07:48.4782 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:07:49.1813 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:07:49.8845 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:07:50.5876 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:07:51.2907 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:07:51.9938 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:07:52.6970 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:07:53.3845 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:07:54.0876 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:07:54.7907 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:07:55.4938 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:07:56.1970 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:07:56.9001 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:07:57.6032 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:08:10.2595 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:08:10.2907 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:08:11.0095 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:08:11.7126 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:08:12.4313 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:08:13.1501 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:08:13.8688 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:08:14.5876 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:08:15.3063 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:08:16.0095 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:08:16.7438 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:08:17.4470 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:08:18.1657 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:08:18.8845 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:08:19.6032 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:08:20.3063 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:08:21.0251 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:08:21.7438 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:08:22.4626 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:08:23.1813 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:08:23.9001 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:08:24.6188 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:08:25.3376 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:08:26.0563 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:08:26.7751 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:08:27.4782 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:08:28.1970 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:08:28.9157 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:08:29.6501 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:08:30.3688 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:08:31.0876 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:08:31.8063 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:08:32.5251 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:08:33.2438 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:08:33.9626 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 25
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:08:46.6501 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:08:46.7126 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:08:47.4001 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:08:48.1188 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:08:48.8220 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:08:49.5095 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:08:50.2126 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:08:50.9157 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:08:51.6188 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:08:52.3220 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:08:53.0251 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:08:53.7282 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:08:54.4313 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:08:55.1345 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:08:55.8376 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:08:56.5251 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:08:57.2282 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:08:57.9313 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:08:58.6501 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:08:59.3532 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:09:00.0563 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:09:00.7595 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:09:01.4626 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:09:02.1657 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:09:02.8688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:09:15.5251 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:09:15.5720 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:09:16.2751 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:09:17.0095 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:09:17.7126 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:09:18.4313 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:09:19.1501 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:09:19.8688 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:09:20.5876 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:09:21.3063 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:09:22.0251 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:09:22.7282 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:09:23.4470 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:09:24.1657 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:09:24.8845 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:09:25.6032 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:09:26.3220 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:09:27.0407 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:09:27.7595 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:09:28.4782 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:09:29.1970 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:09:29.9157 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:09:30.6345 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:09:31.3532 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:09:32.0563 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:09:32.7751 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:09:33.4938 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:09:34.2126 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:09:34.9313 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:09:35.6501 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:09:36.3688 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:09:37.0876 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:09:37.8063 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:09:38.5251 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:09:39.2282 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 26
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:09:51.9157 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:09:51.9470 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:09:52.6501 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:09:53.3376 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:09:54.0407 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:09:54.7595 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:09:55.4626 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:09:56.1657 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:09:56.8532 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:09:57.5563 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:09:58.2595 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:09:58.9626 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:09:59.6657 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:10:00.3688 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:10:01.0876 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:10:01.7751 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:10:02.4782 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:10:03.1813 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:10:03.8845 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:10:04.5720 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:10:05.2907 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:10:05.9938 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:10:06.6813 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:10:07.3845 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:10:08.1032 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:10:20.7751 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:10:20.7907 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:10:21.5095 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:10:22.2126 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:10:22.9313 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:10:23.6501 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:10:24.3688 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:10:25.0876 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:10:25.7907 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:10:26.5095 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:10:27.2282 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:10:27.9470 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:10:28.6657 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:10:29.3845 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:10:30.1032 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:10:30.8063 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:10:31.5251 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:10:32.2438 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:10:32.9626 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:10:33.6657 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:10:34.3845 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:10:35.1032 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:10:35.8220 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:10:36.5407 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:10:37.2438 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:10:37.9626 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:10:38.6813 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:10:39.4001 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:10:40.1188 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:10:40.8376 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:10:41.5563 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:10:42.2751 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:10:42.9938 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:10:43.6970 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:10:44.4313 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 27
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:10:57.1188 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:10:57.2126 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:10:57.9157 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:10:58.6188 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:10:59.3220 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:11:00.0251 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:11:00.7282 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:11:01.4313 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:11:02.1345 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:11:02.8220 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:11:03.5251 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:11:04.2282 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:11:04.9313 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:11:05.6345 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:11:06.3376 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:11:07.0251 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:11:07.7282 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:11:08.4313 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:11:09.1345 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:11:09.8376 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:11:10.5407 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:11:11.2438 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:11:11.9470 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:11:12.6501 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:11:13.3688 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:11:26.0407 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:11:26.0563 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:11:26.7751 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:11:27.4938 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:11:28.2126 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:11:28.9157 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:11:29.6345 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:11:30.3532 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:11:31.0563 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:11:31.7751 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:11:32.4938 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:11:33.2126 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:11:33.9313 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:11:34.6501 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:11:35.3688 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:11:36.0876 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:11:36.8063 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:11:37.5251 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:11:38.2438 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:11:38.9470 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:11:39.6657 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:11:40.3845 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:11:41.1032 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:11:41.8220 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:11:42.5407 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:11:43.2595 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:11:43.9782 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:11:44.6970 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:11:45.4157 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:11:46.1345 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:11:46.8532 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:11:47.5563 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:11:48.2751 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:11:48.9938 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:11:49.7126 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 28
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:12:02.4157 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:12:02.4470 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:12:03.1501 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:12:03.8532 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:12:04.5407 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:12:05.2595 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:12:05.9470 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:12:06.6501 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:12:07.3532 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:12:08.0563 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:12:08.7438 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:12:09.4470 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:12:10.1501 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:12:10.8532 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:12:11.5563 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:12:12.2595 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:12:12.9626 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:12:13.6657 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:12:14.3688 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:12:15.0563 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:12:15.7595 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:12:16.4626 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:12:17.1657 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:12:17.8688 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:12:18.5720 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:12:31.2438 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:12:31.2595 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:12:31.9782 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:12:32.6970 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:12:33.4157 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:12:34.1345 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:12:34.8376 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:12:35.5563 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:12:36.2751 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:12:36.9938 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:12:37.7126 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:12:38.4157 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:12:39.1345 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:12:39.8688 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:12:40.5876 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:12:41.3063 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:12:42.0251 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:12:42.7438 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:12:43.4626 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:12:44.1657 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:12:44.8845 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:12:45.6032 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:12:46.3220 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:12:47.0407 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:12:47.7595 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:12:48.4782 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:12:49.1970 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:12:49.9157 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:12:50.6188 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:12:51.3532 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:12:52.0563 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:12:52.7751 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:12:53.4938 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:12:54.2126 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:12:54.9313 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 29
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:13:07.6188 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:13:07.6501 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:13:08.3532 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:13:09.0563 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:13:09.7595 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:13:10.4626 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:13:11.1657 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:13:11.8688 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:13:12.5720 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:13:13.2595 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:13:13.9782 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:13:14.6813 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:13:15.3845 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:13:16.0876 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:13:16.7907 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:13:17.4938 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:13:18.1970 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:13:18.9001 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:13:19.5876 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:13:20.2907 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:13:20.9938 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:13:21.6970 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:13:22.4001 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:13:23.1032 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:13:23.8063 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:13:36.4938 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:13:36.5095 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:13:37.2282 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:13:37.9470 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:13:38.6657 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:13:39.3845 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:13:40.1032 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:13:40.8220 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:13:41.5407 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:13:42.2595 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:13:42.9782 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:13:43.6813 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:13:44.4001 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:13:45.1188 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:13:45.8376 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:13:46.5563 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:13:47.2595 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:13:47.9782 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:13:48.6970 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:13:49.4313 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:13:50.1345 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:13:50.8688 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:13:51.5720 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:13:52.2907 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:13:53.0095 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:13:53.7282 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:13:54.4470 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:13:55.1657 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:13:55.8845 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:13:56.6032 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:13:57.3220 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:13:58.0407 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:13:58.7595 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:13:59.4626 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:14:00.1813 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 30
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Mon, 3/4/2013 08:14:12.8688 AM ]
+sweeping platen back and forth 23.0 times at 2.02740740741 RPM
+starting sweep 0 of 23 [ Mon, 3/4/2013 08:14:12.9157 AM ]
+starting sweep 1 of 23 [ Mon, 3/4/2013 08:14:13.6188 AM ]
+starting sweep 2 of 23 [ Mon, 3/4/2013 08:14:14.3063 AM ]
+starting sweep 3 of 23 [ Mon, 3/4/2013 08:14:15.0095 AM ]
+starting sweep 4 of 23 [ Mon, 3/4/2013 08:14:15.7126 AM ]
+starting sweep 5 of 23 [ Mon, 3/4/2013 08:14:16.4157 AM ]
+starting sweep 6 of 23 [ Mon, 3/4/2013 08:14:17.1188 AM ]
+starting sweep 7 of 23 [ Mon, 3/4/2013 08:14:17.8220 AM ]
+starting sweep 8 of 23 [ Mon, 3/4/2013 08:14:18.5251 AM ]
+starting sweep 9 of 23 [ Mon, 3/4/2013 08:14:19.2282 AM ]
+starting sweep 10 of 23 [ Mon, 3/4/2013 08:14:19.9313 AM ]
+starting sweep 11 of 23 [ Mon, 3/4/2013 08:14:20.6345 AM ]
+starting sweep 12 of 23 [ Mon, 3/4/2013 08:14:21.3220 AM ]
+starting sweep 13 of 23 [ Mon, 3/4/2013 08:14:22.0251 AM ]
+starting sweep 14 of 23 [ Mon, 3/4/2013 08:14:22.7282 AM ]
+starting sweep 15 of 23 [ Mon, 3/4/2013 08:14:23.4313 AM ]
+starting sweep 16 of 23 [ Mon, 3/4/2013 08:14:24.1188 AM ]
+starting sweep 17 of 23 [ Mon, 3/4/2013 08:14:24.8220 AM ]
+starting sweep 18 of 23 [ Mon, 3/4/2013 08:14:25.5251 AM ]
+starting sweep 19 of 23 [ Mon, 3/4/2013 08:14:26.2282 AM ]
+starting sweep 20 of 23 [ Mon, 3/4/2013 08:14:26.9313 AM ]
+starting sweep 21 of 23 [ Mon, 3/4/2013 08:14:27.6345 AM ]
+starting sweep 22 of 23 [ Mon, 3/4/2013 08:14:28.3376 AM ]
+closing shutter 1 [ Mon, 3/4/2013 08:14:29.0251 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Mon, 3/4/2013 08:14:41.6970 AM ]
+sweeping platen back and forth 33.0 times at 1.98 RPM
+starting sweep 0 of 33 [ Mon, 3/4/2013 08:14:41.7282 AM ]
+starting sweep 1 of 33 [ Mon, 3/4/2013 08:14:42.4470 AM ]
+starting sweep 2 of 33 [ Mon, 3/4/2013 08:14:43.1657 AM ]
+starting sweep 3 of 33 [ Mon, 3/4/2013 08:14:43.8845 AM ]
+starting sweep 4 of 33 [ Mon, 3/4/2013 08:14:44.6032 AM ]
+starting sweep 5 of 33 [ Mon, 3/4/2013 08:14:45.3220 AM ]
+starting sweep 6 of 33 [ Mon, 3/4/2013 08:14:46.0251 AM ]
+starting sweep 7 of 33 [ Mon, 3/4/2013 08:14:46.7438 AM ]
+starting sweep 8 of 33 [ Mon, 3/4/2013 08:14:47.4626 AM ]
+starting sweep 9 of 33 [ Mon, 3/4/2013 08:14:48.1813 AM ]
+starting sweep 10 of 33 [ Mon, 3/4/2013 08:14:48.9001 AM ]
+starting sweep 11 of 33 [ Mon, 3/4/2013 08:14:49.6188 AM ]
+starting sweep 12 of 33 [ Mon, 3/4/2013 08:14:50.3220 AM ]
+starting sweep 13 of 33 [ Mon, 3/4/2013 08:14:51.0407 AM ]
+starting sweep 14 of 33 [ Mon, 3/4/2013 08:14:51.7595 AM ]
+starting sweep 15 of 33 [ Mon, 3/4/2013 08:14:52.4782 AM ]
+starting sweep 16 of 33 [ Mon, 3/4/2013 08:14:53.1970 AM ]
+starting sweep 17 of 33 [ Mon, 3/4/2013 08:14:53.9001 AM ]
+starting sweep 18 of 33 [ Mon, 3/4/2013 08:14:54.6188 AM ]
+starting sweep 19 of 33 [ Mon, 3/4/2013 08:14:55.3376 AM ]
+starting sweep 20 of 33 [ Mon, 3/4/2013 08:14:56.0563 AM ]
+starting sweep 21 of 33 [ Mon, 3/4/2013 08:14:56.7751 AM ]
+starting sweep 22 of 33 [ Mon, 3/4/2013 08:14:57.4938 AM ]
+starting sweep 23 of 33 [ Mon, 3/4/2013 08:14:58.2126 AM ]
+starting sweep 24 of 33 [ Mon, 3/4/2013 08:14:58.9313 AM ]
+starting sweep 25 of 33 [ Mon, 3/4/2013 08:14:59.6501 AM ]
+starting sweep 26 of 33 [ Mon, 3/4/2013 08:15:00.3688 AM ]
+starting sweep 27 of 33 [ Mon, 3/4/2013 08:15:01.0876 AM ]
+starting sweep 28 of 33 [ Mon, 3/4/2013 08:15:01.7907 AM ]
+starting sweep 29 of 33 [ Mon, 3/4/2013 08:15:02.5095 AM ]
+starting sweep 30 of 33 [ Mon, 3/4/2013 08:15:03.2282 AM ]
+starting sweep 31 of 33 [ Mon, 3/4/2013 08:15:03.9470 AM ]
+starting sweep 32 of 33 [ Mon, 3/4/2013 08:15:04.6657 AM ]
+closing shutter 2 [ Mon, 3/4/2013 08:15:05.3845 AM ]
+rezeroing platen by moving -4.0 degrees
+moving platen 180.0 degrees
+begin header for RandD1_SiW_4mar2013_Run1_SiCap [ Mon, 3/4/2013 08:17:21.9470 AM ]

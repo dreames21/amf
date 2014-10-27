@@ -1,0 +1,21 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "Pt", 
+        "rate": 15.0000, 
+        "thickness": 60.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD2_PReidPt11_test_3june2013", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 90.0000
+}

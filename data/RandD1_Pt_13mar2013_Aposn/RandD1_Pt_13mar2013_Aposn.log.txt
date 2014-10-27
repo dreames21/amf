@@ -1,0 +1,334 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Wed, 3/13/2013 09:13:09.5714 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Wed, 3/13/2013 09:13:18.9936 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Wed, 3/13/2013 09:13:19.3842 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Wed, 3/13/2013 09:37:36.3902 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 2 [ Wed, 3/13/2013 09:37:36.8746 AM ]
+sweeping platen back and forth 188.0 times at 2.00533333333 RPM
+starting sweep 0 of 188 [ Wed, 3/13/2013 09:37:36.8902 AM ]
+starting sweep 1 of 188 [ Wed, 3/13/2013 09:37:37.5934 AM ]
+starting sweep 2 of 188 [ Wed, 3/13/2013 09:37:38.2965 AM ]
+starting sweep 3 of 188 [ Wed, 3/13/2013 09:37:38.9997 AM ]
+starting sweep 4 of 188 [ Wed, 3/13/2013 09:37:39.7184 AM ]
+starting sweep 5 of 188 [ Wed, 3/13/2013 09:37:40.4216 AM ]
+starting sweep 6 of 188 [ Wed, 3/13/2013 09:37:41.1247 AM ]
+starting sweep 7 of 188 [ Wed, 3/13/2013 09:37:41.8435 AM ]
+starting sweep 8 of 188 [ Wed, 3/13/2013 09:37:42.5466 AM ]
+starting sweep 9 of 188 [ Wed, 3/13/2013 09:37:43.2654 AM ]
+starting sweep 10 of 188 [ Wed, 3/13/2013 09:37:43.9686 AM ]
+starting sweep 11 of 188 [ Wed, 3/13/2013 09:37:44.6717 AM ]
+starting sweep 12 of 188 [ Wed, 3/13/2013 09:37:45.3748 AM ]
+starting sweep 13 of 188 [ Wed, 3/13/2013 09:37:46.0780 AM ]
+starting sweep 14 of 188 [ Wed, 3/13/2013 09:37:46.7968 AM ]
+starting sweep 15 of 188 [ Wed, 3/13/2013 09:37:47.4999 AM ]
+starting sweep 16 of 188 [ Wed, 3/13/2013 09:37:48.2030 AM ]
+starting sweep 17 of 188 [ Wed, 3/13/2013 09:37:48.9218 AM ]
+starting sweep 18 of 188 [ Wed, 3/13/2013 09:37:49.6249 AM ]
+starting sweep 19 of 188 [ Wed, 3/13/2013 09:37:50.3281 AM ]
+starting sweep 20 of 188 [ Wed, 3/13/2013 09:37:51.0312 AM ]
+starting sweep 21 of 188 [ Wed, 3/13/2013 09:37:51.7500 AM ]
+starting sweep 22 of 188 [ Wed, 3/13/2013 09:37:52.4531 AM ]
+starting sweep 23 of 188 [ Wed, 3/13/2013 09:37:53.1719 AM ]
+starting sweep 24 of 188 [ Wed, 3/13/2013 09:37:53.8751 AM ]
+starting sweep 25 of 188 [ Wed, 3/13/2013 09:37:54.5938 AM ]
+starting sweep 26 of 188 [ Wed, 3/13/2013 09:37:55.2970 AM ]
+starting sweep 27 of 188 [ Wed, 3/13/2013 09:37:56.0157 AM ]
+starting sweep 28 of 188 [ Wed, 3/13/2013 09:37:56.7189 AM ]
+starting sweep 29 of 188 [ Wed, 3/13/2013 09:37:57.4220 AM ]
+starting sweep 30 of 188 [ Wed, 3/13/2013 09:37:58.1408 AM ]
+starting sweep 31 of 188 [ Wed, 3/13/2013 09:37:58.8439 AM ]
+starting sweep 32 of 188 [ Wed, 3/13/2013 09:37:59.5471 AM ]
+starting sweep 33 of 188 [ Wed, 3/13/2013 09:38:00.2502 AM ]
+starting sweep 34 of 188 [ Wed, 3/13/2013 09:38:00.9690 AM ]
+starting sweep 35 of 188 [ Wed, 3/13/2013 09:38:01.6721 AM ]
+starting sweep 36 of 188 [ Wed, 3/13/2013 09:38:02.3753 AM ]
+starting sweep 37 of 188 [ Wed, 3/13/2013 09:38:03.0940 AM ]
+starting sweep 38 of 188 [ Wed, 3/13/2013 09:38:03.7972 AM ]
+starting sweep 39 of 188 [ Wed, 3/13/2013 09:38:04.5003 AM ]
+starting sweep 40 of 188 [ Wed, 3/13/2013 09:38:05.2191 AM ]
+starting sweep 41 of 188 [ Wed, 3/13/2013 09:38:05.9222 AM ]
+starting sweep 42 of 188 [ Wed, 3/13/2013 09:38:06.6254 AM ]
+starting sweep 43 of 188 [ Wed, 3/13/2013 09:38:07.3442 AM ]
+starting sweep 44 of 188 [ Wed, 3/13/2013 09:38:08.0473 AM ]
+starting sweep 45 of 188 [ Wed, 3/13/2013 09:38:08.7504 AM ]
+starting sweep 46 of 188 [ Wed, 3/13/2013 09:38:09.4536 AM ]
+starting sweep 47 of 188 [ Wed, 3/13/2013 09:38:10.1723 AM ]
+starting sweep 48 of 188 [ Wed, 3/13/2013 09:38:10.8755 AM ]
+starting sweep 49 of 188 [ Wed, 3/13/2013 09:38:11.5943 AM ]
+starting sweep 50 of 188 [ Wed, 3/13/2013 09:38:12.2974 AM ]
+starting sweep 51 of 188 [ Wed, 3/13/2013 09:38:13.0162 AM ]
+starting sweep 52 of 188 [ Wed, 3/13/2013 09:38:13.7193 AM ]
+starting sweep 53 of 188 [ Wed, 3/13/2013 09:38:14.4225 AM ]
+starting sweep 54 of 188 [ Wed, 3/13/2013 09:38:15.1412 AM ]
+starting sweep 55 of 188 [ Wed, 3/13/2013 09:38:15.8444 AM ]
+starting sweep 56 of 188 [ Wed, 3/13/2013 09:38:16.5631 AM ]
+starting sweep 57 of 188 [ Wed, 3/13/2013 09:38:17.2663 AM ]
+starting sweep 58 of 188 [ Wed, 3/13/2013 09:38:17.9694 AM ]
+starting sweep 59 of 188 [ Wed, 3/13/2013 09:38:18.6882 AM ]
+starting sweep 60 of 188 [ Wed, 3/13/2013 09:38:19.3913 AM ]
+starting sweep 61 of 188 [ Wed, 3/13/2013 09:38:20.0945 AM ]
+starting sweep 62 of 188 [ Wed, 3/13/2013 09:38:20.7976 AM ]
+starting sweep 63 of 188 [ Wed, 3/13/2013 09:38:21.5164 AM ]
+starting sweep 64 of 188 [ Wed, 3/13/2013 09:38:22.2195 AM ]
+starting sweep 65 of 188 [ Wed, 3/13/2013 09:38:22.9227 AM ]
+starting sweep 66 of 188 [ Wed, 3/13/2013 09:38:23.6414 AM ]
+starting sweep 67 of 188 [ Wed, 3/13/2013 09:38:24.3446 AM ]
+starting sweep 68 of 188 [ Wed, 3/13/2013 09:38:25.0634 AM ]
+starting sweep 69 of 188 [ Wed, 3/13/2013 09:38:25.7665 AM ]
+starting sweep 70 of 188 [ Wed, 3/13/2013 09:38:26.4696 AM ]
+starting sweep 71 of 188 [ Wed, 3/13/2013 09:38:27.1884 AM ]
+starting sweep 72 of 188 [ Wed, 3/13/2013 09:38:27.8916 AM ]
+starting sweep 73 of 188 [ Wed, 3/13/2013 09:38:28.6103 AM ]
+starting sweep 74 of 188 [ Wed, 3/13/2013 09:38:29.3135 AM ]
+starting sweep 75 of 188 [ Wed, 3/13/2013 09:38:30.0322 AM ]
+starting sweep 76 of 188 [ Wed, 3/13/2013 09:38:30.7354 AM ]
+starting sweep 77 of 188 [ Wed, 3/13/2013 09:38:31.4385 AM ]
+starting sweep 78 of 188 [ Wed, 3/13/2013 09:38:32.1417 AM ]
+starting sweep 79 of 188 [ Wed, 3/13/2013 09:38:32.8604 AM ]
+starting sweep 80 of 188 [ Wed, 3/13/2013 09:38:33.5636 AM ]
+starting sweep 81 of 188 [ Wed, 3/13/2013 09:38:34.2667 AM ]
+starting sweep 82 of 188 [ Wed, 3/13/2013 09:38:34.9699 AM ]
+starting sweep 83 of 188 [ Wed, 3/13/2013 09:38:35.6730 AM ]
+starting sweep 84 of 188 [ Wed, 3/13/2013 09:38:36.3918 AM ]
+starting sweep 85 of 188 [ Wed, 3/13/2013 09:38:37.0949 AM ]
+starting sweep 86 of 188 [ Wed, 3/13/2013 09:38:37.8137 AM ]
+starting sweep 87 of 188 [ Wed, 3/13/2013 09:38:38.5168 AM ]
+starting sweep 88 of 188 [ Wed, 3/13/2013 09:38:39.2200 AM ]
+starting sweep 89 of 188 [ Wed, 3/13/2013 09:38:39.9231 AM ]
+starting sweep 90 of 188 [ Wed, 3/13/2013 09:38:40.6263 AM ]
+starting sweep 91 of 188 [ Wed, 3/13/2013 09:38:41.3294 AM ]
+starting sweep 92 of 188 [ Wed, 3/13/2013 09:38:42.0482 AM ]
+starting sweep 93 of 188 [ Wed, 3/13/2013 09:38:42.7513 AM ]
+starting sweep 94 of 188 [ Wed, 3/13/2013 09:38:43.4545 AM ]
+starting sweep 95 of 188 [ Wed, 3/13/2013 09:38:44.1732 AM ]
+starting sweep 96 of 188 [ Wed, 3/13/2013 09:38:44.8764 AM ]
+starting sweep 97 of 188 [ Wed, 3/13/2013 09:38:45.5951 AM ]
+starting sweep 98 of 188 [ Wed, 3/13/2013 09:38:46.2983 AM ]
+starting sweep 99 of 188 [ Wed, 3/13/2013 09:38:47.0014 AM ]
+starting sweep 100 of 188 [ Wed, 3/13/2013 09:38:47.7046 AM ]
+starting sweep 101 of 188 [ Wed, 3/13/2013 09:38:48.4077 AM ]
+starting sweep 102 of 188 [ Wed, 3/13/2013 09:38:49.1265 AM ]
+starting sweep 103 of 188 [ Wed, 3/13/2013 09:38:49.8296 AM ]
+starting sweep 104 of 188 [ Wed, 3/13/2013 09:38:50.5328 AM ]
+starting sweep 105 of 188 [ Wed, 3/13/2013 09:38:51.2359 AM ]
+starting sweep 106 of 188 [ Wed, 3/13/2013 09:38:51.9547 AM ]
+starting sweep 107 of 188 [ Wed, 3/13/2013 09:38:52.6578 AM ]
+starting sweep 108 of 188 [ Wed, 3/13/2013 09:38:53.3766 AM ]
+starting sweep 109 of 188 [ Wed, 3/13/2013 09:38:54.0797 AM ]
+starting sweep 110 of 188 [ Wed, 3/13/2013 09:38:54.7829 AM ]
+starting sweep 111 of 188 [ Wed, 3/13/2013 09:38:55.5016 AM ]
+starting sweep 112 of 188 [ Wed, 3/13/2013 09:38:56.2048 AM ]
+starting sweep 113 of 188 [ Wed, 3/13/2013 09:38:56.9235 AM ]
+starting sweep 114 of 188 [ Wed, 3/13/2013 09:38:57.6267 AM ]
+starting sweep 115 of 188 [ Wed, 3/13/2013 09:38:58.3455 AM ]
+starting sweep 116 of 188 [ Wed, 3/13/2013 09:38:59.0486 AM ]
+starting sweep 117 of 188 [ Wed, 3/13/2013 09:38:59.7517 AM ]
+starting sweep 118 of 188 [ Wed, 3/13/2013 09:39:00.4705 AM ]
+starting sweep 119 of 188 [ Wed, 3/13/2013 09:39:01.1737 AM ]
+starting sweep 120 of 188 [ Wed, 3/13/2013 09:39:01.8768 AM ]
+starting sweep 121 of 188 [ Wed, 3/13/2013 09:39:02.5956 AM ]
+starting sweep 122 of 188 [ Wed, 3/13/2013 09:39:03.3143 AM ]
+starting sweep 123 of 188 [ Wed, 3/13/2013 09:39:04.0175 AM ]
+starting sweep 124 of 188 [ Wed, 3/13/2013 09:39:04.7206 AM ]
+starting sweep 125 of 188 [ Wed, 3/13/2013 09:39:05.4238 AM ]
+starting sweep 126 of 188 [ Wed, 3/13/2013 09:39:06.1425 AM ]
+starting sweep 127 of 188 [ Wed, 3/13/2013 09:39:06.8457 AM ]
+starting sweep 128 of 188 [ Wed, 3/13/2013 09:39:07.5644 AM ]
+starting sweep 129 of 188 [ Wed, 3/13/2013 09:39:08.2676 AM ]
+starting sweep 130 of 188 [ Wed, 3/13/2013 09:39:08.9707 AM ]
+starting sweep 131 of 188 [ Wed, 3/13/2013 09:39:09.6895 AM ]
+starting sweep 132 of 188 [ Wed, 3/13/2013 09:39:10.3926 AM ]
+starting sweep 133 of 188 [ Wed, 3/13/2013 09:39:11.1114 AM ]
+starting sweep 134 of 188 [ Wed, 3/13/2013 09:39:11.8146 AM ]
+starting sweep 135 of 188 [ Wed, 3/13/2013 09:39:12.5177 AM ]
+starting sweep 136 of 188 [ Wed, 3/13/2013 09:39:13.2208 AM ]
+starting sweep 137 of 188 [ Wed, 3/13/2013 09:39:13.9396 AM ]
+starting sweep 138 of 188 [ Wed, 3/13/2013 09:39:14.6428 AM ]
+starting sweep 139 of 188 [ Wed, 3/13/2013 09:39:15.3615 AM ]
+starting sweep 140 of 188 [ Wed, 3/13/2013 09:39:16.0647 AM ]
+starting sweep 141 of 188 [ Wed, 3/13/2013 09:39:16.7834 AM ]
+starting sweep 142 of 188 [ Wed, 3/13/2013 09:39:17.4866 AM ]
+starting sweep 143 of 188 [ Wed, 3/13/2013 09:39:18.2053 AM ]
+starting sweep 144 of 188 [ Wed, 3/13/2013 09:39:18.9085 AM ]
+starting sweep 145 of 188 [ Wed, 3/13/2013 09:39:19.6116 AM ]
+starting sweep 146 of 188 [ Wed, 3/13/2013 09:39:20.3304 AM ]
+starting sweep 147 of 188 [ Wed, 3/13/2013 09:39:21.0335 AM ]
+starting sweep 148 of 188 [ Wed, 3/13/2013 09:39:21.7367 AM ]
+starting sweep 149 of 188 [ Wed, 3/13/2013 09:39:22.4555 AM ]
+starting sweep 150 of 188 [ Wed, 3/13/2013 09:39:23.1586 AM ]
+starting sweep 151 of 188 [ Wed, 3/13/2013 09:39:23.8617 AM ]
+starting sweep 152 of 188 [ Wed, 3/13/2013 09:39:24.5649 AM ]
+starting sweep 153 of 188 [ Wed, 3/13/2013 09:39:25.2836 AM ]
+starting sweep 154 of 188 [ Wed, 3/13/2013 09:39:25.9868 AM ]
+starting sweep 155 of 188 [ Wed, 3/13/2013 09:39:26.6899 AM ]
+starting sweep 156 of 188 [ Wed, 3/13/2013 09:39:27.4087 AM ]
+starting sweep 157 of 188 [ Wed, 3/13/2013 09:39:28.1275 AM ]
+starting sweep 158 of 188 [ Wed, 3/13/2013 09:39:28.8306 AM ]
+starting sweep 159 of 188 [ Wed, 3/13/2013 09:39:29.5338 AM ]
+starting sweep 160 of 188 [ Wed, 3/13/2013 09:39:30.2525 AM ]
+starting sweep 161 of 188 [ Wed, 3/13/2013 09:39:30.9557 AM ]
+starting sweep 162 of 188 [ Wed, 3/13/2013 09:39:31.6588 AM ]
+starting sweep 163 of 188 [ Wed, 3/13/2013 09:39:32.3776 AM ]
+starting sweep 164 of 188 [ Wed, 3/13/2013 09:39:33.0963 AM ]
+starting sweep 165 of 188 [ Wed, 3/13/2013 09:39:33.7995 AM ]
+starting sweep 166 of 188 [ Wed, 3/13/2013 09:39:34.5026 AM ]
+starting sweep 167 of 188 [ Wed, 3/13/2013 09:39:35.2214 AM ]
+starting sweep 168 of 188 [ Wed, 3/13/2013 09:39:35.9245 AM ]
+starting sweep 169 of 188 [ Wed, 3/13/2013 09:39:36.6433 AM ]
+starting sweep 170 of 188 [ Wed, 3/13/2013 09:39:37.3465 AM ]
+starting sweep 171 of 188 [ Wed, 3/13/2013 09:39:38.0652 AM ]
+starting sweep 172 of 188 [ Wed, 3/13/2013 09:39:38.7684 AM ]
+starting sweep 173 of 188 [ Wed, 3/13/2013 09:39:39.4871 AM ]
+starting sweep 174 of 188 [ Wed, 3/13/2013 09:39:40.1903 AM ]
+starting sweep 175 of 188 [ Wed, 3/13/2013 09:39:40.8934 AM ]
+starting sweep 176 of 188 [ Wed, 3/13/2013 09:39:41.6122 AM ]
+starting sweep 177 of 188 [ Wed, 3/13/2013 09:39:42.3153 AM ]
+starting sweep 178 of 188 [ Wed, 3/13/2013 09:39:43.0185 AM ]
+starting sweep 179 of 188 [ Wed, 3/13/2013 09:39:43.7216 AM ]
+starting sweep 180 of 188 [ Wed, 3/13/2013 09:39:44.4404 AM ]
+starting sweep 181 of 188 [ Wed, 3/13/2013 09:39:45.1435 AM ]
+starting sweep 182 of 188 [ Wed, 3/13/2013 09:39:45.8467 AM ]
+starting sweep 183 of 188 [ Wed, 3/13/2013 09:39:46.5654 AM ]
+starting sweep 184 of 188 [ Wed, 3/13/2013 09:39:47.2686 AM ]
+starting sweep 185 of 188 [ Wed, 3/13/2013 09:39:47.9717 AM ]
+starting sweep 186 of 188 [ Wed, 3/13/2013 09:39:48.6749 AM ]
+starting sweep 187 of 188 [ Wed, 3/13/2013 09:39:49.3780 AM ]
+closing shutter 2 [ Wed, 3/13/2013 09:39:50.0968 AM ]
+rezeroing platen by moving 4.0 degrees
+begin header for RandD1_Pt_13mar2013_Bposn [ Wed, 3/13/2013 09:41:22.3335 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+
+begin header for RandD1_Pt_13mar2013_Aposn [ Thu, 5/30/2013 11:24:52.6661 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.6
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Pt_13mar2013_Aposn
+

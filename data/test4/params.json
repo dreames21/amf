@@ -1,0 +1,62 @@
+{
+  // The name of the run needs to be the same as the name of the directory this file is in.
+  "name": "test4",
+  
+  // "R&D1" or "R&D2"
+  "chamber": "R&D1",
+  
+  // "Platen Mode" or "Mandrel Mode"
+  "run_mode": "Mandrel Mode",
+  
+  // Number of layers
+  "N": 4,
+  
+  // sweep angle. if running in platen mode, this controls the angle of the platen.
+  // in mandrel mode, this controls the sweep angle of the mandrel
+  "sweep_angle": 90.0,
+  
+  // slave axis settings are only used to control the platen during mandrel mode
+  // use these to set the platen sweep angle and RPM in mandrel mode.
+  "slave_RPM": 2.000, 
+  "slave_sweep_angle": 8.0000,
+  
+  // Cathode Definitions
+  //   Notes:
+  //     - Each cathode's rate is in angstroms per rev
+  //     - Thickness is in angstroms
+  //     - If you want to use a graded d, uncomment the 
+  //       "file" lines and specify the correct path
+  //       to the files you want to use. Also, comment out
+  //       the "thickness" line.
+  //     - for single cathode operation, delete the unwanted 
+  //       cathode, and remove it from the "cathodes" list.
+  //       Also be sure to change "single_cathode" to true.
+  
+  "cathode 1": {
+    "RPM": 2.0, 
+    "name": "Si", 
+    "thickness": 10.0,
+    //"file": "../data/<run_directory>/<your_file_here>",
+    "rate": 1.0
+  },
+  
+  "cathode 2": {
+    "RPM": 3.0, 
+    "name": "TiN", 
+    "thickness": 10.0,
+    //"file": "../data/<run_directory>/<your_file_here>",
+    "rate": 2.0
+  },
+  
+  "single_cathode": false,
+  "cathodes": [
+    "cathode 1", "cathode 2"
+  ],
+  
+  // index of the first cathode the run is starting on
+  "initial_cathode": "1",
+  
+  // change this to false if specifying own thicknesses
+  // from a file. Leave it as true for a constant d.
+  "generate_files": true  
+}

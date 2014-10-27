@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "name": "Ir", 
+        "rate": 3.4500, 
+        "thickness": 400.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD1_Ir2_24oct2014_Aposn", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 8.0000
+}

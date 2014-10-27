@@ -1,0 +1,656 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:18:37.7899 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:20:10.9618 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 02:20:12.1649 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:42:18.8056 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:42:19.2274 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:43:45.0087 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:43:45.4306 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:43:59.7743 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 02:44:01.0868 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:47:04.2118 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:47:04.6181 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:47:14.8368 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 02:47:16.1493 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:49:35.1649 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:49:35.7587 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:54:34.3056 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:54:34.7431 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:54:49.1649 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 02:54:50.1337 PM ]
+rotating mandrel 9.0 times at 2.4 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:55:49.6337 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:55:50.2118 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 02:56:07.4931 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 02:56:08.7899 PM ]
+rotating mandrel 9.0 times at 2.4 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:18:24.8056 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:18:25.2743 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:18:31.7118 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -6.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 12.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 03:18:32.6181 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:19:31.5399 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:19:31.9931 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:19:40.5556 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -8.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 16.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 03:19:41.3837 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:29:01.2587 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:29:01.6962 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:29:13.8681 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:29:14.3368 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+begin header for RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1 [ Tue, 9/17/2013 03:29:24.9931 PM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 1.2
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_Crelease_17sep2013_MSFCcone1c_Repl4_Test1
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 10.0 angle at 2.0 RPM
+opening shutter 1 [ Tue, 9/17/2013 03:29:26.6337 PM ]
+rotating mandrel 94.0 times at 2.50666666667 RPM
+begin header for RandD1_Crelease_17sep2013_16degreeSweep_Test1 [ Tue, 9/17/2013 05:29:32.0243 PM ]

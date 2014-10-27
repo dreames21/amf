@@ -1,0 +1,177 @@
+-1,set,axis 1 conversion_factor,6897.92
+-1,set,mandrel_axis,2
+-1,set,axis 1 accel_decel,500000
+-1,set,current_bilayer,0
+-1,set,axis 2 conversion_factor,600.521
+-1,set,run_name,RandD2_graded_d_7sept2012
+-1,set,axis 2 steps_in_rev,36000
+-1,set,platen_axis,1
+-1,set,cathode 1 name,cathode 1
+-1,set,axis 3 conversion_factor,251.98504
+-1,set,current_sweep_iterations,0
+-1,set,axis 3 accel_decel,50000
+-1,set,N,2
+-1,set,chamber_name,R&D2
+-1,set,axis 1 name,platen
+-1,set,linear_stage_axis,3
+-1,set,axis 2 name,rotary stage
+-1,set,axis 1 steps_in_rev,412500
+-1,set,current_N,0
+-1,set,axis 3 name,linear stage
+-1,set,cathode 2 deposition_rate,2.0
+-1,set,axis 2 accel_decel,50000
+-1,set,cathode 2 name,cathode 2
+-1,set,axis 3 steps_in_rev,44802.940112
+-1,set,cathode 1 deposition_rate,1.0
+0,log,
+
+1,log,starting layer 1
+2,log,starting bilayer 1
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,16.0
+6,log,ofsetting platen back -4.0 degrees
+7,move_angle,1,-4583,20693.76,500000
+8,log,ofsetting rotary stage back -4.0 degrees
+9,move_angle,2,-400,1801.563,50000
+10,log,sweeping slave axis platen at 8.0 angle at 2.0 RPM
+11,slave_sweep,1,start,9166,13795.84,500000
+12,log,opening shutter 1
+13,shutter,1,open
+14,log,rotating rotary stage 16.0 times at 1.99584199584 RPM
+15,set,current_sweep,1
+16,move_angle,2,36000,1198.54503119,50000
+17,set,current_sweep,2
+18,move_angle,2,36000,1198.54503119,50000
+19,set,current_sweep,3
+20,move_angle,2,36000,1198.54503119,50000
+21,set,current_sweep,4
+22,move_angle,2,36000,1198.54503119,50000
+23,set,current_sweep,5
+24,move_angle,2,36000,1198.54503119,50000
+25,set,current_sweep,6
+26,move_angle,2,36000,1198.54503119,50000
+27,set,current_sweep,7
+28,move_angle,2,36000,1198.54503119,50000
+29,set,current_sweep,8
+30,move_angle,2,36000,1198.54503119,50000
+31,set,current_sweep,9
+32,move_angle,2,36000,1198.54503119,50000
+33,set,current_sweep,10
+34,move_angle,2,36000,1198.54503119,50000
+35,set,current_sweep,11
+36,move_angle,2,36000,1198.54503119,50000
+37,set,current_sweep,12
+38,move_angle,2,36000,1198.54503119,50000
+39,set,current_sweep,13
+40,move_angle,2,36000,1198.54503119,50000
+41,set,current_sweep,14
+42,move_angle,2,36000,1198.54503119,50000
+43,set,current_sweep,15
+44,move_angle,2,36000,1198.54503119,50000
+45,set,current_sweep,16
+46,move_angle,2,36000,1198.54503119,50000
+47,log,closing shutter 1
+48,shutter,1,close
+49,log,stopping slave sweep for platen
+50,slave_sweep,1,stop,9166,13795.84,500000
+51,log,rezeroing rotary stage by moving 4.0 degrees
+52,move_angle,2,400,1801.563,50000
+53,log,rezero slave axis platen
+54,slave_rezero,1,20693.76,500000
+55,log,moving platen -180.0 degrees
+56,move_angle,1,-206250,20693.76,500000
+57,log,starting bilayer 2
+58,set,current_N,1
+59,set,current_bilayer,2
+60,set,current_sweep_iterations,2.0
+61,log,ofsetting platen back -4.0 degrees
+62,move_angle,1,-4583,20693.76,500000
+63,log,ofsetting rotary stage back -4.0 degrees
+64,move_angle,2,-400,1801.563,50000
+65,log,sweeping slave axis platen at 8.0 angle at 2.0 RPM
+66,slave_sweep,1,start,9166,13795.84,500000
+67,log,opening shutter 2
+68,shutter,2,open
+69,log,rotating rotary stage 2.0 times at 1.96721311475 RPM
+70,set,current_sweep,1
+71,move_angle,2,36000,1181.35278689,50000
+72,set,current_sweep,2
+73,move_angle,2,36000,1181.35278689,50000
+74,log,closing shutter 2
+75,shutter,2,close
+76,log,stopping slave sweep for platen
+77,slave_sweep,1,stop,9166,13795.84,500000
+78,log,rezeroing rotary stage by moving 4.0 degrees
+79,move_angle,2,400,1801.563,50000
+80,log,rezero slave axis platen
+81,slave_rezero,1,20693.76,500000
+82,log,moving platen 180.0 degrees
+83,move_angle,1,206250,20693.76,500000
+84,log,
+
+85,log,starting layer 2
+86,log,starting bilayer 1
+87,set,current_N,2
+88,set,current_bilayer,1
+89,set,current_sweep_iterations,8.0
+90,log,ofsetting platen back -4.0 degrees
+91,move_angle,1,-4583,20693.76,500000
+92,log,ofsetting rotary stage back -4.0 degrees
+93,move_angle,2,-400,1801.563,50000
+94,log,sweeping slave axis platen at 8.0 angle at 2.0 RPM
+95,slave_sweep,1,start,9166,13795.84,500000
+96,log,opening shutter 1
+97,shutter,1,open
+98,log,rotating rotary stage 8.0 times at 1.93548387097 RPM
+99,set,current_sweep,1
+100,move_angle,2,36000,1162.29870968,50000
+101,set,current_sweep,2
+102,move_angle,2,36000,1162.29870968,50000
+103,set,current_sweep,3
+104,move_angle,2,36000,1162.29870968,50000
+105,set,current_sweep,4
+106,move_angle,2,36000,1162.29870968,50000
+107,set,current_sweep,5
+108,move_angle,2,36000,1162.29870968,50000
+109,set,current_sweep,6
+110,move_angle,2,36000,1162.29870968,50000
+111,set,current_sweep,7
+112,move_angle,2,36000,1162.29870968,50000
+113,set,current_sweep,8
+114,move_angle,2,36000,1162.29870968,50000
+115,log,closing shutter 1
+116,shutter,1,close
+117,log,stopping slave sweep for platen
+118,slave_sweep,1,stop,9166,13795.84,500000
+119,log,rezeroing rotary stage by moving 4.0 degrees
+120,move_angle,2,400,1801.563,50000
+121,log,rezero slave axis platen
+122,slave_rezero,1,20693.76,500000
+123,log,moving platen -180.0 degrees
+124,move_angle,1,-206250,20693.76,500000
+125,log,starting bilayer 2
+126,set,current_N,2
+127,set,current_bilayer,2
+128,set,current_sweep_iterations,1.0
+129,log,ofsetting platen back -4.0 degrees
+130,move_angle,1,-4583,20693.76,500000
+131,log,ofsetting rotary stage back -4.0 degrees
+132,move_angle,2,-400,1801.563,50000
+133,log,sweeping slave axis platen at 8.0 angle at 2.0 RPM
+134,slave_sweep,1,start,9166,13795.84,500000
+135,log,opening shutter 2
+136,shutter,2,open
+137,log,rotating rotary stage 1.0 times at 1.03448275862 RPM
+138,set,current_sweep,1
+139,move_angle,2,36000,621.22862069,50000
+140,log,closing shutter 2
+141,shutter,2,close
+142,log,stopping slave sweep for platen
+143,slave_sweep,1,stop,9166,13795.84,500000
+144,log,rezeroing rotary stage by moving 4.0 degrees
+145,move_angle,2,400,1801.563,50000
+146,log,rezero slave axis platen
+147,slave_rezero,1,20693.76,500000
+148,log,moving platen 180.0 degrees
+149,move_angle,1,206250,20693.76,500000

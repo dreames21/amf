@@ -1,0 +1,129 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+ofsetting mandrel back -4.0 degrees
+sweeping slave axis platen at 8.0 angle at 2.0 RPM
+opening shutter 1
+sweeping mandrel back and forth 115.0 times at 0.996666666667 RPM
+Starting Sweep 0 of 115 at Fri, 9/21/2012 12:37:10.2656 PM.
+Starting Sweep 1 of 115 at Fri, 9/21/2012 12:37:11.6406 PM.
+Starting Sweep 2 of 115 at Fri, 9/21/2012 12:37:13.0156 PM.
+Starting Sweep 3 of 115 at Fri, 9/21/2012 12:37:14.3750 PM.
+Starting Sweep 4 of 115 at Fri, 9/21/2012 12:37:15.7500 PM.
+Starting Sweep 5 of 115 at Fri, 9/21/2012 12:37:17.1250 PM.
+Starting Sweep 6 of 115 at Fri, 9/21/2012 12:37:18.4843 PM.
+Starting Sweep 7 of 115 at Fri, 9/21/2012 12:37:19.8593 PM.
+Starting Sweep 8 of 115 at Fri, 9/21/2012 12:37:21.2343 PM.
+Starting Sweep 9 of 115 at Fri, 9/21/2012 12:37:22.5937 PM.
+Starting Sweep 10 of 115 at Fri, 9/21/2012 12:37:23.9687 PM.
+Starting Sweep 11 of 115 at Fri, 9/21/2012 12:37:25.3437 PM.
+Starting Sweep 12 of 115 at Fri, 9/21/2012 12:37:26.7187 PM.
+Starting Sweep 13 of 115 at Fri, 9/21/2012 12:37:28.0937 PM.
+Starting Sweep 14 of 115 at Fri, 9/21/2012 12:37:29.4531 PM.
+Starting Sweep 15 of 115 at Fri, 9/21/2012 12:37:30.8281 PM.
+Starting Sweep 16 of 115 at Fri, 9/21/2012 12:37:32.2031 PM.
+Starting Sweep 17 of 115 at Fri, 9/21/2012 12:37:33.5781 PM.
+Starting Sweep 18 of 115 at Fri, 9/21/2012 12:37:34.9375 PM.
+Starting Sweep 19 of 115 at Fri, 9/21/2012 12:37:36.3125 PM.
+Starting Sweep 20 of 115 at Fri, 9/21/2012 12:37:37.6875 PM.
+Starting Sweep 21 of 115 at Fri, 9/21/2012 12:37:39.0468 PM.
+Starting Sweep 22 of 115 at Fri, 9/21/2012 12:37:40.4218 PM.
+Starting Sweep 23 of 115 at Fri, 9/21/2012 12:37:41.7968 PM.
+Starting Sweep 24 of 115 at Fri, 9/21/2012 12:37:43.1718 PM.
+Starting Sweep 25 of 115 at Fri, 9/21/2012 12:37:44.5468 PM.
+Starting Sweep 26 of 115 at Fri, 9/21/2012 12:37:45.9062 PM.
+Starting Sweep 27 of 115 at Fri, 9/21/2012 12:37:47.2812 PM.
+Starting Sweep 28 of 115 at Fri, 9/21/2012 12:37:48.6562 PM.
+Starting Sweep 29 of 115 at Fri, 9/21/2012 12:37:50.0312 PM.
+Starting Sweep 30 of 115 at Fri, 9/21/2012 12:37:51.3906 PM.
+Starting Sweep 31 of 115 at Fri, 9/21/2012 12:37:52.7656 PM.
+Starting Sweep 32 of 115 at Fri, 9/21/2012 12:37:54.1562 PM.
+Starting Sweep 33 of 115 at Fri, 9/21/2012 12:37:55.5156 PM.
+Starting Sweep 34 of 115 at Fri, 9/21/2012 12:37:56.8906 PM.
+Starting Sweep 35 of 115 at Fri, 9/21/2012 12:37:58.2656 PM.
+Starting Sweep 36 of 115 at Fri, 9/21/2012 12:37:59.6250 PM.
+Starting Sweep 37 of 115 at Fri, 9/21/2012 12:38:01.0000 PM.
+Starting Sweep 38 of 115 at Fri, 9/21/2012 12:38:02.3750 PM.
+Starting Sweep 39 of 115 at Fri, 9/21/2012 12:38:03.7500 PM.
+Starting Sweep 40 of 115 at Fri, 9/21/2012 12:38:05.1093 PM.
+Starting Sweep 41 of 115 at Fri, 9/21/2012 12:38:06.4843 PM.
+Starting Sweep 42 of 115 at Fri, 9/21/2012 12:38:07.8437 PM.
+Starting Sweep 43 of 115 at Fri, 9/21/2012 12:38:09.2187 PM.
+Starting Sweep 44 of 115 at Fri, 9/21/2012 12:38:10.5937 PM.
+Starting Sweep 45 of 115 at Fri, 9/21/2012 12:38:11.9687 PM.
+Starting Sweep 46 of 115 at Fri, 9/21/2012 12:38:13.3281 PM.
+Starting Sweep 47 of 115 at Fri, 9/21/2012 12:38:14.7031 PM.
+Starting Sweep 48 of 115 at Fri, 9/21/2012 12:38:16.0781 PM.
+Starting Sweep 49 of 115 at Fri, 9/21/2012 12:38:17.4531 PM.
+Starting Sweep 50 of 115 at Fri, 9/21/2012 12:38:18.8125 PM.
+Starting Sweep 51 of 115 at Fri, 9/21/2012 12:38:20.1875 PM.
+Starting Sweep 52 of 115 at Fri, 9/21/2012 12:38:21.5625 PM.
+Starting Sweep 53 of 115 at Fri, 9/21/2012 12:38:22.9218 PM.
+Starting Sweep 54 of 115 at Fri, 9/21/2012 12:38:24.2968 PM.
+Starting Sweep 55 of 115 at Fri, 9/21/2012 12:38:25.6718 PM.
+Starting Sweep 56 of 115 at Fri, 9/21/2012 12:38:27.0468 PM.
+Starting Sweep 57 of 115 at Fri, 9/21/2012 12:38:28.4218 PM.
+Starting Sweep 58 of 115 at Fri, 9/21/2012 12:38:29.7968 PM.
+Starting Sweep 59 of 115 at Fri, 9/21/2012 12:38:31.1718 PM.
+Starting Sweep 60 of 115 at Fri, 9/21/2012 12:38:32.5468 PM.
+Starting Sweep 61 of 115 at Fri, 9/21/2012 12:38:33.9218 PM.
+Starting Sweep 62 of 115 at Fri, 9/21/2012 12:38:35.2968 PM.
+Starting Sweep 63 of 115 at Fri, 9/21/2012 12:38:36.6718 PM.
+Starting Sweep 64 of 115 at Fri, 9/21/2012 12:38:38.0312 PM.
+Starting Sweep 65 of 115 at Fri, 9/21/2012 12:38:39.4062 PM.
+Starting Sweep 66 of 115 at Fri, 9/21/2012 12:38:40.7812 PM.
+Starting Sweep 67 of 115 at Fri, 9/21/2012 12:38:42.1406 PM.
+Starting Sweep 68 of 115 at Fri, 9/21/2012 12:38:43.5156 PM.
+Starting Sweep 69 of 115 at Fri, 9/21/2012 12:38:44.8906 PM.
+Starting Sweep 70 of 115 at Fri, 9/21/2012 12:38:46.2656 PM.
+Starting Sweep 71 of 115 at Fri, 9/21/2012 12:38:47.6250 PM.
+Starting Sweep 72 of 115 at Fri, 9/21/2012 12:38:49.0000 PM.
+Starting Sweep 73 of 115 at Fri, 9/21/2012 12:38:50.3750 PM.
+Starting Sweep 74 of 115 at Fri, 9/21/2012 12:38:51.7500 PM.
+Starting Sweep 75 of 115 at Fri, 9/21/2012 12:38:53.1250 PM.
+Starting Sweep 76 of 115 at Fri, 9/21/2012 12:38:54.5000 PM.
+Starting Sweep 77 of 115 at Fri, 9/21/2012 12:38:55.8750 PM.
+Starting Sweep 78 of 115 at Fri, 9/21/2012 12:38:57.2343 PM.
+Starting Sweep 79 of 115 at Fri, 9/21/2012 12:38:58.6093 PM.
+Starting Sweep 80 of 115 at Fri, 9/21/2012 12:38:59.9843 PM.
+Starting Sweep 81 of 115 at Fri, 9/21/2012 12:39:01.3593 PM.
+Starting Sweep 82 of 115 at Fri, 9/21/2012 12:39:02.7343 PM.
+Starting Sweep 83 of 115 at Fri, 9/21/2012 12:39:04.1093 PM.
+Starting Sweep 84 of 115 at Fri, 9/21/2012 12:39:05.4687 PM.
+Starting Sweep 85 of 115 at Fri, 9/21/2012 12:39:06.8281 PM.
+Starting Sweep 86 of 115 at Fri, 9/21/2012 12:39:08.2187 PM.
+Starting Sweep 87 of 115 at Fri, 9/21/2012 12:39:09.6093 PM.
+Starting Sweep 88 of 115 at Fri, 9/21/2012 12:39:10.9687 PM.
+Starting Sweep 89 of 115 at Fri, 9/21/2012 12:39:12.3437 PM.
+Starting Sweep 90 of 115 at Fri, 9/21/2012 12:39:13.7187 PM.
+Starting Sweep 91 of 115 at Fri, 9/21/2012 12:39:15.0937 PM.
+Starting Sweep 92 of 115 at Fri, 9/21/2012 12:39:16.4687 PM.
+Starting Sweep 93 of 115 at Fri, 9/21/2012 12:39:17.8281 PM.
+Starting Sweep 94 of 115 at Fri, 9/21/2012 12:39:19.2031 PM.
+Starting Sweep 95 of 115 at Fri, 9/21/2012 12:39:20.5781 PM.
+Starting Sweep 96 of 115 at Fri, 9/21/2012 12:39:21.9375 PM.
+Starting Sweep 97 of 115 at Fri, 9/21/2012 12:39:23.3125 PM.
+Starting Sweep 98 of 115 at Fri, 9/21/2012 12:39:24.6875 PM.
+Starting Sweep 99 of 115 at Fri, 9/21/2012 12:39:26.0625 PM.
+Starting Sweep 100 of 115 at Fri, 9/21/2012 12:39:27.4218 PM.
+Starting Sweep 101 of 115 at Fri, 9/21/2012 12:39:28.7968 PM.
+Starting Sweep 102 of 115 at Fri, 9/21/2012 12:39:30.1718 PM.
+Starting Sweep 103 of 115 at Fri, 9/21/2012 12:39:31.5468 PM.
+Starting Sweep 104 of 115 at Fri, 9/21/2012 12:39:32.9062 PM.
+Starting Sweep 105 of 115 at Fri, 9/21/2012 12:39:34.2812 PM.
+Starting Sweep 106 of 115 at Fri, 9/21/2012 12:39:35.6562 PM.
+Starting Sweep 107 of 115 at Fri, 9/21/2012 12:39:37.0312 PM.
+Starting Sweep 108 of 115 at Fri, 9/21/2012 12:39:38.4062 PM.
+Starting Sweep 109 of 115 at Fri, 9/21/2012 12:39:39.7812 PM.
+Starting Sweep 110 of 115 at Fri, 9/21/2012 12:39:41.1406 PM.
+Starting Sweep 111 of 115 at Fri, 9/21/2012 12:39:42.5156 PM.
+Starting Sweep 112 of 115 at Fri, 9/21/2012 12:39:43.8906 PM.
+Starting Sweep 113 of 115 at Fri, 9/21/2012 12:39:45.2500 PM.
+Starting Sweep 114 of 115 at Fri, 9/21/2012 12:39:46.6250 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing mandrel by moving -4.0 degrees
+rezero slave axis platen

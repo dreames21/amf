@@ -1,0 +1,21 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 2.5000, 
+        "name": "Pt", 
+        "rate": 8.5700, 
+        "thickness": 120.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD1_PtCap_12june2014_NFM1c_Replica1_TiNiC", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 18.0000, 
+    "sweep_angle": 360.0000
+}

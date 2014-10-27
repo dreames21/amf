@@ -1,0 +1,26 @@
+{
+    "N": 5, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "file": "../data\\RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1\\NiC_layer_R97_N18to22.dat", 
+        "name": "NiC", 
+        "rate": 0.3830
+    }, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "file": "../data\\RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1\\Ti_layer_R97_N18to22.dat", 
+        "name": "Ti ", 
+        "rate": 0.2650
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": false, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_29aug2013_Aposn_N18to22_StressWafer1", 
+    "run_mode": "platen_mode", 
+    "single_cathode": false, 
+    "sweep_angle": 8.0000
+}

@@ -1,0 +1,9 @@
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.455 degrees
+opening shutter 1
+sweeping platen back and forth 3.0 times at 0.0918258333333 RPM
+closing shutter 1
+rezeroing platen by moving -5.455 degrees

@@ -1,0 +1,496 @@
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run2
+
+begin header for RandD2_TiN_21feb2013_Run2 [ Thu, 2/21/2013 10:05:53.8233 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run2
+
+begin header for RandD2_TiN_21feb2013_Run2 [ Thu, 2/21/2013 10:06:07.1514 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run2
+
+begin header for RandD2_TiN_21feb2013_Run2 [ Thu, 2/21/2013 10:06:07.6514 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run2
+
+begin header for RandD2_TiN_21feb2013_Run2 [ Thu, 2/21/2013 10:11:05.8233 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 0.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_TiN_21feb2013_Run2
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Thu, 2/21/2013 10:11:08.6514 AM ]
+sweeping rotary stage back and forth 360.0 times at 1.0 RPM
+starting sweep 0 of 360 [ Thu, 2/21/2013 10:11:08.6827 AM ]
+starting sweep 1 of 360 [ Thu, 2/21/2013 10:11:23.7296 AM ]
+starting sweep 2 of 360 [ Thu, 2/21/2013 10:11:38.7764 AM ]
+starting sweep 3 of 360 [ Thu, 2/21/2013 10:11:53.8389 AM ]
+starting sweep 4 of 360 [ Thu, 2/21/2013 10:12:08.8858 AM ]
+starting sweep 5 of 360 [ Thu, 2/21/2013 10:12:23.9483 AM ]
+starting sweep 6 of 360 [ Thu, 2/21/2013 10:12:38.9952 AM ]
+starting sweep 7 of 360 [ Thu, 2/21/2013 10:12:54.0421 AM ]
+starting sweep 8 of 360 [ Thu, 2/21/2013 10:13:09.1046 AM ]
+starting sweep 9 of 360 [ Thu, 2/21/2013 10:13:24.1514 AM ]
+starting sweep 10 of 360 [ Thu, 2/21/2013 10:13:39.1983 AM ]
+starting sweep 11 of 360 [ Thu, 2/21/2013 10:13:54.2608 AM ]
+starting sweep 12 of 360 [ Thu, 2/21/2013 10:14:09.3077 AM ]
+starting sweep 13 of 360 [ Thu, 2/21/2013 10:14:24.3702 AM ]
+starting sweep 14 of 360 [ Thu, 2/21/2013 10:14:39.4171 AM ]
+starting sweep 15 of 360 [ Thu, 2/21/2013 10:14:54.4796 AM ]
+starting sweep 16 of 360 [ Thu, 2/21/2013 10:15:09.5264 AM ]
+starting sweep 17 of 360 [ Thu, 2/21/2013 10:15:24.5733 AM ]
+starting sweep 18 of 360 [ Thu, 2/21/2013 10:15:39.6358 AM ]
+starting sweep 19 of 360 [ Thu, 2/21/2013 10:15:54.6983 AM ]
+starting sweep 20 of 360 [ Thu, 2/21/2013 10:16:09.7452 AM ]
+starting sweep 21 of 360 [ Thu, 2/21/2013 10:16:24.8077 AM ]
+starting sweep 22 of 360 [ Thu, 2/21/2013 10:16:39.8546 AM ]
+starting sweep 23 of 360 [ Thu, 2/21/2013 10:16:54.9171 AM ]
+starting sweep 24 of 360 [ Thu, 2/21/2013 10:17:09.9796 AM ]
+starting sweep 25 of 360 [ Thu, 2/21/2013 10:17:25.0421 AM ]
+starting sweep 26 of 360 [ Thu, 2/21/2013 10:17:40.0889 AM ]
+starting sweep 27 of 360 [ Thu, 2/21/2013 10:17:55.1514 AM ]
+starting sweep 28 of 360 [ Thu, 2/21/2013 10:18:10.1983 AM ]
+starting sweep 29 of 360 [ Thu, 2/21/2013 10:18:25.2608 AM ]
+starting sweep 30 of 360 [ Thu, 2/21/2013 10:18:40.3077 AM ]
+starting sweep 31 of 360 [ Thu, 2/21/2013 10:18:55.3702 AM ]
+starting sweep 32 of 360 [ Thu, 2/21/2013 10:19:10.4171 AM ]
+starting sweep 33 of 360 [ Thu, 2/21/2013 10:19:25.4796 AM ]
+starting sweep 34 of 360 [ Thu, 2/21/2013 10:19:40.5421 AM ]
+starting sweep 35 of 360 [ Thu, 2/21/2013 10:19:55.5889 AM ]
+starting sweep 36 of 360 [ Thu, 2/21/2013 10:20:10.6358 AM ]
+starting sweep 37 of 360 [ Thu, 2/21/2013 10:20:25.6827 AM ]
+starting sweep 38 of 360 [ Thu, 2/21/2013 10:20:40.7296 AM ]
+starting sweep 39 of 360 [ Thu, 2/21/2013 10:20:55.7921 AM ]
+starting sweep 40 of 360 [ Thu, 2/21/2013 10:21:10.8389 AM ]
+starting sweep 41 of 360 [ Thu, 2/21/2013 10:21:25.9014 AM ]
+starting sweep 42 of 360 [ Thu, 2/21/2013 10:21:40.9483 AM ]
+starting sweep 43 of 360 [ Thu, 2/21/2013 10:21:56.0108 AM ]
+starting sweep 44 of 360 [ Thu, 2/21/2013 10:22:11.0577 AM ]
+starting sweep 45 of 360 [ Thu, 2/21/2013 10:22:26.1202 AM ]
+starting sweep 46 of 360 [ Thu, 2/21/2013 10:22:41.1827 AM ]
+starting sweep 47 of 360 [ Thu, 2/21/2013 10:22:56.2296 AM ]
+starting sweep 48 of 360 [ Thu, 2/21/2013 10:23:11.2921 AM ]
+starting sweep 49 of 360 [ Thu, 2/21/2013 10:23:26.3546 AM ]
+starting sweep 50 of 360 [ Thu, 2/21/2013 10:23:41.4014 AM ]
+starting sweep 51 of 360 [ Thu, 2/21/2013 10:23:56.4483 AM ]
+starting sweep 52 of 360 [ Thu, 2/21/2013 10:24:11.5108 AM ]
+starting sweep 53 of 360 [ Thu, 2/21/2013 10:24:26.5577 AM ]
+starting sweep 54 of 360 [ Thu, 2/21/2013 10:24:41.6202 AM ]
+starting sweep 55 of 360 [ Thu, 2/21/2013 10:24:56.6671 AM ]
+starting sweep 56 of 360 [ Thu, 2/21/2013 10:25:11.7296 AM ]
+starting sweep 57 of 360 [ Thu, 2/21/2013 10:25:26.7764 AM ]
+starting sweep 58 of 360 [ Thu, 2/21/2013 10:25:41.8389 AM ]
+starting sweep 59 of 360 [ Thu, 2/21/2013 10:25:56.9014 AM ]
+starting sweep 60 of 360 [ Thu, 2/21/2013 10:26:11.9483 AM ]
+starting sweep 61 of 360 [ Thu, 2/21/2013 10:26:26.9952 AM ]
+starting sweep 62 of 360 [ Thu, 2/21/2013 10:26:42.0577 AM ]
+starting sweep 63 of 360 [ Thu, 2/21/2013 10:26:57.1202 AM ]
+starting sweep 64 of 360 [ Thu, 2/21/2013 10:27:12.1671 AM ]
+starting sweep 65 of 360 [ Thu, 2/21/2013 10:27:27.2296 AM ]
+starting sweep 66 of 360 [ Thu, 2/21/2013 10:27:42.2921 AM ]
+starting sweep 67 of 360 [ Thu, 2/21/2013 10:27:57.3389 AM ]
+starting sweep 68 of 360 [ Thu, 2/21/2013 10:28:12.4014 AM ]
+starting sweep 69 of 360 [ Thu, 2/21/2013 10:28:27.4639 AM ]
+starting sweep 70 of 360 [ Thu, 2/21/2013 10:28:42.5108 AM ]
+starting sweep 71 of 360 [ Thu, 2/21/2013 10:28:57.5733 AM ]
+starting sweep 72 of 360 [ Thu, 2/21/2013 10:29:12.6202 AM ]
+starting sweep 73 of 360 [ Thu, 2/21/2013 10:29:27.6671 AM ]
+starting sweep 74 of 360 [ Thu, 2/21/2013 10:29:42.7296 AM ]
+starting sweep 75 of 360 [ Thu, 2/21/2013 10:29:57.7921 AM ]
+starting sweep 76 of 360 [ Thu, 2/21/2013 10:30:12.8546 AM ]
+starting sweep 77 of 360 [ Thu, 2/21/2013 10:30:27.9014 AM ]
+starting sweep 78 of 360 [ Thu, 2/21/2013 10:30:42.9639 AM ]
+starting sweep 79 of 360 [ Thu, 2/21/2013 10:30:58.0108 AM ]
+starting sweep 80 of 360 [ Thu, 2/21/2013 10:31:13.0733 AM ]
+starting sweep 81 of 360 [ Thu, 2/21/2013 10:31:28.1202 AM ]
+starting sweep 82 of 360 [ Thu, 2/21/2013 10:31:43.1671 AM ]
+starting sweep 83 of 360 [ Thu, 2/21/2013 10:31:58.2139 AM ]
+starting sweep 84 of 360 [ Thu, 2/21/2013 10:32:13.2764 AM ]
+starting sweep 85 of 360 [ Thu, 2/21/2013 10:32:28.3389 AM ]
+starting sweep 86 of 360 [ Thu, 2/21/2013 10:32:43.3858 AM ]
+starting sweep 87 of 360 [ Thu, 2/21/2013 10:32:58.4327 AM ]
+starting sweep 88 of 360 [ Thu, 2/21/2013 10:33:13.4952 AM ]
+starting sweep 89 of 360 [ Thu, 2/21/2013 10:33:28.5421 AM ]
+starting sweep 90 of 360 [ Thu, 2/21/2013 10:33:43.6046 AM ]
+starting sweep 91 of 360 [ Thu, 2/21/2013 10:33:58.6514 AM ]
+starting sweep 92 of 360 [ Thu, 2/21/2013 10:34:13.6983 AM ]
+starting sweep 93 of 360 [ Thu, 2/21/2013 10:34:28.7608 AM ]
+starting sweep 94 of 360 [ Thu, 2/21/2013 10:34:43.8077 AM ]
+starting sweep 95 of 360 [ Thu, 2/21/2013 10:34:58.8702 AM ]
+starting sweep 96 of 360 [ Thu, 2/21/2013 10:35:13.9171 AM ]
+starting sweep 97 of 360 [ Thu, 2/21/2013 10:35:28.9796 AM ]
+starting sweep 98 of 360 [ Thu, 2/21/2013 10:35:44.0264 AM ]
+starting sweep 99 of 360 [ Thu, 2/21/2013 10:35:59.0889 AM ]
+starting sweep 100 of 360 [ Thu, 2/21/2013 10:36:14.1514 AM ]
+starting sweep 101 of 360 [ Thu, 2/21/2013 10:36:29.1983 AM ]
+starting sweep 102 of 360 [ Thu, 2/21/2013 10:36:44.2608 AM ]
+starting sweep 103 of 360 [ Thu, 2/21/2013 10:36:59.3077 AM ]
+starting sweep 104 of 360 [ Thu, 2/21/2013 10:37:14.3546 AM ]
+starting sweep 105 of 360 [ Thu, 2/21/2013 10:37:29.4171 AM ]
+starting sweep 106 of 360 [ Thu, 2/21/2013 10:37:44.4796 AM ]
+starting sweep 107 of 360 [ Thu, 2/21/2013 10:37:59.5421 AM ]
+starting sweep 108 of 360 [ Thu, 2/21/2013 10:38:14.5889 AM ]
+starting sweep 109 of 360 [ Thu, 2/21/2013 10:38:29.6514 AM ]
+starting sweep 110 of 360 [ Thu, 2/21/2013 10:38:44.6983 AM ]
+starting sweep 111 of 360 [ Thu, 2/21/2013 10:38:59.7608 AM ]
+starting sweep 112 of 360 [ Thu, 2/21/2013 10:39:14.8077 AM ]
+starting sweep 113 of 360 [ Thu, 2/21/2013 10:39:29.8702 AM ]
+starting sweep 114 of 360 [ Thu, 2/21/2013 10:39:44.9171 AM ]
+starting sweep 115 of 360 [ Thu, 2/21/2013 10:39:59.9796 AM ]
+starting sweep 116 of 360 [ Thu, 2/21/2013 10:40:15.0421 AM ]
+starting sweep 117 of 360 [ Thu, 2/21/2013 10:40:30.0889 AM ]
+starting sweep 118 of 360 [ Thu, 2/21/2013 10:40:45.1358 AM ]
+starting sweep 119 of 360 [ Thu, 2/21/2013 10:41:00.1827 AM ]
+starting sweep 120 of 360 [ Thu, 2/21/2013 10:41:15.2452 AM ]
+starting sweep 121 of 360 [ Thu, 2/21/2013 10:41:30.3077 AM ]
+starting sweep 122 of 360 [ Thu, 2/21/2013 10:41:45.3546 AM ]
+starting sweep 123 of 360 [ Thu, 2/21/2013 10:42:00.4171 AM ]
+starting sweep 124 of 360 [ Thu, 2/21/2013 10:42:15.4796 AM ]
+starting sweep 125 of 360 [ Thu, 2/21/2013 10:42:30.5264 AM ]
+starting sweep 126 of 360 [ Thu, 2/21/2013 10:42:45.5889 AM ]
+starting sweep 127 of 360 [ Thu, 2/21/2013 10:43:00.6358 AM ]
+starting sweep 128 of 360 [ Thu, 2/21/2013 10:43:15.6827 AM ]
+starting sweep 129 of 360 [ Thu, 2/21/2013 10:43:30.7452 AM ]
+starting sweep 130 of 360 [ Thu, 2/21/2013 10:43:45.7921 AM ]
+starting sweep 131 of 360 [ Thu, 2/21/2013 10:44:00.8389 AM ]
+starting sweep 132 of 360 [ Thu, 2/21/2013 10:44:15.8858 AM ]
+starting sweep 133 of 360 [ Thu, 2/21/2013 10:44:30.9483 AM ]
+starting sweep 134 of 360 [ Thu, 2/21/2013 10:44:45.9952 AM ]
+starting sweep 135 of 360 [ Thu, 2/21/2013 10:45:01.0421 AM ]
+starting sweep 136 of 360 [ Thu, 2/21/2013 10:45:16.0889 AM ]
+starting sweep 137 of 360 [ Thu, 2/21/2013 10:45:31.1514 AM ]
+starting sweep 138 of 360 [ Thu, 2/21/2013 10:45:46.2139 AM ]
+starting sweep 139 of 360 [ Thu, 2/21/2013 10:46:01.2608 AM ]
+starting sweep 140 of 360 [ Thu, 2/21/2013 10:46:16.3077 AM ]
+starting sweep 141 of 360 [ Thu, 2/21/2013 10:46:31.3702 AM ]
+starting sweep 142 of 360 [ Thu, 2/21/2013 10:46:46.4171 AM ]
+starting sweep 143 of 360 [ Thu, 2/21/2013 10:47:01.4796 AM ]
+starting sweep 144 of 360 [ Thu, 2/21/2013 10:47:16.5421 AM ]
+starting sweep 145 of 360 [ Thu, 2/21/2013 10:47:31.6046 AM ]
+starting sweep 146 of 360 [ Thu, 2/21/2013 10:47:46.6514 AM ]
+starting sweep 147 of 360 [ Thu, 2/21/2013 10:48:01.6983 AM ]
+starting sweep 148 of 360 [ Thu, 2/21/2013 10:48:16.7608 AM ]
+starting sweep 149 of 360 [ Thu, 2/21/2013 10:48:31.8077 AM ]
+starting sweep 150 of 360 [ Thu, 2/21/2013 10:48:46.8702 AM ]
+starting sweep 151 of 360 [ Thu, 2/21/2013 10:49:01.9327 AM ]
+starting sweep 152 of 360 [ Thu, 2/21/2013 10:49:16.9796 AM ]
+starting sweep 153 of 360 [ Thu, 2/21/2013 10:49:32.0421 AM ]
+starting sweep 154 of 360 [ Thu, 2/21/2013 10:49:47.1046 AM ]
+starting sweep 155 of 360 [ Thu, 2/21/2013 10:50:02.1514 AM ]
+starting sweep 156 of 360 [ Thu, 2/21/2013 10:50:17.1983 AM ]
+starting sweep 157 of 360 [ Thu, 2/21/2013 10:50:32.2452 AM ]
+starting sweep 158 of 360 [ Thu, 2/21/2013 10:50:47.3077 AM ]
+starting sweep 159 of 360 [ Thu, 2/21/2013 10:51:02.3546 AM ]
+starting sweep 160 of 360 [ Thu, 2/21/2013 10:51:17.4014 AM ]
+starting sweep 161 of 360 [ Thu, 2/21/2013 10:51:32.4639 AM ]
+starting sweep 162 of 360 [ Thu, 2/21/2013 10:51:47.5108 AM ]
+starting sweep 163 of 360 [ Thu, 2/21/2013 10:52:02.5733 AM ]
+starting sweep 164 of 360 [ Thu, 2/21/2013 10:52:17.6202 AM ]
+starting sweep 165 of 360 [ Thu, 2/21/2013 10:52:32.6671 AM ]
+starting sweep 166 of 360 [ Thu, 2/21/2013 10:52:47.7139 AM ]
+starting sweep 167 of 360 [ Thu, 2/21/2013 10:53:02.7764 AM ]
+starting sweep 168 of 360 [ Thu, 2/21/2013 10:53:17.8233 AM ]
+starting sweep 169 of 360 [ Thu, 2/21/2013 10:53:32.8702 AM ]
+starting sweep 170 of 360 [ Thu, 2/21/2013 10:53:47.9327 AM ]
+starting sweep 171 of 360 [ Thu, 2/21/2013 10:54:02.9796 AM ]
+starting sweep 172 of 360 [ Thu, 2/21/2013 10:54:18.0421 AM ]
+starting sweep 173 of 360 [ Thu, 2/21/2013 10:54:33.0889 AM ]
+starting sweep 174 of 360 [ Thu, 2/21/2013 10:54:48.1514 AM ]
+starting sweep 175 of 360 [ Thu, 2/21/2013 10:55:03.1983 AM ]
+starting sweep 176 of 360 [ Thu, 2/21/2013 10:55:18.2608 AM ]
+starting sweep 177 of 360 [ Thu, 2/21/2013 10:55:33.3233 AM ]
+starting sweep 178 of 360 [ Thu, 2/21/2013 10:55:48.3702 AM ]
+starting sweep 179 of 360 [ Thu, 2/21/2013 10:56:03.4171 AM ]
+starting sweep 180 of 360 [ Thu, 2/21/2013 10:56:18.4796 AM ]
+starting sweep 181 of 360 [ Thu, 2/21/2013 10:56:33.5264 AM ]
+starting sweep 182 of 360 [ Thu, 2/21/2013 10:56:48.5733 AM ]
+starting sweep 183 of 360 [ Thu, 2/21/2013 10:57:03.6358 AM ]
+starting sweep 184 of 360 [ Thu, 2/21/2013 10:57:18.6827 AM ]
+starting sweep 185 of 360 [ Thu, 2/21/2013 10:57:33.7452 AM ]
+starting sweep 186 of 360 [ Thu, 2/21/2013 10:57:48.7921 AM ]
+starting sweep 187 of 360 [ Thu, 2/21/2013 10:58:03.8546 AM ]
+starting sweep 188 of 360 [ Thu, 2/21/2013 10:58:18.9171 AM ]
+starting sweep 189 of 360 [ Thu, 2/21/2013 10:58:33.9639 AM ]
+starting sweep 190 of 360 [ Thu, 2/21/2013 10:58:49.0264 AM ]
+starting sweep 191 of 360 [ Thu, 2/21/2013 10:59:04.0889 AM ]
+starting sweep 192 of 360 [ Thu, 2/21/2013 10:59:19.1358 AM ]
+starting sweep 193 of 360 [ Thu, 2/21/2013 10:59:34.1827 AM ]
+starting sweep 194 of 360 [ Thu, 2/21/2013 10:59:49.2452 AM ]
+starting sweep 195 of 360 [ Thu, 2/21/2013 11:00:04.3077 AM ]
+starting sweep 196 of 360 [ Thu, 2/21/2013 11:00:19.3546 AM ]
+starting sweep 197 of 360 [ Thu, 2/21/2013 11:00:34.4014 AM ]
+starting sweep 198 of 360 [ Thu, 2/21/2013 11:00:49.4639 AM ]
+starting sweep 199 of 360 [ Thu, 2/21/2013 11:01:04.5108 AM ]
+starting sweep 200 of 360 [ Thu, 2/21/2013 11:01:19.5577 AM ]
+starting sweep 201 of 360 [ Thu, 2/21/2013 11:01:34.6202 AM ]
+starting sweep 202 of 360 [ Thu, 2/21/2013 11:01:49.6671 AM ]
+starting sweep 203 of 360 [ Thu, 2/21/2013 11:02:04.7296 AM ]
+starting sweep 204 of 360 [ Thu, 2/21/2013 11:02:19.7764 AM ]
+starting sweep 205 of 360 [ Thu, 2/21/2013 11:02:34.8389 AM ]
+starting sweep 206 of 360 [ Thu, 2/21/2013 11:02:49.9014 AM ]
+starting sweep 207 of 360 [ Thu, 2/21/2013 11:03:04.9483 AM ]
+starting sweep 208 of 360 [ Thu, 2/21/2013 11:03:20.0108 AM ]
+starting sweep 209 of 360 [ Thu, 2/21/2013 11:03:35.0577 AM ]
+starting sweep 210 of 360 [ Thu, 2/21/2013 11:03:50.1202 AM ]
+starting sweep 211 of 360 [ Thu, 2/21/2013 11:04:05.1671 AM ]
+starting sweep 212 of 360 [ Thu, 2/21/2013 11:04:20.2296 AM ]
+starting sweep 213 of 360 [ Thu, 2/21/2013 11:04:35.2764 AM ]
+starting sweep 214 of 360 [ Thu, 2/21/2013 11:04:50.3389 AM ]
+starting sweep 215 of 360 [ Thu, 2/21/2013 11:05:05.3858 AM ]
+starting sweep 216 of 360 [ Thu, 2/21/2013 11:05:20.4327 AM ]
+starting sweep 217 of 360 [ Thu, 2/21/2013 11:05:35.4952 AM ]
+starting sweep 218 of 360 [ Thu, 2/21/2013 11:05:50.5577 AM ]
+starting sweep 219 of 360 [ Thu, 2/21/2013 11:06:05.6046 AM ]
+starting sweep 220 of 360 [ Thu, 2/21/2013 11:06:20.6671 AM ]
+starting sweep 221 of 360 [ Thu, 2/21/2013 11:06:35.7139 AM ]
+starting sweep 222 of 360 [ Thu, 2/21/2013 11:06:50.7608 AM ]
+starting sweep 223 of 360 [ Thu, 2/21/2013 11:07:05.8233 AM ]
+starting sweep 224 of 360 [ Thu, 2/21/2013 11:07:20.8702 AM ]
+starting sweep 225 of 360 [ Thu, 2/21/2013 11:07:35.9171 AM ]
+starting sweep 226 of 360 [ Thu, 2/21/2013 11:07:50.9639 AM ]
+starting sweep 227 of 360 [ Thu, 2/21/2013 11:08:06.0264 AM ]
+starting sweep 228 of 360 [ Thu, 2/21/2013 11:08:21.0733 AM ]
+starting sweep 229 of 360 [ Thu, 2/21/2013 11:08:36.1202 AM ]
+starting sweep 230 of 360 [ Thu, 2/21/2013 11:08:51.1671 AM ]
+starting sweep 231 of 360 [ Thu, 2/21/2013 11:09:06.2139 AM ]
+starting sweep 232 of 360 [ Thu, 2/21/2013 11:09:21.2764 AM ]
+starting sweep 233 of 360 [ Thu, 2/21/2013 11:09:36.3233 AM ]
+starting sweep 234 of 360 [ Thu, 2/21/2013 11:09:51.3858 AM ]
+starting sweep 235 of 360 [ Thu, 2/21/2013 11:10:06.4327 AM ]
+starting sweep 236 of 360 [ Thu, 2/21/2013 11:10:21.4796 AM ]
+starting sweep 237 of 360 [ Thu, 2/21/2013 11:10:36.5264 AM ]
+starting sweep 238 of 360 [ Thu, 2/21/2013 11:10:51.5889 AM ]
+starting sweep 239 of 360 [ Thu, 2/21/2013 11:11:06.6358 AM ]
+starting sweep 240 of 360 [ Thu, 2/21/2013 11:11:21.6983 AM ]
+starting sweep 241 of 360 [ Thu, 2/21/2013 11:11:36.7608 AM ]
+starting sweep 242 of 360 [ Thu, 2/21/2013 11:11:51.8077 AM ]
+starting sweep 243 of 360 [ Thu, 2/21/2013 11:12:06.8702 AM ]
+starting sweep 244 of 360 [ Thu, 2/21/2013 11:12:21.9171 AM ]
+starting sweep 245 of 360 [ Thu, 2/21/2013 11:12:36.9796 AM ]
+starting sweep 246 of 360 [ Thu, 2/21/2013 11:12:52.0264 AM ]
+starting sweep 247 of 360 [ Thu, 2/21/2013 11:13:07.0889 AM ]
+starting sweep 248 of 360 [ Thu, 2/21/2013 11:13:22.1358 AM ]
+starting sweep 249 of 360 [ Thu, 2/21/2013 11:13:37.1983 AM ]
+starting sweep 250 of 360 [ Thu, 2/21/2013 11:13:52.2452 AM ]
+starting sweep 251 of 360 [ Thu, 2/21/2013 11:14:07.2921 AM ]
+starting sweep 252 of 360 [ Thu, 2/21/2013 11:14:22.3546 AM ]
+starting sweep 253 of 360 [ Thu, 2/21/2013 11:14:37.4014 AM ]
+starting sweep 254 of 360 [ Thu, 2/21/2013 11:14:52.4639 AM ]
+starting sweep 255 of 360 [ Thu, 2/21/2013 11:15:07.5264 AM ]
+starting sweep 256 of 360 [ Thu, 2/21/2013 11:15:22.5733 AM ]
+starting sweep 257 of 360 [ Thu, 2/21/2013 11:15:37.6358 AM ]
+starting sweep 258 of 360 [ Thu, 2/21/2013 11:15:52.6983 AM ]
+starting sweep 259 of 360 [ Thu, 2/21/2013 11:16:07.7452 AM ]
+starting sweep 260 of 360 [ Thu, 2/21/2013 11:16:22.8077 AM ]
+starting sweep 261 of 360 [ Thu, 2/21/2013 11:16:37.8546 AM ]
+starting sweep 262 of 360 [ Thu, 2/21/2013 11:16:52.9171 AM ]
+starting sweep 263 of 360 [ Thu, 2/21/2013 11:17:07.9639 AM ]
+starting sweep 264 of 360 [ Thu, 2/21/2013 11:17:23.0108 AM ]
+starting sweep 265 of 360 [ Thu, 2/21/2013 11:17:38.0733 AM ]
+starting sweep 266 of 360 [ Thu, 2/21/2013 11:17:53.1202 AM ]
+starting sweep 267 of 360 [ Thu, 2/21/2013 11:18:08.1827 AM ]
+starting sweep 268 of 360 [ Thu, 2/21/2013 11:18:23.2296 AM ]
+starting sweep 269 of 360 [ Thu, 2/21/2013 11:18:38.2764 AM ]
+starting sweep 270 of 360 [ Thu, 2/21/2013 11:18:53.3389 AM ]
+starting sweep 271 of 360 [ Thu, 2/21/2013 11:19:08.3858 AM ]
+starting sweep 272 of 360 [ Thu, 2/21/2013 11:19:23.4483 AM ]
+starting sweep 273 of 360 [ Thu, 2/21/2013 11:19:38.5108 AM ]
+starting sweep 274 of 360 [ Thu, 2/21/2013 11:19:53.5577 AM ]
+starting sweep 275 of 360 [ Thu, 2/21/2013 11:20:08.6202 AM ]
+starting sweep 276 of 360 [ Thu, 2/21/2013 11:20:23.6671 AM ]
+starting sweep 277 of 360 [ Thu, 2/21/2013 11:20:38.7296 AM ]
+starting sweep 278 of 360 [ Thu, 2/21/2013 11:20:53.7764 AM ]
+starting sweep 279 of 360 [ Thu, 2/21/2013 11:21:08.8389 AM ]
+starting sweep 280 of 360 [ Thu, 2/21/2013 11:21:23.8858 AM ]
+starting sweep 281 of 360 [ Thu, 2/21/2013 11:21:38.9483 AM ]
+starting sweep 282 of 360 [ Thu, 2/21/2013 11:21:53.9952 AM ]
+starting sweep 283 of 360 [ Thu, 2/21/2013 11:22:09.0577 AM ]
+starting sweep 284 of 360 [ Thu, 2/21/2013 11:22:24.1046 AM ]
+starting sweep 285 of 360 [ Thu, 2/21/2013 11:22:39.1514 AM ]
+starting sweep 286 of 360 [ Thu, 2/21/2013 11:22:54.2139 AM ]
+starting sweep 287 of 360 [ Thu, 2/21/2013 11:23:09.2608 AM ]
+starting sweep 288 of 360 [ Thu, 2/21/2013 11:23:24.3233 AM ]
+starting sweep 289 of 360 [ Thu, 2/21/2013 11:23:39.3702 AM ]
+starting sweep 290 of 360 [ Thu, 2/21/2013 11:23:54.4171 AM ]
+starting sweep 291 of 360 [ Thu, 2/21/2013 11:24:09.4796 AM ]
+starting sweep 292 of 360 [ Thu, 2/21/2013 11:24:24.5264 AM ]
+starting sweep 293 of 360 [ Thu, 2/21/2013 11:24:39.5733 AM ]
+starting sweep 294 of 360 [ Thu, 2/21/2013 11:24:54.6358 AM ]
+starting sweep 295 of 360 [ Thu, 2/21/2013 11:25:09.6827 AM ]
+starting sweep 296 of 360 [ Thu, 2/21/2013 11:25:24.7296 AM ]
+starting sweep 297 of 360 [ Thu, 2/21/2013 11:25:39.7764 AM ]
+starting sweep 298 of 360 [ Thu, 2/21/2013 11:25:54.8233 AM ]
+starting sweep 299 of 360 [ Thu, 2/21/2013 11:26:09.8858 AM ]
+starting sweep 300 of 360 [ Thu, 2/21/2013 11:26:24.9483 AM ]
+starting sweep 301 of 360 [ Thu, 2/21/2013 11:26:39.9952 AM ]
+starting sweep 302 of 360 [ Thu, 2/21/2013 11:26:55.0577 AM ]
+starting sweep 303 of 360 [ Thu, 2/21/2013 11:27:10.1046 AM ]
+starting sweep 304 of 360 [ Thu, 2/21/2013 11:27:25.1671 AM ]
+starting sweep 305 of 360 [ Thu, 2/21/2013 11:27:40.2139 AM ]
+starting sweep 306 of 360 [ Thu, 2/21/2013 11:27:55.2764 AM ]
+starting sweep 307 of 360 [ Thu, 2/21/2013 11:28:10.3389 AM ]
+starting sweep 308 of 360 [ Thu, 2/21/2013 11:28:25.3858 AM ]
+starting sweep 309 of 360 [ Thu, 2/21/2013 11:28:40.4327 AM ]
+starting sweep 310 of 360 [ Thu, 2/21/2013 11:28:55.4952 AM ]
+starting sweep 311 of 360 [ Thu, 2/21/2013 11:29:10.5577 AM ]
+starting sweep 312 of 360 [ Thu, 2/21/2013 11:29:25.6046 AM ]
+starting sweep 313 of 360 [ Thu, 2/21/2013 11:29:40.6514 AM ]
+starting sweep 314 of 360 [ Thu, 2/21/2013 11:29:55.7139 AM ]
+starting sweep 315 of 360 [ Thu, 2/21/2013 11:30:10.7608 AM ]
+starting sweep 316 of 360 [ Thu, 2/21/2013 11:30:25.8233 AM ]
+starting sweep 317 of 360 [ Thu, 2/21/2013 11:30:40.8702 AM ]
+starting sweep 318 of 360 [ Thu, 2/21/2013 11:30:55.9327 AM ]
+starting sweep 319 of 360 [ Thu, 2/21/2013 11:31:10.9952 AM ]
+starting sweep 320 of 360 [ Thu, 2/21/2013 11:31:26.0421 AM ]
+starting sweep 321 of 360 [ Thu, 2/21/2013 11:31:41.0889 AM ]
+starting sweep 322 of 360 [ Thu, 2/21/2013 11:31:56.1514 AM ]
+starting sweep 323 of 360 [ Thu, 2/21/2013 11:32:11.1983 AM ]
+starting sweep 324 of 360 [ Thu, 2/21/2013 11:32:26.2608 AM ]
+starting sweep 325 of 360 [ Thu, 2/21/2013 11:32:41.3077 AM ]
+starting sweep 326 of 360 [ Thu, 2/21/2013 11:32:56.3702 AM ]
+starting sweep 327 of 360 [ Thu, 2/21/2013 11:33:11.4171 AM ]
+starting sweep 328 of 360 [ Thu, 2/21/2013 11:33:26.4639 AM ]
+starting sweep 329 of 360 [ Thu, 2/21/2013 11:33:41.5264 AM ]
+starting sweep 330 of 360 [ Thu, 2/21/2013 11:33:56.5733 AM ]
+starting sweep 331 of 360 [ Thu, 2/21/2013 11:34:11.6202 AM ]
+starting sweep 332 of 360 [ Thu, 2/21/2013 11:34:26.6827 AM ]
+starting sweep 333 of 360 [ Thu, 2/21/2013 11:34:41.7452 AM ]
+starting sweep 334 of 360 [ Thu, 2/21/2013 11:34:56.7921 AM ]
+starting sweep 335 of 360 [ Thu, 2/21/2013 11:35:11.8546 AM ]
+starting sweep 336 of 360 [ Thu, 2/21/2013 11:35:26.9014 AM ]
+starting sweep 337 of 360 [ Thu, 2/21/2013 11:35:41.9639 AM ]
+starting sweep 338 of 360 [ Thu, 2/21/2013 11:35:57.0108 AM ]
+starting sweep 339 of 360 [ Thu, 2/21/2013 11:36:12.0733 AM ]
+starting sweep 340 of 360 [ Thu, 2/21/2013 11:36:27.1358 AM ]
+starting sweep 341 of 360 [ Thu, 2/21/2013 11:36:42.1827 AM ]
+starting sweep 342 of 360 [ Thu, 2/21/2013 11:36:57.2452 AM ]
+starting sweep 343 of 360 [ Thu, 2/21/2013 11:37:12.2921 AM ]
+starting sweep 344 of 360 [ Thu, 2/21/2013 11:37:27.3389 AM ]
+starting sweep 345 of 360 [ Thu, 2/21/2013 11:37:42.3858 AM ]
+starting sweep 346 of 360 [ Thu, 2/21/2013 11:37:57.4483 AM ]
+starting sweep 347 of 360 [ Thu, 2/21/2013 11:38:12.4952 AM ]
+starting sweep 348 of 360 [ Thu, 2/21/2013 11:38:27.5577 AM ]
+starting sweep 349 of 360 [ Thu, 2/21/2013 11:38:42.6046 AM ]
+starting sweep 350 of 360 [ Thu, 2/21/2013 11:38:57.6671 AM ]
+starting sweep 351 of 360 [ Thu, 2/21/2013 11:39:12.7139 AM ]
+starting sweep 352 of 360 [ Thu, 2/21/2013 11:39:27.7764 AM ]
+starting sweep 353 of 360 [ Thu, 2/21/2013 11:39:42.8233 AM ]
+starting sweep 354 of 360 [ Thu, 2/21/2013 11:39:57.8702 AM ]
+starting sweep 355 of 360 [ Thu, 2/21/2013 11:40:12.9327 AM ]
+starting sweep 356 of 360 [ Thu, 2/21/2013 11:40:27.9796 AM ]
+starting sweep 357 of 360 [ Thu, 2/21/2013 11:40:43.0264 AM ]
+starting sweep 358 of 360 [ Thu, 2/21/2013 11:40:58.0889 AM ]
+starting sweep 359 of 360 [ Thu, 2/21/2013 11:41:13.1514 AM ]
+closing shutter 1 [ Thu, 2/21/2013 11:41:28.2139 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 45.0 degrees
+rezero slave axis platen
+begin header for RandD2_TiN_22feb2013_Run1 [ Fri, 2/22/2013 07:33:45.0264 AM ]

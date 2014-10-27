@@ -1,0 +1,126 @@
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt15_Test1_19feb2014
+
+begin header for RandD2_PReidPt15_Test1_19feb2014 [ Wed, 2/19/2014 07:09:04.7623 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt15_Test1_19feb2014
+
+begin header for RandD2_PReidPt15_Test1_19feb2014 [ Wed, 2/19/2014 07:25:58.3873 AM ]
+N = 1
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 15.0
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_PReidPt15_Test1_19feb2014
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -45.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1 [ Wed, 2/19/2014 07:26:01.4811 AM ]
+sweeping rotary stage back and forth 40.0 times at 1.0 RPM
+starting sweep 0 of 40 [ Wed, 2/19/2014 07:26:01.5436 AM ]
+starting sweep 1 of 40 [ Wed, 2/19/2014 07:26:16.6061 AM ]
+starting sweep 2 of 40 [ Wed, 2/19/2014 07:26:31.6686 AM ]
+starting sweep 3 of 40 [ Wed, 2/19/2014 07:26:46.7311 AM ]
+starting sweep 4 of 40 [ Wed, 2/19/2014 07:27:01.8092 AM ]
+starting sweep 5 of 40 [ Wed, 2/19/2014 07:27:16.8717 AM ]
+starting sweep 6 of 40 [ Wed, 2/19/2014 07:27:31.9342 AM ]
+starting sweep 7 of 40 [ Wed, 2/19/2014 07:27:46.9967 AM ]
+starting sweep 8 of 40 [ Wed, 2/19/2014 07:28:02.0436 AM ]
+starting sweep 9 of 40 [ Wed, 2/19/2014 07:28:17.1061 AM ]
+starting sweep 10 of 40 [ Wed, 2/19/2014 07:28:32.1686 AM ]
+starting sweep 11 of 40 [ Wed, 2/19/2014 07:28:47.2311 AM ]
+starting sweep 12 of 40 [ Wed, 2/19/2014 07:29:02.2936 AM ]
+starting sweep 13 of 40 [ Wed, 2/19/2014 07:29:17.3717 AM ]
+starting sweep 14 of 40 [ Wed, 2/19/2014 07:29:32.4342 AM ]
+starting sweep 15 of 40 [ Wed, 2/19/2014 07:29:47.4967 AM ]
+starting sweep 16 of 40 [ Wed, 2/19/2014 07:30:02.5592 AM ]
+starting sweep 17 of 40 [ Wed, 2/19/2014 07:30:17.6217 AM ]
+starting sweep 18 of 40 [ Wed, 2/19/2014 07:30:32.6842 AM ]
+starting sweep 19 of 40 [ Wed, 2/19/2014 07:30:47.7623 AM ]
+starting sweep 20 of 40 [ Wed, 2/19/2014 07:31:02.8092 AM ]
+starting sweep 21 of 40 [ Wed, 2/19/2014 07:31:17.8873 AM ]
+starting sweep 22 of 40 [ Wed, 2/19/2014 07:31:32.9498 AM ]
+starting sweep 23 of 40 [ Wed, 2/19/2014 07:31:48.0123 AM ]
+starting sweep 24 of 40 [ Wed, 2/19/2014 07:32:03.0904 AM ]
+starting sweep 25 of 40 [ Wed, 2/19/2014 07:32:18.1373 AM ]
+starting sweep 26 of 40 [ Wed, 2/19/2014 07:32:33.1998 AM ]
+starting sweep 27 of 40 [ Wed, 2/19/2014 07:32:48.3092 AM ]
+starting sweep 28 of 40 [ Wed, 2/19/2014 07:33:03.3873 AM ]
+starting sweep 29 of 40 [ Wed, 2/19/2014 07:33:18.4498 AM ]
+starting sweep 30 of 40 [ Wed, 2/19/2014 07:33:33.5123 AM ]
+starting sweep 31 of 40 [ Wed, 2/19/2014 07:33:48.5748 AM ]
+starting sweep 32 of 40 [ Wed, 2/19/2014 07:34:03.6373 AM ]
+starting sweep 33 of 40 [ Wed, 2/19/2014 07:34:18.6998 AM ]
+starting sweep 34 of 40 [ Wed, 2/19/2014 07:34:33.7779 AM ]
+starting sweep 35 of 40 [ Wed, 2/19/2014 07:34:48.8248 AM ]
+starting sweep 36 of 40 [ Wed, 2/19/2014 07:35:03.8873 AM ]
+starting sweep 37 of 40 [ Wed, 2/19/2014 07:35:18.9498 AM ]
+starting sweep 38 of 40 [ Wed, 2/19/2014 07:35:34.0123 AM ]
+starting sweep 39 of 40 [ Wed, 2/19/2014 07:35:49.0904 AM ]
+closing shutter 1 [ Wed, 2/19/2014 07:36:04.1529 AM ]
+stopping slave sweep for platen
+rezeroing rotary stage by moving 45.0 degrees
+rezero slave axis platen
+begin header for RandD2_Pt16_PReidMandrel7_20feb2014 [ Thu, 2/20/2014 08:32:28.8873 AM ]

@@ -1,0 +1,161 @@
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.43
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_5mar2013_Run1_Aposn_SiCap
+
+begin header for RandD1_SiW_5mar2013_Run1_Aposn_SiCap [ Tue, 3/5/2013 11:46:21.3220 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.43
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_5mar2013_Run1_Aposn_SiCap
+
+begin header for RandD1_SiW_5mar2013_Run1_Aposn_SiCap [ Tue, 3/5/2013 11:46:23.9157 AM ]
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 1 deposition_rate = 0.43
+cathode 1 name = cathode 1
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_SiW_5mar2013_Run1_Aposn_SiCap
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1 [ Tue, 3/5/2013 11:46:24.4782 AM ]
+sweeping platen back and forth 94.0 times at 1.99604938272 RPM
+starting sweep 0 of 94 [ Tue, 3/5/2013 11:46:24.4938 AM ]
+starting sweep 1 of 94 [ Tue, 3/5/2013 11:46:25.1970 AM ]
+starting sweep 2 of 94 [ Tue, 3/5/2013 11:46:25.9157 AM ]
+starting sweep 3 of 94 [ Tue, 3/5/2013 11:46:26.6188 AM ]
+starting sweep 4 of 94 [ Tue, 3/5/2013 11:46:27.3376 AM ]
+starting sweep 5 of 94 [ Tue, 3/5/2013 11:46:28.0407 AM ]
+starting sweep 6 of 94 [ Tue, 3/5/2013 11:46:28.7595 AM ]
+starting sweep 7 of 94 [ Tue, 3/5/2013 11:46:29.4626 AM ]
+starting sweep 8 of 94 [ Tue, 3/5/2013 11:46:30.1813 AM ]
+starting sweep 9 of 94 [ Tue, 3/5/2013 11:46:30.8845 AM ]
+starting sweep 10 of 94 [ Tue, 3/5/2013 11:46:31.6032 AM ]
+starting sweep 11 of 94 [ Tue, 3/5/2013 11:46:32.3063 AM ]
+starting sweep 12 of 94 [ Tue, 3/5/2013 11:46:33.0251 AM ]
+starting sweep 13 of 94 [ Tue, 3/5/2013 11:46:33.7282 AM ]
+starting sweep 14 of 94 [ Tue, 3/5/2013 11:46:34.4470 AM ]
+starting sweep 15 of 94 [ Tue, 3/5/2013 11:46:35.1501 AM ]
+starting sweep 16 of 94 [ Tue, 3/5/2013 11:46:35.8688 AM ]
+starting sweep 17 of 94 [ Tue, 3/5/2013 11:46:36.5720 AM ]
+starting sweep 18 of 94 [ Tue, 3/5/2013 11:46:37.2907 AM ]
+starting sweep 19 of 94 [ Tue, 3/5/2013 11:46:37.9938 AM ]
+starting sweep 20 of 94 [ Tue, 3/5/2013 11:46:38.6970 AM ]
+starting sweep 21 of 94 [ Tue, 3/5/2013 11:46:39.4157 AM ]
+starting sweep 22 of 94 [ Tue, 3/5/2013 11:46:40.1188 AM ]
+starting sweep 23 of 94 [ Tue, 3/5/2013 11:46:40.8376 AM ]
+starting sweep 24 of 94 [ Tue, 3/5/2013 11:46:41.5407 AM ]
+starting sweep 25 of 94 [ Tue, 3/5/2013 11:46:42.2595 AM ]
+starting sweep 26 of 94 [ Tue, 3/5/2013 11:46:42.9626 AM ]
+starting sweep 27 of 94 [ Tue, 3/5/2013 11:46:43.6657 AM ]
+starting sweep 28 of 94 [ Tue, 3/5/2013 11:46:44.3845 AM ]
+starting sweep 29 of 94 [ Tue, 3/5/2013 11:46:45.0876 AM ]
+starting sweep 30 of 94 [ Tue, 3/5/2013 11:46:45.8063 AM ]
+starting sweep 31 of 94 [ Tue, 3/5/2013 11:46:46.5095 AM ]
+starting sweep 32 of 94 [ Tue, 3/5/2013 11:46:47.2282 AM ]
+starting sweep 33 of 94 [ Tue, 3/5/2013 11:46:47.9470 AM ]
+starting sweep 34 of 94 [ Tue, 3/5/2013 11:46:48.6501 AM ]
+starting sweep 35 of 94 [ Tue, 3/5/2013 11:46:49.3532 AM ]
+starting sweep 36 of 94 [ Tue, 3/5/2013 11:46:50.0720 AM ]
+starting sweep 37 of 94 [ Tue, 3/5/2013 11:46:50.7751 AM ]
+starting sweep 38 of 94 [ Tue, 3/5/2013 11:46:51.4938 AM ]
+starting sweep 39 of 94 [ Tue, 3/5/2013 11:46:52.2126 AM ]
+starting sweep 40 of 94 [ Tue, 3/5/2013 11:46:52.9157 AM ]
+starting sweep 41 of 94 [ Tue, 3/5/2013 11:46:53.6188 AM ]
+starting sweep 42 of 94 [ Tue, 3/5/2013 11:46:54.3376 AM ]
+starting sweep 43 of 94 [ Tue, 3/5/2013 11:46:55.0407 AM ]
+starting sweep 44 of 94 [ Tue, 3/5/2013 11:46:55.7595 AM ]
+starting sweep 45 of 94 [ Tue, 3/5/2013 11:46:56.4626 AM ]
+starting sweep 46 of 94 [ Tue, 3/5/2013 11:46:57.1657 AM ]
+starting sweep 47 of 94 [ Tue, 3/5/2013 11:46:57.8845 AM ]
+starting sweep 48 of 94 [ Tue, 3/5/2013 11:46:58.5876 AM ]
+starting sweep 49 of 94 [ Tue, 3/5/2013 11:46:59.3063 AM ]
+starting sweep 50 of 94 [ Tue, 3/5/2013 11:47:00.0251 AM ]
+starting sweep 51 of 94 [ Tue, 3/5/2013 11:47:00.7282 AM ]
+starting sweep 52 of 94 [ Tue, 3/5/2013 11:47:01.4313 AM ]
+starting sweep 53 of 94 [ Tue, 3/5/2013 11:47:02.1501 AM ]
+starting sweep 54 of 94 [ Tue, 3/5/2013 11:47:02.8688 AM ]
+starting sweep 55 of 94 [ Tue, 3/5/2013 11:47:03.5720 AM ]
+starting sweep 56 of 94 [ Tue, 3/5/2013 11:47:04.2907 AM ]
+starting sweep 57 of 94 [ Tue, 3/5/2013 11:47:04.9938 AM ]
+starting sweep 58 of 94 [ Tue, 3/5/2013 11:47:05.7126 AM ]
+starting sweep 59 of 94 [ Tue, 3/5/2013 11:47:06.4157 AM ]
+starting sweep 60 of 94 [ Tue, 3/5/2013 11:47:07.1345 AM ]
+starting sweep 61 of 94 [ Tue, 3/5/2013 11:47:07.8532 AM ]
+starting sweep 62 of 94 [ Tue, 3/5/2013 11:47:08.5720 AM ]
+starting sweep 63 of 94 [ Tue, 3/5/2013 11:47:09.2751 AM ]
+starting sweep 64 of 94 [ Tue, 3/5/2013 11:47:09.9938 AM ]
+starting sweep 65 of 94 [ Tue, 3/5/2013 11:47:10.6970 AM ]
+starting sweep 66 of 94 [ Tue, 3/5/2013 11:47:11.4157 AM ]
+starting sweep 67 of 94 [ Tue, 3/5/2013 11:47:12.1345 AM ]
+starting sweep 68 of 94 [ Tue, 3/5/2013 11:47:12.8376 AM ]
+starting sweep 69 of 94 [ Tue, 3/5/2013 11:47:13.5563 AM ]
+starting sweep 70 of 94 [ Tue, 3/5/2013 11:47:14.2751 AM ]
+starting sweep 71 of 94 [ Tue, 3/5/2013 11:47:14.9782 AM ]
+starting sweep 72 of 94 [ Tue, 3/5/2013 11:47:15.6970 AM ]
+starting sweep 73 of 94 [ Tue, 3/5/2013 11:47:16.4157 AM ]
+starting sweep 74 of 94 [ Tue, 3/5/2013 11:47:17.1188 AM ]
+starting sweep 75 of 94 [ Tue, 3/5/2013 11:47:17.8376 AM ]
+starting sweep 76 of 94 [ Tue, 3/5/2013 11:47:18.5407 AM ]
+starting sweep 77 of 94 [ Tue, 3/5/2013 11:47:19.2595 AM ]
+starting sweep 78 of 94 [ Tue, 3/5/2013 11:47:19.9626 AM ]
+starting sweep 79 of 94 [ Tue, 3/5/2013 11:47:20.6813 AM ]
+starting sweep 80 of 94 [ Tue, 3/5/2013 11:47:21.3845 AM ]
+starting sweep 81 of 94 [ Tue, 3/5/2013 11:47:22.1032 AM ]
+starting sweep 82 of 94 [ Tue, 3/5/2013 11:47:22.8063 AM ]
+starting sweep 83 of 94 [ Tue, 3/5/2013 11:47:23.5251 AM ]
+starting sweep 84 of 94 [ Tue, 3/5/2013 11:47:24.2282 AM ]
+starting sweep 85 of 94 [ Tue, 3/5/2013 11:47:24.9470 AM ]
+starting sweep 86 of 94 [ Tue, 3/5/2013 11:47:25.6657 AM ]
+starting sweep 87 of 94 [ Tue, 3/5/2013 11:47:26.3688 AM ]
+starting sweep 88 of 94 [ Tue, 3/5/2013 11:47:27.0720 AM ]
+starting sweep 89 of 94 [ Tue, 3/5/2013 11:47:27.7907 AM ]
+starting sweep 90 of 94 [ Tue, 3/5/2013 11:47:28.4938 AM ]
+starting sweep 91 of 94 [ Tue, 3/5/2013 11:47:29.2126 AM ]
+starting sweep 92 of 94 [ Tue, 3/5/2013 11:47:29.9157 AM ]
+starting sweep 93 of 94 [ Tue, 3/5/2013 11:47:30.6345 AM ]
+closing shutter 1 [ Tue, 3/5/2013 11:47:31.3532 AM ]
+rezeroing platen by moving 4.0 degrees
+begin header for RandD1_SiW_6mar2013_Run1_Aposn [ Wed, 3/6/2013 09:02:51.8046 AM ]

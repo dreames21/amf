@@ -1,0 +1,26 @@
+{
+    "N": 10, 
+    "cathode 1": {
+        "RPM": 2.0000, 
+        "name": "NiC", 
+        "rate": 0.3830, 
+        "thickness": 28.0000
+    }, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "name": "Ti ", 
+        "rate": 0.2650, 
+        "thickness": 22.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_29aug2013_Bposn_Constd_StressWafer2", 
+    "run_mode": "platen_mode", 
+    "single_cathode": false, 
+    "sweep_angle": 8.0000
+}

@@ -1,0 +1,252 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:49:04.8354 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:49:10.1792 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:49:15.5073 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:49:20.8511 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:49:26.1948 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:49:43.6167 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:49:49.0542 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:49:54.5073 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:49:59.9604 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:50:05.5073 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:50:10.9448 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:50:28.7417 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:50:34.0698 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:50:39.4136 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:50:44.8823 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:50:50.2104 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:51:07.6636 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:51:13.0854 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:51:18.5386 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:51:23.9761 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:51:29.4136 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:51:34.8354 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:51:52.4292 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:51:57.7729 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:52:03.1011 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:52:08.4448 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:52:13.7729 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:52:31.2104 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:52:36.6479 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:52:42.1011 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:52:47.5542 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:52:53.0073 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:52:58.4448 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:53:16.0073 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:53:21.3198 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:53:26.6479 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:53:31.9917 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:53:37.3198 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:53:54.7417 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:54:00.1792 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:54:05.6167 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:54:11.0698 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:54:16.5229 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:54:21.9761 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:54:39.5854 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:54:44.9448 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:54:50.2729 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:54:55.6167 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:55:00.9604 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:55:18.6479 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:55:24.1011 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:55:29.5542 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:55:34.9917 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:55:40.4292 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:55:45.9604 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:56:03.6323 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:56:08.9761 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:56:14.3198 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:56:19.6792 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:56:25.0229 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:56:42.7729 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:56:48.2104 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:56:53.6479 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:56:59.1011 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:57:04.5386 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:57:09.9761 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 5.0 times at 0.946428571429 RPM
+Starting Sweep 0 of 5 at Wed, 10/3/2012 02:57:27.6167 PM.
+Starting Sweep 1 of 5 at Wed, 10/3/2012 02:57:32.9448 PM.
+Starting Sweep 2 of 5 at Wed, 10/3/2012 02:57:38.2886 PM.
+Starting Sweep 3 of 5 at Wed, 10/3/2012 02:57:43.6323 PM.
+Starting Sweep 4 of 5 at Wed, 10/3/2012 02:57:48.9917 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -15.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -15.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 6.0 times at 0.928571428571 RPM
+Starting Sweep 0 of 6 at Wed, 10/3/2012 02:58:06.5698 PM.
+Starting Sweep 1 of 6 at Wed, 10/3/2012 02:58:12.0229 PM.
+Starting Sweep 2 of 6 at Wed, 10/3/2012 02:58:17.5542 PM.
+Starting Sweep 3 of 6 at Wed, 10/3/2012 02:58:23.0073 PM.
+Starting Sweep 4 of 6 at Wed, 10/3/2012 02:58:28.4448 PM.
+Starting Sweep 5 of 6 at Wed, 10/3/2012 02:58:33.9136 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 15.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+
+
+
+

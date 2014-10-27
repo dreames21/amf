@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 2.5000, 
+        "name": "NI", 
+        "rate": 1.3125, 
+        "thickness": 130.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "linear_stage_pass_length": 100.0000, 
+    "name": "RandD2_Ni_CarstenTest2_13june2013", 
+    "run_mode": "linear_mode", 
+    "single_cathode": true
+}

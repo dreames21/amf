@@ -1,0 +1,76 @@
+Begin header for RandD2_WSi_10jan13_Test1_Wfirst :
+axis 1 conversion_factor = 6897.92
+mandrel_axis = 2
+axis 1 accel_decel = 500000
+current_bilayer = 0
+axis 2 conversion_factor = 600.521
+run_name = RandD2_WSi_10jan13_Test1_Wfirst
+axis 2 steps_in_rev = 36000
+platen_axis = 1
+cathode 1 name = cathode 1
+axis 3 conversion_factor = 251.98504
+current_sweep_iterations = 0
+axis 3 accel_decel = 50000
+N = 2
+chamber_name = R&D2
+axis 1 name = platen
+linear_stage_axis = 3
+axis 2 name = rotary stage
+axis 1 steps_in_rev = 412500
+current_N = 0
+axis 3 name = linear stage
+cathode 2 deposition_rate = 32.0
+axis 2 accel_decel = 50000
+cathode 2 name = cathode 2
+axis 3 steps_in_rev = 44802.940112
+cathode 1 deposition_rate = 33.0
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+rotating rotary stage 1.0 times at 0.916666666667 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+rotating rotary stage 1.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+rotating rotary stage 1.0 times at 0.916666666667 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+rotating rotary stage 1.0 times at 1.0 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees

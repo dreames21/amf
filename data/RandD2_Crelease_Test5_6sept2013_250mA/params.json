@@ -1,0 +1,21 @@
+{
+    "N": 1, 
+    "cathode 1": {
+        "RPM": 2.5000, 
+        "name": "C", 
+        "rate": 0.4500, 
+        "thickness": 45.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD2_Crelease_Test5_6sept2013_250mA", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 360.0000
+}

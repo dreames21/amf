@@ -1,0 +1,27 @@
+begin header for RandD1_TiN_29sep2014_AandBposn_like18mar2013_duplicate
+N = 1
+axis 3 accel_decel = 500000
+axis 3 conversion_factor = 4171.87
+axis 3 name = platen
+axis 3 steps_in_rev = 250000
+axis 4 accel_decel = 500000
+axis 4 conversion_factor = 417.448
+axis 4 name = mandrel
+axis 4 steps_in_rev = 25000
+cathode 2 deposition_rate = 0.28
+cathode 2 name = cathode 2
+chamber_name = R&D1
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+mandrel_axis = 4
+platen_axis = 3
+run_name = RandD1_TiN_29sep2014_AandBposn_like18mar2013_duplicate
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 1393.0 times at 2.00020512821 RPM
+closing shutter 2
+rezeroing platen by moving -4.0 degrees

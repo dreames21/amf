@@ -1,0 +1,28 @@
+{
+    "N": 10, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "W", 
+        "rate": 1.8750, 
+        "thickness": 25.0000
+    }, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Si", 
+        "rate": 1.8750, 
+        "thickness": 25.0000
+    }, 
+    "cathodes": [
+        "cathode 1", 
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD2_WSi_3mT_19nov2012_Nequals10_TestSi", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 80.0000
+}

@@ -1,0 +1,28 @@
+{
+    "N": 10, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "W", 
+        "rate": 0.5000, 
+        "thickness": 14.0000
+    }, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "name": "Si", 
+        "rate": 0.5000, 
+        "thickness": 21.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD2_SiW15_Mandrel_22oct2012", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 0.0000, 
+    "slave_sweep_angle": 0.0000, 
+    "sweep_angle": 360.0000
+}

@@ -1,0 +1,28 @@
+{
+    "N": 5, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "NiC", 
+        "rate": 8.0000, 
+        "thickness": 126.0000
+    }, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Ti ", 
+        "rate": 10.2300, 
+        "thickness": 103.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_21may2014_Nis5", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 16.0000, 
+    "sweep_angle": 360.0000
+}

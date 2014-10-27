@@ -34,9 +34,6 @@ nosetests.xml
 .project
 .pydevproject
 
-# block data
-data
-
 # block build directories for windows software
 python/build
 python/dist

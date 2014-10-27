@@ -1,0 +1,21 @@
+{
+    "N": 1, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Ti ", 
+        "rate": 5.3000, 
+        "thickness": 100.0000
+    }, 
+    "cathodes": [
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_19june2014_TestMandrel_FullCurrent_CreleaseThicknessTest1", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 18.0000, 
+    "sweep_angle": 360.0000
+}

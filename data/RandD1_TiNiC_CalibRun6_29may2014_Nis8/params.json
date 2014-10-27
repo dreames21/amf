@@ -1,0 +1,28 @@
+{
+    "N": 8, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "NiC", 
+        "rate": 4.0000, 
+        "thickness": 165.0000
+    }, 
+    "cathode 2": {
+        "RPM": 1.0000, 
+        "name": "Ti ", 
+        "rate": 5.8000, 
+        "thickness": 80.0000
+    }, 
+    "cathodes": [
+        "cathode 2", 
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiNiC_CalibRun6_29may2014_Nis8", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": false, 
+    "slave_RPM": 2.0000, 
+    "slave_sweep_angle": 18.0000, 
+    "sweep_angle": 360.0000
+}

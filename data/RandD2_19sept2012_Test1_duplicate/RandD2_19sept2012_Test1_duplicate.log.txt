@@ -1,0 +1,27 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -30.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 16.0 times at 3.0 RPM
+Starting Sweep 0 of 16 at Wed, 9/19/2012 04:25:37.4687 PM.
+Starting Sweep 1 of 16 at Wed, 9/19/2012 04:25:40.8750 PM.
+Starting Sweep 2 of 16 at Wed, 9/19/2012 04:25:44.2812 PM.
+Starting Sweep 3 of 16 at Wed, 9/19/2012 04:25:47.6875 PM.
+Starting Sweep 4 of 16 at Wed, 9/19/2012 04:25:50.6562 PM.
+Starting Sweep 5 of 16 at Wed, 9/19/2012 04:25:50.6718 PM.
+Starting Sweep 6 of 16 at Wed, 9/19/2012 04:25:50.6718 PM.
+Starting Sweep 7 of 16 at Wed, 9/19/2012 04:25:50.6875 PM.
+Starting Sweep 8 of 16 at Wed, 9/19/2012 04:25:50.6875 PM.
+Starting Sweep 9 of 16 at Wed, 9/19/2012 04:25:50.6875 PM.
+Starting Sweep 10 of 16 at Wed, 9/19/2012 04:25:50.7031 PM.
+Starting Sweep 11 of 16 at Wed, 9/19/2012 04:25:50.7187 PM.
+Starting Sweep 12 of 16 at Wed, 9/19/2012 04:25:50.7187 PM.
+Starting Sweep 13 of 16 at Wed, 9/19/2012 04:25:50.7187 PM.
+Starting Sweep 14 of 16 at Wed, 9/19/2012 04:25:50.7343 PM.
+Starting Sweep 15 of 16 at Wed, 9/19/2012 04:25:50.7500 PM.
+closing shutter 1

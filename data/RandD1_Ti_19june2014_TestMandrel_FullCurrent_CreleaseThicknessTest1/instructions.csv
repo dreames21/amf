@@ -1,0 +1,98 @@
+-1,log,begin header for RandD1_Ti_19june2014_TestMandrel_FullCurrent_CreleaseThicknessTest1,true
+-1,set,current_bilayer,0
+-1,set,current_N,0
+-1,set,current_sweep_iterations,0
+-1,set,mandrel_axis,4
+-1,set,platen_axis,3
+-1,set,axis 3 name,platen
+-1,set,run_name,RandD1_Ti_19june2014_TestMandrel_FullCurrent_CreleaseThicknessTest1
+-1,set,axis 3 accel_decel,500000
+-1,set,cathode 2 deposition_rate,5.3
+-1,set,N,1
+-1,set,chamber_name,R&D1
+-1,set,axis 4 steps_in_rev,25000
+-1,set,axis 4 accel_decel,500000
+-1,set,cathode 2 name,cathode 2
+-1,set,axis 3 steps_in_rev,250000
+-1,set,axis 4 conversion_factor,417.448
+-1,set,axis 3 conversion_factor,4171.87
+-1,set,axis 4 name,mandrel
+-1,log,N = 1,false
+-1,log,axis 3 accel_decel = 500000,false
+-1,log,axis 3 conversion_factor = 4171.87,false
+-1,log,axis 3 name = platen,false
+-1,log,axis 3 steps_in_rev = 250000,false
+-1,log,axis 4 accel_decel = 500000,false
+-1,log,axis 4 conversion_factor = 417.448,false
+-1,log,axis 4 name = mandrel,false
+-1,log,axis 4 steps_in_rev = 25000,false
+-1,log,cathode 2 deposition_rate = 5.3,false
+-1,log,cathode 2 name = cathode 2,false
+-1,log,chamber_name = R&D1,false
+-1,log,current_N = 0,false
+-1,log,current_bilayer = 0,false
+-1,log,current_sweep_iterations = 0,false
+-1,log,mandrel_axis = 4,false
+-1,log,platen_axis = 3,false
+-1,log,run_name = RandD1_Ti_19june2014_TestMandrel_FullCurrent_CreleaseThicknessTest1,false
+0,log,,false
+1,log,starting layer 1,false
+2,log,starting bilayer 1,false
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,19.0
+6,log,ofsetting platen back -9.0 degrees,false
+7,move_angle,3,-6250,12515.61,500000
+8,log,ofsetting mandrel back -4.0 degrees,false
+9,move_angle,4,-277,1252.344,500000
+10,log,sweeping slave axis platen at 18.0 angle at 2.0 RPM,false
+11,slave_sweep,3,start,12500,8343.74,500000
+12,log,opening shutter 2,true
+13,shutter,2,open
+14,log,rotating mandrel 19.0 times at 1.007 RPM,false
+15,set,current_sweep,1
+16,move_angle,4,25000,420.370136,500000
+17,set,current_sweep,2
+18,move_angle,4,25000,420.370136,500000
+19,set,current_sweep,3
+20,move_angle,4,25000,420.370136,500000
+21,set,current_sweep,4
+22,move_angle,4,25000,420.370136,500000
+23,set,current_sweep,5
+24,move_angle,4,25000,420.370136,500000
+25,set,current_sweep,6
+26,move_angle,4,25000,420.370136,500000
+27,set,current_sweep,7
+28,move_angle,4,25000,420.370136,500000
+29,set,current_sweep,8
+30,move_angle,4,25000,420.370136,500000
+31,set,current_sweep,9
+32,move_angle,4,25000,420.370136,500000
+33,set,current_sweep,10
+34,move_angle,4,25000,420.370136,500000
+35,set,current_sweep,11
+36,move_angle,4,25000,420.370136,500000
+37,set,current_sweep,12
+38,move_angle,4,25000,420.370136,500000
+39,set,current_sweep,13
+40,move_angle,4,25000,420.370136,500000
+41,set,current_sweep,14
+42,move_angle,4,25000,420.370136,500000
+43,set,current_sweep,15
+44,move_angle,4,25000,420.370136,500000
+45,set,current_sweep,16
+46,move_angle,4,25000,420.370136,500000
+47,set,current_sweep,17
+48,move_angle,4,25000,420.370136,500000
+49,set,current_sweep,18
+50,move_angle,4,25000,420.370136,500000
+51,set,current_sweep,19
+52,move_angle,4,25000,420.370136,500000
+53,log,closing shutter 2,true
+54,shutter,2,close
+55,log,stopping slave sweep for platen,false
+56,slave_sweep,3,stop,12500,8343.74,500000
+57,log,rezeroing mandrel by moving 4.0 degrees,false
+58,move_angle,4,277,1252.344,500000
+59,log,rezero slave axis platen,false
+60,slave_rezero,3,12515.61,500000

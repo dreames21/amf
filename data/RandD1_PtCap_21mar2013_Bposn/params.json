@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "name": "Pt", 
+        "rate": 0.5650, 
+        "thickness": 75.0000
+    }, 
+    "cathodes": [
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_PtCap_21mar2013_Bposn", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 8.0000
+}

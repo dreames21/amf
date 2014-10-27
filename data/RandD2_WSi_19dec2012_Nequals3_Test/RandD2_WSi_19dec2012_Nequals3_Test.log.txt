@@ -1,0 +1,336 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:05:53.1087 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:06:23.3118 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:07:01.4368 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:07:30.9681 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:08:11.1712 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:08:41.0462 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:09:19.7337 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:09:49.1712 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 5
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:10:27.3118 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:10:56.7493 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 6
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:11:34.8899 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:12:04.3743 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 7
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:12:42.4993 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:13:11.8899 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 8
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:13:49.9837 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:14:20.8118 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 9
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:14:58.9993 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:15:28.4368 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 10
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+sweeping rotary stage back and forth 1.0 times at 0.92 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:16:08.0618 PM.
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -40.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+sweeping rotary stage back and forth 1.0 times at 0.576 RPM
+Starting Sweep 0 of 1 at Wed, 12/19/2012 01:16:37.9524 PM.
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving -40.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+rotating rotary stage 1.0 times at 1.35 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+rotating rotary stage 1.0 times at 0.6 RPM
+closing shutter 2
+
+
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+rotating rotary stage 1.0 times at 1.35 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+rotating rotary stage 1.0 times at 0.6 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 1
+rotating rotary stage 1.0 times at 1.35 RPM
+closing shutter 1
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -0.0 degrees
+ofsetting rotary stage back -4.0 degrees
+sweeping slave axis platen at 0.0 angle at 0.0 RPM
+opening shutter 2
+rotating rotary stage 1.0 times at 0.6 RPM
+closing shutter 2
+stopping slave sweep for platen
+rezeroing rotary stage by moving 4.0 degrees
+rezero slave axis platen
+moving platen 180.0 degrees

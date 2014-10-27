@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 39.0 times at 1.9916 RPM
+Starting Sweep 0 of 39 at Fri, 9/21/2012 10:48:26.7812 AM.
+Starting Sweep 1 of 39 at Fri, 9/21/2012 10:48:27.5000 AM.
+Starting Sweep 2 of 39 at Fri, 9/21/2012 10:48:28.2031 AM.
+Starting Sweep 3 of 39 at Fri, 9/21/2012 10:48:28.9218 AM.
+Starting Sweep 4 of 39 at Fri, 9/21/2012 10:48:29.6250 AM.
+Starting Sweep 5 of 39 at Fri, 9/21/2012 10:48:30.3437 AM.
+Starting Sweep 6 of 39 at Fri, 9/21/2012 10:48:31.0625 AM.
+Starting Sweep 7 of 39 at Fri, 9/21/2012 10:48:31.7812 AM.
+Starting Sweep 8 of 39 at Fri, 9/21/2012 10:48:32.4843 AM.
+Starting Sweep 9 of 39 at Fri, 9/21/2012 10:48:33.2031 AM.
+Starting Sweep 10 of 39 at Fri, 9/21/2012 10:48:33.9218 AM.
+Starting Sweep 11 of 39 at Fri, 9/21/2012 10:48:34.6250 AM.
+Starting Sweep 12 of 39 at Fri, 9/21/2012 10:48:35.3437 AM.
+Starting Sweep 13 of 39 at Fri, 9/21/2012 10:48:36.0625 AM.
+Starting Sweep 14 of 39 at Fri, 9/21/2012 10:48:36.7656 AM.
+Starting Sweep 15 of 39 at Fri, 9/21/2012 10:48:37.4843 AM.
+Starting Sweep 16 of 39 at Fri, 9/21/2012 10:48:38.1875 AM.
+Starting Sweep 17 of 39 at Fri, 9/21/2012 10:48:38.9062 AM.
+Starting Sweep 18 of 39 at Fri, 9/21/2012 10:48:39.6250 AM.
+Starting Sweep 19 of 39 at Fri, 9/21/2012 10:48:40.3281 AM.
+Starting Sweep 20 of 39 at Fri, 9/21/2012 10:48:41.0468 AM.
+Starting Sweep 21 of 39 at Fri, 9/21/2012 10:48:41.7500 AM.
+Starting Sweep 22 of 39 at Fri, 9/21/2012 10:48:42.4687 AM.
+Starting Sweep 23 of 39 at Fri, 9/21/2012 10:48:43.1718 AM.
+Starting Sweep 24 of 39 at Fri, 9/21/2012 10:48:43.8906 AM.
+Starting Sweep 25 of 39 at Fri, 9/21/2012 10:48:44.6093 AM.
+Starting Sweep 26 of 39 at Fri, 9/21/2012 10:48:45.3281 AM.
+Starting Sweep 27 of 39 at Fri, 9/21/2012 10:48:46.0312 AM.
+Starting Sweep 28 of 39 at Fri, 9/21/2012 10:48:46.7500 AM.
+Starting Sweep 29 of 39 at Fri, 9/21/2012 10:48:47.4531 AM.
+Starting Sweep 30 of 39 at Fri, 9/21/2012 10:48:48.1718 AM.
+Starting Sweep 31 of 39 at Fri, 9/21/2012 10:48:48.8906 AM.
+Starting Sweep 32 of 39 at Fri, 9/21/2012 10:48:49.6093 AM.
+Starting Sweep 33 of 39 at Fri, 9/21/2012 10:48:50.3281 AM.
+Starting Sweep 34 of 39 at Fri, 9/21/2012 10:48:51.0468 AM.
+Starting Sweep 35 of 39 at Fri, 9/21/2012 10:48:52.2187 AM.
+Starting Sweep 36 of 39 at Fri, 9/21/2012 10:48:53.2656 AM.
+Starting Sweep 37 of 39 at Fri, 9/21/2012 10:48:53.9687 AM.
+Starting Sweep 38 of 39 at Fri, 9/21/2012 10:48:54.7031 AM.
+closing shutter 1
+rezeroing platen by moving -4.0 degrees

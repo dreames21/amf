@@ -1,0 +1,15 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -5.455 degrees
+opening shutter 1
+sweeping platen back and forth 3.0 times at 0.0918258333333 RPM
+Starting Sweep 0 of 3 at Wed, 10/24/2012 05:02:17.2031 PM.
+Starting Sweep 1 of 3 at Wed, 10/24/2012 05:02:37.0156 PM.
+Starting Sweep 2 of 3 at Wed, 10/24/2012 05:02:56.8281 PM.
+closing shutter 1
+rezeroing platen by moving -5.455 degrees
+
+

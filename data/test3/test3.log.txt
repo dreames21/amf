@@ -1,0 +1,178 @@
+
+
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 14.0 times at 1.86666666667 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:14:55.5781 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:14:56.3281 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:14:57.0781 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:14:57.8437 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:14:58.5937 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:14:59.3593 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:15:00.1093 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:15:00.8593 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:15:01.6093 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:15:02.3750 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:15:03.1250 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:15:03.8906 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:15:04.6562 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:15:05.4062 PM.
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 14.0 times at 1.99111111111 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:15:16.8281 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:15:17.5468 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:15:18.2500 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:15:18.9687 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:15:19.6875 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:15:20.4062 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:15:21.1093 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:15:21.8281 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:15:22.5312 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:15:23.2500 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:15:23.9687 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:15:24.6875 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:15:25.3906 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:15:26.1093 PM.
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 2
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 14.0 times at 1.86666666667 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:15:37.5000 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:15:38.2656 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:15:39.0156 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:15:39.7656 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:15:40.5312 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:15:41.2812 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:15:42.0468 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:15:42.7968 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:15:43.5625 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:15:44.3125 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:15:45.0625 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:15:45.8281 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:15:46.5781 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:15:47.3281 PM.
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 14.0 times at 1.99111111111 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:15:58.7812 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:15:59.5000 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:16:00.2187 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:16:00.9375 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:16:01.6562 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:16:02.3750 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:16:03.0781 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:16:03.7812 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:16:04.5000 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:16:05.2031 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:16:05.9218 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:16:06.6406 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:16:07.3437 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:16:08.0625 PM.
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 3
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 14.0 times at 1.86666666667 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:16:19.5312 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:16:20.2812 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:16:21.0312 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:16:21.7968 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:16:22.5468 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:16:23.3125 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:16:24.0625 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:16:24.8125 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:16:25.5781 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:16:26.3437 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:16:27.0937 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:16:27.8437 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:16:28.6093 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:16:29.3593 PM.
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 14.0 times at 1.99111111111 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:16:40.7968 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:16:41.5156 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:16:42.2343 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:16:42.9375 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:16:43.6562 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:16:44.3750 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:16:45.0937 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:16:45.7968 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:16:46.5156 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:16:47.2343 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:16:47.9531 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:16:48.6562 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:16:49.3750 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:16:50.0781 PM.
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees
+
+starting layer 4
+starting bilayer 1
+ofsetting platen back -4.0 degrees
+opening shutter 1
+sweeping platen back and forth 14.0 times at 1.86666666667 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:17:01.5312 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:17:02.2812 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:17:03.0468 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:17:03.7968 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:17:04.5468 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:17:05.3125 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:17:06.0781 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:17:06.8281 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:17:07.5781 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:17:08.3437 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:17:09.0937 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:17:09.8593 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:17:10.6093 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:17:11.3750 PM.
+closing shutter 1
+rezeroing platen by moving 4.0 degrees
+moving platen -180.0 degrees
+starting bilayer 2
+ofsetting platen back -4.0 degrees
+opening shutter 2
+sweeping platen back and forth 14.0 times at 1.99111111111 RPM
+Starting Sweep 0 of 14 at Thu, 9/6/2012 05:17:22.8437 PM.
+Starting Sweep 1 of 14 at Thu, 9/6/2012 05:17:23.5625 PM.
+Starting Sweep 2 of 14 at Thu, 9/6/2012 05:17:24.2812 PM.
+Starting Sweep 3 of 14 at Thu, 9/6/2012 05:17:25.0000 PM.
+Starting Sweep 4 of 14 at Thu, 9/6/2012 05:17:25.7031 PM.
+Starting Sweep 5 of 14 at Thu, 9/6/2012 05:17:26.4218 PM.
+Starting Sweep 6 of 14 at Thu, 9/6/2012 05:17:27.1406 PM.
+Starting Sweep 7 of 14 at Thu, 9/6/2012 05:17:27.8437 PM.
+Starting Sweep 8 of 14 at Thu, 9/6/2012 05:17:28.5625 PM.
+Starting Sweep 9 of 14 at Thu, 9/6/2012 05:17:29.2812 PM.
+Starting Sweep 10 of 14 at Thu, 9/6/2012 05:17:30.0000 PM.
+Starting Sweep 11 of 14 at Thu, 9/6/2012 05:17:30.7031 PM.
+Starting Sweep 12 of 14 at Thu, 9/6/2012 05:17:31.4218 PM.
+Starting Sweep 13 of 14 at Thu, 9/6/2012 05:17:32.1250 PM.
+closing shutter 2
+rezeroing platen by moving 4.0 degrees
+moving platen 180.0 degrees

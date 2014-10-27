@@ -1,0 +1,21 @@
+{
+    "N": 20, 
+    "cathode 1": {
+        "RPM": 1.0000, 
+        "name": "W", 
+        "rate": 1.5000, 
+        "thickness": 200.0000
+    }, 
+    "cathodes": [
+        "cathode 1"
+    ], 
+    "chamber": "r_and_d2", 
+    "generate_files": true, 
+    "initial_cathode": 1, 
+    "name": "RandD2_WSi_4feb2013_Test1_duplicate", 
+    "run_mode": "mandrel_mode", 
+    "single_cathode": true, 
+    "slave_RPM": 1.0000, 
+    "slave_sweep_angle": 20.0000, 
+    "sweep_angle": 180.0000
+}

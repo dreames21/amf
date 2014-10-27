@@ -1,0 +1,120 @@
+-1,log,begin header for RandD2_Si_15sep2013_HalfCurrent,true
+-1,set,axis 1 conversion_factor,6897.92
+-1,set,mandrel_axis,2
+-1,set,axis 1 accel_decel,500000
+-1,set,current_bilayer,0
+-1,set,axis 2 conversion_factor,600.521
+-1,set,run_name,RandD2_Si_15sep2013_HalfCurrent
+-1,set,axis 2 steps_in_rev,36000
+-1,set,platen_axis,1
+-1,set,axis 3 conversion_factor,262.322834646
+-1,set,current_sweep_iterations,0
+-1,set,axis 3 accel_decel,50000
+-1,set,N,1
+-1,set,chamber_name,R&D2
+-1,set,axis 1 name,platen
+-1,set,linear_stage_axis,3
+-1,set,axis 2 name,rotary stage
+-1,set,axis 1 steps_in_rev,412500
+-1,set,current_N,0
+-1,set,axis 3 name,linear stage
+-1,set,cathode 2 deposition_rate,2.25
+-1,set,axis 2 accel_decel,50000
+-1,set,cathode 2 name,cathode 2
+-1,set,axis 3 steps_in_rev,53304
+-1,log,N = 1,false
+-1,log,axis 1 accel_decel = 500000,false
+-1,log,axis 1 conversion_factor = 6897.92,false
+-1,log,axis 1 name = platen,false
+-1,log,axis 1 steps_in_rev = 412500,false
+-1,log,axis 2 accel_decel = 50000,false
+-1,log,axis 2 conversion_factor = 600.521,false
+-1,log,axis 2 name = rotary stage,false
+-1,log,axis 2 steps_in_rev = 36000,false
+-1,log,axis 3 accel_decel = 50000,false
+-1,log,axis 3 conversion_factor = 262.322834646,false
+-1,log,axis 3 name = linear stage,false
+-1,log,axis 3 steps_in_rev = 53304,false
+-1,log,cathode 2 deposition_rate = 2.25,false
+-1,log,cathode 2 name = cathode 2,false
+-1,log,chamber_name = R&D2,false
+-1,log,current_N = 0,false
+-1,log,current_bilayer = 0,false
+-1,log,current_sweep_iterations = 0,false
+-1,log,linear_stage_axis = 3,false
+-1,log,mandrel_axis = 2,false
+-1,log,platen_axis = 1,false
+-1,log,run_name = RandD2_Si_15sep2013_HalfCurrent,false
+0,log,,false
+1,log,starting layer 1,false
+2,log,starting bilayer 1,false
+3,set,current_N,1
+4,set,current_bilayer,1
+5,set,current_sweep_iterations,44.0
+6,log,ofsetting platen back -0.0 degrees,false
+7,move_angle,1,0,20693.76,500000
+8,log,ofsetting rotary stage back -4.0 degrees,false
+9,move_angle,2,-400,1801.563,50000
+10,log,sweeping slave axis platen at 0.0 angle at 0.0 RPM,false
+11,slave_sweep,1,start,0,0.0,500000
+12,log,opening shutter 2,true
+13,shutter,2,open
+14,log,rotating rotary stage 44.0 times at 0.99 RPM,false
+15,set,current_sweep,1
+16,move_angle,2,36000,594.51579,50000
+17,set,current_sweep,2
+18,move_angle,2,36000,594.51579,50000
+19,set,current_sweep,3
+20,move_angle,2,36000,594.51579,50000
+21,set,current_sweep,4
+22,move_angle,2,36000,594.51579,50000
+23,set,current_sweep,5
+24,move_angle,2,36000,594.51579,50000
+25,set,current_sweep,6
+26,move_angle,2,36000,594.51579,50000
+27,set,current_sweep,7
+28,move_angle,2,36000,594.51579,50000
+29,set,current_sweep,8
+30,move_angle,2,36000,594.51579,50000
+31,set,current_sweep,9
+32,move_angle,2,36000,594.51579,50000
+33,set,current_sweep,10
+34,move_angle,2,36000,594.51579,50000
+35,set,current_sweep,11
+36,move_angle,2,36000,594.51579,50000
+37,set,current_sweep,12
+38,move_angle,2,36000,594.51579,50000
+39,set,current_sweep,13
+40,move_angle,2,36000,594.51579,50000
+41,set,current_sweep,14
+42,move_angle,2,36000,594.51579,50000
+43,set,current_sweep,15
+44,move_angle,2,36000,594.51579,50000
+45,set,current_sweep,16
+46,move_angle,2,36000,594.51579,50000
+47,set,current_sweep,17
+48,move_angle,2,36000,594.51579,50000
+49,set,current_sweep,18
+50,move_angle,2,36000,594.51579,50000
+51,set,current_sweep,19
+52,move_angle,2,36000,594.51579,50000
+53,set,current_sweep,20
+54,move_angle,2,36000,594.51579,50000
+55,set,current_sweep,21
+56,move_angle,2,36000,594.51579,50000
+57,set,current_sweep,22
+58,move_angle,2,36000,594.51579,50000
+59,set,current_sweep,23
+60,move_angle,2,36000,594.51579,50000
+61,set,current_sweep,24
+62,move_angle,2,36000,594.51579,50000
+63,set,current_sweep,25
+64,move_angle,2,36000,594.51579,50000
+65,set,current_sweep,26
+66,move_angle,2,36000,594.51579,50000
+67,set,current_sweep,27
+68,move_angle,2,36000,594.51579,50000
+69,set,current_sweep,28
+70,move_angle,2,36000,594.51579,50000
+71,set,current_sweep,29
+72,move_angle,2,36000,594.

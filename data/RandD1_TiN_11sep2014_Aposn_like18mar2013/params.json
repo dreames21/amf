@@ -1,0 +1,19 @@
+{
+    "N": 1, 
+    "cathode 2": {
+        "RPM": 2.0000, 
+        "name": "TiN", 
+        "rate": 0.4150, 
+        "thickness": 260.0000
+    }, 
+    "cathodes": [
+        "cathode 2"
+    ], 
+    "chamber": "r_and_d1", 
+    "generate_files": true, 
+    "initial_cathode": 2, 
+    "name": "RandD1_TiN_11sep2014_Aposn_like18mar2013", 
+    "run_mode": "platen_mode", 
+    "single_cathode": true, 
+    "sweep_angle": 8.0000
+}

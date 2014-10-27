@@ -1,0 +1,532 @@
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Tue, 4/30/2013 06:14:31.6198 PM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Tue, 4/30/2013 06:15:56.1217 PM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -10.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 20.0 angle at 1.0 RPM
+opening shutter 1 [ Tue, 4/30/2013 06:16:03.9343 PM ]
+sweeping rotary stage back and forth 133.0 times at 0.9975 RPM
+starting sweep 0 of 133 [ Tue, 4/30/2013 06:16:04.0437 PM ]
+starting sweep 1 of 133 [ Tue, 4/30/2013 06:16:34.1693 PM ]
+starting sweep 2 of 133 [ Tue, 4/30/2013 06:17:04.3574 PM ]
+starting sweep 3 of 133 [ Tue, 4/30/2013 06:17:34.5454 PM ]
+starting sweep 4 of 133 [ Tue, 4/30/2013 06:18:04.6710 PM ]
+starting sweep 5 of 133 [ Tue, 4/30/2013 06:18:34.8278 PM ]
+starting sweep 6 of 133 [ Tue, 4/30/2013 06:19:04.9847 PM ]
+starting sweep 7 of 133 [ Tue, 4/30/2013 06:19:35.1571 PM ]
+starting sweep 8 of 133 [ Tue, 4/30/2013 06:19:48.2667 PM ]
+starting sweep 9 of 133 [ Tue, 4/30/2013 06:19:48.2667 PM ]
+starting sweep 10 of 133 [ Tue, 4/30/2013 06:19:48.2824 PM ]
+starting sweep 11 of 133 [ Tue, 4/30/2013 06:19:48.3136 PM ]
+starting sweep 12 of 133 [ Tue, 4/30/2013 06:19:48.3605 PM ]
+starting sweep 13 of 133 [ Tue, 4/30/2013 06:19:48.3761 PM ]
+starting sweep 14 of 133 [ Tue, 4/30/2013 06:19:48.3918 PM ]
+starting sweep 15 of 133 [ Tue, 4/30/2013 06:19:48.4386 PM ]
+starting sweep 16 of 133 [ Tue, 4/30/2013 06:19:48.5011 PM ]
+starting sweep 17 of 133 [ Tue, 4/30/2013 06:19:48.5168 PM ]
+starting sweep 18 of 133 [ Tue, 4/30/2013 06:19:48.5324 PM ]
+starting sweep 19 of 133 [ Tue, 4/30/2013 06:19:48.5793 PM ]
+starting sweep 20 of 133 [ Tue, 4/30/2013 06:19:48.8605 PM ]
+starting sweep 21 of 133 [ Tue, 4/30/2013 06:19:48.9699 PM ]
+starting sweep 22 of 133 [ Tue, 4/30/2013 06:19:49.0011 PM ]
+starting sweep 23 of 133 [ Tue, 4/30/2013 06:19:49.0168 PM ]
+starting sweep 24 of 133 [ Tue, 4/30/2013 06:19:49.0480 PM ]
+starting sweep 25 of 133 [ Tue, 4/30/2013 06:19:49.0793 PM ]
+starting sweep 26 of 133 [ Tue, 4/30/2013 06:19:49.1105 PM ]
+starting sweep 27 of 133 [ Tue, 4/30/2013 06:19:49.1105 PM ]
+starting sweep 28 of 133 [ Tue, 4/30/2013 06:19:49.1418 PM ]
+starting sweep 29 of 133 [ Tue, 4/30/2013 06:19:49.1730 PM ]
+starting sweep 30 of 133 [ Tue, 4/30/2013 06:19:49.1886 PM ]
+starting sweep 31 of 133 [ Tue, 4/30/2013 06:19:49.5324 PM ]
+starting sweep 32 of 133 [ Tue, 4/30/2013 06:19:49.5480 PM ]
+starting sweep 33 of 133 [ Tue, 4/30/2013 06:19:49.5636 PM ]
+starting sweep 34 of 133 [ Tue, 4/30/2013 06:19:49.5793 PM ]
+starting sweep 35 of 133 [ Tue, 4/30/2013 06:19:49.6105 PM ]
+starting sweep 36 of 133 [ Tue, 4/30/2013 06:19:49.6105 PM ]
+starting sweep 37 of 133 [ Tue, 4/30/2013 06:19:49.6418 PM ]
+starting sweep 38 of 133 [ Tue, 4/30/2013 06:19:49.6730 PM ]
+starting sweep 39 of 133 [ Tue, 4/30/2013 06:19:49.7355 PM ]
+starting sweep 40 of 133 [ Tue, 4/30/2013 06:19:49.7512 PM ]
+starting sweep 41 of 133 [ Tue, 4/30/2013 06:19:49.7668 PM ]
+starting sweep 42 of 133 [ Tue, 4/30/2013 06:19:49.7824 PM ]
+starting sweep 43 of 133 [ Tue, 4/30/2013 06:19:49.7824 PM ]
+starting sweep 44 of 133 [ Tue, 4/30/2013 06:19:49.7980 PM ]
+starting sweep 45 of 133 [ Tue, 4/30/2013 06:19:49.8137 PM ]
+starting sweep 46 of 133 [ Tue, 4/30/2013 06:19:50.1730 PM ]
+starting sweep 47 of 133 [ Tue, 4/30/2013 06:19:50.1887 PM ]
+starting sweep 48 of 133 [ Tue, 4/30/2013 06:19:50.2043 PM ]
+starting sweep 49 of 133 [ Tue, 4/30/2013 06:19:50.2199 PM ]
+starting sweep 50 of 133 [ Tue, 4/30/2013 06:19:50.2355 PM ]
+starting sweep 51 of 133 [ Tue, 4/30/2013 06:19:50.2512 PM ]
+starting sweep 52 of 133 [ Tue, 4/30/2013 06:19:50.2824 PM ]
+starting sweep 53 of 133 [ Tue, 4/30/2013 06:19:50.2980 PM ]
+starting sweep 54 of 133 [ Tue, 4/30/2013 06:19:50.3605 PM ]
+starting sweep 55 of 133 [ Tue, 4/30/2013 06:19:50.3918 PM ]
+starting sweep 56 of 133 [ Tue, 4/30/2013 06:19:50.4230 PM ]
+starting sweep 57 of 133 [ Tue, 4/30/2013 06:19:50.4387 PM ]
+starting sweep 58 of 133 [ Tue, 4/30/2013 06:19:50.4543 PM ]
+starting sweep 59 of 133 [ Tue, 4/30/2013 06:19:50.4855 PM ]
+starting sweep 60 of 133 [ Tue, 4/30/2013 06:19:51.1731 PM ]
+starting sweep 61 of 133 [ Tue, 4/30/2013 06:19:51.2199 PM ]
+starting sweep 62 of 133 [ Tue, 4/30/2013 06:19:51.2356 PM ]
+starting sweep 63 of 133 [ Tue, 4/30/2013 06:19:51.2356 PM ]
+starting sweep 64 of 133 [ Tue, 4/30/2013 06:19:51.2512 PM ]
+starting sweep 65 of 133 [ Tue, 4/30/2013 06:19:51.2668 PM ]
+starting sweep 66 of 133 [ Tue, 4/30/2013 06:19:51.2668 PM ]
+starting sweep 67 of 133 [ Tue, 4/30/2013 06:19:51.2824 PM ]
+starting sweep 68 of 133 [ Tue, 4/30/2013 06:19:51.2981 PM ]
+starting sweep 69 of 133 [ Tue, 4/30/2013 06:19:51.3137 PM ]
+starting sweep 70 of 133 [ Tue, 4/30/2013 06:19:51.3293 PM ]
+starting sweep 71 of 133 [ Tue, 4/30/2013 06:19:51.3762 PM ]
+starting sweep 72 of 133 [ Tue, 4/30/2013 06:19:51.3918 PM ]
+starting sweep 73 of 133 [ Tue, 4/30/2013 06:19:51.4074 PM ]
+starting sweep 74 of 133 [ Tue, 4/30/2013 06:19:51.4074 PM ]
+starting sweep 75 of 133 [ Tue, 4/30/2013 06:19:51.4231 PM ]
+starting sweep 76 of 133 [ Tue, 4/30/2013 06:19:51.4387 PM ]
+starting sweep 77 of 133 [ Tue, 4/30/2013 06:19:51.4543 PM ]
+starting sweep 78 of 133 [ Tue, 4/30/2013 06:19:51.8762 PM ]
+starting sweep 79 of 133 [ Tue, 4/30/2013 06:19:51.9387 PM ]
+starting sweep 80 of 133 [ Tue, 4/30/2013 06:19:51.9543 PM ]
+starting sweep 81 of 133 [ Tue, 4/30/2013 06:19:51.9856 PM ]
+starting sweep 82 of 133 [ Tue, 4/30/2013 06:19:52.0168 PM ]
+starting sweep 83 of 133 [ Tue, 4/30/2013 06:19:52.0168 PM ]
+starting sweep 84 of 133 [ Tue, 4/30/2013 06:19:52.0481 PM ]
+starting sweep 85 of 133 [ Tue, 4/30/2013 06:19:52.0793 PM ]
+starting sweep 86 of 133 [ Tue, 4/30/2013 06:19:52.1418 PM ]
+starting sweep 87 of 133 [ Tue, 4/30/2013 06:19:52.1887 PM ]
+starting sweep 88 of 133 [ Tue, 4/30/2013 06:19:52.6418 PM ]
+starting sweep 89 of 133 [ Tue, 4/30/2013 06:19:52.6575 PM ]
+starting sweep 90 of 133 [ Tue, 4/30/2013 06:19:52.6731 PM ]
+starting sweep 91 of 133 [ Tue, 4/30/2013 06:19:52.6887 PM ]
+starting sweep 92 of 133 [ Tue, 4/30/2013 06:19:52.7200 PM ]
+starting sweep 93 of 133 [ Tue, 4/30/2013 06:19:52.7356 PM ]
+starting sweep 94 of 133 [ Tue, 4/30/2013 06:19:52.7512 PM ]
+starting sweep 95 of 133 [ Tue, 4/30/2013 06:19:52.7668 PM ]
+starting sweep 96 of 133 [ Tue, 4/30/2013 06:19:52.7981 PM ]
+starting sweep 97 of 133 [ Tue, 4/30/2013 06:19:52.8450 PM ]
+starting sweep 98 of 133 [ Tue, 4/30/2013 06:19:52.8918 PM ]
+starting sweep 99 of 133 [ Tue, 4/30/2013 06:19:52.9075 PM ]
+starting sweep 100 of 133 [ Tue, 4/30/2013 06:19:52.9387 PM ]
+starting sweep 101 of 133 [ Tue, 4/30/2013 06:19:52.9543 PM ]
+starting sweep 102 of 133 [ Tue, 4/30/2013 06:19:52.9700 PM ]
+starting sweep 103 of 133 [ Tue, 4/30/2013 06:19:53.2825 PM ]
+starting sweep 104 of 133 [ Tue, 4/30/2013 06:19:53.3918 PM ]
+starting sweep 105 of 133 [ Tue, 4/30/2013 06:19:53.4231 PM ]
+starting sweep 106 of 133 [ Tue, 4/30/2013 06:19:53.4387 PM ]
+starting sweep 107 of 133 [ Tue, 4/30/2013 06:19:53.4700 PM ]
+starting sweep 108 of 133 [ Tue, 4/30/2013 06:19:53.7356 PM ]
+starting sweep 109 of 133 [ Tue, 4/30/2013 06:19:54.2512 PM ]
+starting sweep 110 of 133 [ Tue, 4/30/2013 06:19:54.2669 PM ]
+starting sweep 111 of 133 [ Tue, 4/30/2013 06:19:54.2981 PM ]
+starting sweep 112 of 133 [ Tue, 4/30/2013 06:19:54.3606 PM ]
+starting sweep 113 of 133 [ Tue, 4/30/2013 06:19:54.3762 PM ]
+starting sweep 114 of 133 [ Tue, 4/30/2013 06:19:54.3919 PM ]
+starting sweep 115 of 133 [ Tue, 4/30/2013 06:19:54.4231 PM ]
+starting sweep 116 of 133 [ Tue, 4/30/2013 06:19:54.4544 PM ]
+starting sweep 117 of 133 [ Tue, 4/30/2013 06:19:54.4700 PM ]
+starting sweep 118 of 133 [ Tue, 4/30/2013 06:19:54.4856 PM ]
+starting sweep 119 of 133 [ Tue, 4/30/2013 06:19:54.5169 PM ]
+starting sweep 120 of 133 [ Tue, 4/30/2013 06:19:54.5481 PM ]
+starting sweep 121 of 133 [ Tue, 4/30/2013 06:19:54.6262 PM ]
+starting sweep 122 of 133 [ Tue, 4/30/2013 06:19:54.9388 PM ]
+starting sweep 123 of 133 [ Tue, 4/30/2013 06:19:54.9544 PM ]
+starting sweep 124 of 133 [ Tue, 4/30/2013 06:19:54.9700 PM ]
+starting sweep 125 of 133 [ Tue, 4/30/2013 06:19:54.9856 PM ]
+starting sweep 126 of 133 [ Tue, 4/30/2013 06:19:55.0013 PM ]
+starting sweep 127 of 133 [ Tue, 4/30/2013 06:19:55.0325 PM ]
+starting sweep 128 of 133 [ Tue, 4/30/2013 06:19:55.0481 PM ]
+starting sweep 129 of 133 [ Tue, 4/30/2013 06:19:55.0794 PM ]
+starting sweep 130 of 133 [ Tue, 4/30/2013 06:19:55.1106 PM ]
+starting sweep 131 of 133 [ Tue, 4/30/2013 06:19:55.1419 PM ]
+starting sweep 132 of 133 [ Tue, 4/30/2013 06:19:55.1575 PM ]
+closing shutter 1 [ Tue, 4/30/2013 06:19:55.1731 PM ]
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Tue, 4/30/2013 06:21:21.3310 PM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Tue, 4/30/2013 06:21:22.6904 PM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Tue, 4/30/2013 06:21:29.1593 PM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+starting layer 1
+starting bilayer 1
+ofsetting platen back -10.0 degrees
+ofsetting rotary stage back -90.0 degrees
+sweeping slave axis platen at 20.0 angle at 1.0 RPM
+opening shutter 1 [ Tue, 4/30/2013 06:21:38.1439 PM ]
+sweeping rotary stage back and forth 133.0 times at 0.9975 RPM
+starting sweep 0 of 133 [ Tue, 4/30/2013 06:21:38.2220 PM ]
+starting sweep 1 of 133 [ Tue, 4/30/2013 06:22:08.3476 PM ]
+starting sweep 2 of 133 [ Tue, 4/30/2013 06:22:38.4888 PM ]
+starting sweep 3 of 133 [ Tue, 4/30/2013 06:23:08.6768 PM ]
+starting sweep 4 of 133 [ Tue, 4/30/2013 06:23:38.8337 PM ]
+starting sweep 5 of 133 [ Tue, 4/30/2013 06:24:09.0061 PM ]
+starting sweep 6 of 133 [ Tue, 4/30/2013 06:24:39.1473 PM ]
+starting sweep 7 of 133 [ Tue, 4/30/2013 06:25:09.2729 PM ]
+starting sweep 8 of 133 [ Tue, 4/30/2013 06:25:39.4454 PM ]
+starting sweep 9 of 133 [ Tue, 4/30/2013 06:26:09.6178 PM ]
+starting sweep 10 of 133 [ Tue, 4/30/2013 06:26:39.7434 PM ]
+starting sweep 11 of 133 [ Tue, 4/30/2013 06:27:09.9159 PM ]
+starting sweep 12 of 133 [ Tue, 4/30/2013 06:27:40.0883 PM ]
+starting sweep 13 of 133 [ Tue, 4/30/2013 06:28:10.2764 PM ]
+starting sweep 14 of 133 [ Tue, 4/30/2013 06:28:30.9018 PM ]
+starting sweep 15 of 133 [ Tue, 4/30/2013 06:28:30.9018 PM ]
+starting sweep 16 of 133 [ Tue, 4/30/2013 06:28:30.9330 PM ]
+starting sweep 17 of 133 [ Tue, 4/30/2013 06:28:30.9955 PM ]
+starting sweep 18 of 133 [ Tue, 4/30/2013 06:28:31.0424 PM ]
+starting sweep 19 of 133 [ Tue, 4/30/2013 06:28:31.0893 PM ]
+starting sweep 20 of 133 [ Tue, 4/30/2013 06:28:31.1362 PM ]
+starting sweep 21 of 133 [ Tue, 4/30/2013 06:28:31.1674 PM ]
+starting sweep 22 of 133 [ Tue, 4/30/2013 06:28:31.1987 PM ]
+starting sweep 23 of 133 [ Tue, 4/30/2013 06:28:31.2143 PM ]
+starting sweep 24 of 133 [ Tue, 4/30/2013 06:28:31.2143 PM ]
+starting sweep 25 of 133 [ Tue, 4/30/2013 06:28:31.2455 PM ]
+starting sweep 26 of 133 [ Tue, 4/30/2013 06:28:31.5424 PM ]
+starting sweep 27 of 133 [ Tue, 4/30/2013 06:28:31.6987 PM ]
+starting sweep 28 of 133 [ Tue, 4/30/2013 06:28:31.7143 PM ]
+starting sweep 29 of 133 [ Tue, 4/30/2013 06:28:31.7299 PM ]
+starting sweep 30 of 133 [ Tue, 4/30/2013 06:28:31.7612 PM ]
+starting sweep 31 of 133 [ Tue, 4/30/2013 06:28:31.7768 PM ]
+starting sweep 32 of 133 [ Tue, 4/30/2013 06:28:31.7924 PM ]
+starting sweep 33 of 133 [ Tue, 4/30/2013 06:28:31.8237 PM ]
+starting sweep 34 of 133 [ Tue, 4/30/2013 06:28:31.8393 PM ]
+starting sweep 35 of 133 [ Tue, 4/30/2013 06:28:31.8706 PM ]
+starting sweep 36 of 133 [ Tue, 4/30/2013 06:28:31.8706 PM ]
+starting sweep 37 of 133 [ Tue, 4/30/2013 06:28:31.8862 PM ]
+starting sweep 38 of 133 [ Tue, 4/30/2013 06:28:31.9174 PM ]
+starting sweep 39 of 133 [ Tue, 4/30/2013 06:28:32.5737 PM ]
+starting sweep 40 of 133 [ Tue, 4/30/2013 06:28:32.5893 PM ]
+starting sweep 41 of 133 [ Tue, 4/30/2013 06:28:32.6049 PM ]
+starting sweep 42 of 133 [ Tue, 4/30/2013 06:28:32.6206 PM ]
+starting sweep 43 of 133 [ Tue, 4/30/2013 06:28:32.6674 PM ]
+starting sweep 44 of 133 [ Tue, 4/30/2013 06:28:32.6831 PM ]
+starting sweep 45 of 133 [ Tue, 4/30/2013 06:28:32.6987 PM ]
+starting sweep 46 of 133 [ Tue, 4/30/2013 06:28:32.7299 PM ]
+starting sweep 47 of 133 [ Tue, 4/30/2013 06:28:32.8081 PM ]
+starting sweep 48 of 133 [ Tue, 4/30/2013 06:28:32.8081 PM ]
+starting sweep 49 of 133 [ Tue, 4/30/2013 06:28:32.8393 PM ]
+starting sweep 50 of 133 [ Tue, 4/30/2013 06:28:32.8549 PM ]
+starting sweep 51 of 133 [ Tue, 4/30/2013 06:28:32.8706 PM ]
+starting sweep 52 of 133 [ Tue, 4/30/2013 06:28:32.9643 PM ]
+starting sweep 53 of 133 [ Tue, 4/30/2013 06:28:33.5581 PM ]
+starting sweep 54 of 133 [ Tue, 4/30/2013 06:28:34.0112 PM ]
+starting sweep 55 of 133 [ Tue, 4/30/2013 06:28:34.1362 PM ]
+starting sweep 56 of 133 [ Tue, 4/30/2013 06:28:34.1831 PM ]
+starting sweep 57 of 133 [ Tue, 4/30/2013 06:28:34.2612 PM ]
+starting sweep 58 of 133 [ Tue, 4/30/2013 06:28:34.2925 PM ]
+starting sweep 59 of 133 [ Tue, 4/30/2013 06:28:34.3081 PM ]
+starting sweep 60 of 133 [ Tue, 4/30/2013 06:28:34.3237 PM ]
+starting sweep 61 of 133 [ Tue, 4/30/2013 06:28:34.3550 PM ]
+starting sweep 62 of 133 [ Tue, 4/30/2013 06:28:34.3706 PM ]
+starting sweep 63 of 133 [ Tue, 4/30/2013 06:28:34.7612 PM ]
+starting sweep 64 of 133 [ Tue, 4/30/2013 06:28:34.7925 PM ]
+starting sweep 65 of 133 [ Tue, 4/30/2013 06:28:34.8237 PM ]
+starting sweep 66 of 133 [ Tue, 4/30/2013 06:28:34.8394 PM ]
+starting sweep 67 of 133 [ Tue, 4/30/2013 06:28:34.8706 PM ]
+starting sweep 68 of 133 [ Tue, 4/30/2013 06:28:34.9019 PM ]
+starting sweep 69 of 133 [ Tue, 4/30/2013 06:28:34.9331 PM ]
+starting sweep 70 of 133 [ Tue, 4/30/2013 06:28:34.9487 PM ]
+starting sweep 71 of 133 [ Tue, 4/30/2013 06:28:34.9644 PM ]
+starting sweep 72 of 133 [ Tue, 4/30/2013 06:28:34.9956 PM ]
+starting sweep 73 of 133 [ Tue, 4/30/2013 06:28:35.0112 PM ]
+starting sweep 74 of 133 [ Tue, 4/30/2013 06:28:35.0269 PM ]
+starting sweep 75 of 133 [ Tue, 4/30/2013 06:28:35.0581 PM ]
+starting sweep 76 of 133 [ Tue, 4/30/2013 06:28:35.0737 PM ]
+starting sweep 77 of 133 [ Tue, 4/30/2013 06:28:35.0894 PM ]
+starting sweep 78 of 133 [ Tue, 4/30/2013 06:28:35.6988 PM ]
+starting sweep 79 of 133 [ Tue, 4/30/2013 06:28:35.7300 PM ]
+starting sweep 80 of 133 [ Tue, 4/30/2013 06:28:35.7613 PM ]
+starting sweep 81 of 133 [ Tue, 4/30/2013 06:28:35.7769 PM ]
+starting sweep 82 of 133 [ Tue, 4/30/2013 06:28:35.7925 PM ]
+starting sweep 83 of 133 [ Tue, 4/30/2013 06:28:35.7925 PM ]
+starting sweep 84 of 133 [ Tue, 4/30/2013 06:28:35.8081 PM ]
+starting sweep 85 of 133 [ Tue, 4/30/2013 06:28:35.8238 PM ]
+starting sweep 86 of 133 [ Tue, 4/30/2013 06:28:35.8394 PM ]
+starting sweep 87 of 133 [ Tue, 4/30/2013 06:28:35.8550 PM ]
+starting sweep 88 of 133 [ Tue, 4/30/2013 06:28:35.8706 PM ]
+starting sweep 89 of 133 [ Tue, 4/30/2013 06:28:35.8863 PM ]
+starting sweep 90 of 133 [ Tue, 4/30/2013 06:28:35.8863 PM ]
+starting sweep 91 of 133 [ Tue, 4/30/2013 06:28:35.9019 PM ]
+starting sweep 92 of 133 [ Tue, 4/30/2013 06:28:35.9175 PM ]
+starting sweep 93 of 133 [ Tue, 4/30/2013 06:28:35.9331 PM ]
+starting sweep 94 of 133 [ Tue, 4/30/2013 06:28:35.9488 PM ]
+starting sweep 95 of 133 [ Tue, 4/30/2013 06:28:35.9644 PM ]
+starting sweep 96 of 133 [ Tue, 4/30/2013 06:28:35.9800 PM ]
+starting sweep 97 of 133 [ Tue, 4/30/2013 06:28:35.9800 PM ]
+starting sweep 98 of 133 [ Tue, 4/30/2013 06:28:36.0113 PM ]
+starting sweep 99 of 133 [ Tue, 4/30/2013 06:28:36.5425 PM ]
+starting sweep 100 of 133 [ Tue, 4/30/2013 06:28:37.1207 PM ]
+starting sweep 101 of 133 [ Tue, 4/30/2013 06:28:37.3550 PM ]
+starting sweep 102 of 133 [ Tue, 4/30/2013 06:28:37.3863 PM ]
+starting sweep 103 of 133 [ Tue, 4/30/2013 06:28:37.4175 PM ]
+starting sweep 104 of 133 [ Tue, 4/30/2013 06:28:37.4332 PM ]
+starting sweep 105 of 133 [ Tue, 4/30/2013 06:28:37.4488 PM ]
+starting sweep 106 of 133 [ Tue, 4/30/2013 06:28:37.4800 PM ]
+starting sweep 107 of 133 [ Tue, 4/30/2013 06:28:37.4957 PM ]
+starting sweep 108 of 133 [ Tue, 4/30/2013 06:28:37.5113 PM ]
+starting sweep 109 of 133 [ Tue, 4/30/2013 06:28:37.5269 PM ]
+starting sweep 110 of 133 [ Tue, 4/30/2013 06:28:37.5425 PM ]
+starting sweep 111 of 133 [ Tue, 4/30/2013 06:28:38.1988 PM ]
+starting sweep 112 of 133 [ Tue, 4/30/2013 06:28:38.2144 PM ]
+starting sweep 113 of 133 [ Tue, 4/30/2013 06:28:38.2300 PM ]
+starting sweep 114 of 133 [ Tue, 4/30/2013 06:28:38.2457 PM ]
+starting sweep 115 of 133 [ Tue, 4/30/2013 06:28:38.2613 PM ]
+starting sweep 116 of 133 [ Tue, 4/30/2013 06:28:38.2769 PM ]
+starting sweep 117 of 133 [ Tue, 4/30/2013 06:28:38.2926 PM ]
+starting sweep 118 of 133 [ Tue, 4/30/2013 06:28:38.3238 PM ]
+starting sweep 119 of 133 [ Tue, 4/30/2013 06:28:38.3394 PM ]
+starting sweep 120 of 133 [ Tue, 4/30/2013 06:28:38.3551 PM ]
+starting sweep 121 of 133 [ Tue, 4/30/2013 06:28:38.3707 PM ]
+starting sweep 122 of 133 [ Tue, 4/30/2013 06:28:38.3863 PM ]
+starting sweep 123 of 133 [ Tue, 4/30/2013 06:28:38.4019 PM ]
+starting sweep 124 of 133 [ Tue, 4/30/2013 06:28:38.4176 PM ]
+starting sweep 125 of 133 [ Tue, 4/30/2013 06:28:38.4332 PM ]
+starting sweep 126 of 133 [ Tue, 4/30/2013 06:28:38.4488 PM ]
+starting sweep 127 of 133 [ Tue, 4/30/2013 06:28:38.4644 PM ]
+starting sweep 128 of 133 [ Tue, 4/30/2013 06:28:38.4801 PM ]
+starting sweep 129 of 133 [ Tue, 4/30/2013 06:28:38.5269 PM ]
+starting sweep 130 of 133 [ Tue, 4/30/2013 06:28:39.2769 PM ]
+starting sweep 131 of 133 [ Tue, 4/30/2013 06:28:39.3082 PM ]
+starting sweep 132 of 133 [ Tue, 4/30/2013 06:28:39.5738 PM ]
+closing shutter 1 [ Tue, 4/30/2013 06:28:39.6051 PM ]
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Wed, 5/1/2013 07:43:17.4372 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Wed, 5/1/2013 07:43:20.0309 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD1_TiNiC_30apr2013 [ Wed, 5/1/2013 07:44:27.9528 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD2_WSi_4feb2013_Test1_duplicate [ Wed, 5/1/2013 07:52:50.3278 AM ]
+N = 20
+axis 1 accel_decel = 500000
+axis 1 conversion_factor = 6897.92
+axis 1 name = platen
+axis 1 steps_in_rev = 412500
+axis 2 accel_decel = 50000
+axis 2 conversion_factor = 600.521
+axis 2 name = rotary stage
+axis 2 steps_in_rev = 36000
+axis 3 accel_decel = 50000
+axis 3 conversion_factor = 262.322834646
+axis 3 name = linear stage
+axis 3 steps_in_rev = 53304
+cathode 1 deposition_rate = 1.5
+cathode 1 name = cathode 1
+chamber_name = R&D2
+current_N = 0
+current_bilayer = 0
+current_sweep_iterations = 0
+linear_stage_axis = 3
+mandrel_axis = 2
+platen_axis = 1
+run_name = RandD2_WSi_4feb2013_Test1_duplicate
+
+begin header for RandD1_TiNiC_1may2013 [ Wed, 5/1/2013 07:58:33.4528 AM ]
