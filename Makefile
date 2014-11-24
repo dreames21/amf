@@ -1,4 +1,4 @@
-VERSION = 6.0.5
+VERSION = 6.0.6
 
 DEPLOY_DIR = /home/ld/Dropbox/CfA/amf/
 

@@ -16,7 +16,7 @@ local_server_port = 8089
 
 dry_run_filename = None
 
-chambers = ['r_and_d1', 'r_and_d2']
+chambers = ['r_and_d1', 'r_and_d2', 'mlpc']
 
 runs = ['platen_mode', 'mandrel_mode', 'linear_mode']
 
