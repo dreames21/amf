@@ -35,7 +35,10 @@ class abstract_chamber(object):
     d = {}
     d['chamber_name'] = self.name
     d['platen_axis'] = self.platen_axis
-    d['mandrel_axis'] = self.mandrel_axis
+    try:
+      d['mandrel_axis'] = self.mandrel_axis
+    except:
+      pass
     try:
       d['linear_stage_axis'] = self.linear_stage_axis
     except:

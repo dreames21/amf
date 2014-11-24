@@ -5,7 +5,7 @@ class mlpc(abstract_chamber):
   def __init__(self):
     super(mlpc, self).__init__()
 
-    self.name = 'MLPC'
+    self.name = 'mlpc'
 
     platen = axis(1, 'platen')
     platen.idle_RPM = 3.0
@@ -13,6 +13,10 @@ class mlpc(abstract_chamber):
     platen.steps_in_rev = 250000
     platen.accel_decel = 500000
     self.platen_axis = platen.index
+
+    # 2.64 Volts DC @ 5.5 Amps
+    # 200 steps / rev on motor
+    # 10:1 reduction gearing on transmission
 
     self.axes = {
       '1': platen

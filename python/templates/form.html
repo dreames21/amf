@@ -41,12 +41,19 @@ $if message or errors:
         $if p['chamber'] in ['r_and_d1', 'R&D1']:
           <option selected value="r_and_d1">R&amp;D1</option>
           <option value="r_and_d2">R&amp;D2</option>
-        $else:
+          <option value="mlpc">MLPC</option>
+        $elif p['chamber'] in ['r_and_d2', 'R&D2']:
           <option value="r_and_d1">R&amp;D1</option>
           <option selected value="r_and_d2">R&amp;D2</option>
+          <option value="mlpc">MLPC</option>
+        $elif p['chamber'] in ['mlpc']:
+          <option value="r_and_d1">R&amp;D1</option>
+          <option value="r_and_d2">R&amp;D2</option>
+          <option selected value="mlpc">MLPC</option>
       $else:
         <option value="r_and_d1">R&amp;D1</option>
         <option value="r_and_d2">R&amp;D2</option>
+        <option value="mlpc">MLPC</option>
     </select><br/>
 
   <h3 style="display:inline;font-weight:normal;">Run mode</h3>:&nbsp;
