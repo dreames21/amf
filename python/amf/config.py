@@ -18,7 +18,7 @@ dry_run_filename = None
 
 chambers = ['r_and_d1', 'r_and_d2', 'mlpc']
 
-runs = ['platen_mode', 'mandrel_mode', 'linear_mode']
+runs = ['platen_mode', 'mandrel_mode', 'linear_mode', 'mlpc_mode']
 
 welcome = """Welcome to the Automated Multilayer Fabrication Instruction generator
 

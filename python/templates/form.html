@@ -64,18 +64,27 @@ $if message or errors:
           <option selected value="platen_mode">Platen Mode</option>
           <option value="mandrel_mode">Mandrel Mode</option>
           <option value="linear_mode">Linear Stage Mode</option>
+          <option value="mlpc_mode">MLPC Mode</option>
         $elif p['run_mode'] in ['mandrel_mode', 'Mandrel Mode']:
           <option value="platen_mode">Platen Mode</option>
           <option selected value="mandrel_mode">Mandrel Mode</option>
           <option value="linear_mode">Linear Stage Mode</option>
+          <option value="mlpc_mode">MLPC Mode</option>
         $elif p['run_mode'] in ['linear_mode', 'Linear Stage Mode']:
           <option value="platen_mode">Platen Mode</option>
           <option value="mandrel_mode">Mandrel Mode</option>
           <option selected value="linear_mode">Linear Stage Mode</option>
+          <option value="mlpc_mode">MLPC Mode</option>
+        $elif p['run_mode'] in ['mlpc_mode', 'MLPC Mode']:
+          <option value="platen_mode">Platen Mode</option>
+          <option value="mandrel_mode">Mandrel Mode</option>
+          <option value="linear_mode">Linear Stage Mode</option>
+          <option selected value="mlpc_mode">MLPC Mode</option>
       $else:
         <option value="platen_mode">Platen Mode</option>
         <option value="mandrel_mode">Mandrel Mode</option>
         <option value="linear_mode">Linear Stage Mode</option>
+        <option value="mlpc_mode">MLPC Mode</option>
     </select><br/>
 
   <h3 style="display:inline;font-weight:normal;">Number of layers (N)</h3>:&nbsp;

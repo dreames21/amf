@@ -3,3 +3,4 @@ import amf.runs.abstract_run
 import amf.runs.platen_mode
 import amf.runs.mandrel_mode
 import amf.runs.linear_mode
+import amf.runs.mlpc_mode

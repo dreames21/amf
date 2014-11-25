@@ -7,17 +7,25 @@ class mlpc(abstract_chamber):
 
     self.name = 'mlpc'
 
+    # specs on motor casing:
+    #   2.64 Volts DC @ 5.5 Amps
+    #   200 steps / rev on motor
+
+    # 7:1 reduction gearing on transmission
+    # 125000 steps / motor rev with micro stepping
+    # ...means 875000 steps for one revolution of platen
+
     platen = axis(1, 'platen')
-    platen.idle_RPM = 3.0
-    platen.conversion_factor = 4171.87
-    platen.steps_in_rev = 250000
+    platen.idle_RPM = 2.0
+
+    platen.conversion_factor = 14612.5
+    platen.steps_in_rev = 875000
     platen.accel_decel = 500000
+
     self.platen_axis = platen.index
-
-    # 2.64 Volts DC @ 5.5 Amps
-    # 200 steps / rev on motor
-    # 10:1 reduction gearing on transmission
-
+    
+    self.mandrel_axis = 2
+    
     self.axes = {
       '1': platen
     }
