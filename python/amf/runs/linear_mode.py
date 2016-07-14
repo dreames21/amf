@@ -14,7 +14,7 @@ class linear_mode(abstract_run):
       self.stage_sweep,
       self.close_shutter,
       self.stage_rezero,
-      self.move_180
+      self.slave_move_180  #slave is rotary stage
     ]
 
   def thickness_func(self, thickness, target_velocity, depositon_rate, pass_length):
