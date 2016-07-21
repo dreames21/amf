@@ -6,7 +6,7 @@ class linear_mode(abstract_run):
   def __init__(self):
     super(abstract_run, self).__init__()
 
-    self.name = 'Linear Mode'
+    self.name = 'Linear-Platen Mode'
 
     self.control_sequence = [
       self.stage_offset_back,
@@ -14,8 +14,11 @@ class linear_mode(abstract_run):
       self.stage_sweep,
       self.close_shutter,
       self.stage_rezero,
-      self.slave_move_180  #slave is rotary stage
+      self.slave_move_180  #slave is platen
     ]
+
+  def post_init(self):
+      self.chamber.slave_axis = self.chamber.platen
 
   def thickness_func(self, thickness, target_velocity, depositon_rate, pass_length):
 
